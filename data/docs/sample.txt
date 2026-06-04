@@ -1,0 +1,8 @@
+This is a sample document for DocSense.
+It contains a few sentences about finances and notes.
+
+March 2025 transactions:
+- Paid $120.00 to Grocery Store on 2025-03-05
+- Received $200.00 from Employer on 2025-03-01
+
+End of sample.

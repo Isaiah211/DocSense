@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+python-multipart
+pdfminer.six
+python-docx
+pytesseract
+spacy
+requests
+numpy
+scikit-learn
+tensorflow
+pytest
+pytest-mock
