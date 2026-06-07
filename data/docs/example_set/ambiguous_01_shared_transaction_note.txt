@@ -1,0 +1,9 @@
+This is a sample document for DocSense.
+It contains a few sentences about finances and notes.
+
+March 2025 transactions:
+- Paid $18.00 for coffee on 2025-03-05
+- Received $18.00 from a refund on 2025-03-05
+
+End of sample.
+This note mentions transactions, but the same wording could describe a ledger, a receipt, or a meeting summary.

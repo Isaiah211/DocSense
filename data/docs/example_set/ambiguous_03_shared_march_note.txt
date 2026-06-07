@@ -1,0 +1,9 @@
+This is a sample document for DocSense.
+It contains a few sentences about finances and notes.
+
+March 2025 transactions:
+- Paid $61.00 for groceries on 2025-03-09
+- Received $61.00 from a cashback offer on 2025-03-09
+
+End of sample.
+March 2025 could mean the month in a finance log, but it could also be a deadline in a calendar note.

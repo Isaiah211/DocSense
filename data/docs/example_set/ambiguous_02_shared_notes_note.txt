@@ -1,0 +1,9 @@
+This is a sample document for DocSense.
+It contains a few sentences about finances and notes.
+
+March 2025 transactions:
+- Paid $27.50 for supplies on 2025-03-08
+- Received $27.50 from a reimbursement on 2025-03-08
+
+End of sample.
+These notes could refer to a bank memo, a personal reminder, or a project status update.

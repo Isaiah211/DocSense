@@ -1,0 +1,9 @@
+This is a sample document for DocSense.
+It contains a few sentences about finances and notes.
+
+March 2025 transactions:
+- Paid $950.00 for Rent on 2025-03-03
+- Received $200.00 from Employer on 2025-03-01
+
+End of sample.
+Reminder note: keep the rent receipt with the monthly budget.

@@ -1,0 +1,9 @@
+This is a sample document for DocSense.
+It contains a few sentences about finances and notes.
+
+March 2025 transactions:
+- Paid $120.00 for a work trip on 2025-03-04
+- Received $120.00 from Travel Reimbursement on 2025-03-06
+
+End of sample.
+Receipt note: the reimbursement should cover the travel expense.
