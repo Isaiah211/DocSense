@@ -1,0 +1,1 @@
+Well, this is an algorithm for backpropagation. Here, you’re trying to maximise a reward function. And the reward function is just the probability of the action predicted by a human expert; you want to increase this probability.

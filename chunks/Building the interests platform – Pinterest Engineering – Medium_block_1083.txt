@@ -1,0 +1,2 @@
+These ontologies were primarily used to validate proper nouns as opposed to common phrases, as all available ontologies represented only a subset of possible interests. This is especially true for Pinterest, where Pinners themselves curate special interests like “mid century modern style.”
+Finally, we also maintain an internal blacklist to filter abusive words and x-rated terms as well as Pinterest specific stop words, like “love”. This filtering is especially important to interest terms which might be recommended to millions of users.

@@ -1,0 +1,1 @@
+With this coarser structure of preferences we were able to resolve some of the noise in our data as well as the potentially conflicting labels for the same trip. We used the mean acceptance rate for each trip characteristic as a proxy for preference. Still our data-set was relatively sparse.

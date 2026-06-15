@@ -1,0 +1,1 @@
+The output will be the “echo” of the input, shifted echo_step steps to the right. Notice the reshaping of the data into a matrix with batch_size rows. Neural networks are trained by approximating the gradient of loss function with respect to the neuron-weights, by looking at only a small subset of the data, also known as a mini-batch.

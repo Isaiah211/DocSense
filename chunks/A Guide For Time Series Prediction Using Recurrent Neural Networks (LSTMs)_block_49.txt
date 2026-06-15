@@ -1,0 +1,1 @@
+Today, we’d like to discuss time series prediction with a long short-term memory model (LSTMs). We asked a data scientist, Neelabh Pant, to tell you about his experience of forecasting exchange rates using recurrent neural networks. As an Indian guy living in the US, I have a constant flow of money from home to me and vice versa.

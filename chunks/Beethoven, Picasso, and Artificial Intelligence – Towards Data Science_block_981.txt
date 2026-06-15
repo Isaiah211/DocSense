@@ -1,0 +1,1 @@
+Shouldn’t we want to train our machines in the most beneficial way possible. Even developing software like Sketch-RNN to use the ImageNet dataset used in Deep Dream could be huge in educating artists on techniques for drawing complex, realistic images. Complex datasets could very well be our answer to more efficient training.

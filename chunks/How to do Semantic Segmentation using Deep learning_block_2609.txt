@@ -1,0 +1,1 @@
+In particular, we apply a 1x1 convolution to the encoder layers, and then add decoder layers to the network with skip connections and upsampling. The next step is to optimize our neural network, aka building TensorFlow loss functions and optimizer operations. Here we use cross entropy as our loss function and Adam as our optimization algorithm.

@@ -1,0 +1,4 @@
+That’s why we prepare all our dataset without TensorFlow and store it in .npz format similar to this:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/storing_in_npz_format.py#L1-L10
+This step helps us avoid unnecessary data processing load on CPU and memory during model training. Now we are ready to train the model. First, let’s load preprocessed data from disk:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/load_from_npz.py#L1-L7.

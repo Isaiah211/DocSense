@@ -1,0 +1,1 @@
+Our feedforward and backpropagation algorithm trained the Neural Network successfully and the predictions converged on the true values. Note that there’s a slight difference between the predictions and the actual values. This is desirable, as it prevents overfitting and allows the Neural Network to generalize better to unseen data.

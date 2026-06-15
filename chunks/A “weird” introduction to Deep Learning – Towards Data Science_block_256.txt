@@ -1,0 +1,1 @@
+Actually no. If we find a way of representing this data in a different way, in a way we can draw a straight line to separate the types of data. This is somethinkg that math taught us hundreds of years ago.

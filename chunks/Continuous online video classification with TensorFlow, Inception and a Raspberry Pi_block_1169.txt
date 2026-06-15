@@ -1,0 +1,1 @@
+Continuous classification allows us to solve all sorts of interesting problems in real-time, like understanding what’s in front of a car for autonomous driving applications to understanding what’s streaming on a TV. We’ll attempt to do the latter using only open source software and uber-cheap hardware. Specifically, TensorFlow on a Raspberry Pi with a PiCamera.

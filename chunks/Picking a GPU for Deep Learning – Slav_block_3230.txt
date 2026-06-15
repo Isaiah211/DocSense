@@ -1,0 +1,1 @@
+Amusingly, 3D computer games rely on these same operations to render that beautiful landscape you see in Rise of the Tomb Raider. Thus, GPUs were developed to handle lots of parallel computations using thousands of cores. Also, they have a large memory bandwidth to deal with the data for these computations.

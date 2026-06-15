@@ -1,0 +1,1 @@
+3. Pins should be arranged in the order of best-first rather than newest-first. For some sources, newer Pins are intuitively better, while for others, newness is less important.

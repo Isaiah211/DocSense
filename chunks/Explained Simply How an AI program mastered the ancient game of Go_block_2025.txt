@@ -1,0 +1,1 @@
+If you’re serious, I’d be glad to work with you. Please leave a comment and I’ll get in touch with you. So, the first step is in training our policy NN (Lusha), to predict which moves are likely to be played by an expert.

@@ -1,0 +1,1 @@
+Now we are looking for slightly more complex shapes from the edges we found earlier. This time our “stride” is 2. That means instead of moving 1 pixel at a time, we take steps of 2.

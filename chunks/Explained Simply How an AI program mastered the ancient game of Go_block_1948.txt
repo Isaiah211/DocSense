@@ -1,0 +1,1 @@
+Instead, surprisingly, I use some examples from basic Chess to explain the algorithms. You just have to know what a 2-player board game is, in which each player takes turns and there is one winner at the end. Beyond that you don’t need to know any physics or advanced math or anything.

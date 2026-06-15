@@ -1,0 +1,1 @@
+It can be difficult to keep track of which is best to use at which time, so let’s review it. Concat allows the user to append one or more dataframes to each other either below or next to it (depending on how you define the axis). Merge combines multiple dataframes on specific, common columns that serve as the primary key.

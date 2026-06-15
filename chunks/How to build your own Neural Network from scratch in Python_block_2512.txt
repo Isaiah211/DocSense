@@ -1,0 +1,1 @@
+This is desirable, as it prevents overfitting and allows the Neural Network to generalize better to unseen data. Fortunately for us, our journey isn’t over. There’s still much to learn about Neural Networks and Deep Learning.

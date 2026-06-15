@@ -1,0 +1,1 @@
+Q(s,a) represents the value function, and u(s,a) is a stored probability for that position. I’ll explain. Remember that the policy network uses supervised learning to predict expert moves?

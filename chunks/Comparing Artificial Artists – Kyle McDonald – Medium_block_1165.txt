@@ -1,0 +1,1 @@
+His follow the original paper very closely, except for using unequal weights when balancing different layers used for style reconstruction. All the following examples were run for 100 iterations with the default ratio of 1:10e0. Justin switched his implementation to use L-BFGS and equally weighted layers, and to my eyes this matches the results in the original paper.

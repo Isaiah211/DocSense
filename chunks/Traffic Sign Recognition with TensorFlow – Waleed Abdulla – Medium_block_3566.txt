@@ -1,0 +1,1 @@
+Notice that the code above doesn’t execute any of the ops yet. It’s just building the graph and describing its inputs. The variables we defined above, such as init, loss, predicted_labels don’t contain numerical values.

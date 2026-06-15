@@ -1,0 +1,2 @@
+Now, let’s evaluate each of the methods we outlined above for adding an RNN to our CNN. Intuitively, if one frame is an ad and the next is a football game, it’s essentially impossible that the next will be an ad again. (I wish commercials were only 1/10th of a second long!)
+This is why it could be interesting to examine the temporal dependencies of the probabilities of each label before we look at the more raw output of the pool layer.

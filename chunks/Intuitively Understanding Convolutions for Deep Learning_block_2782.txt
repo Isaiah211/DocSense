@@ -1,0 +1,1 @@
+There’s an entire branch of deep learning research focused on making neural network models interpretable. One of the most powerful tools to come out of that is Feature Visualization using optimization[3]. The idea at core is simple: optimize a image (usually initialized with random noise) to activate a filter as strongly as possible.

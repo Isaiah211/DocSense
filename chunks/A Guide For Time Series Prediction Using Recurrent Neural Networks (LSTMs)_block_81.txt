@@ -1,0 +1,1 @@
+Many of the newer developed economies suffered far less impact, particularly China and India, whose economies grew substantially during this period. Now, to train the machine we need to divide the dataset into test and training sets. It is very important when you do time series to split train and test with respect to a certain date.

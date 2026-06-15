@@ -1,0 +1,2 @@
+They’ll be right sometimes and not right other times. There’s noise in that, and some of the noise is spam. One also has to have careful regard for privacy issues.”
+By collecting enormous amounts of data, Google hopes to create a powerful database that eventually will understand the relationship between words (for example, ‘a dog is an animal’ and ‘a dog has four legs’).

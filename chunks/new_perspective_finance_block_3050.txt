@@ -1,0 +1,4 @@
+As a special case, price, the most important
+(aggregated) information in markets, is free. But if information is totally free, firms’ incentives to invest in IT will disappear because of the free-riding
+problem. So we argue that information asymmetry is not a market imperfection, but a competitive
+advantage in production.

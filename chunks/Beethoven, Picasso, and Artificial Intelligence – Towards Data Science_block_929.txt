@@ -1,0 +1,1 @@
+On the next page is an image showing the difference between a regular GAN and each step of the StackGAN. It is through advancements like these that have been made in recent years that we can continue to push the boundaries of what AI can do. We have just seen three ways to improve upon a concept that was already quite complex and innovative.

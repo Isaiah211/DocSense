@@ -1,0 +1,1 @@
+Best results are achieved if you rescale your data to have the same range, such as between 0 and 1. If you discover that KNN gives good results on your dataset try using LVQ to reduce the memory requirements of storing the entire training dataset. Support Vector Machines are perhaps one of the most popular and talked about machine learning algorithms.

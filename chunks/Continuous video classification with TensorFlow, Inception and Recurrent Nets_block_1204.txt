@@ -1,0 +1,3 @@
+Andrej Karpathy describes this eloquently in his popular blog post, “The Unreasonable Effectiveness of Recurrent Neural Networks”:
+We’re using a special type of RNN here, called an LSTM, that allows our network to learn long-term dependencies. Christopher Olah writes in his outstanding essay about LSTMs: “Almost all exciting results based on recurrent neural networks are achieved with [LSTMs].”
+Sold! Let’s get to it.

@@ -1,0 +1,1 @@
+Some sentences will produce multiple predictions (above a threshold). You will need to establish the right threshold level for your application. Not all text classification scenarios are the same: some predictive situations require more confidence than others.

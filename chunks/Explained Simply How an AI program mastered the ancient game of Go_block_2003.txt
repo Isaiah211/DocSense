@@ -1,0 +1,1 @@
+She is your policy function, p(a\s). For a given state s, she can give you probabilities for all the possible moves that an expert would make. Wow — you can take Lusha’s help to guide you in how to select a few sensible moves, and Foma will tell you the likelihood of winning from each of those moves.

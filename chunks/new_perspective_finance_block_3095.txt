@@ -1,0 +1,6 @@
+To
+implement such a system, another problem to be solved is the “trading rule” for this automated system
+(the algorithm). A theoretical breakthrough in understanding the dealers’ role in providing liquidity may lead to the
+development of automated trading systems with an embedded “electronic dealer”. However, it is also
+possible that such systems emerge in practice, introducing new challenges and opportunities for the
+study of liquidity issues in finance theory.

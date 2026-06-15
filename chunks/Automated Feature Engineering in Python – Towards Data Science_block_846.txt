@@ -1,0 +1,1 @@
+After adding entities and formalizing relationships, our entityset is complete and we are ready to make features. Before we can quite get to deep feature synthesis, we need to understand feature primitives. We already know what these are, but we have just been calling them by different names!

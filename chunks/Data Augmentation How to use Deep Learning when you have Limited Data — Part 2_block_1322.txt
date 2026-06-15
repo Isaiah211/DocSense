@@ -1,0 +1,1 @@
+You also recall someone mentioning having a large dataset is crucial for good performance. Feeling disappointed, you wonder; can my “state-of-the-art” neural network perform well with the meagre amount of data I have? The answer is, yes!

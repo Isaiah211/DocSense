@@ -1,0 +1,1 @@
+Imagine we have an image of size 128x128 and a feature map of size 25x25. Let’s imagine we want features the region corresponding to the top-left 15x15 pixels in the original image (see above). How might we select these pixels from the feature map?

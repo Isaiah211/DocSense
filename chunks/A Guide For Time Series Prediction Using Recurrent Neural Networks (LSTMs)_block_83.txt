@@ -1,0 +1,1 @@
+In our experiment, we will define a date, say January 1, 2010, as our split date. The training data is the data between January 2, 1980 and December 31, 2009, which are about 11,000 training data points. The test dataset is between January 1, 2010 and August 10, 2017, which are about 2,700 points.

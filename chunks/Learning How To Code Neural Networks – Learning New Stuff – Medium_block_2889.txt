@@ -1,0 +1,1 @@
+You don’t need to perform this entire exercise yourself, as it requires some knowledge about and cost functions and gradient descent, which you might not have at this point. But make sure you understand how the Sigmoid function works. Understanding how a neural network works from input to output isn’t that difficult to understand, at least conceptually.

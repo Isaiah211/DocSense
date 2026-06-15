@@ -1,0 +1,1 @@
+The key outcome: closing down the gap with humans in accuracy of the translation by 55–85% (estimated by people on a 6-point scale). It is difficult to reproduce good results with this model without the huge dataset that Google has. You probably heard the silly news that Facebook turned off its chatbot, which went out of control and made up its own language.

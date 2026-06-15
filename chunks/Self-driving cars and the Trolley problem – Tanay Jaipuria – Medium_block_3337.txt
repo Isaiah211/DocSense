@@ -1,0 +1,3 @@
+If self driving cars, were to follow them, we’re in a pretty good spot right? (Let’s leave aside the argument that self-driving cars lead to loss of jobs of taxi drivers and truck drivers and so should not exist per the 0th/1st law)
+However, there’s one problem which the laws of robotics don’t quite address. It’s a famous thought experiment in philosophy called the Trolley Problem and goes as follows:
+It’s not hard to see how a similar situation would come up in a world with self-driving cars, with the car having to make a similar decision.

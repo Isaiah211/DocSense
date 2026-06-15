@@ -1,0 +1,1 @@
+It typically takes a human annotator 12x more time to segment an image than draw bounding boxes; this is more anecdotal and lacks a source). Also, after detecting objects, it is separately possible to segment the object from the bounding box. Object detection is of significant practical importance and has been used across a variety of industries.

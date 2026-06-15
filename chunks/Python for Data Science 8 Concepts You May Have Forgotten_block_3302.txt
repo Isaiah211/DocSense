@@ -1,0 +1,1 @@
+I find myself doing this constantly. While it’s not unnatural to look things up on StackOverflow or other resources, it does slow you down a good bit and raise questions as to your complete understanding of the language. We live in a world where there is a seemingly infinite amount of accessible, free resources looming just one search away at all times.

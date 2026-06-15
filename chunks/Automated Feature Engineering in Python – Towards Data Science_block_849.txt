@@ -1,0 +1,4 @@
+We pass in the entityset, the target_entity , which is the table where we want to add the features, the selected trans_primitives (transformations), and agg_primitives (aggregations):
+The result is a dataframe of new features for each client (because we made clients the target_entity). For example, we have the month each client joined which is a transformation feature primitive:
+We also have a number of aggregation primitives such as the average payment amounts for each client:
+Even though we specified only a few feature primitives, featuretools created many new features by combining and stacking these primitives. The complete dataframe has 793 columns of new features!

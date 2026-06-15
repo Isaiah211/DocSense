@@ -1,0 +1,1 @@
+Finally, I will give a link to the recently published algorithms for learning RL from OpenAI. Now you can use more advanced solutions than the standard DQN. In July 2017, Google reported that it took advantage of DeepMind’s development in machine learning to reduce the energy costs of its data center.

@@ -1,0 +1,1 @@
+This means it’s possible to create neural networks which will behave like VERY accurate policy and value functions. The rest is pretty self explanatory. Here we discuss how Foma and Lusha were trained.

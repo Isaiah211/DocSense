@@ -1,0 +1,1 @@
+Let us now try using a recurrent neural network and see how well it does. The recurrent model we have used is a one layer sequential model. We used 6 LSTM nodes in the layer to which we gave input of shape (1,1), which is one input given to the network with one value.

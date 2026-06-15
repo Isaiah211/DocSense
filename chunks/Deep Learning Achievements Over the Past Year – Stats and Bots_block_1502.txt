@@ -1,0 +1,1 @@
+As always, the human must be careful and think of what he is teaching the machine. For example, the evaluator decided that the algorithm really wanted to take the object, but in fact, he just simulated this action. There is another study from DeepMind.

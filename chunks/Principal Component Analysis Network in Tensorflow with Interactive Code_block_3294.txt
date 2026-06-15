@@ -1,0 +1,2 @@
+Top Left Image → Original InputTop Right Image → After First LayerBottom Left Image → After Second LayerBottom Right Image → After Fourth Layer
+One obvious pattern we can observe is the change of brightens. For example if the top left pixel was white in the second layer this pixel will change to black in the next layer. Currently, I am not 100% sure on why this is happening, but with more study I hope to know exactly why.

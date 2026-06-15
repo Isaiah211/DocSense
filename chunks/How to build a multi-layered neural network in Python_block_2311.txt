@@ -1,0 +1,1 @@
+The process of adding more layers to a neural network, so it can think about combinations, is called “deep learning”. Ok, are we ready for the Python code? First I’ll give you the code and then I’ll explain further.

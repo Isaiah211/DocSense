@@ -1,0 +1,1 @@
+Traditionally, a human is behind the analysis of images being streamed from a CCTV camera directly to the command centre. As you may imagine, there are several problems with this approach such as human latency or error in detecting an event and lack of sufficient views via standard-static CCTV cameras. Below are some of the commonly occurring challenges when using aerial imagery.

@@ -1,0 +1,1 @@
+Sketch-RNN is a recurrent neural network model developed by Google. The goal of Sketch-RNN is to help machines learn to create art in a manner similar to the way a human may learn. It has been used in a Google AI Experiment to be able to sketch alongside a user.

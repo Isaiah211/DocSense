@@ -1,0 +1,1 @@
+We’ll see how we can deal with this issue in the next section. Below are examples of square images rotated at right angles. You can perform rotations by using any of the following commands, from your favorite packages.

@@ -1,0 +1,1 @@
+Given some numbers, you just need one set of computations, and then you get an output. If your ANN wasn’t calculating the correct value, you just added more neurons to the single hidden layer. Eventually, we learned that in doing this we were really just creating a linear mapping from each input to the output.

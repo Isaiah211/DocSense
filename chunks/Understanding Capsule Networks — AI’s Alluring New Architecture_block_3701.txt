@@ -1,0 +1,2 @@
+We then slide the window across all the pixels in the image, multiplying each pixel by a set of weights and then adding up all the values that are in that window. This window is a matrix of weights, called a “kernel.”
+We only care about 2 pixels, but when we wrap the window around them it will encapsulate the pixel between them. Can you think of a set of weights that we can multiply these pixels by so that their sum adds up to the value we are looking for?

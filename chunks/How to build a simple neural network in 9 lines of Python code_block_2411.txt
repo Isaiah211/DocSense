@@ -1,0 +1,1 @@
+But first, what is a neural network? The human brain consists of 100 billion cells called neurons, connected together by synapses. If sufficient synaptic inputs to a neuron fire, that neuron will also fire.

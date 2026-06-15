@@ -1,0 +1,1 @@
+It grabs the texture/ambiance/appearance of one image (aka, the “style”) and mixes it with the content of another. Using this powerful technique, we produce an effect similar to that of our conditional GAN (In fact, this method was introduced before cGANs were invented!). The only downside of this method is that, the output tends to looks more artistic rather than realistic.

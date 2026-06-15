@@ -1,0 +1,1 @@
+Players take it in turns to enter a piece of their colour in the top of any available column. The first player to get four of their colour in a row — each vertically, horizontally or diagonally, wins. If the entire grid is filled without a four-in-a-row being created, the game is drawn.

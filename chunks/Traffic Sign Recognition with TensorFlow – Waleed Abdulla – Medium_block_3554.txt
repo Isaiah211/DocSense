@@ -1,0 +1,2 @@
+So I flatten the images first. I’m using the ReLU activation function here:
+It simply converts all negative values to zeros. It’s been shown to work well in classification tasks and trains faster than sigmoid or tanh.

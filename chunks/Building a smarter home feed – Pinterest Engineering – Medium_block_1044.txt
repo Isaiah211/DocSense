@@ -1,0 +1,2 @@
+Content is sourced from inputs such as people and boards the user follows, interests, and recommendations. To ensure we maintain fast, reliable and personalized home feeds, we built the smart feed with the following design values in mind:
+1. Different sources of Pins should be mixed together at different rates.

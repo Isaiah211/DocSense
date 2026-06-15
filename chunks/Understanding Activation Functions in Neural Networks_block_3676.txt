@@ -1,0 +1,1 @@
+This is leaky ReLu. There are other variations too. The main idea is to let the gradient be non zero and recover during training eventually.

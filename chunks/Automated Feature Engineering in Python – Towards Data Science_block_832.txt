@@ -1,0 +1,1 @@
+The tables are related (through the client_id and the loan_id variables) and we could use a series of transformations and aggregations to do this process by hand. However, we will shortly see that we can instead use featuretools to automate the process. The first two concepts of featuretools are entities and entitysets.

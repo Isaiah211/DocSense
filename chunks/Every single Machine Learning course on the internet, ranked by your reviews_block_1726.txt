@@ -1,0 +1,2 @@
+Evaluation is automatic and is done via multiple choice quizzes that follow each lesson and programming assignments. The assignments (there are eight of them) can be completed in MATLAB or Octave, which is an open-source version of MATLAB. Ng explains his language choice:
+Though Python and R are likely more compelling choices in 2017 with the increased popularity of those languages, reviewers note that that shouldn’t stop you from taking the course.

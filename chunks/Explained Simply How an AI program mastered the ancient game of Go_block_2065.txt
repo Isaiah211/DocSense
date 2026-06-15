@@ -1,0 +1,1 @@
+The other option is to simply roll out into the future using your current policy (Lusha) and look at the final outcome in this roll out. Obviously, the real game would rarely go by your plans. But DeepMind compared how both of these options do.

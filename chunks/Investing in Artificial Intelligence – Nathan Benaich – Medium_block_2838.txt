@@ -1,0 +1,2 @@
+In a world of continuous, non-invasive monitoring of physiology and lifestyle, we could predict disease onset and outcome, understand which condition a patient likely suffers from and how they’ll respond to various therapeutic modalities. There’s loads of applications for artificial intelligence here: intelligence sensors, signal processing, anomaly detection, multivariate classifiers, deep learning on molecular interactions... Some companies are already hacking away at this problem:
+A point worth noting is that the UK has a slight leg up on the data access front.

@@ -1,0 +1,1 @@
+CPU: That data might have to be decoded by the CPU (e.g. jpegs). Fortunately, any mid-range modern processor will do just fine.

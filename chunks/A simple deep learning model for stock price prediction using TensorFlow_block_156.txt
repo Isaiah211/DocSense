@@ -1,0 +1,1 @@
+However, in most cases, a unified initialization is sufficient. After having defined the placeholders, variables, initializers, cost functions and optimizers of the network, the model needs to be trained. Usually, this is done by minibatch training.

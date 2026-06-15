@@ -1,0 +1,1 @@
+Okay, so we don’t quite have the hardware yet to do 10fps, but this still feels like magic, so let’s see how we do. Flipping on Sunday Night Football and pointing our camera at the TV shows a remarkable job at classifying each moment as football or ad, once every few seconds. For the vast majority of the broadcast, we see our prediction come out true to life.

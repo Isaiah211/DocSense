@@ -1,0 +1,1 @@
+We can extend this formulation to allow for the model to make use of the pass values of the input and the output. It is known as the one to many problem. The one to many problem starts like the one to one problem where we have an input to the model and the model generates one output.

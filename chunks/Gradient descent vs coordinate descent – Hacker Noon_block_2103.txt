@@ -1,0 +1,1 @@
+I am currently working on variable selection and lasso-based solutions in genetics. What lasso does is basically minimizing the loss function and an penalty in order to set to zero some regression coefficients and select only those covariates that are really associated with the response. Pheew, the shortest summary of lasso ever!

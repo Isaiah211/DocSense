@@ -1,0 +1,1 @@
+The nearline computation is done in response to user events so that the system can be more responsive between requests. This opens the door for potentially more complex processing to be done per event. An example is to update recommendations to reflect that a movie has been watched immediately after a member begins to watch it.

@@ -1,0 +1,2 @@
+f(z) is zero when z is less than zero and f(z) is equal to z when z is above or equal to zero. Range: [ 0 to infinity)
+The function and its derivative both are monotonic. But the issue is that all the negative values become zero immediately which decreases the ability of the model to fit or train from the data properly.

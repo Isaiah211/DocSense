@@ -1,0 +1,1 @@
+Let R,G,B are pixel values, then normalized pixel g(x,y) is calculated as,divide the individual color component by sum of all color components and multiply by 255. Division results into floating point number in range of 0.0 to 1.0 and as this is 8 bit image result is scaled up by 255. This function accepts 8 bit RGB image matrix of size 800x600 and returns normalized RGB image.

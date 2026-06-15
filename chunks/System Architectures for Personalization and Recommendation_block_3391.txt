@@ -1,0 +1,1 @@
+Second, it should support different repositories (not only HDFS, but also S3 or Cassandra, for instance). Finally, it should transparently handle errors, allow for monitoring, and alerting. At Netflix we use an internal tool named Hermes that provides all of these capabilities and integrates them into a coherent publish-subscribe framework.

@@ -1,0 +1,2 @@
+For example: ((20 — 9) + 1) / 2 = 6
+We will convolve over the outputs another 256 times. So we will end up with a stack of 256 6x6 outputs. But this time we aren’t satisfied with just some lousy plain old numbers.

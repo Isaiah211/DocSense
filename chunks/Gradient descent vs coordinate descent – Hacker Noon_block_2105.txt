@@ -1,0 +1,1 @@
+Now, my question is how good or bad is following the negative gradient with respect to a coordinate descent approach that loops across all dimensions and minimizes along each? There is no better way to try this with real code and start measuring. Hence, I wrote some code that implements both gradient descent and coordinate descent.

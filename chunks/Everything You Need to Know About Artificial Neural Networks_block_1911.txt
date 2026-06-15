@@ -1,0 +1,1 @@
+Lastly, we have the output layer, which is where the finished computations of the network are placed for us to use. Layers themselves are just sets of neurons. In the early days of multilayer perceptrons, we originally thought that having just one input layer, one hidden layer, and one output layer was sufficient.

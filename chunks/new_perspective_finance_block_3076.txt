@@ -1,0 +1,3 @@
+Though technologies are getting fancier, life for the traders is not made easier. Actually, it is very costly to switch from one trading system to another due to the lack of
+standardisation among different systems, which causes inefficiency. ECNs such as Instinet have also blurred the distinction between brokers, market makers, and even
+markets.

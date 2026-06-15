@@ -1,0 +1,1 @@
+In doing so, we found that the performance degradation was related to the NVreg_CheckPCIConfigSpace parameter of the kernel. According to RedHat, setting this parameter to 0 disables very slow accesses to the PCI configuration space. In a virtualized environment such as the AWS cloud, these accesses cause a trap in the hypervisor that results in even slower access.

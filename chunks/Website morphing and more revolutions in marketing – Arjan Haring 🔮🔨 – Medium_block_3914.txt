@@ -1,0 +1,1 @@
+Marketing has used quite successfully small-sample laboratory experiments and assumption-laden quantitative models. However, the advent of big data and web-based data collection has made it possible to do experiments and quasi-experiments on a large scale to better establish causality and to better develop theories that are externally valid. Causality also means replication.

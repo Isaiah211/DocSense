@@ -1,0 +1,1 @@
+Another important change I see is by using the Sliding Time Window method, which comes from the field of stream data management system. This approach comes from the idea that only the most recent data are important. One can show the model data from a year and try to make a prediction for the first day of the next year.

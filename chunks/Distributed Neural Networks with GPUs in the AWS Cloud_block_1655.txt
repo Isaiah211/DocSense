@@ -1,0 +1,1 @@
+For an application such as this, we typically need to train not one, but multiple models either from different datasets or configurations (e.g. different international regions). For each configuration we need to perform hyperparameter tuning, where each combination of parameters requires training a separate Neural Network.

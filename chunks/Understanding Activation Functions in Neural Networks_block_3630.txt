@@ -1,0 +1,1 @@
+If there is an error in prediction, the changes made by back propagation is constant and not depending on the change in input delta(x) !!! This is not that good! ( not always, but bear with me ).

@@ -1,0 +1,1 @@
+Even though machine learning is a science, it comes with a margin of error. It is important to consider how a user’s experience might be impacted by this margin of error. For example, when an autonomous car fails to recognize its surroundings people can get hurt.

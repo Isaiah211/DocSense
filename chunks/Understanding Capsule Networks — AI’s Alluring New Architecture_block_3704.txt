@@ -1,0 +1,2 @@
+Specifically, the horizontal ones. In order to highlight those, we would need another kernel that looks at pixels above and below. Like this:
+Also, both of these kernels won’t work well with edges of other angles or edges that are blurred.

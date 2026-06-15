@@ -1,0 +1,2 @@
+In case you’re wondering, I set the loop to 201 so that the i % 10 condition is satisfied in the last round and prints the last loss value. The output should look something like this:
+Now we have a trained model in memory in the Session object. To use it, we call session.run() just like in the training code.

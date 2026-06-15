@@ -1,0 +1,1 @@
+This gate returns a value between 0 and 1. The value of the input gate is multiplied with the output of the candidate layer. This layer applies a hyperbolic tangent to the mix of input and previous output, returning a candidate vector to be added to the internal state.

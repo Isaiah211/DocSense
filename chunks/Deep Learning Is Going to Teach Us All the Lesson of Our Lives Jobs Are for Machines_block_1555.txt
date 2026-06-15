@@ -1,0 +1,1 @@
+Instead of describing “chairness” to a computer, we instead just plug it into the Internet and feed it millions of pictures of chairs. It can then have a general idea of “chairness.” Next we test it with even more images. Where it’s wrong, we correct it, which further improves its “chairness” detection.

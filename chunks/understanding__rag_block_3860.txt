@@ -1,0 +1,2 @@
+RAG is a more cost-effective approach to introducing new data to the LLM. It makes generative artificial intelligence (generative AI) technology more broadly accessible and usable. Current information
+Even if the original training data sources for an LLM are suitable for your needs, it is challenging to maintain relevancy.

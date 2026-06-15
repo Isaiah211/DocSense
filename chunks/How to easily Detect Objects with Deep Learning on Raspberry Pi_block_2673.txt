@@ -1,0 +1,3 @@
+Which makes it much easier to use. Since devices like the Raspberry Pi and mobile phones were not built to run complex compute heavy tasks, you can outsource the workload to our cloud which does all of the compute for you
+Get your free API Key from http://app.nanonets.com/user/api_key
+Collect the images of object you want to detect. You can annotate them either using our web UI (https://app.nanonets.com/ObjectAnnotation/?appId=YOUR_MODEL_ID) or use open source tool like labelImg.

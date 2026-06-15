@@ -1,0 +1,2 @@
+Naturally, the right values for the weights and biases determines the strength of the predictions. The process of fine-tuning the weights and biases from the input data is known as training the Neural Network. Each iteration of the training process consists of the following steps:
+The sequential graph below illustrates the process.

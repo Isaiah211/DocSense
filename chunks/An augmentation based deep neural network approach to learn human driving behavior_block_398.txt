@@ -1,0 +1,3 @@
+Brightness augmentation
+Changing brightness to simulate day and night conditions. We will generate images with different brightness by first converting images to HSV, scaling up or down the V channel and converting back to the RGB channel. Using left and right camera images
+Using left and right camera images to simulate the effect of car wandering off to the side, and recovering.

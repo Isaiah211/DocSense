@@ -1,0 +1,1 @@
+The last wave of technology companies to IPO didn’t have demos that most of us would watch, so why should machine intelligence companies? The last wave of companies were very computer-like: database companies, enterprise applications, and the like. Sure, I’d like to see a 10x more performant database, but most people wouldn’t care.

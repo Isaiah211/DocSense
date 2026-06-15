@@ -1,0 +1,1 @@
+I won’t go into details of how these networks are trained. You can read more technical details in the later section of the paper (‘Methods’) which I haven’t covered here. In fact, the real purpose of this particular paper is not to show how they used reinforcement learning on these neural networks.

@@ -1,0 +1,1 @@
+Or at least, until ASICs for Machine Learning like Google’s TPU make their way to market. For me, the most important reason for picking a powerful graphics processor is saving time while prototyping models. If the networks train faster the feedback time will be shorter.

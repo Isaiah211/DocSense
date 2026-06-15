@@ -1,0 +1,1 @@
+My end goal was to identify the three best courses available and present them to you, below. For this task, I turned to none other than the open source Class Central community, and its database of thousands of course ratings and reviews. Since 2011, Class Central founder Dhawal Shah has kept a closer eye on online courses than arguably anyone else in the world.

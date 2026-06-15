@@ -1,0 +1,1 @@
+I have $700 to $900: GTX 1080 Ti is highly recommended. If you want to go multi-GPU, get 2x GTX 1070 (if you can find them) or 2x GTX 1070 Ti. Kaggle, here I come!

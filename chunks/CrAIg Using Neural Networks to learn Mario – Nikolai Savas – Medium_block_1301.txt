@@ -1,0 +1,2 @@
+Before I discuss the process of “merging” two genomes, I’ll first discuss mutations. There are three kinds of mutations that can happen to a genome in NEAT. They are as follows:
+This involves a re-distribution of all synapse weights in a genome.

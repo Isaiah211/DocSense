@@ -1,0 +1,1 @@
+Simply put, it calculates a “weighted sum” of its input, adds a bias and then decides whether it should be “fired” or not ( yeah right, an activation function does this, but let’s go with the flow for a moment ). So consider a neuron. Now, the value of Y can be anything ranging from -inf to +inf.

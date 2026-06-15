@@ -1,0 +1,1 @@
+So basically, to decide whether or not to explore a particular move, you consider two things: First, by playing this move, how likely are you to win? Yes, we already have our “value network” to answer this first question. And the second question is, how likely is it that an expert would choose this move?

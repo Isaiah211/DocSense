@@ -1,0 +1,1 @@
+To start with, we present an overall system diagram for recommendation systems in the following figure. The main components of the architecture contain one or more machine learning algorithms. The simplest thing we can do with data is to store it for later offline processing, which leads to part of the architecture for managing Offline jobs.

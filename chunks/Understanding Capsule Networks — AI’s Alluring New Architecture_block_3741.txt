@@ -1,0 +1,3 @@
+This gives us a much smarter selection than just choosing the largest number, like in max pooling. With traditional networks, misplaced features don’t faze it:
+With capsule networks, the features wouldn’t agree with each other:
+Hopefully, that works intuitively. However, how does the math work?

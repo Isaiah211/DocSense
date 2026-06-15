@@ -1,0 +1,1 @@
+The above diagram is inspired by Christopher’s blog post. But most of the time, you will see a diagram like below. The major difference between the two variations is that the following diagram doesn’t treat the memory unit C as an input to the unit.

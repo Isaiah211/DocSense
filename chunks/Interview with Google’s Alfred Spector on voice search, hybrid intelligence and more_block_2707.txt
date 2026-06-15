@@ -1,0 +1,1 @@
+It enables users to create tables, filter and aggregate data, merge it with other data sources and visualise it with Google Maps or the Google Visualisation API. The data sets can then be published, shared or kept private and commented on by people around the world. “It’s an example of open collaboration,” Spector says.

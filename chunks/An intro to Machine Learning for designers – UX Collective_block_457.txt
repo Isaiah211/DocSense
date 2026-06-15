@@ -1,0 +1,1 @@
+Reinforcement learning is inspired by the way that humans learn and has turned out to be an effective way to teach computers. Specifically, reinforcement has been effective at training computers to play games like Go and Dota. Understanding the problem you are trying to solve and the available data will constrain the types of machine learning you can use (e.q.

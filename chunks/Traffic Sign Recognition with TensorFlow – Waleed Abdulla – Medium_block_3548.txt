@@ -1,0 +1,1 @@
+I prefer to create the graph explicitly. Then I define Placeholders for the images and labels. The placeholders are TensorFlow’s way of receiving input from the main program.

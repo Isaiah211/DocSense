@@ -1,0 +1,1 @@
+It uses a condensed version of the neural network architecture in the AlphaGoZero paper — i.e. a convolutional layer, followed by many residual layers, then splitting into a value and policy head. The depth and number of convolutional filters can be specified in the config file.

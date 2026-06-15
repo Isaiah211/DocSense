@@ -1,0 +1,2 @@
+This approach allows you to learn the mapping of horses -> zebras. Such transformations are unstable and often create unsuccessful options:
+You can find a source code here. Machine learning is now coming to medicine.

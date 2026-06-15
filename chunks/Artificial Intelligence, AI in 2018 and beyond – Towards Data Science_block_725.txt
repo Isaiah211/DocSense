@@ -1,0 +1,1 @@
+Reinforcement learning is often referred as the “cherry on the cake”, meaning that it is just minor training on top of a plastic synthetic brain. But how can we get a “generic” brain that then solve all problems easily? It is a chicken-in-the-egg problem!

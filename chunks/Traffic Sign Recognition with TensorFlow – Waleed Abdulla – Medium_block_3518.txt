@@ -1,0 +1,1 @@
+Traffic sign recognition is a well studied problem, so I figured I’ll find something online. I started by googling “traffic sign dataset” and found several options. I picked the Belgian Traffic Sign Dataset because it was big enough to train on, and yet small enough to be easy to work with.

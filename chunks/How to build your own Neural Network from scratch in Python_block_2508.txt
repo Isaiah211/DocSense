@@ -1,0 +1,1 @@
+Note that it isn’t exactly trivial for us to work out the weights just by inspection alone. Let’s train the Neural Network for 1500 iterations and see what happens. Looking at the loss per iteration graph below, we can clearly see the loss monotonically decreasing towards a minimum.

@@ -1,0 +1,1 @@
+Our feeds are populated using a variety of sources, including search and through our annotation pipeline. A key property of the feed is flow. Only feeds with decent flow can attract Pinners to come back repeatedly, thereby maintaining high engagement.

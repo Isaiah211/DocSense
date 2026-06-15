@@ -1,0 +1,1 @@
+Since I usually take the tube and Google has access to the London TfL data, it knows that I will be late to my next meeting. But even though Google Now recently opened up its API to third party developers, it is still fairly Google-biased and Google-optimized. For the Age of Context to thrive the platforms that power it must be interlinked across data and applications.

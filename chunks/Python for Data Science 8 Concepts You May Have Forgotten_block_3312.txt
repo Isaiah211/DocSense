@@ -1,0 +1,2 @@
+Check out the simple example below and the upcoming video to get a better feel for the power of lambda functions:
+Once you have a grasp on lambda functions, learning to pair them with the map and filter functions can be a powerful tool. Specifically, map takes in a list and transforms it into a new list by performing some sort of operation on each element. In this example, it goes through each element and maps the result of itself times 2 to a new list.

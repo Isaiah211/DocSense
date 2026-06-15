@@ -1,0 +1,1 @@
+Eventually, we learned that in doing this we were really just creating a linear mapping from each input to the output. In other words, we learned that a certain input would always map to a certain output. We had no flexibility and really could only handle inputs we’d seen before.

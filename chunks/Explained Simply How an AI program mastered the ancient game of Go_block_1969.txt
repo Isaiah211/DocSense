@@ -1,0 +1,1 @@
+With this, the AI got better because it had more practice. With these two networks alone, DeepMind’s AI was able to play well against state-of-the-art Go playing programs that other researchers had built before. These other programs had used an already popular pre-existing game playing algorithm, called the “Monte Carlo Tree Search” (MCTS).

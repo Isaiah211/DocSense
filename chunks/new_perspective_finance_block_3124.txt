@@ -1,0 +1,4 @@
+The challenges of public networks for e-finance activities
+It is not surprising that once the internet is utilised, financial institutions have to face its problems. Communications over the internet are insecure and often congested. Next we will discuss the
+challenges that financial institutions face in e-finance over the internet, including security, quality of
+service and some aberrations in e-finance.

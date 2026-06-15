@@ -1,0 +1,1 @@
+Models are usually small files of parameters that have been previously trained offline. Data is previously processed information that has been stored in some sort of database, such as movie metadata or popularity. We use the term “signals” to refer to fresh information we input to algorithms.

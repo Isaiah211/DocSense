@@ -1,0 +1,1 @@
+So we came up with our first crack at blending text with visual widgets. The results were a big improvement in the quality and relevance of queries over the previous UI, but a feeling that this was still too stiff and rigid. When people are asked for a “type of place” — e.g.

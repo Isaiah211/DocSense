@@ -1,0 +1,1 @@
+With matrix math, done with Python libraries! In actuality, this matrix you see here is gigantic. Each row represents one of Spotify’s 140 million users — if you use Spotify, you yourself are a row in this matrix — and each column represents one of the 30 million songs in Spotify’s database.

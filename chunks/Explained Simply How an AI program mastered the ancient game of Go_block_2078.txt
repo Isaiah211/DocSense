@@ -1,0 +1,1 @@
+And two, you can try to quickly play a rollout game with your current strategy (assuming the other player will play similarly), and see if you win or lose. We saw how the value function was better than doing rollouts in general. Here they combine both.

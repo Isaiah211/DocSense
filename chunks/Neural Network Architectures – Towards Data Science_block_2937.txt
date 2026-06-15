@@ -1,0 +1,1 @@
+The VGG networks uses multiple 3x3 convolutional layers to represent complex features. Notice blocks 3, 4, 5 of VGG-E: 256×256 and 512×512 3×3 filters are used multiple times in sequence to extract more complex features and the combination of such features. This is effectively like having large 512×512 classifiers with 3 layers, which are convolutional!

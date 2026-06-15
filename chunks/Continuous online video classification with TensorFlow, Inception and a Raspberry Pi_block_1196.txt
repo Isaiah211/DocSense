@@ -1,0 +1,1 @@
+For that, we’ll have to dive deeper. So in the next post, we’ll explore feeding the output of our CNN (both the final softmax layer and the pool layer, which gives us a 2,048-d feature vector of each image) to an LSTM RNN to see if we can increase our accuracy. Spoiler alert: We can!

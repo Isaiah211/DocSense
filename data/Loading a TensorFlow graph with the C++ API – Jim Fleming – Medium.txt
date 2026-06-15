@@ -1,0 +1,20 @@
+Title: Loading a TensorFlow graph with the C++ API – Jim Fleming – Medium
+Author: Jim Fleming
+----------------------------------------
+
+Check out the related post: Loading TensorFlow graphs from Node.js (using the C API).
+The current documentation around loading a graph with C++ is pretty sparse so I spent some time setting up a barebones example. In the TensorFlow repo there are more involved examples, such as building a graph in C++. However, the C++ API for constructing graphs is not as complete as the Python API. Many features (including automatic gradient computation) are not available from C++ yet. Another example in the repo demonstrates defining your own operations but most users will never need this. I imagine the most common use case for the C++ API is for loading pre-trained graphs to be standalone or embedded in other applications.
+Be aware, there are some caveats to this approach that I’ll cover at the end.
+Let’s start by creating a minimal TensorFlow graph and write it out as a protobuf file. Make sure to assign names to your inputs and operations so they’re easier to assign when we execute the graph later. The node’s do have default names but they aren’t very useful: Variable_1 or Mul_3. Here’s an example created with Jupyter:
+Let’s create a new folder like tensorflow/tensorflow/<my project name> for your binary or library to live. I’m going to call the project loader since it will be loading a graph.
+Inside this project folder we’ll create a new file called <my project name>.cc (e.g. loader.cc). If you’re curious, the .cc extension is essentially the same as .cpp but is preferred by Google’s code guidelines.
+Inside loader.cc we’re going to do a few things:
+Now we create a BUILD file for our project. This tells Bazel what to compile. Inside we want to define a cc_binary for our program. You can also use the linkshared option on the binary to produce a shared library or the cc_library rule if you’re going to link it using Bazel.
+Here’s the final directory structure:
+You could also call bazel run :loader to run the executable directly, however the working directory for bazel run is buried in a temporary folder and ReadBinaryProto looks in the current working directory for relative paths.
+And that should be all we need to do to compile and run C++ code for TensorFlow.
+The last thing to cover are the caveats I mentioned:
+Hopefully someone can shed some light on these last points so we can begin to embed TensorFlow graphs in applications. If you are that person, message me on Twitter or email. If you’d like help deploying TensorFlow in production, I do consulting.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+CTO and lead ML engineer at Fomoro — focused on machine learning and applying cutting-edge research for businesses — previously @rdio
+What I’m working on.

@@ -1,0 +1,2 @@
+It’s been a grand challenge of the field since the late 1950s. Now it’s finally achieved mass usage.”
+The team, led by scientist Franz Josef Och, has been collecting data for more than 100 languages, and the Google Translator Toolkit, which makes use of the ‘wisdom of the crowds’, now even supports 345 languages, many of which are minority languages. The editor enables users to translate text, correct the automatic translation and publish it.

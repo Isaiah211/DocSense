@@ -1,0 +1,1 @@
+We use a mathematical technique called matrices, which are grids of numbers. To make it really simple, we will just model a single neuron, with three inputs and one output. We’re going to train the neuron to solve the problem below.

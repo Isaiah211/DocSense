@@ -1,0 +1,8 @@
+In particular, we need to look at how financial markets
+work, the study of which is called market microstructure, the topic we discuss in the following
+subsection. 2.2 The market microstructure literature and other contributions to understanding
+markets
+While economics usually treats markets as ideal and abstract, there are studies that focus on how
+markets are created and function, the most conspicuous being the market microstructure theory in
+finance. This literature puts market mechanisms under the microscope and analyses specific
+institutions of exchange and trading rules, especially their role in price formation; see O’Hara (1995).

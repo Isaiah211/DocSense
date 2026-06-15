@@ -1,0 +1,1 @@
+We attribute this effect to the cleanness of Pinterest data. Text data on Pins tend to be very concise, and contain less noise than other types of data, like web pages. Also, related interests calculation already makes use of boards, which are heavily curated by people (vs.

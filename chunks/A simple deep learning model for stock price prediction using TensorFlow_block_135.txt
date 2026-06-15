@@ -1,0 +1,1 @@
+The None argument indicates that at this point we do not yet know the number of observations that flow through the neural net graph in each batch, so we keep if flexible. We will later define the variable batch_size that controls the number of observations per training batch. Besides placeholders, variables are another cornerstone of the TensorFlow universe.

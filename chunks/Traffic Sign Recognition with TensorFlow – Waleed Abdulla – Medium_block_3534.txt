@@ -1,0 +1,1 @@
+They also have numbers in red circles, so the model will have to get really good to differentiate between them. Most image classification networks expect images of a fixed size, and our first model will do as well. So we need to resize all the images to the same size.

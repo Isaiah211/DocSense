@@ -1,0 +1,1 @@
+This number is multiplied with the internal state and that is why the gate is called a forget gate. If ft=0 then the previous internal state is completely forgotten, while if ft=1 it will be passed through unaltered. 2.

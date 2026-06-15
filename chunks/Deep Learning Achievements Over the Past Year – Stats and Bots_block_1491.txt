@@ -1,0 +1,1 @@
+First, if we want to protect our products, we can add noise to the captcha to prevent spammers from recognizing it automatically. Secondly, algorithms are more and more involved in our lives — face recognition systems and self-driving cars. In this case, attackers can use the shortcomings of the algorithms.

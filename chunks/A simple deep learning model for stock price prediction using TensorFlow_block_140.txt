@@ -1,0 +1,1 @@
+A reduction of the number of neurons for each subsequent layer compresses the information the network identifies in the previous layers. Of course, other network architectures and neuron configurations are possible but are out of scope for this introduction level article. It is important to understand the required variable dimensions between input, hidden and output layers.

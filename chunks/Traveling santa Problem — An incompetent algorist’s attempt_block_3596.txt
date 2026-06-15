@@ -1,0 +1,2 @@
+From 40,000 seconds I reduced it to 300, 20, 5 ,1 seconds but It made the results slightly worse. Mingle
+The solution above was good but It could have been better. The problem was that the first path was so good that the second path struggled to find good path.

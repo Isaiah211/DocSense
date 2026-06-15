@@ -1,0 +1,1 @@
+You feed in some inputs from one side, you receive some outputs from the other side. The decision it makes is mostly based on the current inputs. I think it’s unfair to say that neural network has no memory at all.

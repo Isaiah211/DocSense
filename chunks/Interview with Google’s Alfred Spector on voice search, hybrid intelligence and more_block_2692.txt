@@ -1,0 +1,1 @@
+The editor enables users to translate text, correct the automatic translation and publish it. Spector thinks that this approach is the future. As computers become even faster, handling more and more data — a lot of it in the cloud — machines learn from users and thus become smarter.

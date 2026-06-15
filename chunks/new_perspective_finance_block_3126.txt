@@ -1,0 +1,5 @@
+One piece of
+evidence is that there has been no publicised security break-in for e-financial services, compared with
+dozens of reported accidents for online retailers. Technologically speaking, timely software patching
+and a real-time censoring mechanism almost suffice to prevent any possible system break-ins. Financial institutions are not hesitating to invest in these technological solutions, given the possible
+disastrous results if such a security investment is not made.

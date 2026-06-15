@@ -1,0 +1,1 @@
+It discovered it automatically from the data itself. It was even able to identify the impact of cultural events, such as St Patrick’s day or New Year’s Eve! How cool would it be if our self-driving cars could take this into account?

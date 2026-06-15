@@ -1,0 +1,1 @@
+For more detail, see this excellent blog post by Vincenzo Lomonaco. Transfer learning — or how do we have these algorithms learn on their own by watching videos, just like we do when we want to learn how to cook something new? That is an ability that requires all the components we listed above, and also is important for reinforcement learning.

@@ -1,0 +1,1 @@
+Where it’s wrong, we correct it, which further improves its “chairness” detection. Repetition of this process results in a computer that knows what a chair is when it sees it, for the most part as well as we can. The important difference though is that unlike us, it can then sort through millions of images within a matter of seconds.

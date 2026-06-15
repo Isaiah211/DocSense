@@ -1,0 +1,1 @@
+Bingo! In this training, the only thing guiding the training process is the ultimate goal, i.e winning or losing. You don’t need to specially train the network to do things like capture more area on the board etc.

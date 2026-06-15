@@ -1,0 +1,3 @@
+There are a lot of datasets on that page, but you only need the two files listed under BelgiumTS for Classification (cropped images):
+After expanding the files, this is my directory structure. Try to match it so you can run the code without having to change the paths:
+Each of the two directories contain 62 subdirectories, named sequentially from 00000 to 00061. The directory names represent the labels, and the images inside each directory are samples of each label.

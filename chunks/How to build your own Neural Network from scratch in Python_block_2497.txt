@@ -1,0 +1,1 @@
+Note that for simplicity, we have assumed the biases to be 0. However, we still need a way to evaluate the “goodness” of our predictions (i.e. how far off are our predictions)?

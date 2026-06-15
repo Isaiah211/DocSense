@@ -1,0 +1,1 @@
+This process takes a LOT of examples. For real world applications, the number of examples can be in the millions. Now that we have an understanding of artificial neural networks and somewhat of an understanding in how they work, there’s another question that should be on your mind.

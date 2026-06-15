@@ -1,0 +1,1 @@
+But images are actually 3 dimensions, and the 3rd dimension contains the color channels. The image in our example only has one color channel, because it’s black and white. Most images you are familiar with have 3 or 4 channels, for Red-Green-Blue and possibly an additional channel for Alpha, or transparency.

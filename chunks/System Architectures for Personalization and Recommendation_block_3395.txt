@@ -1,0 +1,1 @@
+We use the term “signals” to refer to fresh information we input to algorithms. This data is obtained from live services and can be made of user-related information, such as what the member has watched recently, or context data such as session, device, date, or time. Our goal is to turn member interaction data into insights that can be used to improve the member’s experience.

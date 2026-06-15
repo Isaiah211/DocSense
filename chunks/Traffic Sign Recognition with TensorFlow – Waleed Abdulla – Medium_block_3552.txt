@@ -1,0 +1,1 @@
+Pay attention to the order of your inputs because some models and frameworks might use a different arrangement, such as NCHW. Next, I define the fully connected layer. Rather than implementing the raw equation, y = xW + b, I use a handy function that does that in one line and also applies the activation function.

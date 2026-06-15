@@ -1,0 +1,1 @@
+Now introduce deep learning, which is when we have more than one hidden layer. This is one of the reasons we have better ANNs now, because we need hundreds of nodes with tens if not more layers. This leads to a massive amount of variables that we need to keep track of at a time.

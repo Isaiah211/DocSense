@@ -1,0 +1,1 @@
+This becomes especially complicated in convolutional layers where each layer can change the output dimensions. We can use padding (‘SAME’) to maintain each layers dimensionality. Otherwise, by simply using hyperparameters from the TensorFlow docs (i.e.

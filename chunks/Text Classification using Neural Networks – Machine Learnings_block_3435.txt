@@ -1,0 +1,2 @@
+While the algorithmic approach using Multinomial Naive Bayes is surprisingly effective, it suffers from 3 fundamental flaws:
+As with its ‘Naive’ counterpart, this classifier isn’t attempting to understand the meaning of a sentence, it’s trying to classify it. In fact so called “AI chat-bots” do not understand language, but that’s another story. Let’s examine our text classifier one section at a time.

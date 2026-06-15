@@ -1,0 +1,1 @@
+It is difficult to train such construction, as it is hard to find the equilibrium point of two networks. Most often the discriminator wins and the training stagnates. However, the advantage of the system is that we can solve problems in which it is difficult for us to set the loss-function (for example, improving the quality of the photo) — we give it to the discriminator.

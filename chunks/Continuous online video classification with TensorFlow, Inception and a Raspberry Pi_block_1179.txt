@@ -1,0 +1,1 @@
+Put another way, it lets us train an image classifier with a relatively small training set. We collected 20 minutes of footage at 10 jpegs per second, which amounted to 4,146 ad frames and 7,899 football frames. The next step is to sort each frame into two folders: football and ad.

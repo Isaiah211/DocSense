@@ -1,0 +1,24 @@
+Title: Data Mining — Handling Missing Values the Database – DeveloperZen
+Author: Eran Kampf
+----------------------------------------
+
+I’ve recently answered Predicting missing data values in a database on StackOverflow and thought it deserved a mention on DeveloperZen.
+One of the important stages of data mining is preprocessing, where we prepare the data for mining. Real-world data tends to be incomplete, noisy, and inconsistent and an important task when preprocessing the data is to fill in missing values, smooth out noise and correct inconsistencies.
+If we specifically look at dealing with missing data, there are several techniques that can be used. Choosing the right technique is a choice that depends on the problem domain — the data’s domain (sales data? CRM data? ...) and our goal for the data mining process.
+So how can you handle missing values in your database?
+This is usually done when the class label is missing (assuming your data mining goal is classification), or many attributes are missing from the row (not just one). However, you’ll obviously get poor performance if the percentage of such rows is high.
+For example, let’s say we have a database of students enrolment data (age, SAT score, state of residence, etc.) and a column classifying their success in college to “Low”, “Medium” and “High”. Let’s say our goal is to build a model predicting a student’s success in college. Data rows who are missing the success column are not useful in predicting success so they could very well be ignored and removed before running the algorithm.
+Decide on a new global constant value, like “unknown“, “N/A” or minus infinity, that will be used to fill all the missing values. This technique is used because sometimes it just doesn’t make sense to try and predict the missing value.
+For example, let’s look at the students enrollment database again. Assuming the state of residence attribute data is missing for some students. Filling it up with some state doesn’t really makes sense as opposed to using something like “N/A”.
+Replace missing values of an attribute with the mean (or median if its discrete) value for that attribute in the database.
+For example, in a database of US family incomes, if the average income of a US family is X you can use that value to replace missing income values.
+Instead of using the mean (or median) of a certain attribute calculated by looking at all the rows in a database, we can limit the calculations to the relevant class to make the value more relevant to the row we’re looking at.
+Let’s say you have a cars pricing database that, among other things, classifies cars to “Luxury” and “Low budget” and you’re dealing with missing values in the cost field. Replacing missing cost of a luxury car with the average cost of all luxury cars is probably more accurate than the value you’d get if you factor in the low budget cars.
+The value can be determined using regression, inference based tools using Bayesian formalism, decision trees, clustering algorithms (K-Mean\Median etc.).
+For example, we could use clustering algorithms to create clusters of rows which will then be used for calculating an attribute mean or median as specified in technique #3. Another example could be using a decision tree to try and predict the probable value in the missing attribute, according to other attributes in the data.
+I’d suggest looking into regression and decision trees first (ID3 tree generation) as they’re relatively easy and there are plenty of examples on the net...
+Additional Notes
+Originally published at www.developerzen.com on August 14, 2009.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Maker of things. Big data geek. Food Lover.
+The essence of Software Development ...

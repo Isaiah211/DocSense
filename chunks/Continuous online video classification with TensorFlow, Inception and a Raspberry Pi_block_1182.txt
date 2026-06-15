@@ -1,0 +1,1 @@
+At the completion of 4,000 training steps, our model reports an incredible 98.8% accuracy on the held out validation set! I’m not sure I could do much better using my eyes on the same data. As a point of reference, if the network had classified each frame as football, it would have achieved about 66% accuracy.

@@ -1,0 +1,1 @@
+The final model is tested and then used for decision-making if it becomes the best performer. The model-training step can be performed in any language with a library that outputs PMML. One commonly used and well-supported library is the R PMML package.

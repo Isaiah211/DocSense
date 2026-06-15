@@ -1,0 +1,2 @@
+You’re the softmax layer, and the finished product is our class prediction. I’ve made the code to explore these methods available on GitHub. I’ll pull out a couple interesting bits here:
+In order to turn our discrete predictions or features into a sequence, we loop through each frame in chronological order, add it to a queue of size N, and pop off the first frame we previously added.

@@ -1,0 +1,2 @@
+Effectively, each neuron receives 32*32*3=3072 inputs. This is a fully-connected layer because every neuron connects to every input value. You’re probably familiar with its equation:
+I start with a simple model because it’s easy to explain, easy to debug, and fast to train.

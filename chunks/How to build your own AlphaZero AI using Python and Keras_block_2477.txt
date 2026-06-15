@@ -1,0 +1,1 @@
+Running the algorithm as usual will then start from this checkpoint. An instance of the Memory class stores the memories of previous games, that the algorithm uses to retrain the neural network of the current_player. This file contains a custom loss function, that masks predictions from illegal moves before passing to the cross entropy loss function.

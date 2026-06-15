@@ -1,0 +1,5 @@
+A similar system, Chicago Board of Brokerage’s MarketPower opened
+in July 1998. Bloomberg BondTrader, a component of the Bloomberg Electronic Trading System
+operational since March 1999, allows clients of participating dealers to execute orders and to make
+price inquiries for US Treasury bills, notes and bonds on a regular, skip-day, corporate and whenissued basis. During the fourth quarter of 2000, BondTrader was expanded to include the buying and
+selling of global non-dollar sovereign issues and US agencies on the same platform.

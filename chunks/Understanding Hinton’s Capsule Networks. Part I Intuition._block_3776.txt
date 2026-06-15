@@ -1,0 +1,3 @@
+But do not be fooled by its performance: while CNNs work better than any model before them, max pooling nonetheless is losing valuable information. Hinton himself stated that the fact that max pooling is working so well is a big mistake and a disaster:
+Of course, you can do away with max pooling and still get good results with traditional CNNs, but they still do not solve the key problem:
+In the example above, a mere presence of 2 eyes, a mouth and a nose in a picture does not mean there is a face, we also need to know how these objects are oriented relative to each other. Computer graphics deals with constructing a visual image from some internal hierarchical representation of geometric data.

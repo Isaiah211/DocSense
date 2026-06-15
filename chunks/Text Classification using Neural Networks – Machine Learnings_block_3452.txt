@@ -1,0 +1,1 @@
+We can now generate the probability of a sentence belonging to one (or more) of our classes. This is super fast because it’s dot-product calculation in our previously defined think() function. Experiment with other sentences and different probabilities, you can then add training data and improve/expand the model.

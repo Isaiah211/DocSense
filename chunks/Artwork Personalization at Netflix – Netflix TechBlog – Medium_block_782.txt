@@ -1,0 +1,1 @@
+For personalization, the member is the context as we expect different members to respond differently to the images. A key property of contextual bandits is that they are designed to minimize regret. At a high level, the training data for a contextual bandit is obtained through the injection of controlled randomization in the learned model’s predictions.

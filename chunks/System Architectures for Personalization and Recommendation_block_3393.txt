@@ -1,0 +1,1 @@
+In some sense, it covers some of the same use cases as Apache Kafka, but it is not a message/event queue system. Regardless of whether we are doing an online or offline computation, we need to think about how an algorithm will handle three kinds of inputs: models, data, and signals. Models are usually small files of parameters that have been previously trained offline.

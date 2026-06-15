@@ -1,0 +1,1 @@
+One full sweep over all batches is called an epoch. The training of the network stops once the maximum number of epochs is reached or another stopping criterion defined by the user applies. During the training, we evaluate the networks predictions on the test set — the data which is not learned, but set aside — for every 5th batch and visualize it.

@@ -1,0 +1,1 @@
+In the early 1990s, IBM came out with the Deep Blue computer which defeated the great champion Gary Kasparov in Chess. (He’s also a very cool guy, make sure to read more about him later!) How did Deep Blue play? Well, it used a very brute force method.

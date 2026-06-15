@@ -1,0 +1,1 @@
+So old, in fact, that most tools don’t support it. Which meant that I couldn’t casually browse the folders to take a look at the images. Luckily, the Scikit Image library recognizes this format.

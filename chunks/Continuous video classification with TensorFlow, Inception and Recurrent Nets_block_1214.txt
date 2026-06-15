@@ -1,0 +1,1 @@
+This is followed by a dropout of 0.2 to help prevent over-fitting and a fully-connected softmax layer to generate our predictions. I also experimented with wider and deeper networks, but neither performed as well as this one. It’s likely that with a larger training set, a deeper network would perform best.

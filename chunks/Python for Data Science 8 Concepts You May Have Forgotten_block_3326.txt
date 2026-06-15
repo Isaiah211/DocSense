@@ -1,0 +1,1 @@
+However, it joins them based on their indices, rather than some specified column. Check out the excellent Pandas documentation for specific syntax and more concrete examples, as well as some special cases that you may run into. Think of apply as a map function, but made for Pandas DataFrames or more specifically, for Series.

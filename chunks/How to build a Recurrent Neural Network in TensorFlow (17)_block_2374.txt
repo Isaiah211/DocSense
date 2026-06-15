@@ -1,0 +1,1 @@
+The best and most comprehensive article explaining RNN:s I’ve found so far is this article by researchers at UCSD, highly recommended. For now you only need to understand the basics, read it until the “Modern RNN architectures”-section. That will be covered later.

@@ -1,0 +1,1 @@
+The end-to-end process of using the Nanonets API is as simple as four steps. 2. Labelling of images: Labelling images is probably the hardest and the most time-consuming step in any supervised machine learning pipeline, but at Nanonets we have this covered for you.

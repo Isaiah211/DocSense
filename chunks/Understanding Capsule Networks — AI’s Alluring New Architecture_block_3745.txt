@@ -1,0 +1,2 @@
+That means we have a total of 1,152 capsules. You will end up with a list of 11,520 predictions. Each weight is actually a 16x8 matrix, so each prediction is a matrix multiplication between the capsule vector and this weight matrix:
+As you can see, our prediction is a 16 degree vector.

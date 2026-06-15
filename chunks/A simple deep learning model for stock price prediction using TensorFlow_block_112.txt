@@ -1,0 +1,1 @@
+The dataset was split into training and test data. The training data contained 80% of the total dataset. The data was not shuffled but sequentially sliced.

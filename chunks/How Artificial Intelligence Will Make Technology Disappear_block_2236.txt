@@ -1,0 +1,1 @@
+To circumvent this problem, we can score each place according to the current context. For example, we are more likely to be at a restaurant during lunch time than at a nightclub. If we then combine this with a user-specific model based on their location history, we can achieve very high levels of accuracy.

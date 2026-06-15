@@ -1,0 +1,1 @@
+We broadly refer to this process as data exploration. The number of candidate artworks that are available for a title along with the size of the overall population for which the system will be deployed informs the choice of the data exploration strategy. With such exploration, we need to log information about the randomization for each artwork selection.

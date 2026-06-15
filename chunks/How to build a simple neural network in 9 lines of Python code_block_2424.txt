@@ -1,0 +1,2 @@
+But how much do we adjust the weights by? We can use the “Error Weighted Derivative” formula:
+Why this formula? First we want to make the adjustment proportional to the size of the error.

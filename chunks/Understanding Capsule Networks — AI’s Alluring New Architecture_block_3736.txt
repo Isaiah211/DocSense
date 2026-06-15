@@ -1,0 +1,1 @@
+At this point it’s almost impossible to guess what each capsule is looking for. The next step is to decide what information to send to the next level. In traditional networks, we would probably do something like “max pooling.” Max pooling is a way to reduce size by only passing on the highest activated pixel in the region to the next layer.

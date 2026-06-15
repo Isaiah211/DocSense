@@ -1,0 +1,3 @@
+Once the Images have been uploaded, begin training the Model
+The model takes ~2 hours to train. You will get an email once the model is trained. In the meanwhile you check the state of the model
+Once the model is trained.

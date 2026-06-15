@@ -1,0 +1,1 @@
+In MCTS, you can start with an unskilled Foma and unskilled Lusha. The more you play, the better they get at predicting solid outcomes and moves. “Narrowing the search to a beam of high probability actions” is just a sophisticated way of saying, “Lusha helps you narrow down the moves you need to roll out by assigning them probabilities that an expert would play them”.

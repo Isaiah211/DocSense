@@ -1,0 +1,2 @@
+In this case, we first perform 256 -> 64 1×1 convolutions, then 64 convolution on all Inception branches, and then we use again a 1x1 convolution from 64 -> 256 features back again. The operations are now:
+For a total of about 70,000 versus the almost 600,000 we had before. Almost 10x less operations!

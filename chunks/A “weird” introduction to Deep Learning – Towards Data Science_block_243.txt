@@ -1,0 +1,1 @@
+Deep Learning (DL)is such an important field for Data Science, AI, Technology and our lives right now, and it deserves all of the attention is getting. Please don’t say that deep learning is just adding a layer to a neural net, and that’s it, magic! Nope.

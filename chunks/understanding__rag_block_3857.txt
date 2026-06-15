@@ -1,0 +1,1 @@
+Organizations have greater control over the generated text output, and users gain insights into how the LLM generates the response. What are the benefits of Retrieval-Augmented Generation? RAG technology brings several benefits to an organization's generative AI efforts.

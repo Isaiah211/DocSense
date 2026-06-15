@@ -1,0 +1,1 @@
+Each of the per-channel processed versions are then summed together to form one channel. The kernels of a filter each produce one version of each channel, and the filter as a whole produces one overall output channel. Finally, then there’s the bias term.

@@ -1,0 +1,7 @@
+The special feature
+of this model is that it allows bundle matching in addition to single asset auction. In practice, one
+example of innovation is that Bond Connect implements a call market in three sets of auction
+sessions, with the first session of each set designed as the primary auction for aggregating liquidity,
+and later sessions to allow adjustments. 3.7 E-finance-enabled design of financial organisations and mechanisms
+The advances in IT have not only reduced transaction costs, but are also changing the way financial
+products and services are provided.

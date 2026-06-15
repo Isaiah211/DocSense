@@ -1,0 +1,1 @@
+This forces your convolutional neural network to look everywhere. You can perform translations in TensorFlow by using the following commands. Data Augmentation Factor = Arbitrary.

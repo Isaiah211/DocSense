@@ -1,0 +1,2 @@
+Quantize Model (make it smaller to fit on a small device like the Raspberry Pi or Mobile)
+Small devices like Mobile Phones and Rasberry PI have very little memory and computation power. Training neural networks is done by applying many tiny nudges to the weights, and these small increments typically need floating point precision to work (though there are research efforts to use quantized representations here too). Taking a pre-trained model and running inference is very different.

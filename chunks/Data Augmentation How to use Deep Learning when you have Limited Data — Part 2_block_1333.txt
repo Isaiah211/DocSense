@@ -1,0 +1,1 @@
+It can help to increase the amount of relevant data in your dataset. This is related to the way with which neural networks learn. Let me illustrate it with an example.

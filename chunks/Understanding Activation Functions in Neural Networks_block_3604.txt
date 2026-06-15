@@ -1,0 +1,1 @@
+I would recommend reading up on the basics of neural networks before reading this article for better understanding. So what does an artificial neuron do? Simply put, it calculates a “weighted sum” of its input, adds a bias and then decides whether it should be “fired” or not ( yeah right, an activation function does this, but let’s go with the flow for a moment ).

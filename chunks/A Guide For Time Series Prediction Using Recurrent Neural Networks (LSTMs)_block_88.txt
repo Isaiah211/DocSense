@@ -1,0 +1,1 @@
+Below is the summary of the fully connected layer. After training this model for 200 epochs or early_callbacks (whichever came first), the model tries to learn the pattern and the behavior of the data. Since we split the data into training and testing sets we can now predict the value of testing data and compare them with the ground truth.

@@ -1,0 +1,1 @@
+AWS serves billions of users per day. To support that kind of load an AWS infrastructure engineer needs a deep knowledge of network protocols, computer architecture, and several years of relevant experience. As with any discipline there are amateurs and artisans.

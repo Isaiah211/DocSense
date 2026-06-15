@@ -1,0 +1,1 @@
+I’ve taken many data science-related courses and audited portions of many more. I know the options out there, and what skills are needed for learners preparing for a data analyst or data scientist role. So I started creating a review-driven guide that recommends the best courses for each subject within data science.

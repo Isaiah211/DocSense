@@ -1,0 +1,2 @@
+“It’s very valuable to be able to use voice. All of us know that no matter how good the keyboard, it’s tricky to type exactly the right thing into a searchbar, while holding your backpack and everything else.”
+To get a computer to take account of your voice is no mean feat, of course. “One idea is to take all of the voices that the system hears over time into one huge pan-human voice model.

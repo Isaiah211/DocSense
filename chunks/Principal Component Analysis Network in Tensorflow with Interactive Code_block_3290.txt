@@ -1,0 +1,3 @@
+But I just wanted to try this out for fun. Data Set / Network Architecture
+Blue Rectangle → PCAP or Max Pooling LayerGreen Rectangle → Convolution Layer to increase channel size + Global Averaging Pooling operation
+The network itself is very simple, only four pooling layers and one convolution layer to increase the channel size. However, in-order for the dimension to match up we will downsample each images into 16*16 dimension.

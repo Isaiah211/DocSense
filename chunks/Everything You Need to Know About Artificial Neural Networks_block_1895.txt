@@ -1,0 +1,1 @@
+Back during the 1960s we had what was called a perceptron. Perceptrons were made of McCulloch-Pitts neurons. We even had biased perceptrons, and ultimately people started creating multilayer perceptrons, which is synonymous with the general artificial neural network we hear about now.

@@ -1,0 +1,3 @@
+The attacking technology used then is called the DDoS attack. Two years after its first
+appearance in 1999, the internet community still has no effective way to deal with the DDoS attack. They are dangerous to all e-businesses, but especially dangerous to e-financial institutions as they are
+often more time-sensitive than other industries.

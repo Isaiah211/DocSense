@@ -1,0 +1,2 @@
+And the second question is, how likely is it that an expert would choose this move? (If a move is super unlikely to be chosen by an expert, why even waste time considering it. This we get from the policy network)
+Then let’s talk about the “mixing parameter” (see came back to it!).

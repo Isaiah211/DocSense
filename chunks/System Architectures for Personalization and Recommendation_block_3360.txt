@@ -1,0 +1,1 @@
+The simplest thing we can do with data is to store it for later offline processing, which leads to part of the architecture for managing Offline jobs. However, computation can be done offline, nearline, or online. Online computation can respond better to recent events and user interaction, but has to respond to requests in real-time.

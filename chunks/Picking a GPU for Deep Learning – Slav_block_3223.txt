@@ -1,0 +1,2 @@
+In this article, I’m going to share my insights about choosing the right graphics processor. Also, we’ll go over:
+Deep Learning (DL) is part of the field of Machine Learning (ML). DL works by approximating a solution to a problem using neural networks.

@@ -1,0 +1,1 @@
+Could a machine ever be able to create a piece of music the likes of Johann Sebastian Bach? In a project known as DeepBach, several researchers looked to create pieces similar to Bach’s chorales. The beauty of DeepBach is that it “is able to generate coherent musical phrases and provides, for instance, varied reharmonizations of melodies without plagiarism” [6].

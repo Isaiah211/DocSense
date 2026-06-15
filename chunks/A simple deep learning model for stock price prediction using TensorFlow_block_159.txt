@@ -1,0 +1,1 @@
+They store the input and target data and present them to the network as inputs and targets. A sampled data batch of X flows through the network until it reaches the output layer. There, TensorFlow compares the models predictions against the actual observed targets Y in the current batch.

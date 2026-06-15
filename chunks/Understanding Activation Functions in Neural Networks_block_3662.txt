@@ -1,0 +1,1 @@
+( in fact it is a good approximator. Any function can be approximated with combinations of ReLu). Great, so this means we can stack layers.

@@ -1,0 +1,1 @@
+It’s likely that with a larger training set, a deeper network would perform best. Note: I’m using the incredible TFLearn library, a higher-level API for TensorFlow, to construct our network, which saves us from having to write a lot of code. Once we have our sequence of features and our network, training with TFLearn is a breeze.

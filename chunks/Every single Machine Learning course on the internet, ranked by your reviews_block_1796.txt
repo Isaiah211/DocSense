@@ -1,0 +1,1 @@
+Programming with Python for Data Science (Microsoft/edX): Produced by Microsoft in partnership with Coding Dojo. Uses Python. Eight hours per week over six weeks.

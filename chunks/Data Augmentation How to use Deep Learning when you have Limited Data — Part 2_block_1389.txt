@@ -1,0 +1,1 @@
+In the real world scenario, it’s mostly a no. Image processing and ML frameworks have some standard ways with which you can decide on how to fill the unknown space. They are defined as follows.

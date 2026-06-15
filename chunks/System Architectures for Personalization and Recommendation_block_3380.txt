@@ -1,0 +1,1 @@
+Nearline computation is also a natural setting for applying incremental learning algorithms. In any case, the choice of online/nearline/offline processing is not an either/or question. All approaches can and should be combined.

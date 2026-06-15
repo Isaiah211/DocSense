@@ -1,0 +1,1 @@
+In Google’s “cat-recognizing brain”, the network eventually discovers the concept of “cat”, “dog”, etc. all by itself — even without training the algorithm against explicit labels. After this unsupervised training, whenever the network is fed an image belonging to a certain category like “Cats”, the same corresponding set of “Cat” neurons always gets fired up.

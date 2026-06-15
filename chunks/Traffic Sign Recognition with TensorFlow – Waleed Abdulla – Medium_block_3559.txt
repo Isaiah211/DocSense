@@ -1,0 +1,1 @@
+In this application, we just need the index of the largest value, which corresponds to the id of the label. The argmax op does that. The argmax output will be integers in the range 0 to 61.

@@ -1,0 +1,2 @@
+A short video series from Udacity2. Jeff Bradberry’s explanation of MCTS3. An MCTS tutorial by Fullstack Academy
+The following section is long, but easy to understand (I’ll try my best) and VERY important, so stay with me!

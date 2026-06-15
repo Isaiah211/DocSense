@@ -1,0 +1,1 @@
+• use a sum of the average and max pooling layers. • use mini-batch size around 128 or 256. If this is too big for your GPU, decrease the learning rate proportionally to the batch size.

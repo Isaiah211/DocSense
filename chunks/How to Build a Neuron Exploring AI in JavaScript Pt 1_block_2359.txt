@@ -1,0 +1,1 @@
+The impact of new synapse growth can be permanent, assuming that the neurons continue to fire together frequently. Many artificial neurons act less like neurons and more like transistors with two simple states: on or off. If enough upstream neurons are on rather than off, the neuron is on.

@@ -1,0 +1,1 @@
+Distributed training, or training a single network on several video cards is slowly but surely gaining traction. Nowadays, there are easy to use approaches to this for Tensorflow and Keras (via Horovod), CNTK and PyTorch. The distributed training libraries offer almost linear speed-ups to the number of cards.

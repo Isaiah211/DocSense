@@ -1,0 +1,2 @@
+Next we should extract data from dataset object step by step for each of the training epochs, tf.data.Iterator is tailor-made for it. TF currently supported four type of iterators:
+Reinitializeble iterator is very useful, all we need to do to start the work is to create an iterator and initializers for it. iterator.get_next() yields the next elements of our dataset when executed.

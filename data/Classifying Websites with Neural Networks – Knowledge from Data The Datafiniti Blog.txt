@@ -1,0 +1,30 @@
+Title: Classifying Websites with Neural Networks – Knowledge from Data: The Datafiniti Blog
+Author: Datafiniti
+----------------------------------------
+
+At Datafiniti, we have a strong need for converting unstructured web content into structured data. For example, we’d like to find a page like:
+and do the following:
+Both of these are hard things for a computer to do in an automated manner. While it’s easy for you or me to realize that the above web page is selling some jeans, a computer would have a hard time making the distinction from the above page from either of the following web pages:
+Or
+Both of these pages share many similarities to the actual product page, but also have many key differences. The real challenge, though, is that if we look at the entire set of possible web pages, those similarities and differences become somewhat blurred, which means hard and fast rules for classifications will fail often. In fact, we can’t even rely on just looking at the underlying HTML, since there are huge variations in how product pages are laid out in HTML.
+While we could try and develop a complicated set of rules to account for all the conditions that perfectly identify a product page, doing so would be extremely time consuming, and frankly, incredibly boring work. Instead, we can try using a classical technique out of the artificial intelligence handbook: neural networks.
+Here’s a quick primer on neural networks. Let’s say we want to know whether any particular mushroom is poisonous or not. We’re not entirely sure what determines this, but we do have a record of mushrooms with their diameters and heights, along with which of these mushrooms were poisonous to eat, for sure. In order to see if we could use diameter and heights to determine poisonous-ness, we could set up the following equation:
+A * (diameter) + B * (height) = 0 or 1 for not-poisonous / poisonous
+We would then try various combinations of A and B for all possible diameters and heights until we found a combination that correctly determined poisonous-ness for as many mushrooms as possible.
+Neural networks provide a structure for using the output of one set of input data to adjust A and B to the most likely best values for the next set of input data. By constantly adjusting A and B this way, we can quickly get to the best possible values for them.
+In order to introduce more complex relationships in our data, we can introduce “hidden” layers in this model, which would end up looking something like:
+For a more detailed explanation of neural networks, you can check out the following links:
+In our product page classifier algorithm, we setup a neural network with 1 input layer with 27 nodes, 1 hidden layer with 25 nodes, and 1 output layer with 3 output nodes. Our input layer modeled several features, including:
+Our output layer had the following:
+Our algorithm for the neural network took the following steps:
+The ultimate output is two sets of input layers (T1 and T2), that we can use in a matrix equation to predict page type for any given web page. This works like so:
+So how did we do? In order to determine how successful we were in our predictions, we need to determine how to measure success. In general, we want to measure how many true positive (TP) results as compared to false positives (FP) and false negatives (FN). Conventional measurements for these are:
+Our implementation had the following results:
+These scores are just over our training set, of course. The actual scores on real-life data may be a bit lower, but not by much. This is pretty good! We should have an algorithm on our hands that can accurately classify product pages about 90% of the time.
+Of course, identifying product pages isn’t enough. We also want to pull out the actual structured data! In particular, we’re interested in product name, price, and any unique identifiers (e.g., UPC, EAN, & ISBN). This information would help us fill out our product search.
+We don’t actually use neural networks for doing this. Neural networks are better-suited toward classification problems, and extracting data from a web page is a different type of problem. Instead, we use a variety of heuristics specific to each attribute we’re trying to extract. For example, for product name, we look at the <h1> and <h2> tags, and use a few metrics to determine the best choice. We’ve been able to achieve around a 80% accuracy here. We may go into the actual metrics and methodology for developing them in a separate post!
+We feel pretty good about our ability to classify and extract product data. The extraction part could be better, but it’s steadily being improved. In the meantime, we’re also working on classifying other types of pages, such as business data, company team pages, event data, and more.As we roll-out these classifiers and data extractors, we’re including each one in our crawl of the entire Internet. This means that we can scan the entire Internet and pull out any available data that exists out there. Exciting stuff!
+You can connect with us and learn more about our business, people, product, and property APIs and datasets by selecting one of the options below.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Instant Access to Web Data
+Building the world’s largest database of web data — follow our journey.

@@ -1,0 +1,2 @@
+Using this, we can peek into the learnt filters, and the results are stunning:
+One important thing to notice here is that convolved images are still images. The output of a small grid of pixels from the top left of an image will still be on the top left. So you can run another convolution layer on top of another (such as the two on the left) to extract deeper features, which we visualize.

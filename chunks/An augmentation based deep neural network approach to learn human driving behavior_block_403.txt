@@ -1,0 +1,2 @@
+The code for this augmentation is presented below. Flipping
+In addition to the transformations above, we will also flip images at random and change the sign of the predicted angle to simulate driving in the opposite direction. 2.

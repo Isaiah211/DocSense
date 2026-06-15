@@ -1,0 +1,1 @@
+It is a fast and simple technique and good first algorithm to try. Logistic regression is another technique borrowed by machine learning from the field of statistics. It is the go-to method for binary classification problems (problems with two class values).

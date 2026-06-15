@@ -1,0 +1,1 @@
+The answer may seem quite obvious; we do augmentation before we feed the data to the model right? Yes, but you have two options here. One option is to perform all the necessary transformations beforehand, essentially increasing the size of your dataset.

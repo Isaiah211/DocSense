@@ -1,0 +1,2 @@
+iterator.get_next() yields the next elements of our dataset when executed. https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/iterator.py#L1-L8
+To demonstrate the viability of using Dataset API let’s use proposed approach for MNIST dataset and for our corporate data . First, we prepared data and after that, we processed 1 and 5 epochs with Dataset API and without.

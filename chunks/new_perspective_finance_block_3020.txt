@@ -1,0 +1,5 @@
+This literature puts market mechanisms under the microscope and analyses specific
+institutions of exchange and trading rules, especially their role in price formation; see O’Hara (1995). In earlier models of the price discovery process, dealers (or market makers) act as providers of
+liquidity and set prices in order to control inventory levels. Recent work in market microstructure
+focuses more on the impact of information on market prices, linking advances in the economics of
+information, rational expectations and imperfect competition.

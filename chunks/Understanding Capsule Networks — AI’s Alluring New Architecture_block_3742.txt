@@ -1,0 +1,2 @@
+However, how does the math work? We have 10 different digit classes that we are predicting:
+Note: In the boat and house example we were predicting 2 objects, but now we are predicting 10. Unlike in the boat and the house example, the predictions aren’t actually images.

@@ -1,0 +1,2 @@
+Returning expected value out of the box is key to building habits (hyperparameter optimisation can help). Here are some great examples of products which prove that involving the user-in-the-loop improves performance:
+We can even go a step further, I think, by explaining how machine-generated results are obtained. For example, IBM Watson surfaces relevant literature when supporting a patient diagnosis in the oncology clinic.

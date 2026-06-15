@@ -1,0 +1,1 @@
+Understanding how a neural network works from input to output isn’t that difficult to understand, at least conceptually. More difficult though, is understanding how the neural network actually learns from looking at a set of data samples. The concept is called backpropagation.

@@ -1,0 +1,1 @@
+In December 2013 the NYU lab from Yann LeCun came up with Overfeat, which is a derivative of AlexNet. The article also proposed learning bounding boxes, which later gave rise to many other papers on the same topic. I believe it is better to learn to segment objects rather than learn artificial bounding boxes.

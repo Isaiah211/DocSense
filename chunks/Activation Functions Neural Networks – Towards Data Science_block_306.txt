@@ -1,0 +1,2 @@
+The softmax function is a more generalized logistic activation function which is used for multiclass classification. 2. Tanh or hyperbolic tangent Activation Function
+tanh is also like logistic sigmoid but better.

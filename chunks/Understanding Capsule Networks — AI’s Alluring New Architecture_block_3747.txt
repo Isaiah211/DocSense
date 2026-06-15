@@ -1,0 +1,1 @@
+It’s an arbitrary choice, just like 8 was for our original capsules. But it should be noted that we want to increase the number of dimensions of our capsules the deeper we get into the network. This should make sense intuitively, because the deeper we go the more complex our features become and the more parameters we need to recreate them.

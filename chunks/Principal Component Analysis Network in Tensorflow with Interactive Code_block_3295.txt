@@ -1,0 +1,3 @@
+Currently, I am not 100% sure on why this is happening, but with more study I hope to know exactly why. Results: Max Pooling Network
+As seen above, when we replace all of the PCAP layers with max pooling operation we can observe that the accuracy on training images stagnated around 14 percent, confirming the fact that the network didn’t have enough learning capacity from the start. Top Left Image → Original InputTop Right Image → After First LayerBottom Left Image → After Second LayerBottom Right Image → After Fourth Layer
+Contrast to PCAP, with max pooling we can clearly observe that the pixel with most high intensity moves on to the next layer.

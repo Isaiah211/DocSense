@@ -1,0 +1,1 @@
+Therefore, this single unit makes decision by considering the current input, previous output and previous memory. And it generates a new output and alters its memory. The way its internal memory C_t changes is pretty similar to piping water through a pipe.

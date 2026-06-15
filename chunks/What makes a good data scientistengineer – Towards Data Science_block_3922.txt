@@ -1,0 +1,2 @@
+I will talk about the qualities needed to be a good data scientist-engineer who ships relevance products to users. Some examples of relevance products are:
+These folks need to be strong at data science and engineering to be successful. Some places call these folks as Machine Learning engineers since most of the work they do involves Machine Learning.

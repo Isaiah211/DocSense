@@ -1,0 +1,1 @@
+This tells Bazel what to compile. Inside we want to define a cc_binary for our program. You can also use the linkshared option on the binary to produce a shared library or the cc_library rule if you’re going to link it using Bazel.

@@ -1,0 +1,1 @@
+Use a value function (Foma) to predict outcomes, and use a policy function (Lusha) to give you grand-master probabilities to help narrow down the moves you roll out. These are called “Monte Carlo rollouts”. Then while you backtrack from future to present, you can take average values of all the different moves you rolled out, and pick the most suitable action.

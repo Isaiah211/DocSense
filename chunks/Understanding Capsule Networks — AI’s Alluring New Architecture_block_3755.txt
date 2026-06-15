@@ -1,0 +1,1 @@
+The reconstruction portion of the implementation isn’t very interesting. It’s just a few fully connected layers. But the reconstruction itself is very cool and fun to play around with.

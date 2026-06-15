@@ -1,0 +1,1 @@
+It is also a one layer network, but uses tanh as the activation function. The output of this network will element-wise multiple the new memory valve, and add to the old memory to form the new memory. These two ✖ signs are the forget valve and the new memory valve.

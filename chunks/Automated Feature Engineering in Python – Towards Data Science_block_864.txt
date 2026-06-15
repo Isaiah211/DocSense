@@ -1,0 +1,1 @@
+In future articles, I’ll show how to use this technique on a real world problem, the Home Credit Default Risk competition currently being hosted on Kaggle. Stay tuned for that post, and in the meantime, read this introduction to get started in the competition! I hope that you can now use automated feature engineering as an aid in a data science pipeline.

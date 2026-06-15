@@ -1,0 +1,1 @@
+For example to calculate the output of this unit, you need to have C_t, the new memory ready. Therefore, the first step should be evaluating C_t. The following diagram tries to represent this “delay” or “order” with dash lines and solid lines (there are errors in this picture).

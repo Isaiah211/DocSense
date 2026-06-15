@@ -1,0 +1,1 @@
+Machine Learning (Tom Mitchell/Carnegie Mellon University): Carnegie Mellon’s graduate introductory machine learning course. A prerequisite to their second graduate level course, “Statistical Machine Learning.” Taped university lectures with practice problems, homework assignments, and a midterm (all with solutions) posted online. A 2011 version of the course also exists.

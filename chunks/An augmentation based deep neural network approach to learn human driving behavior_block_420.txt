@@ -1,0 +1,3 @@
+Generalization from one image size to another
+Video below presents generalization from one image size to another. I used the same pretrained model and tested it on all the other image sizes and found that the deep learning neural network was able to drive the car around for all image sizes. Generalization from one image resolution to another
+Video below presents generalization from one image resolution to another.

@@ -1,0 +1,2 @@
+If you prefer to run the code in Docker, you can use my Docker image that contains many popular deep learning tools. Run it with this command:
+Note that my project directory is in ~/traffic and I’m mapping it to the /traffic directory in the Docker container. Modify this if you’re using a different directory.

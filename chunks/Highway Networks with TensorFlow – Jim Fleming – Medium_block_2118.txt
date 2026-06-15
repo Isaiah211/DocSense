@@ -1,0 +1,2 @@
+Here’s what the highway layer graph looks in TensorBoard:
+Using a highway layer in a network is also straightforward. One detail to keep in mind is that consecutive highway layers must be the same size but you can use fully-connected layers to change dimensionality. This becomes especially complicated in convolutional layers where each layer can change the output dimensions.

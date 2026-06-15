@@ -1,0 +1,1 @@
+Congratulations! We have a working simple neural network. Given how simple this neural network is, training takes just a minute on my laptop so I didn’t bother saving the trained model.

@@ -1,0 +1,1 @@
+When viewed from the perspective of supervised machine learning, this outcome is not at all surprising. So perhaps we shouldn’t be too surprised by the results of the color experiment above, either. Language does indeed influence our perception of the world, in the same way that labels in supervised machine learning influence the model’s ability to discriminate among categories.

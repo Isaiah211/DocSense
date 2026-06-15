@@ -1,0 +1,1 @@
+N.B — This is my own understanding of how AlphaZero works based on the information available in the papers referenced above. If any of the below is incorrect, apologies and I’ll endeavour to correct it! The game that our algorithm will learn to play is Connect4 (or Four In A Row).

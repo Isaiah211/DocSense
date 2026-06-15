@@ -1,0 +1,1 @@
+This makes us believe that the implementation of these functions is suboptimal regardless of the card specifics. While we were implementing this “hack”, we also worked with the AWS team to find a principled solution that would not require a kernel patch. In doing so, we found that the performance degradation was related to the NVreg_CheckPCIConfigSpace parameter of the kernel.

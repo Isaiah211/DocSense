@@ -1,0 +1,2 @@
+Then we begin the training process:
+Eventually the weights of the neuron will reach an optimum for the training set. If we allow the neuron to think about a new situation, that follows the same pattern, it should make a good prediction. This process is called back propagation.

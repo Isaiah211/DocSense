@@ -1,0 +1,1 @@
+Titan X Pascal It used to be the best consumer GPU Nvidia had to offer. Made obsolete by 1080 Ti, which has the same specs and is 40% cheaper. Tesla GPUsThis includes K40, K80 (which is 2x K40 in one), P100, and others.

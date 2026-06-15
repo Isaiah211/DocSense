@@ -1,0 +1,1 @@
+We also saw a reasonable correlation between what we measured offline in replay and what we saw online with the models. The online results also produced some interesting insights. For example, the improvement of personalization was larger in cases where the member had no prior interaction with the title.

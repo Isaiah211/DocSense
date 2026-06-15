@@ -1,0 +1,1 @@
+One commonly used and well-supported library is the R PMML package. As illustrated below, generating a PMML with R requires very little code. This R script has the advantage of simplicity, and a script similar to this is a great way to start building PMMLs and to get a first model into production.

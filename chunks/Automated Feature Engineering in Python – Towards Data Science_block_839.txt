@@ -1,0 +1,2 @@
+For this dataframe, even though missed is an integer, this is not a numeric variable since it can only take on 2 discrete values, so we tell featuretools to treat is as a categorical variable. After adding the dataframes to the entityset, we inspect any of them:
+The column types have been correctly inferred with the modification we specified. Next, we need to specify how the tables in the entityset are related.

@@ -1,0 +1,1 @@
+In a nutshell, it states that no one algorithm works best for every problem, and it’s especially relevant for supervised learning (i.e. predictive modeling). For example, you can’t say that neural networks are always better than decision trees or vice-versa.

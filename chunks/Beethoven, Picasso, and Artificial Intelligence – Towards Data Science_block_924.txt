@@ -1,0 +1,1 @@
+One final future for the vanilla GAN is StackGAN. StackGAN is a text to photo-realistic image synthesizer that uses stacked generative adversarial networks. Given a text description, the StackGAN is able to create images that are very much related to the given text.

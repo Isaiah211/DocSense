@@ -1,0 +1,1 @@
+Google Deepmind, in collaboration with Oxford University, reported in the article, “Lip Reading Sentences in the Wild” on how their model, which had been trained on a television dataset, was able to surpass the professional lip reader from the BBC channel. There are 100,000 sentences with audio and video in the dataset. Model: LSTM on audio, and CNN + LSTM on video.

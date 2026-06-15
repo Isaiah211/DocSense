@@ -1,0 +1,4 @@
+ECNs such as Instinet have also blurred the distinction between brokers, market makers, and even
+markets. For example, Instinet operates a trading desk that is the functional equivalent of a closed
+order book. Although this often means routing orders to other systems, Instinet can attract more order
+flow to the trading service.

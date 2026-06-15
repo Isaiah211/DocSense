@@ -1,0 +1,5 @@
+– [ weird things ]
+Author: Greg Fish
+----------------------------------------
+
+Undoubtedly the most ambitious idea in the world of artificial intelligence is creating an entity comparable to a human in cognitive abilities, the so called AGI. We could debate how it may come about, whether it will want to be your friend or not, whether it will settle the metaphysical question of whet makes humans who they are or open new doors in the discussion, but for a second let’s think like software architects and ask the question we should always tackle first before designing anything. Why would we want to build it?

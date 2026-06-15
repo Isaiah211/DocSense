@@ -1,0 +1,3 @@
+Following lists a few of them with a prospective solution:
+Pragmatic Master, a South-African robotics-as-a-service collaborated with Nanonets for automation of remotely monitoring progress of a housing construction project in Africa. We aim to detect the following infrastructure to capture the construction progress of a house in it’s various stages : a foundation (start), wallplate (in-progress), roof (partially complete), apron (finishing touches) and geyser (ready-to-move in)
+Pragmatic Master chose Nanonets as it’s deep learning provider because of it’s easy-to-use web platform and plug&play APIs. The end-to-end process of using the Nanonets API is as simple as four steps.

@@ -1,0 +1,1 @@
+For a single video card, almost any chipset will work. If you are planning on working with multiple graphic cards, read this section. RAM: It is recommended to have 2 gigabytes of memory for every gigabyte of video card RAM.

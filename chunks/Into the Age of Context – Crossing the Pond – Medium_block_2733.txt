@@ -1,0 +1,1 @@
+The glue is data. The massive amounts of data the growing number of internet users and connected devices generate each day. More critically, the cost of storing this data has dropped to nearly zero.

@@ -1,0 +1,1 @@
+First of all, ReLu is nonlinear in nature. And combinations of ReLu are also non linear! ( in fact it is a good approximator.

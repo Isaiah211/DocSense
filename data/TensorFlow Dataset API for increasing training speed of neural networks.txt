@@ -1,0 +1,29 @@
+Title: TensorFlow Dataset API for increasing training speed of neural networks
+Author: Wallarm
+----------------------------------------
+
+Wallarm AI engine is the heart of our security solution. Two key parameters of our AI engine efficiency are how fast neural networks can be train to reflect the updated training sets and how much compute power need to be dedicated to the training on the on-going basis.
+Many of our machine learning algorithms are written on top of TensorFlow, an open-source dataflow software library originally release by Google.
+Our average CPU load for the AI engine today is as high as 80% so we are always looking for ways to speed things up in software. Our latest find is Dataset API. Dataset is a mid-level TensorFlow APIs which makes working with data faster and more convenient..
+In this blog, we will measure just how much faster model training can be with Dataset, compared to the you use of feed_dict.
+For starters, let’s prepare data that will be used to train the model. Dataset can usually be stored in numpy’s arrays regardless of kind of data they are.. That’s why we prepare all our dataset without TensorFlow and store it in .npz format similar to this:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/storing_in_npz_format.py#L1-L10
+This step helps us avoid unnecessary data processing load on CPU and memory during model training.
+Now we are ready to train the model. First, let’s load preprocessed data from disk:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/load_from_npz.py#L1-L7.
+Next the data will be converted from numphy arrays into TensorFlow tensors (tf.data.Dataset.from_tensor_slices method is used for that) and loaded into TensorFlow. Dataset.from_tensor_slices method takes placeholders with the same size of the 0th dimension element and returns dataset object.
+Once the dataset is in TF, you can process it, for example, you can use .map(f) function which can process the data. But we already preprocess our dataset and all we need to do is apply batching and, maybe, shuffling. Fortunately, Dataset API already has needed functions. They are .batch and .shuffle. Ok, if we shuffle our dataset how can we use it for production? It’s easy, we simply make another dataset without data been shuffled.
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/datasets.py#L1-L5
+Dataset API has other good methods for preprocessing data. There is a comprehensive list of methods in the. official docs.
+Next we should extract data from dataset object step by step for each of the training epochs, tf.data.Iterator is tailor-made for it. TF currently supported four type of iterators:
+Reinitializeble iterator is very useful, all we need to do to start the work is to create an iterator and initializers for it. iterator.get_next() yields the next elements of our dataset when executed.
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/iterator.py#L1-L8
+To demonstrate the viability of using Dataset API let’s use proposed approach for MNIST dataset and for our corporate data . First, we prepared data and after that, we processed 1 and 5 epochs with Dataset API and without. Model for this MNIST example can be found on github:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/model.py#L1-L25
+Below are the results we obtained on a machine with one Nvidia GTX 1080 and TF 1.8.0.
+All code of this experiment is available on GitHub [Link].
+MNIST is a very small dataset and profit of Dataset API isn’t representative. By contrast, the results on a real-life dataset are much more impressive.
+Thus Dataset API is very good for increasing your training speed. With no source code changes, just some modifications in the stack, you can save 20–30% off the training time.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Adaptive Application Security for DevOps. @NGINX partner. @YCombibator S16
+Wallarm is DevOps-friendly WAF with hybrid architecture uniquely suited for cloud applications. It applies machine learning to traffic to adaptively generate security rules and verifies the impact of malicious payloads in real time

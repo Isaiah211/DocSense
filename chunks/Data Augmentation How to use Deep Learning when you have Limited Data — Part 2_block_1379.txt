@@ -1,0 +1,1 @@
+Extending our data augmentation concept, imagine how cool it would be to generate effects such as different seasons artificially? Without going into gory detail, conditional GANs can transform an image from one domain to an image to another domain. If you think it sounds too vague, it’s not; that’s literally how powerful this neural network is!

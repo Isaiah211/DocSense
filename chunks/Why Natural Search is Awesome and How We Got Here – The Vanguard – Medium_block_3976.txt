@@ -1,0 +1,1 @@
+Well, not exactly, because we still need queries to be meaningful. One thing that the templates gave us was built-in disambiguation. We need a query that has at least a location + a type (or something from which we can derive a type), and without a template telling us that the “hotel” is the type, and the “restaurant” is something you want your hotel to have (vs.

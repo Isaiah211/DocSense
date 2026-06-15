@@ -1,0 +1,1 @@
+It contains thorough explanations all the important concepts in neural networks. These articles will also help you understand important concepts as cost functions and gradient descent, which play equally important roles in neural networks. In some articles and tutorials you’ll actually end up coding small neural networks.

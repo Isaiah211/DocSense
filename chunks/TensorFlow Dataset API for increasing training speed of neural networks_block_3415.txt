@@ -1,0 +1,1 @@
+Our average CPU load for the AI engine today is as high as 80% so we are always looking for ways to speed things up in software. Our latest find is Dataset API. Dataset is a mid-level TensorFlow APIs which makes working with data faster and more convenient..

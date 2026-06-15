@@ -1,0 +1,2 @@
+Below are the results (runtime in sec) on our cg1.4xlarge instances:
+As you can see, disabling accesses to PCI space had a spectacular effect in the original npps functions, decreasing the runtime by 95%. The effect was significant even in our optimized Kernel functions saving almost 25% in runtime. However, it is important to note that even when the PCI access is disabled, our customized functions performed almost 60% better than the default ones.

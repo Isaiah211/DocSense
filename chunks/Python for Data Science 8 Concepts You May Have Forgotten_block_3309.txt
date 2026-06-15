@@ -1,0 +1,1 @@
+creating your list with in one simple line with no loops necessary. Ever get tired of creating function after function for limited use cases? Lambda functions to the rescue!

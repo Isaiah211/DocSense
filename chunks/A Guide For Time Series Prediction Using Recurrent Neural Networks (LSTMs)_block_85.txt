@@ -1,0 +1,1 @@
+You only need to fit and transform your training data and just transform your test data. The reason you do that is you don’t want to assume that you know the scale of your test data. Normalizing or transforming the data means that the new scale variables will be between zero and one.

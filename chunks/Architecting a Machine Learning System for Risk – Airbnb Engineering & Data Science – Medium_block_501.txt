@@ -1,0 +1,2 @@
+As described below, there are several considerations that we weighed carefully before moving forward with Openscoring:
+After considering all of these factors, we decided that Openscoring best satisfied our two-pronged goal of having a fast and robust, yet flexible machine learning framework. A schematic of our model-building pipeline using PMML is illustrated above. The first step involves deriving features from the data stored on the site.

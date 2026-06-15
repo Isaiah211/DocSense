@@ -1,0 +1,1 @@
+For the vast majority of the broadcast, we see our prediction come out true to life. So cool. In all, our naive method worked remarkably well at continuous online video classification for this particular use case.

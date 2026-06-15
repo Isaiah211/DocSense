@@ -1,0 +1,1 @@
+For example, some risk vectors are not time critical, but require computationally intensive techniques to detect. An offline architecture is best suited for this kind of detection. For the purposes of this post, we are focusing on risks requiring realtime or near-realtime action.

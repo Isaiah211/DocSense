@@ -1,0 +1,1 @@
+That is, the sum-of-squares error is simply the sum of the difference between each predicted value and the actual value. The difference is squared so that we measure the absolute value of the difference. Our goal in training is to find the best set of weights and biases that minimizes the loss function.

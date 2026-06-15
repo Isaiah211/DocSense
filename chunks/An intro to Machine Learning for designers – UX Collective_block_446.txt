@@ -1,0 +1,1 @@
+Knowing this, we can help prepare for a user’s next action. For example, if we can predict what content a user is planning on viewing, we can preload that content so it’s immediately ready when they want it. Depending on the application and what data is available, there are different types of machine learning algorithms to choose from.

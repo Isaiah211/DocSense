@@ -1,0 +1,1 @@
+There are two things that are cool about this particular data structure. One is that a change in any block invalidates every block after it, which means that you can’t tamper with historical transactions. The second is that you only get rewarded if you’re working on the same chain as everyone else, so each participant has an incentive to go with the consensus.

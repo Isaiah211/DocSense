@@ -1,0 +1,1 @@
+Phew! That was ugly but it allows us to get what we needed — the derivative (slope) of the loss function with respect to the weights, so that we can adjust the weights accordingly. Now that we have that, let’s add the backpropagation function into our python code.

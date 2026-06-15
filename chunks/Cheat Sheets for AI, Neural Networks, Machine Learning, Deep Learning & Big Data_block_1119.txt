@@ -1,0 +1,1 @@
+The name ‘Pandas’ is derived from the term “panel data”, an econometrics term for multidimensional structured data sets. The term “data wrangler” is starting to infiltrate pop culture. In the 2017 movie Kong: Skull Island, one of the characters, played by actor Marc Evan Jackson is introduced as “Steve Woodward, our data wrangler”.

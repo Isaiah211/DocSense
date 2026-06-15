@@ -1,0 +1,1 @@
+Offline computation also requires having infrastructure for storing, computing, and accessing large sets of precomputed results. Nearline computation can be seen as a compromise between the two previous modes. In this case, computation is performed exactly like in the online case.

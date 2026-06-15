@@ -1,0 +1,2 @@
+The separate convolution is the same as Xception above. Now the claim of the paper is that there is a great reduction in parameters — about 1/2 in case of FaceNet, as reported in the paper. Here is the complete model architecture:
+Unfortunately, we have tested this network in actual application and found it to be abysmally slow on a batch of 1 on a Titan Xp GPU.

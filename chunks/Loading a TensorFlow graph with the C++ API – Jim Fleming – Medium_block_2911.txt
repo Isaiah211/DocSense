@@ -1,0 +1,2 @@
+Make sure to assign names to your inputs and operations so they’re easier to assign when we execute the graph later. The node’s do have default names but they aren’t very useful: Variable_1 or Mul_3. Here’s an example created with Jupyter:
+Let’s create a new folder like tensorflow/tensorflow/<my project name> for your binary or library to live.

@@ -1,0 +1,1 @@
+If the pattern is a group we call it a cluster. If the pattern is a rule (e.q. if this, then that) we call it an association.

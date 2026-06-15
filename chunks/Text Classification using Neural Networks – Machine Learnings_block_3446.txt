@@ -1,0 +1,1 @@
+Also below we implement our bag-of-words function, transforming an input sentence into an array of 0’s and 1’s. This matches precisely with our transform for training data, always crucial to get this right. And now we code our neural network training function to create synaptic weights.

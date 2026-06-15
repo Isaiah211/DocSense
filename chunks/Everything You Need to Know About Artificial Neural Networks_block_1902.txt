@@ -1,0 +1,1 @@
+With enough examples of question-answer pairs, the calculations and values stored at each neuron and synapse are slowly adjusted. Usually this is through a process called backpropagation. Imagine you’re walking down a sidewalk and you see a lamp post.

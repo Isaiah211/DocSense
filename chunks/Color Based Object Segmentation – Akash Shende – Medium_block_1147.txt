@@ -1,0 +1,1 @@
+Computer need to understand those color marker first, for that it needs to separate marker from any surroundings. Segmentation can be helpful to achieve this. Various methods are available for segmentation, however, this article talks about robust Color based object segmentation.

@@ -1,0 +1,1 @@
+Genome: An iteration of crAIg’s brain. Essentially a collection of neurons and synapses. Species: A collection of Genomes.

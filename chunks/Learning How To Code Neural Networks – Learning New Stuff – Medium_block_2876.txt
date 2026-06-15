@@ -1,0 +1,1 @@
+Let’s wait with the network part and start off with one single neuron. The circle below illustrates an artificial neuron. Its input is 5 and its output is 1.

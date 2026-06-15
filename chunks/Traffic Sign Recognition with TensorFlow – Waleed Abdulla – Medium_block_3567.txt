@@ -1,0 +1,1 @@
+The variables we defined above, such as init, loss, predicted_labels don’t contain numerical values. They are references to ops that we’ll execute next. This is where we iteratively train the model to minimize the loss function.

@@ -1,0 +1,2 @@
+In diverse industries ranging from crop harvesting to automobile assembly technology advances have consistently replaced and augmented human labor to reduce costs. A professor once put it this way in his compilers course, “take historical note of textile and steel industries: do you want to build machines and tools, or do you want to operate those machines?”
+In this metaphor the “machine” is a computer programming language. This professor was really asking: Do you want to build websites using JavaScript, or do you want to build the V8 engine that powers JavaScript?

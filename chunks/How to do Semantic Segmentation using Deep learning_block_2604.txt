@@ -1,0 +1,1 @@
+In this section, let’s walk through a step-by-step implementation of the most popular architecture for semantic segmentation — the Fully-Convolutional Net (FCN). We’ll implement it using the TensorFlow library in Python 3, along with other dependencies such as Numpy and Scipy. In this exercise we will label the pixels of a road in images using FCN.

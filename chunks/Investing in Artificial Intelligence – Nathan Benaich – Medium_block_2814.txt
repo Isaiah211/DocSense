@@ -1,0 +1,4 @@
+A key consideration, in my view, is that the open sourcing of technologies by large incumbents (Google, Microsoft, Intel, IBM) and the range of companies productising technologies for cheap means that technical barriers are eroding fast. What ends up moving the needle are: proprietary data access/creation, experienced talent and addictive products. Operational
+Commercial
+Financial
+There are two big factors that make involving the user in an AI-driven product paramount.

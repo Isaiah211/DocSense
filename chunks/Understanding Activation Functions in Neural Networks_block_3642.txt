@@ -1,0 +1,1 @@
+It has a smooth gradient too. And if you notice, between X values -2 to 2, Y values are very steep. Which means, any small changes in the values of X in that region will cause values of Y to change significantly.

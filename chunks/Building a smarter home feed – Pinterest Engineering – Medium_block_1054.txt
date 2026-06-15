@@ -1,0 +1,1 @@
+Pools can be implemented in a variety of ways so long as the priority queue requirement is met. We choose to do this by exploiting the key-based sorting of HBase. Each key is a combination of user, score and Pin such that, for any user, we may scan a list of available Pins according to their score.

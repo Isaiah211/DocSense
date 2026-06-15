@@ -1,0 +1,2 @@
+An EntitySet is a collection of tables and the relationships between them. Think of an entityset as just another Python data structure, with its own methods and attributes. We can create an empty entityset in featuretools using the following:
+Now we have to add entities.

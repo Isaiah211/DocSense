@@ -1,0 +1,3 @@
+Freixas, X and Rochet, J-C (1997): Microeconomics of Banking, MIT Press. Gale, D and M Hellwig (1985): “Incentive-compatible debt contracts: The one-period problem”, Review
+of Economic Studies, vol 52, pp 647-64. Geng, X and A Whinston (2000): “Defeating distributed denial-of-service attacks”, IEEE IT
+Professional, July-August pp 36-41.

@@ -1,0 +1,1 @@
+Hinton & Ronald J. Williams. A theoretical framework for Back-Propagation by Yann Lecun.

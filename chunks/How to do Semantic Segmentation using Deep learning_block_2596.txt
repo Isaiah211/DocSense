@@ -1,0 +1,2 @@
+R-CNN achieved significant performance improvements due to using the highly discriminative CNN features. However, it also suffers from a couple of drawbacks for the segmentation task:
+Due to these bottlenecks, recent research has been proposed to address the problems, including SDS, Hypercolumns, Mask R-CNN. The original Fully Convolutional Network (FCN) learns a mapping from pixels to pixels, without extracting the region proposals.

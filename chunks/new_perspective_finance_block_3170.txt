@@ -1,0 +1,3 @@
+O’Hara, M (1995): Market Microstructure Theory, Blackwell Publishers. Roth, A (1990): Two-sided matching: a study in game-theoretic modeling and analysis, Cambridge
+(England). Saatcioglu, K, J Stallaert and A Whinston (2001): “Design of a financial portal”, Communications of the
+ACM, vol 44, no 6, June.

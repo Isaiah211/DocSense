@@ -1,0 +1,1 @@
+These applications of Sketch-RNN couldn’t be nearly as easily achieved with GAN alone. Another method used to improve upon GAN is the Creative Adversarial Network. In their paper regarding adversarial networks generating art, several researchers discuss a new way of generating art through CANs.

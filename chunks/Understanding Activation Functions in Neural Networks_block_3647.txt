@@ -1,0 +1,1 @@
+So we have our activations bound in a range. Nice, it won’t blow up the activations then. This is great.

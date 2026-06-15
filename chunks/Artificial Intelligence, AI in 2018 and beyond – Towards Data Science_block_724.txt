@@ -1,0 +1,1 @@
+There is much work in the field of reinforcement learning, but to the author it is really only scratching the surface of the problem, still millions of miles away from it. We already talked about this here. Reinforcement learning is often referred as the “cherry on the cake”, meaning that it is just minor training on top of a plastic synthetic brain.

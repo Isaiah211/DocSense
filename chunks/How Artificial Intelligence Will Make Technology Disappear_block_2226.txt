@@ -1,0 +1,1 @@
+It became ubiquitous, and we stopped noticing it. Today, the exact same thing is happening with connected devices. Building this ubiquitous computing future relies on giving devices the ability to sense and react to the current context, which is called “context-awareness”.

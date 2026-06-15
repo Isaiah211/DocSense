@@ -1,0 +1,1 @@
+The first step is to determine how many off a species will die to make room for more babies. This is done proportionally to a species’ adjusted fitness: the higher the adjusted fitness, the more die off to make room for babies. The second step is to determine how many children should be born in the species.

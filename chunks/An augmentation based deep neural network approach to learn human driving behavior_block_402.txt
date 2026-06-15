@@ -1,0 +1,2 @@
+Shadow augmentation
+The next augmentation we will add is shadow augmentation where random shadows are cast across the image. This is implemented by choosing random points and shading all points on one side (chosen randomly) of the image. The code for this augmentation is presented below.

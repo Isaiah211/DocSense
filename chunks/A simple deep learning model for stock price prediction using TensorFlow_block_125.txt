@@ -1,0 +1,2 @@
+Check out this simple example (stolen from our deep learning introduction from our blog):
+In the figure above, two numbers are supposed to be added. Those numbers are stored in two variables, a and b. The two values are flowing through the graph and arrive at the square node, where they are being added.

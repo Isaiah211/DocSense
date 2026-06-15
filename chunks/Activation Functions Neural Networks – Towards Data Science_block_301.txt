@@ -1,0 +1,4 @@
+Equation : f(x) = x
+Range : (-infinity to infinity)
+It doesn’t help with the complexity or various parameters of usual data that is fed to the neural networks. The Nonlinear Activation Functions are the most used activation functions. Nonlinearity helps to makes the graph look something like this
+It makes it easy for the model to generalize or adapt with variety of data and to differentiate between the output.

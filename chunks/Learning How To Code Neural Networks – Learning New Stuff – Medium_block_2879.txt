@@ -1,0 +1,1 @@
+The two inputs are then multiplied by their so called weights, which are 7 and 3 (the blue numbers). Finally we add it up with the bias and end up with a number, in this case: 5 (the red number). This is the input for our artificial neuron.

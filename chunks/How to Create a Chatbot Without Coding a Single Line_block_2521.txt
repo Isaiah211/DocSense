@@ -1,0 +1,1 @@
+Just insert what the user says and what the bot responds. Using the settings option, you can edit smartphone models, decide number of fans, and choose a profile picture, a page category and a welcome message. Additional features are buttons, images and quick replies.

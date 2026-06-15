@@ -1,0 +1,1 @@
+To make the odds more fair, we use Transfer Learning to give the models a better chance with the scarce amount of data. For the one without augmentation, let’s use a VGG19 network. I’ve written a TensorFlow implementation here, which is based on this implementation.

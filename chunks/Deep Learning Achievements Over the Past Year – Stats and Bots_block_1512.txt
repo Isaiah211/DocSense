@@ -1,0 +1,1 @@
+Truth be told, this required a cluster of 256 GPUs (Tesla P100). They used Gloo and Caffe2 for distributed learning. To make the process effective, it was necessary to adapt the learning strategy with a huge batch (8192 elements): gradient averaging, warm-up phase, special learning rate, etc.

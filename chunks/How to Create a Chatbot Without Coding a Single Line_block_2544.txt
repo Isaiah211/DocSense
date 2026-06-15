@@ -1,0 +1,1 @@
+Currently, the templates available are media, commerce, and food tech. They also provide tools to link your business tools like Mailchimp to your chatbot. There are many tools on the market.

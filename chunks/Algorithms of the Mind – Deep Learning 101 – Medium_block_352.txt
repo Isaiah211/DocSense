@@ -1,0 +1,1 @@
+That is, given the concept of a digit, it can regenerate images corresponding to that very concept. We are seeing, quite literally, a machine imagining an image of the concept of “8”. The magic is encoded in the layers between inputs and outputs.

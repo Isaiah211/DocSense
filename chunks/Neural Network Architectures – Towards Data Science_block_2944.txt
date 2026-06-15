@@ -1,0 +1,1 @@
+This idea will be later used in most recent architectures as ResNet and Inception and derivatives. NiN also used an average pooling layer as part of the last classifier, another practice that will become common. This was done to average the response of the network to multiple are of the input image before classification.

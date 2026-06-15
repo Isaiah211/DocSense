@@ -1,0 +1,1 @@
+Machine learning is effective at finding abnormal content. Credit card companies use this to detect fraud, email providers use this to detect spam, and social media companies use this to detect things like hate speech. Machine learning has enabled computers to begin to understand the things we say (natural-language processing) and the things we see (computer vision).

@@ -1,0 +1,1 @@
+If members in group B have higher engagement with Netflix, then we roll-out the new algorithm to the entire member population. Unfortunately, this batch approach incurs regret: many members over a long period of time did not benefit from the better experience. This is illustrated in the figure below.

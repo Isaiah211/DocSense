@@ -1,0 +1,1 @@
+If enough upstream neurons are on rather than off, the neuron is on. Otherwise, it’s off. Other neural nets use input values from -1 to +1.

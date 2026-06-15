@@ -1,0 +1,1 @@
+For comparison, Baidu Research employs 1,300 people, and in the same FAIR (Facebook) — 80. At the last KDD, Alibaba employees talked about their parameter server KungPeng, which runs on 100 billion samples with a trillion parameters, which “becomes a common task” ©. You can draw your own conclusions, it’s never too late to study machine learning.

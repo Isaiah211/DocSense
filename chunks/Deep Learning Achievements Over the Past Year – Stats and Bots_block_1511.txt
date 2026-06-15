@@ -1,0 +1,2 @@
+Main results of learning:
+By the way, this model is present in tensor2tensor. In their post, Facebook staff told us how their engineers were able to teach the Resnet-50 model on Imagenet in just one hour. Truth be told, this required a cluster of 256 GPUs (Tesla P100).

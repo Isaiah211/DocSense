@@ -1,0 +1,1 @@
+Idea: Recurrent Neural Networks (RNNs) and LSTMs. BTW: It was shown by Liao and Poggio (2016) that ResNets == RNNs, arXiv:1604.03640v1. 9.

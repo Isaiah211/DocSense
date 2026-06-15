@@ -1,0 +1,1 @@
+The model consists of three major building blocks. The input layer, the hidden layers and the output layer. This architecture is called a feedforward network.

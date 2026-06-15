@@ -1,0 +1,60 @@
+Title: How to Build a Neuron: Exploring AI in JavaScript Pt 1
+Author: Eric Elliott
+----------------------------------------
+
+Years ago, I was working on a project that needed to be adaptive. Essentially, the software needed to learn and get better at a frequently repeated task over time.
+I’d read about neural networks and some early success people had achieved with them, so I decided to try it out myself. That marked the beginning of a life-long fascination with AI.
+AI is a really big deal. There are a small handful of technologies that will dramatically change the world over the course of the next 25 years. Three of the biggest disruptors rely deeply on AI:
+Self driving cars alone will disrupt more than 10 million jobs in America, radically improve transportation and shipping efficiency, and may lead to a huge change in car ownership as we outsource transportation and the pains of car ownership and maintenance to apps like Uber.
+You’ve probably heard about Google’s self driving cars, but Tesla, Mercedes, BMW and other car manufacturers are also making big bets on self driving technology.
+Regulations, not technology, are the primary obstacles for drone-based commercial services such as Amazon air, and just a few days ago, the FAA relaxed restrictions on commercial drone flights. It’s still not legal for Amazon to deliver packages to your door with drones, but that will soon change, and when that happens, commerce will never be the same.
+Of course half a million consumer drone sales over the last holiday season implies that drones are going to change a lot more than commerce. Expect to see a lot more of them hovering obnoxiously in every metro area in the world in the coming years.
+Augmented and virtual reality will fundamentally transform what it means to be human. As our senses are augmented by virtual constructs mixed seamlessly with the real world, we’ll find new ways to work, new ways to play, and new ways to interact with each other, including AR assisted learning, telepresence, and radical new experiences we haven’t dreamed of, yet.
+All of these technologies require our gadgets to have an awareness of the surrounding environment, and the ability to respond behaviorally to environmental inputs. Self driving cars need to see obstacles and make corrections to avoid them. Drones need to detect collision hazards, wind, and the ground to land on. Room scale VR needs to alert you of the room boundaries so you don’t wander into walls, and AR devices need to detect tables, chairs, and desks, and walls, and allow virtual elements and characters to interact with them.
+Processing sensory inputs and figuring out what they mean is one of the most important jobs that our brain is responsible for.
+How does the human brain deal with the complexity of that job? With neurons.
+Taken alone, a single neuron doesn’t do anything particularly interesting, but when combined together, neural networks are responsible for our ability to recognize the world around us, solve problems, and interact with our environment and the people around us.
+Neural networks are the mechanism that allows us to use language, build tools, catch balls, type, read this article, remember things, and basically do all the things we consider to be “thinking”.
+Recently, scientists have been scanning sections of small animal brains on the road to whole brain emulation. For example, a molecular-level model of the 302 neurons in the C. elegans roundworm.
+The blue brain project is an attempt to do the same thing with a human brain. The research uses microscopes to scan slices of living human brain tissue. It’s an ambitious project that is still in its infancy a decade after it launched, but nobody expects it to be finished tomorrow.
+We are still a long way from whole brain emulation for anything but the simplest organisms, but eventually, we may be able to emulate a whole human brain on a computer at the molecular level.
+Before we try to emulate even basic neuron functionality ourselves, we should learn more about how neurons work.
+A neuron is a cell that collects input signals (electrical potentials) from synaptic terminals (typically from dendrites, but sometimes directly on the cell membrane). When those signals sum past a certain threshold potential at the axon hillock trigger zone, it triggers an output signal, called an action potential.
+The action potential travels along the output nerve fiber, called an axon. The axon splits into collateral branches which can carry the output signal to different parts of the neural network. Each axon branch terminates by splitting into clusters of tiny terminal branches, which interface with other neurons through synapses.
+Synapse is the word used to describe the transmission mechanism from one neuron to the next.
+There are two kinds of synapse receptors on the postsynaptic terminal wall: ion channels and metabolic channels.
+Ion channels are fast (tens of milliseconds), and can either excite or inhibit the potential in the postsynaptic neuron, by opening channels for positively or negatively charged ions to enter the cell, respectively.
+In an ionotropic transmission, the neurotransmitter is released from the presynaptic neuron into the synaptic cleft — a tiny gap between the terminals of the presynaptic neuron and the postsynaptic neuron. It binds to receptors on the postsynaptic terminal wall, which causes them to open, allowing electrically charged ions to flow into the postsynaptic cell, causing a change to the cell’s potential.
+Metabolic channels are slower and more controlled than ion channels. In chemical transmissions, the action potential triggers the release of chemical transmitters from the presynaptic terminal into the synaptic cleft.
+Those chemical transmitters bind to metabolic receptors which do not have ion channels of their own. That binding triggers chemical reactions on the inside of the cell wall to release G-proteins which can open ion channels connected to different receptors. As the G-proteins must first diffuse and rebind to neighboring channels, this process naturally takes longer.
+The duration of metabolic effect can vary from about 100ms to several minutes, depending on how long it takes for neurotransmitters to be absorbed, released, diffused, or recycled back into the presynaptic terminal.
+Like ion channels, the signal can be either exciting or inhibitory to the postsynaptic neuron potential.
+There is also another type of synapse, called an electrical synapse. Unlike the chemical synapses described above, which rely on chemical neurotransmitters and receptors at axon terminals, an electrical synapse connects dendrites from one cell directly to dendrites of another cell by a gap junction, which is a channel that allows ions and other small molecules to pass directly between the cells, effectively creating one large neuron with multiple axons.
+Cells connected by electrical synapses almost always fire simultaneously. When any connected cell fires, all connected cells fire with it. However, some gap junctions are one way.
+Among other things, electrical synapses connect cells that control muscle groups such as the heart, where it’s important that all related cells cooperate, creating simultaneous muscle contractions.
+Different synapses can have different strengths (called weights). A synapse weight can change over time through a process known as synaptic plasticity.
+It is believed that changes in synapse connection strength is how we form memory. In other words, in order to learn and form memories, our brain literally rewires itself.
+An increase in synaptic weight is called Long Term Potentiation (LTP).
+A decrease in synaptic weight is called Long Term Depression (LTD).
+If the postsynaptic neuron tends to fire a lot when the presynaptic neuron fires, the synaptic weight increases. If the cells don’t tend to fire together often, the connection weakens. In other words:
+The key to synaptic plasticity is hidden in a pair of 20ms windows:
+If the presynaptic neuron fires before the postsynaptic neuron within 20ms, the weight increases (LTP).
+If the presynaptic neuron fires after the postsynaptic neuron within 20ms, the weight decreases (LTD).
+This process is called spike-timing-dependent plasticity.
+Spike-timing-dependent plasticity was discovered in the 1990’s and is still being explored, but it is believed that action potential backpropagation from the cell’s axon to the dendrites is involved in the LTP process.
+During a typical forward-propagating event, glutamate will be released from the presynaptic terminal, which binds to AMPA receptors in the postsynaptic terminal wall, allowing positively charged sodium ions (Na+) into the cell.
+If a large enough depolarization event occurs inside the cell (perhaps a backpropagation potential from the axon trigger point), electrostatic repulsion will open a magnesium block in NMDA receptors, allowing even more sodium to flood the cell along with calcium (Ca2+). At the same time, potassium (K+) flows out of the cell. These events themselves only last tens of milliseconds, but they have indirect lasting effects.
+An influx of calcium causes extra AMPA receptors to be inserted into the cell membrane, which will allow more sodium ions into the cell during future action potential events from the presynaptic neuron.
+A similar process works in reverse to trigger LTD.
+During LTP events, a special class of proteins called growth factors can also form, which can cause new synapses to grow, strengthening the bond between the two cells. The impact of new synapse growth can be permanent, assuming that the neurons continue to fire together frequently.
+Many artificial neurons act less like neurons and more like transistors with two simple states: on or off. If enough upstream neurons are on rather than off, the neuron is on. Otherwise, it’s off. Other neural nets use input values from -1 to +1. The basic math looks a little like the following:
+This is a good idea if you want to conserve CPU power so you can emulate a lot more neurons, and we’ve been able to use these basic principles to accomplish very simple pattern recognition tasks, such as optical character recognition (OCR) using pre-trained networks. However, there’s a problem.
+As I’ve described above, real neurons don’t behave that way. Instead, synapses transmit fluctuating continuous value potentials over time through the soma (cell body) to the axon hillock trigger zone where the sum of the signal may or may not trigger an action potential at any given moment in time. If the potential in the soma remains high, pulses may continue as the cell triggers at high frequency (once every few milliseconds).
+Lots of variables influence the process, the trigger frequencies, and the pattern of action potential bursts. With the model presented above, how would you determine whether or not triggers occurred within the LTP/LTD windows?
+What critical element is our basic model missing? Time.
+But that’s a story for a different article. Stay tuned for part 2.
+Eric Elliott is the author of “Programming JavaScript Applications” (O’Reilly), and “Learn JavaScript with Eric Elliott”. He has contributed to software experiences for Adobe Systems, Zumba Fitness, The Wall Street Journal, ESPN, BBC, and top recording artists including Usher, Frank Ocean, Metallica, and many more.
+He spends most of his time in the San Francisco Bay Area with the most beautiful woman in the world.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Make some magic. #JavaScript
+To submit, DM your proposal to @JS_Cheerleader on Twitter

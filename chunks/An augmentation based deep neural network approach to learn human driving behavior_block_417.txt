@@ -1,0 +1,1 @@
+The entire training took about 5 minutes. However, it too more than 20 hours to arrive at the right architecture and training parameters. Snippet below presents the result of training.

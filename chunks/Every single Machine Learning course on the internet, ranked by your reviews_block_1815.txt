@@ -1,0 +1,1 @@
+The following courses had one or no reviews as of May 2017. Machine Learning for Musicians and Artists (Goldsmiths, University of London/Kadenze): Unique. Students learn algorithms, software tools, and machine learning best practices to make sense of human gesture, musical audio, and other real-time data.

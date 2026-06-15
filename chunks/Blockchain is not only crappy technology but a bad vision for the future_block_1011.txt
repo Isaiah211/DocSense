@@ -1,0 +1,1 @@
+Hm. Perhaps you are very skilled at writing software. When the novelist proposes the smart contract, you take an hour or two to make sure that the contract will withdraw only an amount of money equal to the agreed-upon price, and that the book — rather than some other file, or nothing at all — will actually arrive.

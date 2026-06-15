@@ -1,0 +1,5 @@
+In their
+model, banks are “coalitions of depositors” and have no financial resources other than deposits. In
+microstructure theory, it is well known that dealers provide liquidity to the markets by standing ready to
+trade from their own accounts with investors. In light of the latter, we think that banks can also provide
+liquidity with their own equity.

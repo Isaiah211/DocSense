@@ -1,0 +1,1 @@
+For example below, I was having lunch in San Francisco, and this is what my phone recorded while I was not moving. Clearly it is impossible to know where I actually am! To circumvent this problem, we can score each place according to the current context.

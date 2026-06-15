@@ -1,0 +1,1 @@
+Firstly, check out the AlphaGo Zero cheat sheet for a high level understanding of how AlphaGo Zero works. It’s worth having that to refer to as we walk through each part of the code. There’s also a great article here that explains how AlphaZero works in more detail.

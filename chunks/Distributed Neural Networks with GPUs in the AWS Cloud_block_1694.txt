@@ -1,0 +1,1 @@
+HTCondor can be used to manage the workflow of any Directed Acyclic Graph (DAG). It handles input/output file transfer and resource management. In order to use Condor, we need each compute node register into the manager with a given ClassAd (e.g.

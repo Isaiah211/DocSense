@@ -1,0 +1,1 @@
+But it was just one path. I still had to figure out how to make it find the second path.A simple idea to get 2 disjoint paths is to generate first path and then make weight of those edges infinite and run LKH on the problem again. But this required the problem to be in Distance Matrix format.Then I found a major problem.

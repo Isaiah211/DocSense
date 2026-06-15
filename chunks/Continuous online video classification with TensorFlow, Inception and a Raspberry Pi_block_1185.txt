@@ -1,0 +1,1 @@
+To get this dataset, and to make sure we don’t have any data leakage into our training set, we separately record another 19 minutes of the football broadcast. This dataset amounted to 2,639 ad frames and 8,524 football frames. We run each frame of this set through our classifier and achieve a true holdout accuracy score of 93.3%.

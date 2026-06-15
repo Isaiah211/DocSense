@@ -1,0 +1,7 @@
+Instead of
+investing in the infrastructure themselves, they can drastically reduce their capital and operational
+costs by outsourcing their network services to service providers who offer a robust VPN service and
+therefore can focus on their core business in financial services. One of the critical technology components of a VPN is security and in no other industry is security
+more prominent. The most important technologies for the security component of a VPN include access
+control to ensure the security of network connections, encryption to protect the privacy of data and
+authentication to verify the user’s identity as well as the integrity of the data.

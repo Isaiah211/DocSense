@@ -1,0 +1,1 @@
+Great. So this makes an activation function for a neuron. No confusions.

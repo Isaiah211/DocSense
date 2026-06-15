@@ -1,0 +1,1 @@
+An introduction to machine learning that covers supervised and unsupervised learning. A total of twenty estimated hours over four weeks. Machine Learning Path Step (Dataquest): Taught in Python using Dataquest’s interactive in-browser platform.

@@ -1,0 +1,1 @@
+Quick, Draw! is an application from the Google Creative Lab, trained to recognize quick drawings much like one would see in a game of Pictionary. The program can recognize simple objects such as cats and apples based on common aspects of the many pictures it was given before.

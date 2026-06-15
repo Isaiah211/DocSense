@@ -1,0 +1,1 @@
+They will annotate your images with high precision and accuracy to aid better model training. For the Pragmatic Master use-case, we were labelling the following objects and their total count in all the images. 3.

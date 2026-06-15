@@ -1,0 +1,2 @@
+Users can also look up source documents themselves if they require further clarification or more detail. This can increase trust and confidence in your generative AI solution. More developer control
+With RAG, developers can test and improve their chat applications more efficiently.

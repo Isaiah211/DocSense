@@ -1,0 +1,1 @@
+Almost a year ago, Google announced the launch of a new model for Google Translate. The company described in detail the network architecture — Recurrent Neural Network (RNN). The key outcome: closing down the gap with humans in accuracy of the translation by 55–85% (estimated by people on a 6-point scale).

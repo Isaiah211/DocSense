@@ -1,0 +1,1 @@
+Deepmind has even established a separate unit. This year, under the program of the Data Science Bowl, there was a competition held to predict lung cancer in a year on the basis of detailed images with a prize fund of one million dollars. Currently, there are heavy investments in ML as it was before with BigData.

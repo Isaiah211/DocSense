@@ -1,0 +1,1 @@
+For complex, evolving fraud vectors, heuristics eventually become too complicated and therefore unwieldy. In such cases, we turn to machine learning, which will be the focus of this blog post. For a more detailed look at other aspects of online risk management, check out Ohad Samet’s great ebook.

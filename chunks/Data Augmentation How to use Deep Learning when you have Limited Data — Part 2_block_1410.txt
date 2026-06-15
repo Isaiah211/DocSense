@@ -1,0 +1,1 @@
+Once it’s done training, you can request calls to their API to calculate the test accuracy. Checkout out my repo for a sample code snippet(Don’t forget to insert your model’s ID in the code snippet). Impressive isn’t it.

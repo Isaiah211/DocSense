@@ -1,0 +1,2 @@
+To show how this results in stronger and stronger play, I ran a league between 17 players, ranging from the 1st iteration of the neural network, up to the 49th. Each pairing played twice, with both players having a chance to play first. Here are the final standings:
+Clearly, the later versions of the neural network are superior to the earlier versions, winning most of their games.

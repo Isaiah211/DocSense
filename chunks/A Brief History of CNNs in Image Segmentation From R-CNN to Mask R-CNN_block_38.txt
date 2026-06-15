@@ -1,0 +1,1 @@
+How might we select these pixels from the feature map? We know each pixel in the original image corresponds to ~ 25/128 pixels in the feature map. To select 15 pixels from the original image, we just select 15 * 25/128 ~= 2.93 pixels.

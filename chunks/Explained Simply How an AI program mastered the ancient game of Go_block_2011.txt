@@ -1,0 +1,1 @@
+Yeah, convolutional neural networks are great for image processing. And since a neural network takes a particular input and gives an output, it is essentially a function, right? So you can use a neural network to become a complex function.

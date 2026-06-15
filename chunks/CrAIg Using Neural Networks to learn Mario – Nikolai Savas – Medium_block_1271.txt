@@ -1,0 +1,1 @@
+The rest of the blog post is going to cover my implementation of it, hopefully in relatively layman’s terms. Before we jump right into the algorithm, I’m going to lay a foundation for the makeup of crAIg’s brain. His “brain” at any given point playing the game is made up of a collection of “neurons” and “synapses”, alternatively titled nodes and connections/links.

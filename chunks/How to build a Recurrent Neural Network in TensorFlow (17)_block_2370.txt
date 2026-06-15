@@ -1,0 +1,1 @@
+This is the first in a series of seven parts where various aspects and techniques of building Recurrent Neural Networks in TensorFlow are covered. A short introduction to TensorFlow is available here. For now, let’s get started with the RNN!

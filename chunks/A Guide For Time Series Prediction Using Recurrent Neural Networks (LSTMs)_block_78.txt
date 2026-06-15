@@ -1,0 +1,1 @@
+The dataset displays the value of $1 in rupees. We have a total of 13,730 records starting from January 2, 1980 to August 10, 2017. Over the period, the price to buy $1 in rupees has been rising.

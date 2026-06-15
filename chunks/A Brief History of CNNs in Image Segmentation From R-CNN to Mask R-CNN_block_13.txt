@@ -1,0 +1,2 @@
+Improving the Bounding Boxes
+Now, having found the object in the box, can we tighten the box to fit the true dimensions of the object? We can, and this is the final step of R-CNN. R-CNN runs a simple linear regression on the region proposal to generate tighter bounding box coordinates to get our final result.

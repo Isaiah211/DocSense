@@ -1,0 +1,1 @@
+But guess what, we still haven’t talked about the real deal. DeepMind’s AI isn’t just about the policy and value networks. It doesn’t use these two networks as a replacement of the Monte Carlo Tree Search.

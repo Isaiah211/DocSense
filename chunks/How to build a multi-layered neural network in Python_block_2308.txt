@@ -1,0 +1,1 @@
+You can see from the diagram that the output of Layer 1 feeds into Layer 2. It is now possible for the neural network to discover correlations between the output of Layer 1 and the output in the training set. As the neural network learns, it will amplify those correlations by adjusting the weights in both layers.

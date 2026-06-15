@@ -1,0 +1,1 @@
+The dataset used in this project is the exchange rate data between January 2, 1980 and August 10, 2017. Later, I’ll give you a link to download this dataset and experiment with it. The dataset displays the value of $1 in rupees.

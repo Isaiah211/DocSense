@@ -1,0 +1,1 @@
+The same approach is applied to the task of recognizing store names on signboards (there can be a lot of “noise” data, and the network itself must “focus” in the right places). This algorithm was applied to 80 billion photos. There is a type of task called visual reasoning, where a neural network is asked to answer a question using a photo.

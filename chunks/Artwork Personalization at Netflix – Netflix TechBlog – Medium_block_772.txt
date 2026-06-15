@@ -1,0 +1,1 @@
+Finally, there are engineering challenges to personalize artwork at scale. One challenge is that our member experience is very visual and thus contains a lot of imagery. So using personalized selection for each asset means handling a peak of over 20 million requests per second with low latency.

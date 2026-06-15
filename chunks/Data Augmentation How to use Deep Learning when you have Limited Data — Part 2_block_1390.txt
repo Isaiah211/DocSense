@@ -1,0 +1,2 @@
+They are defined as follows. The simplest interpolation method is to fill the unknown region with some constant value. This may not work for natural images, but can work for images taken in a monochromatic background
+The edge values of the image are extended after the boundary.

@@ -1,0 +1,5 @@
+This, at a high level, is what allows us to avoid the misalignments caused by RoIPool. Once these masks are generated, Mask R-CNN combines them with the classifications and bounding boxes from Faster R-CNN to generate such wonderfully precise segmentations:
+If you’re interested in trying out these algorithms yourselves, here are relevant repositories:
+Faster R-CNN
+Mask R-CNN
+In just 3 years, we’ve seen how the research community has progressed from Krizhevsky et. al’s original result to R-CNN, and finally all the way to such powerful results as Mask R-CNN.

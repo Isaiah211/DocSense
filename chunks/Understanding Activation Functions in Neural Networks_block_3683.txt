@@ -1,0 +1,1 @@
+If you don’t know the nature of the function you are trying to learn, then maybe i would suggest start with ReLu, and then work backwards. ReLu works most of the time as a general approximator! In this article, I tried to describe a few activation functions used commonly.

@@ -1,0 +1,1 @@
+The following diagram tries to represent this “delay” or “order” with dash lines and solid lines (there are errors in this picture). Dash lines means the old memory, which is available at the beginning. Some solid lines means the new memory.

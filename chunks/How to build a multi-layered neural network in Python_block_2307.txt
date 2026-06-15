@@ -1,0 +1,1 @@
+Instead, we must create an additional hidden layer, consisting of four neurons (Layer 1). This layer enables the neural network to think about combinations of inputs. You can see from the diagram that the output of Layer 1 feeds into Layer 2.

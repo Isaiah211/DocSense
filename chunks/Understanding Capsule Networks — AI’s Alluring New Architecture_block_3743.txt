@@ -1,0 +1,1 @@
+Unlike in the boat and the house example, the predictions aren’t actually images. Instead, we are trying to predict the vector that describes the image. The capsule’s predictions for each class are made by multiplying it’s vector by a matrix of weights for each class that we are trying to predict.

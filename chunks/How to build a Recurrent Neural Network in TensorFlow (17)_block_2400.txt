@@ -1,0 +1,1 @@
+Also realize that this is just simple example to explain how a RNN works, this functionality could easily be programmed in just a few lines of code. The network will be able to exactly learn the echo behavior so there is no need for testing data. The program will update the plot as training progresses, shown in the picture below.

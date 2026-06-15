@@ -1,0 +1,1 @@
+It’s time to wrap up and train the network, in TensorFlow the graph is executed in a session. New data is generated on each epoch (not the usual way to do it, but it works in this case since everything is predictable). You can see that we are moving truncated_backprop_length steps forward on each iteration (line 15–19), but it is possible have different strides.

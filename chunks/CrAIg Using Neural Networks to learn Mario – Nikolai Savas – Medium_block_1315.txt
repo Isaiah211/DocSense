@@ -1,0 +1,1 @@
+While creating crAIg meant getting very little sleep at YHack, it was well worth it for a couple reasons. First of all, the NEAT algorithm is a very complex one. Learning how to implement a complex algorithm without losing myself in its complexity was an exercise in code cleanliness, despite being pressed for time because of the hackathon.

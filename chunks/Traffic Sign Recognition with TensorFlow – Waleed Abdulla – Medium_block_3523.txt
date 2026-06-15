@@ -1,0 +1,1 @@
+Knowing your data well from the start saves you a lot of time later. The images in this dataset are in an old .ppm format. So old, in fact, that most tools don’t support it.

@@ -1,0 +1,1 @@
+As you know, the goal of this research was to train an AI program to play Go at the level of world-class professional human players. To understand this challenge, let me first talk about something similar done for Chess. In the early 1990s, IBM came out with the Deep Blue computer which defeated the great champion Gary Kasparov in Chess.

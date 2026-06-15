@@ -1,0 +1,1 @@
+He inspires confidence, especially when sharing practical implementation tips and warnings about common pitfalls. A linear algebra refresher is provided and Ng highlights the aspects of calculus most relevant to machine learning. Evaluation is automatic and is done via multiple choice quizzes that follow each lesson and programming assignments.

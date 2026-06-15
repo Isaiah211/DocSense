@@ -1,0 +1,1 @@
+As such results are unimpressive: yes we can learn to play video-games from scratch, and master fully-observable games like chess and go, but I do not need to tell you that is nothing compared to solving problems in a complex world. Imagine an AI that can play Horizon Zero Dawn better than humans... I want to see that!

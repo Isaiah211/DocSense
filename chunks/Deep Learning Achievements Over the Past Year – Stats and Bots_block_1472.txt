@@ -1,0 +1,1 @@
+The same thing happens with the generator. The idea of generating an image using a vector is clearly shown in this project in the example of faces. You can change the vector and see how the faces change.

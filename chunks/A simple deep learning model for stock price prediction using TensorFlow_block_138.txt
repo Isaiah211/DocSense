@@ -1,0 +1,1 @@
+We will get into that a litte later in more detail. The model consists of four hidden layers. The first layer contains 1024 neurons, slightly more than double the size of the inputs.

@@ -1,0 +1,1 @@
+This is great. Sigmoid functions are one of the most widely used activation functions today. Then what are the problems with this?

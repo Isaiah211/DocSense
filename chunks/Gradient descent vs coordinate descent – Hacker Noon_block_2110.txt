@@ -1,0 +1,1 @@
+Despite the learning rate of the gradient descent procedure (which could indeed speed up convergence), the comparison between the two is fair at least in terms of complexity. Coordinate descent needs to perform operations for each coordinate update. Gradient descent performs the same number of operations .

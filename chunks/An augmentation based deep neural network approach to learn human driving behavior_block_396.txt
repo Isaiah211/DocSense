@@ -1,0 +1,1 @@
+Augmentation is a technique of manipulating the incoming training data to generate more instances of training data. This technique has been used to develop powerful classifiers with little data. https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html .

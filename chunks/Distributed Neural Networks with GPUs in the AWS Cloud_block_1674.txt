@@ -1,0 +1,1 @@
+Training 1 million samples took 96 seconds of GPU time. Using the same approach on the Lenovo S20 the total training time also reduced from 7 hours to 2 hours. This makes us believe that the implementation of these functions is suboptimal regardless of the card specifics.

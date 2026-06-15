@@ -1,0 +1,1 @@
+However, for two GPUs, you can go 8x/8x lanes or get a processor AND a motherboard that support 32 PCIe lanes. 32 lanes are outside the realm of desktop CPUs. An Intel Xeon with a MSI — X99A SLI PLUS will do the job.

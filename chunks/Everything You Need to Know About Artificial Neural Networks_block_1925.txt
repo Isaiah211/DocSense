@@ -1,0 +1,1 @@
+We want to retain information. We can achieve this through having bi-directional RNNs, or we can implement a recurrent hidden layer that gets modified with each feedforward. If you want to learn more about RNNs, check out either this tutorial where you implement an RNN in Python or this blog post where uses for an RNN are more thoroughly explained.

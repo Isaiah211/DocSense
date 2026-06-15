@@ -1,0 +1,1 @@
+If you’re interested in tackling challenges and making improvements like this, join our team! Chris Pinchak is a software engineer at Pinterest. Acknowledgements: This technology was built in collaboration with Dan Feng, Dmitry Chechik, Raghavendra Prabhu, Jeremy Carroll, Xun Liu, Varun Sharma, Joe Lau, Yuchen Liu, Tian-Ying Chang, and Yun Park.

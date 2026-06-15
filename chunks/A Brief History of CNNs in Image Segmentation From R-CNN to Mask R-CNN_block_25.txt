@@ -1,0 +1,1 @@
+Indeed, this is just what the Faster R-CNN team achieved. In the image above, you can see how a single CNN is used to both carry out region proposals and classification. This way, only one CNN needs to be trained and we get region proposals almost for free!

@@ -1,0 +1,4 @@
+ResNet also uses a pooling layer plus softmax as final classifier. Additional insights about the ResNet architecture are appearing every day:
+And Christian and team are at it again with a new version of Inception. The Inception module after the stem is rather similar to Inception V3:
+They also combined the Inception module with the ResNet module:
+This time though the solution is, in my opinion, less elegant and more complex, but also full of less transparent heuristics.

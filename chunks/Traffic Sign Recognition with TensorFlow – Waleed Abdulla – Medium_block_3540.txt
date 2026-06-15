@@ -1,0 +1,1 @@
+I’m also in the habit of printing the min() and max() values often. It’s a simple way to verify the range of the data and catch bugs early. This tells me that the image colors are the standard range of 0–255.

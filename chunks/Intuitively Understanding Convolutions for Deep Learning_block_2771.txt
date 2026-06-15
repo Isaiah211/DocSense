@@ -1,0 +1,1 @@
+This efficiency matters, because when you move from the 784 inputs of MNIST to real world 224×224×3 images, thats over 150,000 inputs. A dense layer attempting to halve the input to 75,000 inputs would still require over 10 billion parameters. For comparison, the entirety of ResNet-50 has some 25 million parameters.

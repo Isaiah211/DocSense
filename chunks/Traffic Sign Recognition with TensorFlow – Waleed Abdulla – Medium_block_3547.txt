@@ -1,0 +1,1 @@
+TensorFlow has a default global graph, but I don’t recommend using it. Global variables are bad in general because they make it too easy to introduce bugs. I prefer to create the graph explicitly.

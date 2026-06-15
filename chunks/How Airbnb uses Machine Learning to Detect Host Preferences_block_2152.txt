@@ -1,0 +1,1 @@
+With these points in mind, we decided to massage the problem into something resembling collaborative filtering. We used the multiplicity of responses for the same trip to reduce the noise coming from the latent factors in the guest-host interaction. To do so, we considered hosts’ average response to a certain trip characteristic in isolation.

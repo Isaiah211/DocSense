@@ -1,0 +1,2 @@
+☺
+I tried to pick companies that used machine intelligence methods as a defining part of their technology. Many of these companies clearly belong in multiple areas but for the sake of simplicity I tried to keep companies in their primary area and categorized them by the language they use to describe themselves (instead of quibbling over whether a company used “NLP” accurately in its self-description). If you want to get a sense for innovations at the heart of machine intelligence, focus on the core technologies layer.

@@ -1,0 +1,1 @@
+The addition of the bias b is broadcasted on all samples in the batch. You may wonder the variable name truncated_backprop_length is supposed to mean. When a RNN is trained, it is actually treated as a deep neural network with reoccurring weights in every layer.

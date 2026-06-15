@@ -1,0 +1,1 @@
+For instance, let us take the task of identifying the landscape in photograph. The landscape could be anything: freezing tundras, grasslands, forests and so on. Sounds like a pretty straight forward classification task right?

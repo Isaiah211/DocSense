@@ -1,0 +1,2 @@
+It is a chicken-in-the-egg problem! Today to solve reinforcement learning problems, one by one, we use standard neural networks:
+Both these components are obvious solutions to the problem, and currently are clearly wrong, but that is what everyone uses because they are some of the available building blocks. As such results are unimpressive: yes we can learn to play video-games from scratch, and master fully-observable games like chess and go, but I do not need to tell you that is nothing compared to solving problems in a complex world.

@@ -1,0 +1,8 @@
+BIS Papers No 7 21
+Gu et al (2001) develop a new model for the OTC derivatives market. Based on Merton’s (1992)
+theory on the replication of derivatives by a set of risky assets (other than the underlying asset) plus a
+risk-free asset, financial intermediaries can transform option orders into common format replicating
+portfolios, and match these orders in terms of replicating portfolios in a bundle-trading market. Thus by
+hedging and rebalancing the risks in terms of the replicating portfolios instead of a specific derivative,
+the aggregation and netting of portfolios, in particular the cancellations between orders on the same
+assets, will result in significant reduction in transaction costs.

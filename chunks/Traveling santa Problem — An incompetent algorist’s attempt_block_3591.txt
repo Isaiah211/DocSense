@@ -1,0 +1,6 @@
+(Correct me if I am wrong)
+Solution:A simple solution was to divide the map in manageable chunks.I used scipy’s distance matrix creation function scipy.spatial.distance.pdist() It creates distance matrix from coordinates.The matrix created by pdist is in compressed form (a flattened matrix of upper diagonal elements. scipy.spatial.distance.squareform() can create a square distance matrix from compressed matrix but that would waste a lot of ram.So I created a custom function which divided compressed matrix by rows so LKH can read it. Input:(coordinates)1 12 34 1
+output of pdist:(compressed upper column)1 2 4
+Output of squreform():(Uncompressed square matrix)0 1 21 0 42 4 0
+Output of my function which processed compressed matrix:(Upper diagonal elements)[[1,2],[4]]
+Lots of ram saved!

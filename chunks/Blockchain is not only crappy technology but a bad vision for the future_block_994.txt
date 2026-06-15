@@ -1,0 +1,1 @@
+This December I wrote a widely-circulated article on the inapplicability of blockchain to any actual problem. People objected mostly not to the technology argument, but rather hoped that decentralization could produce integrity. Let’s start with this: Venmo is a free service to transfer dollars, and bitcoin transfers are not free.

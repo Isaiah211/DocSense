@@ -1,0 +1,2 @@
+Here I classify 10 random images and print both, the predictions and the groundtruth labels for comparison. In the notebook, I include a function to visualize the results as well. It generates something like this:
+The visualization shows that the model is working , but doesn’t quantify how accurate it is.

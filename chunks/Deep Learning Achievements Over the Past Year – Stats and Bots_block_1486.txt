@@ -1,0 +1,1 @@
+We already reported in detail about this research. Briefly, with the help of Adversarial Autoencoder (AAE), you can learn the latent representation of molecules and then use it to search for new ones. As a result, 69 molecules were found, half of which are used to fight cancer, and the others have serious potential.

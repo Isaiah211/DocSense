@@ -1,0 +1,1 @@
+Luckily, raw audio models don’t discriminate between new tracks and popular tracks, so with their help, your friend’s song could end up in a Discover Weekly playlist alongside popular songs! But how can we analyze raw audio data, which seems so abstract? With convolutional neural networks!

@@ -1,0 +1,1 @@
+You DON’T need to know how to play Go to understand this paper. In fact, I myself have only read the first 3–4 lines in Wikipedia’s opening paragraph about it. Instead, surprisingly, I use some examples from basic Chess to explain the algorithms.

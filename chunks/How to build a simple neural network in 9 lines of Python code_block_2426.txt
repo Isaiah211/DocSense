@@ -1,0 +1,4 @@
+If the input is 0, the weight isn’t adjusted. Finally, we multiply by the gradient of the Sigmoid curve (Diagram 4). To understand this last one, consider that:
+The gradient of the Sigmoid curve, can be found by taking the derivative:
+So by substituting the second equation into the first equation, the final formula for adjusting the weights is:
+There are alternative formulae, which would allow the neuron to learn more quickly, but this one has the advantage of being fairly simple.

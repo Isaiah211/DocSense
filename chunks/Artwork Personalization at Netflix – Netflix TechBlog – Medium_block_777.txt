@@ -1,0 +1,1 @@
+An A/B test helps us see if the new algorithm is better than our current production system by trying it out on a random subset of members. Members in group A get the current production experience while members in group B get the new algorithm. If members in group B have higher engagement with Netflix, then we roll-out the new algorithm to the entire member population.

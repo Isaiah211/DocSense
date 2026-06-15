@@ -1,0 +1,1 @@
+But the computer is doing lots of matrix multiplication behind the scenes, which is hard to visualise. In my next blog post, I’ll visually represent our neural network with an animated diagram of her neurons and synaptic connections, so we can see her thinking. From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.

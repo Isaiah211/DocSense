@@ -1,0 +1,1 @@
+The length describes the probability, and the angle describes the instantiation parameters. In the example above, the angle actually matches the angle of the shape, but that’s not normally the case. In reality it’s not really feasible (or at least easy) to visualize the vectors like above, because these vectors are 8 dimensional.

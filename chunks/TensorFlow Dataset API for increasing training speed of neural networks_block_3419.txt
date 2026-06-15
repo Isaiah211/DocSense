@@ -1,0 +1,2 @@
+First, let’s load preprocessed data from disk:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/load_from_npz.py#L1-L7. Next the data will be converted from numphy arrays into TensorFlow tensors (tf.data.Dataset.from_tensor_slices method is used for that) and loaded into TensorFlow. Dataset.from_tensor_slices method takes placeholders with the same size of the 0th dimension element and returns dataset object.

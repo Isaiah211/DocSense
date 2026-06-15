@@ -1,0 +1,1 @@
+Normalization of color plane reduces variation in light by averaging pixel values, thus it removes highlighted and shadowed region and make image flatten. Following image is free from highlights & shadows and it is divided into one large green background, blue t-shirt and skin. Now the inRange method able to mask only t-shirt.

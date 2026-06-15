@@ -1,0 +1,2 @@
+Figure 2: System components
+Raw input to the system includes existing data about Pins, boards, Pinners, and search queries, as well as explicit human curation signals about interests. With this data, we’re able to construct a continuously evolving interest dictionary, which provides the foundation to support other key components, such as interest feeds, interest recommendations, and related interests. From a technology standpoint, interests are text strings that represent entities for which a group of Pinners might have a shared passion.

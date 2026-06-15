@@ -1,0 +1,1 @@
+You have a stellar concept that can be implemented using a machine learning model. Feeling ebullient, you open your web browser and search for relevant data. Chances are, you find a dataset that has around a few hundred images.

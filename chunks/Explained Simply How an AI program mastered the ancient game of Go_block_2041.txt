@@ -1,0 +1,1 @@
+If you really want to dig into details and make sure of everything, you might want to read a little about RL first. Once you have the SL network, trained in a supervised manner using human player moves with the human moves data, as I said before you have to let her practice by itself and get better. That’s what we’re doing here.

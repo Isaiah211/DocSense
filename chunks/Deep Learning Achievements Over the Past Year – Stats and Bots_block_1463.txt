@@ -1,0 +1,1 @@
+Perhaps you’ve seen Quick, Draw! from Google, where the goal is to draw sketches of various objects in 20 seconds. The corporation collected this dataset in order to teach the neural network to draw, as Google described in their blog and article.

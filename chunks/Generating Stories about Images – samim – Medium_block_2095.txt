@@ -1,0 +1,1 @@
+This experiment started by running 5000 randomly selected web-images through neural-storyteller and experimenting with hyper-parameters. neural-storyteller comes with 2 pre-trained models: One trained on 14 million passages of romance novels, the other trained on Taylor Swift Lyrics. Inputs and outputs were manually filtered and recombined into two videos.

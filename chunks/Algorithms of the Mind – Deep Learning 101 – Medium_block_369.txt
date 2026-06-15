@@ -1,0 +1,1 @@
+In seeing with our brain, not with our eyes, language drives perception. With machine learning, we also observe something similar. In supervised learning, we train our models to best match images (or text, audio, etc.) against provided labels or categories.

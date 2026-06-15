@@ -1,0 +1,1 @@
+The problem was that the first path was so good that the second path struggled to find good path. The difference between the two paths was big. Path1 ~= 6.2MPath2 ~= 7.4MFor a long time I thought this would require either solving both paths simultaneously or using genetic algorithm or similar algorithm to combine both paths.

@@ -1,0 +1,1 @@
+We work in a dynamic, highly-collaborative environment, and this project is an example of how engineers and data scientists at Airbnb work together to arrive at a solution that meets a diverse set of needs. If you’re interested in learning more, contact us about our data science and engineering teams! Originally published at nerds.airbnb.com on June 16, 2014.

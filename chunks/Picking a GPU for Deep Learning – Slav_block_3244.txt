@@ -1,0 +1,1 @@
+Also, for more GPUs you need a faster processor and hard disk to be able to feed them data quickly enough, so they don’t sit idle. Nvidia has been focusing on Deep Learning for a while now, and the head start is paying off. Their CUDA toolkit is deeply entrenched.

@@ -1,0 +1,2 @@
+In Spotify’s case, they’ve been modified for use on audio data instead of pixels. Here’s an example of a neural network architecture:
+This particular neural network has four convolutional layers, seen as the thick bars on the left, and three dense layers, seen as the more narrow bars on the right. The inputs are time-frequency representations of audio frames, which are then concatenated, or linked together, to form the spectrogram.

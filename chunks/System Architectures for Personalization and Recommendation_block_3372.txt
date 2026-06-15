@@ -1,0 +1,1 @@
+A trivial example might be to periodically aggregate statistics from millions of movie play events to compile baseline popularity metrics for recommendations. Offline systems also have simpler engineering requirements. For example, relaxed response time SLAs imposed by clients can be easily met.

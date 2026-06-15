@@ -1,0 +1,1 @@
+We hypothesize that for many applications, using only spatial features is sufficient for achieving high accuracy. This approach has the benefit of being relatively simple, or at least minimal. It’s naive because it ignores the information encoded between multiple frames of the video.

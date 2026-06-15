@@ -1,0 +1,3 @@
+But I did notice:
+After running Tübingen in the style of The Starry Night with a 1:10e3 ratio and 100 iterations, it seems to converge on something matching the general structure but lacking the overall palette:
+I’d like to understand this algorithm well enough to generalize it to other media (mainly thinking about sound right now), so if you have an insights or other implementations please share them in the comments! I’ve started testing another implementation that popped up this morning from Justin Johnson. His follow the original paper very closely, except for using unequal weights when balancing different layers used for style reconstruction.

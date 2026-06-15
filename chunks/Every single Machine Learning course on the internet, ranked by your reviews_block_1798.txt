@@ -1,0 +1,1 @@
+It has a 3.46-star weighted average rating over 37 reviews. Machine Learning for Trading (Georgia Tech/Udacity): Focuses on applying probabilistic machine learning approaches to trading decisions. Uses Python.

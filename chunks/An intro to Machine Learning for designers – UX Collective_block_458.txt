@@ -1,0 +1,1 @@
+Understanding the problem you are trying to solve and the available data will constrain the types of machine learning you can use (e.q. identifying objects in an image with supervised learning requires a labeled data set of images). However, constraints are the fruit of creativity.

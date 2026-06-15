@@ -1,0 +1,1 @@
+This flow chart summarizes the modeling technique. We ran this model on segments of hosts on our cluster using a user-generated-function (UDF) on Hive. The UDF is written in Python; its inputs are accommodation requests, hosts’ response to them and a few other host features.

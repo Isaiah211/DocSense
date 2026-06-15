@@ -1,0 +1,1 @@
+ResNet uses a fairly simple initial layers at the input (stem): a 7x7 conv layer followed with a pool of 2. Contrast this to more complex and less intuitive stems as in Inception V3, V4. ResNet also uses a pooling layer plus softmax as final classifier.

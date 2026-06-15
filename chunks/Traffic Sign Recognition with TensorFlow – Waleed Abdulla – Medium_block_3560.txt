@@ -1,0 +1,1 @@
+The argmax output will be integers in the range 0 to 61. Choosing the right loss function is an area of research in and of itself, which I won’t delve into it here other than to say that cross-entropy is the most common function for classification tasks. If you’re not familiar with it, there is a really good explanation here and here.

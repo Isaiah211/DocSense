@@ -1,0 +1,2 @@
+Reflections on the landscape:
+We’ve seen a few great articles recently outlining why machine intelligence is experiencing a resurgence, documenting the enabling factors of this resurgence. (Kevin Kelly, for example chalks it up to cheap parallel computing, large datasets, and better algorithms.) I focused on understanding the ecosystem on a company-by-company level and drawing implications from that. Yes, it’s true, machine intelligence is transforming the enterprise, industries and humans alike.

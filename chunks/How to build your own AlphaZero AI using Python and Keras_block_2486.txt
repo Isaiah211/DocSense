@@ -1,0 +1,1 @@
+This has been learnt by the neural network, without any human input. There is a game.py file for a game called ‘Metasquares’ in the games folder. This involves placing X and O markers in a grid to try to form squares of different sizes.

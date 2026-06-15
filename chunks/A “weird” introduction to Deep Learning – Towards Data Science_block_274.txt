@@ -1,0 +1,1 @@
+10. Idea: Capsule Networks. And there are many others but I think those are really important theoretical and algorithmic breakthroughs that are changing the world, and that gave momentum for the DL revolution.

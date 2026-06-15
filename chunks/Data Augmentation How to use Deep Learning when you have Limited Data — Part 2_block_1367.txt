@@ -1,0 +1,1 @@
+Data Augmentation Factor = Arbitrary. Translation just involves moving the image along the X or Y direction (or both). In the following example, we assume that the image has a black background beyond its boundary, and are translated appropriately.

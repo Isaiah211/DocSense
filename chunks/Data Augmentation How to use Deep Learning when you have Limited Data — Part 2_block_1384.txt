@@ -1,0 +1,1 @@
+We have not explored these techniques in great depth as we are not concerned with their inner working. We can use existing trained models, along with the magic of transfer learning, to use it for augmentation. What if you wanted to translate an image that doesn’t have a black background?

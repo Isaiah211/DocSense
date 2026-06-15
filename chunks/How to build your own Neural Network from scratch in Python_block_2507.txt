@@ -1,0 +1,1 @@
+Now that we have our complete python code for doing feedforward and backpropagation, let’s apply our Neural Network on an example and see how well it does. Our Neural Network should learn the ideal set of weights to represent this function. Note that it isn’t exactly trivial for us to work out the weights just by inspection alone.

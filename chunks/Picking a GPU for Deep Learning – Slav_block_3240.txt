@@ -1,0 +1,1 @@
+Tim Dettmers points out that having 8 PCIe lanes per card should only decrease performance by “0–10%” for two GPUs. For a single card, any desktop processor and chipset like Intel i5 7500 and Asus TUF Z270 will use 16 lanes. However, for two GPUs, you can go 8x/8x lanes or get a processor AND a motherboard that support 32 PCIe lanes.

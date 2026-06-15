@@ -1,0 +1,2 @@
+It loads the game rules and then iterates through the main loop of the algorithm, which consist of three stages:
+There are two agents involved in this loop, the best_player and the current_player. The best_player contains the best performing neural network and is used to generate the self play memories. The current_player then retrains its neural network on these memories and is then pitched against the best_player.

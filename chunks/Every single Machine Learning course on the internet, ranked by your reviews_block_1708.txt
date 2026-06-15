@@ -1,0 +1,1 @@
+Also, data visualization. For this guide, I spent a dozen hours trying to identify every online machine learning course offered as of May 2017, extracting key bits of information from their syllabi and reviews, and compiling their ratings. My end goal was to identify the three best courses available and present them to you, below.

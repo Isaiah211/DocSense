@@ -1,0 +1,1 @@
+A Torch7 implementation of this network is available here An implementation in Keras/TF is availble here. It is interesting to note that the recent Xception architecture was also inspired by our work on separable convolutional filters. A new MobileNets architecture is also available since April 2017.

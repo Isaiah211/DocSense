@@ -1,0 +1,1 @@
+It finds the most obvious features that distinguishes one class from another. Here, the feature was that all cars of Brand A were facing left, and all cars of Brand B are facing right. How do we prevent this happening?

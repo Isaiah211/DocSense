@@ -1,0 +1,1 @@
+It also allows designers to think outside of the pixel perfect box when problem solving. For the same reasons, designers should know about machine learning. Put simply, machine learning is a “field of study that gives computers the ability to learn without being explicitly programmed” (Arthur Samuel, 1959).

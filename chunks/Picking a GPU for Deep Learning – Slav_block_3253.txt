@@ -1,0 +1,1 @@
+Power supply: It should provide enough power for the CPU and the GPUs, plus 100 watts extra. You can get all of this for $500 to $1000. Or even less if you buy a used workstation.

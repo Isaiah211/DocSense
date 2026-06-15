@@ -1,0 +1,1 @@
+For that reason, my next project is to get capsule networks to work with the CIFAR and smallNORB datasets. Thanks for reading! If you have any questions, feel free to reach out at bourdakos1@gmail.com, connect with me on LinkedIn, or follow me on Medium.

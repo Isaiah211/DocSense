@@ -1,0 +1,1 @@
+We’ll deal with scaling inward in the next section, as it reduces the image size, forcing us to make assumptions about what lies beyond the boundary. Below are examples or images being scaled. You can perform scaling by using the following commands, using scikit-image.

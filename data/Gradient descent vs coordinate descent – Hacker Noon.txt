@@ -1,0 +1,18 @@
+Title: Gradient descent vs coordinate descent – Hacker Noon
+Author: Francesco Gadaleta
+----------------------------------------
+
+When it comes to function minimization, it’s time to open a book of optimization and linear algebra. I am currently working on variable selection and lasso-based solutions in genetics. What lasso does is basically minimizing the loss function and an penalty in order to set to zero some regression coefficients and select only those covariates that are really associated with the response. Pheew, the shortest summary of lasso ever!
+We all know that, provided the function to be minimized is convex, a good direction to follow, in order to find a local minimum, is towards the negative gradient of the function. Now, my question is how good or bad is following the negative gradient with respect to a coordinate descent approach that loops across all dimensions and minimizes along each?
+There is no better way to try this with real code and start measuring. Hence, I wrote some code that implements both gradient descent and coordinate descent.
+The comparison might not be completely fair because the learning rate in the gradient descent procedure is fixed at 0.1 (which in some cases might be slower indeed). But even with some tuning (maybe with some linear search) or adaptive learning rates, it’s quite common to see that coordinate descent overcomes its brother gradient descent many times.
+This occurs much more often when the number of covariates becomes very high, as in many computational biology problems. In the figure below, I plot the analytical solution in red, the gradient descent minimisation in blue and the coordinate descent in green, across a number of iterations.
+A small explanation is probably necessary to read the function that performs coordinate descent. For a more mathematical explanation refer to the original post.
+Coordinate descent will update each variable in a Round Robin fashion. Despite the learning rate of the gradient descent procedure (which could indeed speed up convergence), the comparison between the two is fair at least in terms of complexity.
+Coordinate descent needs to perform operations for each coordinate update. Gradient descent performs the same number of operations . The R code that performs this comparison and generates the plot above is given below
+Feel free to download this code (remember to cite me and send me some cookies).
+Happy descent!
+Originally published at worldofpiggy.com on May 31, 2014.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Machine learning, math, crypto, blockchain, fitchain.io
+how hackers start their afternoons.

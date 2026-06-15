@@ -1,0 +1,7 @@
+In order to introduce more complex relationships in our data, we can introduce “hidden” layers in this model, which would end up looking something like:
+For a more detailed explanation of neural networks, you can check out the following links:
+In our product page classifier algorithm, we setup a neural network with 1 input layer with 27 nodes, 1 hidden layer with 25 nodes, and 1 output layer with 3 output nodes. Our input layer modeled several features, including:
+Our output layer had the following:
+Our algorithm for the neural network took the following steps:
+The ultimate output is two sets of input layers (T1 and T2), that we can use in a matrix equation to predict page type for any given web page. This works like so:
+So how did we do?

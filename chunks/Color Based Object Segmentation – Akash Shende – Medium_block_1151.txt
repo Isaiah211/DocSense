@@ -1,0 +1,1 @@
+This is happening because light from one side of body whitens the right side at the same time creates shadow in left region. Thus, it creates different shades of blue and results into partial segmentation. Normalization of color plane reduces variation in light by averaging pixel values, thus it removes highlighted and shadowed region and make image flatten.

@@ -1,0 +1,1 @@
+But one could now wonder why we have to spend so much time in crafting architectures, and why instead we do not use data to tell us what to use, and how to combine modules. This would be nice, but now it is work in progress. Some initial interesting results are here.

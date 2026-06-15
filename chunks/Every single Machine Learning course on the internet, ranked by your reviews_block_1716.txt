@@ -1,0 +1,3 @@
+Below you’ll find helpful visualization of these core steps:
+The ideal course introduces the entire process and provides interactive examples, assignments, and/or quizzes where students can perform each task themselves. First off, let’s define deep learning. Here is a succinct description:
+As would be expected, portions of some of the machine learning courses contain deep learning content.

@@ -1,0 +1,1 @@
+Gartner predicts that by 2020 there will be 25 billion connected devices with the vast majority of those being consumer-centric. Today my Jawbone is a fairly basic data collection device. It knows that I walked 8,000 steps and slept too little, but it doesn’t drive me to action other than providing me with a visualization of the data.

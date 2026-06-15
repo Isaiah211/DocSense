@@ -1,0 +1,1 @@
+While both technologies seem completely magical, they are not. They are currently functional and have something very special in common: they don’t require a UI for computer input. As a designer, this is an unsettling trend to internalize.

@@ -1,0 +1,1 @@
+This is the most complete list and the Big-O is at the very end, enjoy... This machine learning cheat sheet will help you find the right estimator for the job which is the most difficult part. The flowchart will help you check the documentation and rough guide of each estimator that will help you to know more about the problems and how to solve it.

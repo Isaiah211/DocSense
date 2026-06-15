@@ -1,0 +1,1 @@
+• if you cannot increase the input image size, reduce the stride in the con- sequent layers, it has roughly the same effect. • if your network has a complex and highly optimized architecture, like e.g. GoogLeNet, be careful with modifications.

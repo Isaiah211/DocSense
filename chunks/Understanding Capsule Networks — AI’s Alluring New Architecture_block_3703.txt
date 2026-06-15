@@ -1,0 +1,7 @@
+We can do something like this:
+With these weights, our kernel will look like this:
+However, kernels are generally square — so we can pad it with more zeros to look like this:
+Here’s a nice gif to see a convolution in action:
+Note: The dimension of the output is reduced by the size of the kernel plus 1. For example:(7 — 3) + 1 = 5 (more on this in the next section)
+Here’s what the original image looks like after doing a convolution with the kernel we crafted:
+You might notice that a couple edges are missing. Specifically, the horizontal ones.

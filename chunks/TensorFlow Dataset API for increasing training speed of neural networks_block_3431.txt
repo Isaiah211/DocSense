@@ -1,0 +1,2 @@
+Adaptive Application Security for DevOps. @NGINX partner. @YCombibator S16
+Wallarm is DevOps-friendly WAF with hybrid architecture uniquely suited for cloud applications.

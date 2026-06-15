@@ -1,0 +1,1 @@
+Conversely, the engineering that goes into creating beastly engines like AWS is anything but common. The big companies driving technology forward — Amazon, Google, Facebook, Nvidia, Space-X, and so on — are typically not looking for people with a ‘basic understanding of JavaScript’. AWS serves billions of users per day.

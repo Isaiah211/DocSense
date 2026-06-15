@@ -1,0 +1,1 @@
+One way to mitigate this situation is to add more pictures such that we account for all the seasonal changes. But that is an arduous task. Extending our data augmentation concept, imagine how cool it would be to generate effects such as different seasons artificially?

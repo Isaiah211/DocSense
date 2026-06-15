@@ -1,0 +1,1 @@
+So given a starting and stopping point, as well as a number of values, linspace will evenly space them out for you in a NumPy array. This is especially helpful for data visualizations and declaring axes when plotting. You may have ran into this when dropping a column in Pandas or summing values in NumPy matrix.

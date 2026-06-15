@@ -1,0 +1,6 @@
+Many financial markets are essentially common-value double-auction markets and as more
+transactions are made over the public network, inadequacy in authentication and other security
+measures may lead to illegal transactions. Wang et al (2001) study the shill bidding issues in the
+context of online auctions and propose that auctioneers can properly design a fee structure to prevent
+shill bidding. Financial markets may also design such mechanisms to deter illegal buying and selling of
+securities by “shills” of the insiders.

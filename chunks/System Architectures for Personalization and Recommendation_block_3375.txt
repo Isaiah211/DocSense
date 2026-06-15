@@ -1,0 +1,1 @@
+However, because offline processing does not have strong latency requirements, it will not react quickly to changes in context or new data. Ultimately, this can lead to staleness that may degrade the member experience. Offline computation also requires having infrastructure for storing, computing, and accessing large sets of precomputed results.

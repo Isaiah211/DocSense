@@ -1,0 +1,1 @@
+It is a tremendous engineering challenge, but we are now running all our algorithms directly on the device. Whether it’s the machine learning classifiers, the signal processing, the natural language processing or the email mining, they are all confined to our smartphones, and never uploaded to our servers. Basically, it means we can now harness the full power of A.I.

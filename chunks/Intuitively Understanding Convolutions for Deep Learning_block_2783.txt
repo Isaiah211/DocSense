@@ -1,0 +1,2 @@
+The idea at core is simple: optimize a image (usually initialized with random noise) to activate a filter as strongly as possible. This does make intuitive sense: if the optimized image is completely filled with edges, that’s strong evidence that’s what the filter itself is looking for and is activated by. Using this, we can peek into the learnt filters, and the results are stunning:
+One important thing to notice here is that convolved images are still images.

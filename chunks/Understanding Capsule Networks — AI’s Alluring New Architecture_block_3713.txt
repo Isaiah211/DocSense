@@ -1,0 +1,1 @@
+If we don’t apply some sort of activation function to the output of our layers, then the entire neural net could be described as a linear function. This would mean that all this stuff we are doing is kind of pointless. Adding a non-linearity allows us to describe all kinds of functions.

@@ -1,0 +1,1 @@
+If you think about how this is indexed in Python, rows are at 0 and columns are at 1, much like how we declare our axis value. Crazy, right? If you’re familiar with SQL, then these concepts will probably come a lot easier for you.

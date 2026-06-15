@@ -1,0 +1,1 @@
+Introduction to Machine Learning (DataCamp): Covers classification, regression, and clustering algorithms. Uses R. Fifteen videos and 81 exercises with an estimated timeline of six hours.

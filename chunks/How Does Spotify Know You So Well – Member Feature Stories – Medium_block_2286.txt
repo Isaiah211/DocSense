@@ -1,0 +1,1 @@
+Then, much like in collaborative filtering, the NLP model uses these terms and weights to create a vector representation of the song that can be used to determine if two pieces of music are similar. Cool, right? First, a question.

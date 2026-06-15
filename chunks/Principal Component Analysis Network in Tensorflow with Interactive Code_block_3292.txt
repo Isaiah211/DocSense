@@ -1,0 +1,3 @@
+[Batch Size,16,16,1] → [Batch Size,8,8,1] → [Batch Size,4,4,1] → [Batch Size,2,2,1] → [Batch Size,1,1,1] → [Batch Size,1,1,10] → [Batch Size,10]
+And we can perform classification with soft max layer as any other network does. Results: Principle Component Network
+As seen above, the training accuracy have stagnated at 18 percent accuracy which is horrible LOL. But I suspected that the network didn’t have enough learning capacity from the start and this was best it could do.

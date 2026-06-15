@@ -1,0 +1,2 @@
+Here are the final standings:
+Clearly, the later versions of the neural network are superior to the earlier versions, winning most of their games. It also appears that the learning hasn’t yet saturated — with further training time, the players would continue to get stronger, learning more and more intricate strategies. As an example, one clear strategy that the neural network has favoured over time is grabbing the centre column early.

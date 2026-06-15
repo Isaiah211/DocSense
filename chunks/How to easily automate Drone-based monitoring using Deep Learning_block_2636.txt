@@ -1,0 +1,1 @@
+3. Model training: At Nanonets we employ the principle of Transfer Learning while training on your images. This involves re-training a pre-trained model that has already been pre-trained with a large number of aerial images.

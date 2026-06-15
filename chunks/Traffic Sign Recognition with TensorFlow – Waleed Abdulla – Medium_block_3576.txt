@@ -1,0 +1,1 @@
+Next, we calculate a better evaluation metric. To properly measure how the model generalizes to data it hasn’t seen, I do the evaluation on test data that I didn’t use in training. The BelgiumTS dataset makes this easy by providing two separate sets, one for training and one for testing.

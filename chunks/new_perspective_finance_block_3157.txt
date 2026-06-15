@@ -1,0 +1,4 @@
+Diamond, D and P Dybvig (1983): “Bank runs, deposit insurance and liquidity”, Journal of Political
+Economy, vol 91, pp 401-19. Diamond, D (1984): “Financial intermediation and delegated monitoring”, Review of Economic Studies,
+vol 51, pp 393-414. Easley, D and M O’Hara (1987): “Price, trade size, and information in securities markets”, Journal of
+Financial Economics, vol 19, pp 69-90.

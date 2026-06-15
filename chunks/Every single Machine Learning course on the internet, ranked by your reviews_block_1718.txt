@@ -1,0 +1,3 @@
+If you are interested in deep learning specifically, we’ve got you covered with the following article:
+My top three recommendations from that list would be:
+Several courses listed below ask students to have prior programming, calculus, linear algebra, and statistics experience. These prerequisites are understandable given that machine learning is an advanced discipline. Missing a few subjects?

@@ -1,0 +1,3 @@
+This parameter helps our error adjustment find the lowest error rate:
+synapse_0 += alpha * synapse_0_weight_update
+We use 20 neurons in our hidden layer, you can adjust this easily. These parameters will vary depending on the dimensions and shape of your training data, tune them down to ~10^-3 as a reasonable error rate. The synapse.json file contains all of our synaptic weights, this is our model.

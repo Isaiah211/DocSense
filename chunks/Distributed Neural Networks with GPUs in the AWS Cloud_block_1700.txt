@@ -1,0 +1,1 @@
+Levering the public AWS cloud can have obvious benefits, provided care is taken in the customization and use of the instance resources. By sharing our experience we hope to make it much easier and straightforward for others to develop similar applications. We are always looking for talented researchers and engineers to join our team.

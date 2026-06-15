@@ -1,0 +1,1 @@
+We had no flexibility and really could only handle inputs we’d seen before. This was by no means what we wanted. Now introduce deep learning, which is when we have more than one hidden layer.

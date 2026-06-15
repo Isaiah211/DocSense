@@ -1,0 +1,2 @@
+You come away from the course with the satisfaction of genuinely understanding machine learning, enough so that you could even build your own machine learning framework from scratch. Udacity
+Udacity’s Machine Learning Engineer Nanodegree program is the trade school alternative to Coursera’s academia. From basic statistics to full-fledged deep learning, Udacity teaches you a plethora of industry standard techniques to complete the program’s well-crafted projects.

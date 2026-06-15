@@ -1,0 +1,1 @@
+Highway networks, inspired by LSTMs, are a method of constructing networks with hundreds, even thousands, of layers. Let’s see how we construct them using TensorFlow. TL;DR Fully-connected highway repo and convolutional highway repo.

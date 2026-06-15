@@ -1,0 +1,1 @@
+Some of you might be thinking that the scenario described above is not what people think of as a distributed Machine Learning in the traditional sense. For instance, in the work by Ng et al. cited above, they distribute the learning algorithm itself between different machines.

@@ -1,0 +1,1 @@
+To prevent this, you choose only very distinct-looking game states. So for example, instead of all 50 moves of a game, you only choose 5 of them and add them to the training set. DeepMind took 30 million positions from 30 million different games, to reduce any chances of there being duplicate data.

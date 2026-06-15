@@ -1,0 +1,1 @@
+For some sources, newer Pins are intuitively better, while for others, newness is less important. We shifted away from our previously time-ordered home feed system and onto a more flexible one. The core feature of the smart feed architecture is its separation of available, but unseen, content and content that’s already been presented to the user.

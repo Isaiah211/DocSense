@@ -1,0 +1,1 @@
+The weight of the original synapse is copied on to the second synapse, while the first synapse is given a weight of 1. One important fact to note is that the first synapse (bright red in the above picture) is not actually deleted, but merely “disabled”. This means that it exists in the genome, but it is marked as inactive.

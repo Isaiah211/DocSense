@@ -1,0 +1,2 @@
+You have both the notebook and the CLI! I take my hat off to them and their contribution to society. Other interesting applications of deep learning that you can try for free or for little cost are (some of them are on private betas):
+Thanks for reading this weird introduction to Deep Learning.

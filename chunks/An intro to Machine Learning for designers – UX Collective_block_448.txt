@@ -1,0 +1,1 @@
+Supervised learning allows us to make predictions using correctly labeled data. Labeled data is a group of examples that has informative tags or outputs. For example, photos with associated hashtags or a house’s features (eq.

@@ -1,0 +1,1 @@
+It doesn’t use these two networks as a replacement of the Monte Carlo Tree Search. Instead, it uses the neural networks to make the MCTS algorithm work better... and it got so much better that it reached superhuman levels.

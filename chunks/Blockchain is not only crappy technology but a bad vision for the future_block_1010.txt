@@ -1,0 +1,1 @@
+In contrast, on a blockchain system, by executing the transaction as a record in a tamper-proof repository not owned by anyone, the transfer of money and digital product is automatic, atomic, and direct, with no middleman needed to arbitrate the transaction, dictate terms, and take a fat cut on the way. Isn’t that better for everybody? Hm.

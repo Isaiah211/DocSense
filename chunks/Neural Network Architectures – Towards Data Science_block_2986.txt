@@ -1,0 +1,3 @@
+The Xception module is presented here:
+This network can be anyone’s favorite given the simplicity and elegance of the architecture, presented here:
+The architecture has 36 convolutional stages, making it close in similarity to a ResNet-34. But the model and code is as simple as ResNet and much more comprehensible than Inception V4. A Torch7 implementation of this network is available here An implementation in Keras/TF is availble here.

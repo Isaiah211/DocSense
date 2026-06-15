@@ -1,0 +1,1 @@
+Here we try to make a distinction between data and events, although the boundary is certainly blurry. We think of events as small units of time-sensitive information that need to be processed with the least amount of latency possible. These events are routed to trigger a subsequent action or process, such as updating a nearline result set.

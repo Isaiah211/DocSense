@@ -1,0 +1,2 @@
+This is what the lengths of the vectors look like with the input of 4:
+The fifth block is the brightest, which means high confidence. Remember that 0 is the first class, meaning 4 is our predicted class. The reconstruction portion of the implementation isn’t very interesting.

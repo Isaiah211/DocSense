@@ -1,0 +1,1 @@
+Machine learning is also helpful in understanding how users are grouped. This insight can then be used to look at analytics on a group-by-group basis. From here, different features can be evaluated across groups or be rolled out to only a particular group of users.

@@ -1,0 +1,1 @@
+It is based on a C++ low level backend but is usually controlled via Python (there is also a neat TensorFlow library for R, maintained by RStudio). TensorFlow operates on a graph representation of the underlying computational task. This approach allows the user to specify mathematical operations as elements in a graph of data, variables and operators.

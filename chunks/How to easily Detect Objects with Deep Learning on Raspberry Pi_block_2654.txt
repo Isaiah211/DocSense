@@ -1,0 +1,3 @@
+Object detection is of significant practical importance and has been used across a variety of industries. Some of the examples are mentioned below:
+Object Detection can be used to answer a variety of questions. These are the broad categories:
+There are a variety of models/architectures that are used for object detection.

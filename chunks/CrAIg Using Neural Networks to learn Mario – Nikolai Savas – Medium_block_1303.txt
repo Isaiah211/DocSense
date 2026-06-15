@@ -1,0 +1,2 @@
+2. Mutate Add Synapse
+Adding a synapse means finding two previously unconnected nodes and connecting them with a synapse. This new synapse is given a random weight.

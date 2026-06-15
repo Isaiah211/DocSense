@@ -1,0 +1,1 @@
+And the reward function is just the probability of the action predicted by a human expert; you want to increase this probability. But hey — you don’t really need to think too much about this. Normally you train the network so that it minimises a loss function, which is essentially the error/difference between predicted outcome and actual label.

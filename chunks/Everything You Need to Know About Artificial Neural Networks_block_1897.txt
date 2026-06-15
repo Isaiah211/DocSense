@@ -1,0 +1,1 @@
+It’s a long story, and I encourage you to listen to this podcast episode to listen to the “fathers” of modern ANNs talk about their perspective of the topic. To quickly summarize, there’s a hand full of factors that kept ANNs from becoming more popular. We didn’t have the computer processing power and we didn’t have the data to train them.

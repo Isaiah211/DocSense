@@ -1,0 +1,1 @@
+They appear in crAIg’s brain for added complexity as he evolves. You can also see that at his time of death (Mario just died to a goomba), he was trying to press the “R” and “B” buttons. While learning Mario is a neat application of neural networks and neuroevolution, it serves mostly as a means to demonstrate the power of these self-evolving neural networks.

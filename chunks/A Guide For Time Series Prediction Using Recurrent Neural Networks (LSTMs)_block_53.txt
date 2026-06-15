@@ -1,0 +1,1 @@
+Let us begin by talking about sequence problems. The simplest machine learning problem involving a sequence is a one to one problem. In this case, we have one data input or tensor to the model and the model generates a prediction with the given input.

@@ -1,0 +1,2 @@
+As an example, if we have the table of clients below
+we can create features by finding the month of the joined column or taking the natural log of the income column. These are both transformations because they use information from only one table. On the other hand, aggregations are performed across tables, and use a one-to-many relationship to group observations and then calculate statistics.

@@ -1,0 +1,1 @@
+Neural network language models are typically deployed on large servers, requiring huge computational resources. Getting the tech to fit into a handheld mobile device would be no small feat. After many months of trial, error and lots of experimentation, the team realized they might have found an answer with a combination of two approaches.

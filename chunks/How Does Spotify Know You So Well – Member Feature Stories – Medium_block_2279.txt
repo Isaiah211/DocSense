@@ -1,0 +1,1 @@
+X is a user vector, representing one single user’s taste, and Y is a song vector, representing one single song’s profile. Now we have 140 million user vectors and 30 million song vectors. The actual content of these vectors is just a bunch of numbers that are essentially meaningless on their own, but are hugely useful when compared.

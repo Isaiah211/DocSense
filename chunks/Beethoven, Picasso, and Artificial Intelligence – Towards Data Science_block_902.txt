@@ -1,0 +1,1 @@
+Two of these such methods are presented in the form of Sketch-RNN and CAN (Creative Adversarial Networks). Each of these methods have their advantages over GANs. First, let’s explore what exactly a GAN is.

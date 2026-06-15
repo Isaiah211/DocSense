@@ -1,0 +1,2 @@
+In his blog, Deepmind reported that the introduction of additional losses (auxiliary tasks), such as the prediction of a frame change (pixel control) so that the agent better understands the consequences of the actions, significantly speeds up learning. Learning results:
+4.2. Learning robotsIn OpenAI, they have been actively studying an agent’s training by humans in a virtual environment, which is safer for experiments than in real life.

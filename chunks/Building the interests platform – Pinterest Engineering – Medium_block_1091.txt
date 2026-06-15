@@ -1,0 +1,1 @@
+On top of this dictionary service, we can build different levels of reviewing system. With the Interests dictionary, we can associate Pins, boards, and Pinners with representative interests. One of the initial ways we experimented with this was launching a preview of a page where Pinners can explore their interests.

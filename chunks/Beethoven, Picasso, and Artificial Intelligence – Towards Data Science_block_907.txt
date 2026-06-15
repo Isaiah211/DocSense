@@ -1,0 +1,1 @@
+But what if we take it a step further? Many issues associated with the GAN are simply limitations on what it can do. The GAN is powerful, but can’t do quite as much as we would like.

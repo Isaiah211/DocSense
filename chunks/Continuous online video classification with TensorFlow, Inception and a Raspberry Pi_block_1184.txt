@@ -1,0 +1,3 @@
+It’s always a good idea to run some known data through a trained network to sanity check the results, so we’ll do that here. Here’s the code we use to classify a single image manually through our retrained model:
+And here are the results of spot checking individual frames:
+Before we transfer everything to our Pi and do this in real-time, let’s use a different batch of recorded data and see how well we do on that set. To get this dataset, and to make sure we don’t have any data leakage into our training set, we separately record another 19 minutes of the football broadcast.

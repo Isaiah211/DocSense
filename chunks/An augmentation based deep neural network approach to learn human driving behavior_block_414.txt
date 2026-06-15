@@ -1,0 +1,1 @@
+These convolution layers were followed by 3 fully connected layers. All the convolution blocks and the 2 following fully connected layers had exponential relu (ELU) as activation function. I chose leaky relu to make transition between angles smoother.

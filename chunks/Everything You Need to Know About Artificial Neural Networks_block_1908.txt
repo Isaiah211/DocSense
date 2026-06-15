@@ -1,0 +1,1 @@
+Now that we have an understanding of artificial neural networks and somewhat of an understanding in how they work, there’s another question that should be on your mind. How do we know how many neurons we need to use? And why did you bold the word layers earlier?

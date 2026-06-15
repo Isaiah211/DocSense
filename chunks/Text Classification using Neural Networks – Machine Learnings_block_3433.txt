@@ -1,0 +1,1 @@
+A fundamental piece of machinery inside a chat-bot is the text classifier. Let’s look at the inner workings of an artificial neural network (ANN) for text classification. We’ll use 2 layers of neurons (1 hidden layer) and a “bag of words” approach to organizing our training data.

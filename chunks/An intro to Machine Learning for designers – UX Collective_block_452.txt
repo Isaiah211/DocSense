@@ -1,0 +1,1 @@
+If the output we are trying to predict is a number we call it regression. Unsupervised learning is helpful when we have unlabeled data or we are not exactly sure what outputs (like an image’s hashtags or a house’s price) are meaningful. Instead we can identify patterns among unlabeled data.

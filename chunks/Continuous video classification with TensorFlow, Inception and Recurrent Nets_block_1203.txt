@@ -1,0 +1,2 @@
+RNNs allow us to understand the context of a video frame, relative to the frames that came before it. They do this by passing the output of one training step to the input of the next training step, along with the new frames. Andrej Karpathy describes this eloquently in his popular blog post, “The Unreasonable Effectiveness of Recurrent Neural Networks”:
+We’re using a special type of RNN here, called an LSTM, that allows our network to learn long-term dependencies.

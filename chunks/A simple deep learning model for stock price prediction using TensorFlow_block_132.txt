@@ -1,0 +1,1 @@
+Of course, the former problem is just a toy example. The required graphs and computations in a neural network are much more complex. As mentioned before, it all starts with placeholders.

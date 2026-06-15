@@ -1,0 +1,1 @@
+There is a visualization function so we can se what’s going on in the network as we train. It will plot the loss over the time, show training input, training output and the current predictions by the network on different sample series in a training batch. It’s time to wrap up and train the network, in TensorFlow the graph is executed in a session.

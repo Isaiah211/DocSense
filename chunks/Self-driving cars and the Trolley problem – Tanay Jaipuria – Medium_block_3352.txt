@@ -1,0 +1,1 @@
+Both cars have one passenger. What should the car do? Should it favor the person that bought it — its owner?

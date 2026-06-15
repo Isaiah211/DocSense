@@ -1,0 +1,3 @@
+Otherwise, the layer largely resembles a dense layer with a few additions:
+What happens is that when the transform gate is 1, we pass through our activation (H) and suppress the carry gate (since it will be 0). When the carry gate is 1, we pass through the unmodified input (x), while the activation is suppressed. Here’s what the highway layer graph looks in TensorBoard:
+Using a highway layer in a network is also straightforward.

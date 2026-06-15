@@ -1,0 +1,1 @@
+They’re fully differentiable with only a single additional hyperparameter for the initial carry bias. One downside is that highway layers do require additional parameters for the transform weights and biases. However, since we can go deeper, the layers do not need to be as wide which can compensate.

@@ -1,0 +1,2 @@
+To compute related interests, we simply combine the co-occurrence relationship for interests computed at Pin and board levels. Figure 4: Computing related interests
+The quality of the related interests is surprisingly high given the simplicity of the algorithm. We attribute this effect to the cleanness of Pinterest data.

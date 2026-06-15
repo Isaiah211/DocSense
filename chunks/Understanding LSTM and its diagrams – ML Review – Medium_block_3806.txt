@@ -1,0 +1,1 @@
+I think it’s unfair to say that neural network has no memory at all. After all, those learnt weights are some kind of memory of the training data. But this memory is more static.

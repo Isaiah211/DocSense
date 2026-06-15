@@ -1,0 +1,1 @@
+This is because communication within a machine using memory is usually much faster than communication over a network. The following pseudo code below illustrates the three levels at which an algorithm training process like us can be distributed. In this post we will explain how we addressed level 1 and 2 distribution in our use case.

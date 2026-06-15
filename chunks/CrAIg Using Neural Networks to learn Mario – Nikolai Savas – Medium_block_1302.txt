@@ -1,0 +1,2 @@
+They are as follows:
+This involves a re-distribution of all synapse weights in a genome. They can be either completely re-distributed or simply “perturbed”, meaning changed slightly. 2.

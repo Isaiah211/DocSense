@@ -1,0 +1,2 @@
+You can read the full paper here: https://pjreddie.com/media/files/papers/yolo_1.pdf
+For this task, you probably need a few 100 Images per Object. Try to capture data as close to the data you’re going to finally make predictions on. Draw bounding boxes on the images.

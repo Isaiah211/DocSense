@@ -1,0 +1,2 @@
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html . However, augmentation is very specific to the objective of the neural network. Brightness augmentation
+Changing brightness to simulate day and night conditions.

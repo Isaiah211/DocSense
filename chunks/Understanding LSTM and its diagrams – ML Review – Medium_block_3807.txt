@@ -1,0 +1,1 @@
+But this memory is more static. Sometimes we want to remember an input for later use. There are many examples of such a situation, such as the stock market.

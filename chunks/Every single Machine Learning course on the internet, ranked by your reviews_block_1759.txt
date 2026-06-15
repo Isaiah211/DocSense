@@ -1,0 +1,1 @@
+Scala and Spark for Big Data and Machine Learning (Jose Portilla/Udemy): “Big data” focus, specifically on implementation in Scala and Spark. Ten hours of on-demand video. Cost varies depending on Udemy discounts, which are frequent.

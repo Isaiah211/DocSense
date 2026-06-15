@@ -1,0 +1,1 @@
+Fear not if the diagram doesn’t come through very clearly. What’s important to understand here is that in our ANNs we have these units of calculation called neurons. These artificial neurons are connected by synapses which are really just weighted values.

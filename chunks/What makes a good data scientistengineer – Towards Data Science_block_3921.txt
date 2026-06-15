@@ -1,0 +1,5 @@
+– Towards Data Science
+Author: Nikhil Dandekar
+----------------------------------------
+
+The term data scientist has been used lately to describe a wide variety of skills & roles. In this post I will focus on a particular flavor of data scientist. I will talk about the qualities needed to be a good data scientist-engineer who ships relevance products to users.

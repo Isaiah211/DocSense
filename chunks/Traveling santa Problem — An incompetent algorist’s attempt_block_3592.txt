@@ -1,0 +1,5 @@
+Input:(coordinates)1 12 34 1
+output of pdist:(compressed upper column)1 2 4
+Output of squreform():(Uncompressed square matrix)0 1 21 0 42 4 0
+Output of my function which processed compressed matrix:(Upper diagonal elements)[[1,2],[4]]
+Lots of ram saved! I tried using Manhattan distance instead of euclidean distance. But after dividing the problem in grids, time taken by distance calculation was manageable so I stuck with euclidean distance.

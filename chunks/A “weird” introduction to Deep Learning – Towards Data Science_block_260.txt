@@ -1,0 +1,2 @@
+Here I name some of them:
+Learning representations by back-propagating errors by David E. Rumelhart, Geoffrey E. Hinton & Ronald J.

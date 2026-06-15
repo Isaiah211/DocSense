@@ -1,0 +1,1 @@
+In this case, attackers can use the shortcomings of the algorithms. Here is an example of when special glasses allow you to deceive the face recognition system and “pass yourself off as another person.” So, we need to take possible attacks into account when teaching models. Such manipulations with signs also do not allow them to be recognized correctly.

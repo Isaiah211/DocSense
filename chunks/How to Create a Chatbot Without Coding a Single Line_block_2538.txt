@@ -1,0 +1,1 @@
+It guides you through 4 steps: design, develop, launch and grow. First, you’ve to design the content: messages, persistent menus, welcome messages and some more. As step 2, it wants you to link messages to triggers and setup curious modules like ‘Offer Human Help’.

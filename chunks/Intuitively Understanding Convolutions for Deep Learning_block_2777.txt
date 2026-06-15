@@ -1,0 +1,1 @@
+Pixels however, always appear in a consistent order, and nearby pixels influence a pixel e.g. if all nearby pixels are red, it’s pretty likely the pixel is also red. If there are deviations, that’s an interesting anomaly that could be converted into a feature, and all this can be detected from comparing a pixel with its neighbors, with other pixels in its locality.

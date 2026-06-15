@@ -1,0 +1,1 @@
+Try it out with a carry bias around -20.0 for MNIST (from the paper the network will only utilize ~15 layers anyway). The network can probably even go deeper since the it’s just learning to carry the last 980 layers or so. We can’t do much useful at or past 1000 layers so that seems sufficient for now.

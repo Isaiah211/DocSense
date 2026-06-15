@@ -1,0 +1,2 @@
+If you’re curious, the .cc extension is essentially the same as .cpp but is preferred by Google’s code guidelines. Inside loader.cc we’re going to do a few things:
+Now we create a BUILD file for our project. This tells Bazel what to compile.

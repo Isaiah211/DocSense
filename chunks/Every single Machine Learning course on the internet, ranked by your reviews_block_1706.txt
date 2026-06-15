@@ -1,0 +1,1 @@
+So I started creating a review-driven guide that recommends the best courses for each subject within data science. For the first guide in the series, I recommended a few coding classes for the beginner data scientist. Then it was statistics and probability classes.

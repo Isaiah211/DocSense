@@ -1,0 +1,1 @@
+Likewise, loans is the parent of payments because each loan will have multiple payments. The parents are linked to their children by a shared variable. When we perform aggregations, we group the child table by the parent variable and calculate statistics across the children of each parent.

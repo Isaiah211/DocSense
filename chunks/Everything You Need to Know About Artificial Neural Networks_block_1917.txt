@@ -1,0 +1,1 @@
+This leads to a massive amount of variables that we need to keep track of at a time. Advances in parallel programming also allow us to run even larger ANNs in batches. Our artificial neural networks are now getting so large that we can no longer run a single epoch, which is an iteration through the entire network, at once.

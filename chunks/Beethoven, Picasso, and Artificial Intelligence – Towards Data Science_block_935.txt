@@ -1,0 +1,1 @@
+The beauty of DeepBach is that it “is able to generate coherent musical phrases and provides, for instance, varied reharmonizations of melodies without plagiarism” [6]. What this means it that DeepBach can create music with correct structure and be original. It is just in the style of Bach.

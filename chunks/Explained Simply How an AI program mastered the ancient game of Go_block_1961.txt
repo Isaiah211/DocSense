@@ -1,0 +1,1 @@
+This was not so impressive in terms of the AI software of Deep Blue, but rather in the hardware — IBM claimed it to be one of the most powerful computers available in the market at that time. It could look at 200 million board positions per second. Now we come to Go.

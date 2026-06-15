@@ -1,0 +1,1 @@
+We already mentioned the idea of using offline computation as a fallback. Another option is to precompute part of a result with an offline process and leave the less costly or more context-sensitive parts of the algorithms for online computation. Even the modeling part can be done in a hybrid offline/online manner.

@@ -1,0 +1,2 @@
+You can annotate them either using our web UI (https://app.nanonets.com/ObjectAnnotation/?appId=YOUR_MODEL_ID) or use open source tool like labelImg. Once you have dataset ready in folders, images (image files) and annotations (annotations for the image files), start uploading the dataset. Once the Images have been uploaded, begin training the Model
+The model takes ~2 hours to train.

@@ -1,0 +1,1 @@
+We needed a kernel for each angle. We could get away with it when dealing with edges because there are very few ways to describe an edge. Once we get up to the level of shapes, we don’t want to have a kernel for every angle of rectangles, ovals, triangles, and so on.

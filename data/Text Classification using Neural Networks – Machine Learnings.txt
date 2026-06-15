@@ -1,0 +1,43 @@
+Title: Text Classification using Neural Networks – Machine Learnings
+Author: gk_
+----------------------------------------
+
+Understanding how chatbots work is important. A fundamental piece of machinery inside a chat-bot is the text classifier. Let’s look at the inner workings of an artificial neural network (ANN) for text classification.
+We’ll use 2 layers of neurons (1 hidden layer) and a “bag of words” approach to organizing our training data. Text classification comes in 3 flavors: pattern matching, algorithms, neural nets. While the algorithmic approach using Multinomial Naive Bayes is surprisingly effective, it suffers from 3 fundamental flaws:
+As with its ‘Naive’ counterpart, this classifier isn’t attempting to understand the meaning of a sentence, it’s trying to classify it. In fact so called “AI chat-bots” do not understand language, but that’s another story.
+Let’s examine our text classifier one section at a time. We will take the following steps:
+The code is here, we’re using iPython notebook which is a super productive way of working on data science projects. The code syntax is Python.
+We begin by importing our natural language toolkit. We need a way to reliably tokenize sentences into words and a way to stem words.
+And our training data, 12 sentences belonging to 3 classes (‘intents’).
+We can now organize our data structures for documents, classes and words.
+Notice that each word is stemmed and lower-cased. Stemming helps the machine equate words like “have” and “having”. We don’t care about case.
+Our training data is transformed into “bag of words” for each sentence.
+The above step is a classic in text classification: each training sentence is reduced to an array of 0’s and 1’s against the array of unique words in the corpus.
+is stemmed:
+then transformed to input: a 1 for each word in the bag (the ? is ignored)
+and output: the first class
+Note that a sentence could be given multiple classes, or none.
+Make sure the above makes sense and play with the code until you grok it.
+Next we have our core functions for our 2-layer neural network.
+If you are new to artificial neural networks, here is how they work.
+We use numpy because we want our matrix multiplication to be fast.
+We use a sigmoid function to normalize values and its derivative to measure the error rate. Iterating and adjusting until our error rate is acceptably low.
+Also below we implement our bag-of-words function, transforming an input sentence into an array of 0’s and 1’s. This matches precisely with our transform for training data, always crucial to get this right.
+And now we code our neural network training function to create synaptic weights. Don’t get too excited, this is mostly matrix multiplication — from middle-school math class.
+We are now ready to build our neural network model, we will save this as a json structure to represent our synaptic weights.
+You should experiment with different ‘alpha’ (gradient descent parameter) and see how it affects the error rate. This parameter helps our error adjustment find the lowest error rate:
+synapse_0 += alpha * synapse_0_weight_update
+We use 20 neurons in our hidden layer, you can adjust this easily. These parameters will vary depending on the dimensions and shape of your training data, tune them down to ~10^-3 as a reasonable error rate.
+The synapse.json file contains all of our synaptic weights, this is our model.
+This classify() function is all that’s needed for the classification once synapse weights have been calculated: ~15 lines of code.
+The catch: if there’s a change to the training data our model will need to be re-calculated. For a very large dataset this could take a non-insignificant amount of time.
+We can now generate the probability of a sentence belonging to one (or more) of our classes. This is super fast because it’s dot-product calculation in our previously defined think() function.
+Experiment with other sentences and different probabilities, you can then add training data and improve/expand the model. Notice the solid predictions with scant training data.
+Some sentences will produce multiple predictions (above a threshold). You will need to establish the right threshold level for your application. Not all text classification scenarios are the same: some predictive situations require more confidence than others.
+The last classification shows some internal details:
+Notice the bag-of-words (bow) for the sentence, 2 words matched our corpus. The neural-net also learns from the 0’s, the non-matching words.
+A low-probability classification is easily shown by providing a sentence where ‘a’ (common word) is the only match, for example:
+Here you have a fundamental piece of machinery for building a chat-bot, capable of handling a large # of classes (‘intents’) and suitable for classes with limited or extensive training data (‘patterns’). Adding one or more responses to an intent is trivial.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Philosopher, Entrepreneur, Investor
+Understand how machine learning and artificial intelligence will change your work & life.

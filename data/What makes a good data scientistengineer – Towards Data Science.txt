@@ -1,0 +1,14 @@
+Title: What makes a good data scientist/engineer? – Towards Data Science
+Author: Nikhil Dandekar
+----------------------------------------
+
+The term data scientist has been used lately to describe a wide variety of skills & roles. In this post I will focus on a particular flavor of data scientist. I will talk about the qualities needed to be a good data scientist-engineer who ships relevance products to users. Some examples of relevance products are:
+These folks need to be strong at data science and engineering to be successful. Some places call these folks as Machine Learning engineers since most of the work they do involves Machine Learning. More generally, I feel relevance engineer is a good term to describe them.
+Relevance engineers have a common set of skills that they draw upon to get their jobs done. The list below doesn’t include some of the known, obvious skills. You obviously need to be smart. You obviously need to have (or be able to learn quickly) the required “book” knowledge.
+But beyond that, there are a bunch of not-so-obvious skills that you can’t learn from a book. Here are some of those, in no particular order:
+This list is by no means exhaustive, but does capture some of the qualities of the smartest folks I have worked with. Happy to hear what you think.
+Thanks to Peter Bailey and Andrew Hogue for feedback on the initial revisions.
+*In this post, feature means a software feature, not a machine learning feature.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Engineering Manager doing Machine Learning @ Google. Previously worked on ML and search at Quora, Foursquare and Bing.
+Sharing concepts, ideas, and codes.

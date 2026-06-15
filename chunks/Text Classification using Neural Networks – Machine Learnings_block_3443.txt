@@ -1,0 +1,1 @@
+Make sure the above makes sense and play with the code until you grok it. Next we have our core functions for our 2-layer neural network. If you are new to artificial neural networks, here is how they work.

@@ -1,0 +1,3 @@
+Model performance:
+Video below shows the performance of algorithm on the track 1 on which the original data was collected. The car is able to drive around for hours, we will next look into the case where either the camera resolution, video size or tracks are changed. Generalization from one image size to another
+Video below presents generalization from one image size to another.

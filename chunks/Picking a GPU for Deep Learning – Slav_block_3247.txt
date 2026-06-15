@@ -1,0 +1,2 @@
+Also, some AMD cards support half-precision computation which doubles their performance and VRAM size. Currently, if you want to do DL and want to avoid major headaches, choose Nvidia. Your GPU needs a computer around it:
+Hard Disk: First, you need to read the data off the disk.

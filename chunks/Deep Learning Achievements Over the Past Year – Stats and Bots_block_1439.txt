@@ -1,0 +1,1 @@
+It has been the first attempt to create such an interactive bot, and it was quite successful. Full story is in this article, and the code is publicly available. Certainly, the news that the bot has allegedly invented a language was inflated from scratch.

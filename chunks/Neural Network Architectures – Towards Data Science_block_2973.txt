@@ -1,0 +1,1 @@
+This network architecture is dubbed ENet, and was designed by Adam Paszke. We have used it to perform pixel-wise labeling and scene-parsing. Here are some videos of ENet in action.

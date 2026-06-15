@@ -1,0 +1,1 @@
+called “Context-Awareness”, which is about giving devices the ability to adapt to our current situation. It’s about figuring out which device to push notifications on. It’s about figuring out you are late for a meeting and notifying people for you.

@@ -1,0 +1,4 @@
+Both intermediation theory and microstructure theory
+study liquidity but in isolated approaches. Diamond and Dybvig (1983) develop a three-period model
+where banks can provide liquidity to customers with idiosyncratic inter-temporal preferences. In their
+model, banks are “coalitions of depositors” and have no financial resources other than deposits.

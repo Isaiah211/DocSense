@@ -1,0 +1,1 @@
+In order to use Condor, we need each compute node register into the manager with a given ClassAd (e.g. SLOT1_HAS_GPU=TRUE; STARD_ATTRS=HAS_GPU). Then the user can submit a job with a configuration “Requirements=HAS_GPU” so that the job only runs on AWS instances that have an available GPU.

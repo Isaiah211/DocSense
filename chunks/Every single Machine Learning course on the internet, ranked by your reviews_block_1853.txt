@@ -1,0 +1,1 @@
+Machine Learning (Nando de Freitas/University of British Columbia): A graduate machine learning course. The comments in de Freitas’ undergraduate course (above) apply here as well. This is the fifth of a six-piece series that covers the best online courses for launching yourself into the data science field.

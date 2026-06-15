@@ -1,0 +1,1 @@
+It was more accurate than what other researchers had done earlier. The rest of the paragraph is quite self-explanatory. As for the “rollout policy”, you do remember from a few paragraphs ago, how Lusha the SL policy network is slow so it can’t integrate well with the MCTS algorithm?

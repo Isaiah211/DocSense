@@ -1,0 +1,1 @@
+Each move in the game is very similar to the next one, because you only move once and that gives you a new position, right? If you take the states at all 50 of those moves and add them to the training data with the same label, you basically have lots of “kinda duplicate” data, and that causes overfitting. To prevent this, you choose only very distinct-looking game states.

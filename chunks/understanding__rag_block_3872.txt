@@ -1,0 +1,2 @@
+Another AI technique, called embedding language models, converts data into numerical representations and stores it in a vector database. This process creates a knowledge library that the generative AI models can understand. Retrieve relevant information
+The next step is to perform a relevancy search.

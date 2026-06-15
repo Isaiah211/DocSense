@@ -1,0 +1,1 @@
+Some solid lines means the new memory. Operations require the new memory have to wait until C_t is available. But these two diagrams are essentially the same.

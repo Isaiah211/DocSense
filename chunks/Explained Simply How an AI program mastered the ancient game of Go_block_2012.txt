@@ -1,0 +1,1 @@
+So you can use a neural network to become a complex function. So you can just pass in an image of the board position and let the neural network figure out by itself what’s going on. This means it’s possible to create neural networks which will behave like VERY accurate policy and value functions.

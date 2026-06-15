@@ -1,0 +1,1 @@
+Or rotate in finer angles? After we perform these transformations, we need to preserve our original image size. Since our image does not have any information about things outside it’s boundary, we need to make some assumptions.

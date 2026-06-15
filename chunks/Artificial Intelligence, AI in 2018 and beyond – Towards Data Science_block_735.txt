@@ -1,0 +1,2 @@
+This is practically a solved problem, that will be embedded in future neural network architectures. Hardware for deep learning is at the core of progress. Let us now forget that the rapid expansion of deep learning in 2008–2012 and in the recent years is mainly due to hardware:
+And we have talked about hardware extensively before.

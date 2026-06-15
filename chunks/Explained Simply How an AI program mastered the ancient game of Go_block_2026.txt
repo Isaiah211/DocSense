@@ -1,0 +1,1 @@
+So, the first step is in training our policy NN (Lusha), to predict which moves are likely to be played by an expert. This NN’s goal is to allow the AI to play similar to an expert human. This is a convolutional neural network (as I mentioned before, it’s a special kind of NN that is very useful in image processing) that takes in a simplified image of a board arrangement.

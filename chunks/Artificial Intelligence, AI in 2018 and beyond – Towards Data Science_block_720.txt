@@ -1,0 +1,1 @@
+Neural networks need to be able to self-assess the need of new training and the fact that they do know something. This is also needed to perform in real-life and for reinforcement learning tasks, where we want to teach machines to do new tasks without forgetting older ones. For more detail, see this excellent blog post by Vincenzo Lomonaco.

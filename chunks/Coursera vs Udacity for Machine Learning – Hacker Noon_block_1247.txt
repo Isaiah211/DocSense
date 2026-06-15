@@ -1,0 +1,3 @@
+Winner = Udacity
+Lectures
+Coursera’s Machine Learning course was created and taught by the AI godfather himself: Andrew Ng. And this course has contributed in no small part to his reputation within the industry. The lectures follow a single uniform format and each one builds upon the last in a methodical way.

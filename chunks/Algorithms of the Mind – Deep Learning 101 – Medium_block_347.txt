@@ -1,0 +1,1 @@
+Quantum computing similarly arose from attempts to simulate quantum mechanics on ordinary computers. So what does all this have to do with machine learning? Much like steam engines, machine learning is a technology intended to solve specific classes of problems.

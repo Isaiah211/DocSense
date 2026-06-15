@@ -1,0 +1,1 @@
+I like the Christopher’s diagram, in that it explicitly shows how this memory C gets passed from the previous unit to the next. But in the following image, you can’t easily see that C_t-1 is actually from the previous unit. and C_t is part of the output.

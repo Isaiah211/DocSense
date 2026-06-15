@@ -1,0 +1,30 @@
+Title: Self-driving cars and the Trolley problem – Tanay Jaipuria – Medium
+Author: Tanay Jaipuria
+----------------------------------------
+
+Google recently announced that their self-driving car has driven more than a million miles. According to Morgan Stanley, self-driving cars will be commonplace in society by ~2025. This got me thinking about the ethics and philosophy behind these cars, which is what the piece is about.
+In 1942, Isaac Asimov introduced three laws of robotics in his short story “Runaround”.
+They were as follows:
+He later added a fourth law, the zeroth law:
+0. A robot may not harm humanity, or, by inaction, allow humanity to come to harm.
+Though fictional, they provide a good philosophical grounding of how AI can coexist with society. If self driving cars, were to follow them, we’re in a pretty good spot right? (Let’s leave aside the argument that self-driving cars lead to loss of jobs of taxi drivers and truck drivers and so should not exist per the 0th/1st law)
+However, there’s one problem which the laws of robotics don’t quite address.
+It’s a famous thought experiment in philosophy called the Trolley Problem and goes as follows:
+It’s not hard to see how a similar situation would come up in a world with self-driving cars, with the car having to make a similar decision.
+Say for example a human-driven car runs a red light and a self-driving car has two options:
+What should the car do?
+From a utilitarian perspective, the answer is obvious: to turn right (or “pull the lever”) leading to the death of only one person as opposed to five.
+Incidentally, in a survey of professional philosophers on the Trolley Problem, 68.2% agreed, saying that one should pull the lever. So maybe this “problem” isn’t a problem at all and the answer is to simply do the Utilitarian thing that “greatest happiness to the greatest number”.
+But can you imagine a world in which your life could be sacrificed at any moment for no wrongdoing to save the lives of two others?
+Now consider this version of the trolley problem involving a fat man:
+Most people that go the utilitarian route in the initial problem say they wouldn’t push the fat man. But from a utilitarian perspective there is no difference between this and the initial problem — so why do they change their mind? And is the right answer to “stay the course” then?
+Kant’s categorical imperative goes some way to explaining it:
+In simple words, it says that we shouldn’t merely use people as means to an end. And so, killing someone for the sole purpose of saving others is not okay, and would be a no-no by Kant’s categorical imperative.
+Another issue with utilitarianism is that it is a bit naive, at least how we defined it. The world is complex, and so the answer is rarely as simple as perform the action that saves the most people. What if, going back to the example of the car, instead of a family of five, inside the car that ran the red light were five bank robbers speeding after robbing a bank. And sat in the other car was a prominent scientist who had just made a breakthrough in curing cancer. Would you still want the car to perform the action that simply saves the most people?
+So may be we fix that by making the definition of Utilitarianism more intricate, in that we assign a value to each individuals life. In that case the right answer could still be to kill the five robbers, if say our estimate of utility of the scientist’s life was more than that of the five robbers.
+But can you imagine a world in which say Google or Apple places a value on each of our lives, which could be used at any moment of time to turn a car into us to save others? Would you be okay with that?
+And so there you have it, though the answer seems simple, it is anything but, which is what makes the problem so interesting and so hard. It will be a question that comes up time and time again as self-driving cars become a reality. Google, Apple, Uber etc. will probably have to come up with an answer. To pull, or not to pull?
+Lastly, I want to leave you another question that will need to be answered, that of ownership. Say a self-driving car which has one passenger in it, the “owner”, skids in the rain and is going to crash into a car in front, pushing that car off a cliff. It can either take a sharp turn and fall of the cliff or continue going straight leading to the other car falling of the cliff. Both cars have one passenger. What should the car do? Should it favor the person that bought it — its owner?
+Thanks for reading! Feel free to share this post and leave a note/write a response to share your thoughts. I’m tanayj on twitter if you want to discuss further!
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Product @Facebook. Previously @McKinsey. I like tech, econ, strategy and @Manutd. Views and banter my own.

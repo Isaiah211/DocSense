@@ -1,0 +1,1 @@
+It was super simple. 9 lines of Python code modelling the behaviour of a single neuron. But what if we are faced with a more difficult problem?

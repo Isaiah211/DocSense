@@ -1,0 +1,1 @@
+But, if you own an insurance company that deals with car accidents, and you want to identify models of upside-down, broken cars as well, the third image makes sense. The last image may not make sense for both the above scenarios. The point is, while using augmentation techniques, we have to make sure to not increase irrelevant data.

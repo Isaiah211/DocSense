@@ -1,0 +1,1 @@
+Because, neural networks aren’t smart to begin with. For instance, a poorly trained neural network would think that these three tennis balls shown below, are distinct, unique images. So, to get more data, we just need to make minor alterations to our existing dataset.

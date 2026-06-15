@@ -1,0 +1,1 @@
+Since we split the data into training and testing sets we can now predict the value of testing data and compare them with the ground truth. As you can see, the model is not good. It essentially is repeating the previous values and there is a slight shift.

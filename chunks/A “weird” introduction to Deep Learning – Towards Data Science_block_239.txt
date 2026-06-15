@@ -1,0 +1,1 @@
+I will name some of them in the resources sections, but this is a different kind of introduction. But why weird? Maybe because it won’t follow the “normal” structure of a Deep Learning post, where you start with the math, then go into the papers, the implementation and then to applications.

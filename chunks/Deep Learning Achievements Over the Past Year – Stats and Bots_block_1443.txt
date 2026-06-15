@@ -1,0 +1,1 @@
+In addition, Yandex launched a new search engine based on such networks. Employees of DeepMind reported in their article about generating audio. Briefly, researchers made an autoregressive full-convolution WaveNet model based on previous approaches to image generation (PixelRNN and PixelCNN).

@@ -1,0 +1,1 @@
+Complex datasets could very well be our answer to more efficient training. Until our machines can think and learn like we do, we will need to be very careful what data is used to train them. One of the ways that art and music can help to impact AI is by providing another method of Turing Testing machines.

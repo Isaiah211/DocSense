@@ -1,0 +1,1 @@
+Often this meant carefully looking into the wording used in the paper to determine whether I should be using a > or a >=, for example. One of the most difficult parts of this project was that I was unable to test as I was programming. I essentially wrote all of the code blind and then was able to test and debug it once it had all been created.

@@ -1,0 +1,1 @@
+Recurrent Neural Networks (RNN) were created to address the flaw in artificial neural networks that didn’t make decisions based on previous knowledge. A typical ANN had learned to make decisions based on context in training, but once it was making decisions for use, the decisions were made independent of each other. When would we want something like this?

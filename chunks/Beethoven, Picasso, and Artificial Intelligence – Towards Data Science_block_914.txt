@@ -1,0 +1,1 @@
+Sketch-RNN is exposed to a massive number of sketches provided through a dataset of vector drawings obtained through another Google application that we will discuss later. Each of these sketches are tagged to let the program know what object is in the sketch. The data set represents the sketch as a set of pen strokes.

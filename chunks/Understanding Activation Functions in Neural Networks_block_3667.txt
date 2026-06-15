@@ -1,0 +1,1 @@
+That means almost all activations will be processed to describe the output of a network. In other words the activation is dense. This is costly.

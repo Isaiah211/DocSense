@@ -1,0 +1,2 @@
+The depth and number of convolutional filters can be specified in the config file. The Keras library is used to build the network, with a backend of Tensorflow. To view individual convolutional filters and densely connected layers in the neural network, run the following inside the the run.ipynb notebook:
+This contains the Node, Edge and MCTS classes, that constitute a Monte Carlo Search Tree.

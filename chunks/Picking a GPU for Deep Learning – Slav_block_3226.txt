@@ -1,0 +1,1 @@
+To capture the nature of the data from scratch the neural net needs to process a lot of information. There are two ways to do so — with a CPU or a GPU. The main computational module in a computer is the Central Processing Unit (better known as CPU).

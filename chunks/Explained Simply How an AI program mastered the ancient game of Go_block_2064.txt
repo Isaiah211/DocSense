@@ -1,0 +1,1 @@
+Now, something conceptual here: there are two ways to evaluate the value of a board position. One option is a magical optimal value function (like the one you trained above). The other option is to simply roll out into the future using your current policy (Lusha) and look at the final outcome in this roll out.

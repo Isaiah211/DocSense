@@ -1,0 +1,7 @@
+Various types of electronic
+trading systems, such as electronic communications networks (ECNs) and crossing networks, have
+been developed, competing with well-established exchanges. In 2000, ECNs accounted for 30% of the
+total share volume in Nasdaq stocks and around 3% of exchange-listed stocks, compared to the
+figures of 13% and 1.4%, respectively, in 1993. On the other hand, existing markets around the world
+are involved in the process of implementing electronic order books that consolidate orders submitted
+by traders in that particular market.

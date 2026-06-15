@@ -1,0 +1,1 @@
+So that means, given a state of the game s, there is a function v*(s) which can predict the outcome, let’s say probability of you winning this game, from 0 to 1. They call it the “optimal value function”. Because some board positions are more likely to result in you winning than other board positions, they can be considered more “valuable” than the others.

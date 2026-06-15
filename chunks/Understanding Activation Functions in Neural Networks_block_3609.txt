@@ -1,0 +1,1 @@
+Or rather let’s say — “activated” or not. The first thing that comes to our minds is how about a threshold based activation function? If the value of Y is above a certain value, declare it activated.

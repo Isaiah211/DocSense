@@ -1,0 +1,2 @@
+Adding a non-linearity allows us to describe all kinds of functions. There are many different types of function we could apply, but ReLU is the most popular because it’s very cheap to perform. Here are the outputs of ReLU Conv1 layer:
+The PrimaryCaps layer starts off as a normal convolution layer, but this time we are convolving over the stack of 256 outputs from the previous convolutions.

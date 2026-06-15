@@ -1,0 +1,1 @@
+Luckily, the Scikit Image library recognizes this format. This code will load the data and return two lists: images and labels. This is a small dataset so I’m loading everything into RAM to keep it simple.

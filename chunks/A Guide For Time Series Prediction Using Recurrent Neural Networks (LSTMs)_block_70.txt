@@ -1,0 +1,2 @@
+This layer applies a hyperbolic tangent to the mix of input and previous output, returning a candidate vector to be added to the internal state. The internal state is updated with this rule:
+.The previous state is multiplied by the forget gate and then added to the fraction of the new candidate allowed by the output gate. 3.

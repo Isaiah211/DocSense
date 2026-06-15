@@ -1,0 +1,1 @@
+This is a one-to-many relationship: each parent can have multiple children. In the realm of tables, a parent table has one row for every parent, but the child table may have multiple rows corresponding to multiple children of the same parent. For example, in our dataset, the clients dataframe is a parent of the loans dataframe.

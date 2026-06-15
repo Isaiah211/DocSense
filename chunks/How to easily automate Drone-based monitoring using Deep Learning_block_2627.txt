@@ -1,0 +1,1 @@
+Unfortunately, such data are highly unstructured and thus challenging to extract meaningful insights from at scale, even with intensive manual analysis. For eg, classification of urban land use is typically based on surveys performed by trained professionals. As such, this task is labor-intensive, infrequent, slow, and costly.

@@ -1,0 +1,1 @@
+Do take note of this, as it’ll be critical to our later discussion. Before we move on, it’s definitely worth looking into two techniques that are commonplace in convolution layers: Padding and Strides. Padding does something pretty clever to solve this: pad the edges with extra, “fake” pixels (usually of value 0, hence the oft-used term “zero padding”).

@@ -1,0 +1,6 @@
+As an example, Hendershott and
+Mendelson (2000) show that less patient traders will go to dealer markets for instant execution, while
+more patient traders will first try crossing networks for a possibly better price. Stock exchanges with
+different mechanisms are differentiated from each other such that no competition can lead to
+consolidation. Gode and Sunder (1999) discuss a specific technical problem in electronic markets: the
+time lag problem for geographically distributed agents.

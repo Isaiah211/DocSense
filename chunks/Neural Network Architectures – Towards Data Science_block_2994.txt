@@ -1,0 +1,1 @@
+Some initial interesting results are here. Note also that here we mostly talked about architectures for computer vision. Similarly neural network architectures developed in other areas, and it is interesting to study the evolution of architectures for all other tasks also.

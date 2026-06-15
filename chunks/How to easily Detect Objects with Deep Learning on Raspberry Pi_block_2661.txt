@@ -1,0 +1,1 @@
+You can read more about this at medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab. You need a pretrained model so you can reduce the amount of data required to train. Without it, you might need a few 100k images to train the model.

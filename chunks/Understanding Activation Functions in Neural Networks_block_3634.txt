@@ -1,0 +1,1 @@
+Pause for a bit and think about it. That means these two layers ( or N layers ) can be replaced by a single layer. Ah!

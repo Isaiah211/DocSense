@@ -1,0 +1,4 @@
+Traditionally, most of the dealers and brokers in the bond market executed trades by telephone and
+fax. For example, the secondary market for U.S. treasury securities is largely an over-the-counter
+market, but unlike Nasdaq, the highly automated OTC market for stocks, trading in the treasury market
+is highly people-intensive; Fan et al (2001).

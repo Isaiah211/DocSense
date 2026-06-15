@@ -1,0 +1,1 @@
+This is a strong assumption and unrealistic for real data, nevertheless, the technique is very effective on a large range of complex problems. The KNN algorithm is very simple and very effective. The model representation for KNN is the entire training dataset.

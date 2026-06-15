@@ -1,0 +1,1 @@
+Motion provides SMS, Email, web-chat, Facebook Messenger and Slack. Furthermore, it’s possible to link to (other) APIs and hook back to motion. Thus, it operates as a hub.

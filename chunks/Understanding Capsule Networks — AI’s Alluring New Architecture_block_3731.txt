@@ -1,0 +1,1 @@
+In reality it’s not really feasible (or at least easy) to visualize the vectors like above, because these vectors are 8 dimensional. Since we have all this extra information in a capsule, the idea is that we should be able to recreate the image from them. Sounds great, but how do we coax the network into actually wanting to learn these things?

@@ -1,0 +1,2 @@
+First, let’s explore what exactly a GAN is. Below is a small excerpt explaining how a GAN works:
+Generative Adversarial Network (GAN) has two sub networks, a generator and a discriminator. The discriminator has access to a set of images (training images).

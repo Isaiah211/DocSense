@@ -1,0 +1,1 @@
+And at the end of all simulations, you just pick the best move. Interesting insight here! Remember how the RL fine-tuned policy NN was better than just the SL human-trained policy NN?

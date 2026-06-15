@@ -1,0 +1,1 @@
+Along with a starting and stopping point, you can also define a step size or data type if necessary. Note that the stopping point is a ‘cut-off’ value, so it will not be included in the array output. Linspace is very similar, but with a slight twist.

@@ -1,0 +1,1 @@
+Given how simple this neural network is, training takes just a minute on my laptop so I didn’t bother saving the trained model. In the next part, I’ll add code to save and load trained models and expand to use multiple layers, convolutional networks, and data augmentation. Stay tuned!

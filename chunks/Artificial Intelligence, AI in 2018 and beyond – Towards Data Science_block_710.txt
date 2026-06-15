@@ -1,0 +1,1 @@
+Predictive neural networks — A major limitation of current neural networks is that they do not possess one of the most important features of human brains: their predictive power. One major theory about how the human brain work is by constantly making predictions: predictive coding. If you think about it, we experience it every day.

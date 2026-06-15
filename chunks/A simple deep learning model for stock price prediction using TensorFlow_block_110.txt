@@ -1,0 +1,2 @@
+Index and stocks are arranged in wide format. The data was already cleaned and prepared, meaning missing stock and index prices were LOCF’ed (last observation carried forward), so that the file did not contain any missing values. A quick look at the S&P time series using pyplot.plot(data['SP500']):
+Note: This is actually the lead of the S&P 500 index, meaning, its value is shifted 1 minute into the future.

@@ -1,0 +1,1 @@
+This is so they become part of my graph object rather than the global graph. The shape of the images_ph placeholder is [None, 32, 32, 3]. It stands for [batch size, height, width, channels] (often shortened as NHWC) .

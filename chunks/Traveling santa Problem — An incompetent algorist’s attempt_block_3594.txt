@@ -1,0 +1,1 @@
+I ran LKH on resulting distance matrices and joined the individual solutions. I joined the resulting solutions in different combination for both paths so as to avoid common paths. I got 7,415,334 with this method.

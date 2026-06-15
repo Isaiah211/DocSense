@@ -1,0 +1,1 @@
+Here they combine both. You try giving each prediction 50–50 importance, or 40–60, or 0–100, and so on. If you attach a % of X to the first, you’ll have to attach 100-X to the second.

@@ -1,0 +1,1 @@
+The actual absolute values of the logits are not important, just their values relative to each other. It’s easy to convert logits to probabilities using the softmax function if needed (it’s not needed here). In this application, we just need the index of the largest value, which corresponds to the id of the label.

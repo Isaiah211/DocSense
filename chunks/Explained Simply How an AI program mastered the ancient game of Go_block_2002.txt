@@ -1,0 +1,1 @@
+So if you have 50 possible moves at a point, Lusha will tell you the probability that each move would be picked by an expert. Of course, a few sensible moves will have a much higher probability and other pointless moves will have very little probability. She is your policy function, p(a\s).

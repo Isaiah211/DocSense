@@ -1,0 +1,1 @@
+Next, we need to specify how the tables in the entityset are related. The best way to think of a relationship between two tables is the analogy of parent to child. This is a one-to-many relationship: each parent can have multiple children.

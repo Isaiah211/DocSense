@@ -1,0 +1,3 @@
+Here are its inputs and outputs:
+But the Mask R-CNN authors had to make one small adjustment to make this pipeline work as expected. RoiAlign - Realigning RoIPool to be More Accurate
+When run without modifications on the original Faster R-CNN architecture, the Mask R-CNN authors realized that the regions of the feature map selected by RoIPool were slightly misaligned from the regions of the original image. Since image segmentation requires pixel level specificity, unlike bounding boxes, this naturally led to inaccuracies.

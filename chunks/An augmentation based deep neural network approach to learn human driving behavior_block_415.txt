@@ -1,0 +1,2 @@
+I chose leaky relu to make transition between angles smoother. Training:
+I trained the model using the keras generator with batch size of 256 for 8 epochs. In each epoch, I generated 20000 images.

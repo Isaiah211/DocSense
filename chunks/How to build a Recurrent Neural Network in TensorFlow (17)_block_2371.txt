@@ -1,0 +1,1 @@
+For now, let’s get started with the RNN! It is short for “Recurrent Neural Network”, and is basically a neural network that can be used when your data is treated as a sequence, where the particular order of the data-points matter. More importantly, this sequence can be of arbitrary length.

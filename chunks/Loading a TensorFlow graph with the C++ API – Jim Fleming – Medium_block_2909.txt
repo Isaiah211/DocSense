@@ -1,0 +1,1 @@
+Another example in the repo demonstrates defining your own operations but most users will never need this. I imagine the most common use case for the C++ API is for loading pre-trained graphs to be standalone or embedded in other applications. Be aware, there are some caveats to this approach that I’ll cover at the end.

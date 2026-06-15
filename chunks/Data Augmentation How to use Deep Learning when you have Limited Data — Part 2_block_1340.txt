@@ -1,0 +1,1 @@
+Why does this happen? It happens because that’s how most machine learning algorithms work. It finds the most obvious features that distinguishes one class from another.

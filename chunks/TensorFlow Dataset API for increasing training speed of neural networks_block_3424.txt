@@ -1,0 +1,1 @@
+There is a comprehensive list of methods in the. official docs. Next we should extract data from dataset object step by step for each of the training epochs, tf.data.Iterator is tailor-made for it.

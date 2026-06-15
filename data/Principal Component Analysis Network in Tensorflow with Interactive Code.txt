@@ -1,0 +1,33 @@
+Title: Principal Component Analysis Network in Tensorflow with Interactive Code
+Author: Jae Duk Seo
+----------------------------------------
+
+A natural extension from Principle Component Analysis pooling layer would be making a full neural network out of the layer. I wanted to know if this was even possible as well as how well or worse it performs on MNIST data.
+Principle Component Analysis (PCA) Pooling Layer
+For anyone who is not familiar with PCAP please read this blog post first. The basic idea is Pooling layers such as Max or Mean pooling operations performs dimensionality reduction to not only to save computational power but also to act as a regularizer. PCA is a dimensionality reduction technique in which converts correlated variables into a set of values of linearly uncorrelated variables called principal components. And we can take advantage of this operation to do a similar job as max/mean pooling.
+Network Composed of Majority of Pooling Layers
+Now I know what you are thinking, it doesn’t make sense to have a network that is only composed of pooling layer while performing classification. And you are completely right! It doesn’t! But I just wanted to try this out for fun.
+Data Set / Network Architecture
+Blue Rectangle → PCAP or Max Pooling LayerGreen Rectangle → Convolution Layer to increase channel size + Global Averaging Pooling operation
+The network itself is very simple, only four pooling layers and one convolution layer to increase the channel size. However, in-order for the dimension to match up we will downsample each images into 16*16 dimension. Hence the Tensors will have a shape of ...
+[Batch Size,16,16,1] → [Batch Size,8,8,1] → [Batch Size,4,4,1] → [Batch Size,2,2,1] → [Batch Size,1,1,1] → [Batch Size,1,1,10] → [Batch Size,10]
+And we can perform classification with soft max layer as any other network does.
+Results: Principle Component Network
+As seen above, the training accuracy have stagnated at 18 percent accuracy which is horrible LOL. But I suspected that the network didn’t have enough learning capacity from the start and this was best it could do. However I wanted to see how each PCAP layer transforms the image.
+Top Left Image → Original InputTop Right Image → After First LayerBottom Left Image → After Second LayerBottom Right Image → After Fourth Layer
+One obvious pattern we can observe is the change of brightens. For example if the top left pixel was white in the second layer this pixel will change to black in the next layer. Currently, I am not 100% sure on why this is happening, but with more study I hope to know exactly why.
+Results: Max Pooling Network
+As seen above, when we replace all of the PCAP layers with max pooling operation we can observe that the accuracy on training images stagnated around 14 percent, confirming the fact that the network didn’t have enough learning capacity from the start.
+Top Left Image → Original InputTop Right Image → After First LayerBottom Left Image → After Second LayerBottom Right Image → After Fourth Layer
+Contrast to PCAP, with max pooling we can clearly observe that the pixel with most high intensity moves on to the next layer. This is expected since, that is what max pooling does.
+Interactive Code
+For Google Colab, you would need a google account to view the codes, also you can’t run read only scripts in Google Colab so make a copy on your play ground. Finally, I will never ask for permission to access your files on Google Drive, just FYI. Happy Coding!
+To access the network with PCAP please click here.To access the network with Max Pooling please click here.
+Final Words
+I wasn’t expecting much of this network from the start but I expected at least 30 percent accuracy on training / testing images LOL.
+If any errors are found, please email me at jae.duk.seo@gmail.com, if you wish to see the list of all of my writing please view my website here.
+Meanwhile follow me on my twitter here, and visit my website, or my Youtube channel for more content. I also implemented Wide Residual Networks, please click here to view the blog post.
+Reference
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+https://jaedukseo.me | | | |  |Your everyday Seo, who likes kimchi
+Sharing concepts, ideas, and codes.

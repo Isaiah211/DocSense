@@ -1,0 +1,1 @@
+X_t is the input of the current time step. h_t-1 is the output from the previous LSTM unit and C_t-1 is the “memory” of the previous unit, which I think is the most important input. As for outputs, h_t is the output of the current network.

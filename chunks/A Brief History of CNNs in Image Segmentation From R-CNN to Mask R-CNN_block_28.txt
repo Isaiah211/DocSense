@@ -1,0 +1,1 @@
+What do these k boxes represent? Intuitively, we know that objects in an image should fit certain common aspect ratios and sizes. For instance, we know that we want some rectangular boxes that resemble the shapes of humans.

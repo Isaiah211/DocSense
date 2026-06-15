@@ -1,0 +1,1 @@
+As a point of reference, if the network had classified each frame as football, it would have achieved about 66% accuracy. So it seems to be working! It’s always a good idea to run some known data through a trained network to sanity check the results, so we’ll do that here.

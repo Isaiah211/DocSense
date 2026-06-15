@@ -1,0 +1,1 @@
+What particularly excites me, is that the time between R-CNN and Mask R-CNN was just three years! With continued funding, focus, and support, how much further can Computer Vision improve over the next three years? If you see any errors or issues in this post, please contact me at dhruv@getathelas.com and I”ll immediately correct them!

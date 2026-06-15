@@ -1,0 +1,1 @@
+For example, multiplying a few numbers on a CPU is blazingly fast. But it struggles when operating on a large amount of data. E.g., multiplying matrices of tens or hundreds thousand numbers.

@@ -1,0 +1,1 @@
+Scaling can be easily accomplished in Python using sklearn’s MinMaxScaler. Remark: Caution must be undertaken regarding what part of the data is scaled and when. A common mistake is to scale the whole dataset before training and test split are being applied.

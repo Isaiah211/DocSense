@@ -1,0 +1,1 @@
+Now, on training the neural network on this new dataset, you get the performance that you intended to get. Before we dive into the various augmentation techniques, there’s one issue that we must consider beforehand. The answer may seem quite obvious; we do augmentation before we feed the data to the model right?

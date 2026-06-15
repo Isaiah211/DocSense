@@ -1,0 +1,8 @@
+Then capture a new Image
+For instructions on how to install checkout this link
+Download Model
+Once your done training the model you can download it on to your pi. To export the model run:
+Then download the model onto the Raspberry Pi. Install TensorFlow on the Raspberry Pi
+Depending on your device you might need to change the installation a little
+Run model for predicting on the new Image
+The Raspberry Pi has constraints on both Memory and Compute (a version of Tensorflow Compatible with the Raspberry Pi GPU is still not available).

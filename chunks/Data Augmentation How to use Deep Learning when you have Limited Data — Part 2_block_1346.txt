@@ -1,0 +1,1 @@
+One option is to perform all the necessary transformations beforehand, essentially increasing the size of your dataset. The other option is to perform these transformations on a mini-batch, just before feeding it to your machine learning model. The first option is known as offline augmentation.

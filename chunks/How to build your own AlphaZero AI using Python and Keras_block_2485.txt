@@ -1,0 +1,4 @@
+As an example, one clear strategy that the neural network has favoured over time is grabbing the centre column early. Observe the difference between the first version of the algorithm and say, the 30th version:
+1st neural network version
+30th neural network version
+This is a good strategy as many lines require the centre column — claiming this early ensures your opponent cannot take advantage of this. This has been learnt by the neural network, without any human input.

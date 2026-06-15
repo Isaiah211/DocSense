@@ -1,0 +1,1 @@
+On the right side you can see the 4 “output neurons”, or the buttons that crAIg can press. You can also see a line going from one of the black squares on the left grid to the “R” neuron, labelled “1”. This is a synapse, and when the input neuron fires on the left, it will send a signal down the synapse and tell crAIg to press the “R” button.

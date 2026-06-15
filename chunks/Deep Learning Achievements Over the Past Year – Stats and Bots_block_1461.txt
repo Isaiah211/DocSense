@@ -1,0 +1,1 @@
+This is an extremely useful application of neural networks, which can make life easier when developing software. The authors claim that they reached 77% accuracy. However, this is still under research and there is no talk on real usage yet.

@@ -1,0 +1,1 @@
+By using supervised learning we can fit a line to the labelled data that either splits the data into categories or represents the trend of the data. Using this line we are able to make predictions on new data. For example, we can look at new photos and predict hashtags or look at a new house’s features and predict its price.

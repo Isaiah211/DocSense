@@ -1,0 +1,1 @@
+Our contribution was to combine the identification algorithms with the learning algorithms and develop an automated system that was feasible and practical. Once we developed the technology to morph websites, we were only limited by our imaginations. In our first application we matched the look and feel to customers’ cognitive styles.

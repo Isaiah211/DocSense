@@ -1,0 +1,1 @@
+After setting up the image augmentation pipeline, we can proceed to train the model. The training was performed using simple adam learning algorithm with learning rate of 0.0001. After this training, the model was able to drive the car by itself on the first track for hours and generalized to the second track.

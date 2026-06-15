@@ -1,0 +1,1 @@
+Books have an information architecture. Events have an information architecture. Pretty much anything we design — consciously or not — has an information architecture.

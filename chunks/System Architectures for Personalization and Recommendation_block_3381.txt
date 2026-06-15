@@ -1,0 +1,1 @@
+All approaches can and should be combined. There are many ways to combine them. We already mentioned the idea of using offline computation as a fallback.

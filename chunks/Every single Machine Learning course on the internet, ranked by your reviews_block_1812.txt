@@ -1,0 +1,1 @@
+Practical Predictive Analytics: Models and Methods (University of Washington/Coursera): A brief intro to core machine learning concepts. One reviewer noted that there was a lack of quizzes and that the assignments were not challenging. Part of UW’s Data Science at Scale Specialization.

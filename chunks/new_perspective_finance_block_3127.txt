@@ -1,0 +1,7 @@
+Financial institutions are not hesitating to invest in these technological solutions, given the possible
+disastrous results if such a security investment is not made. Although direct system break-ins or information interception/manipulation are always possible, such a
+possibility is fading away as e-business software is becoming more fault-tolerating and computer
+security teams are becoming more experienced. Practically speaking, heavily armed e-financial
+22 BIS Papers No 7
+intermediaries can effectively prevent all attempts to tear down their security walls, except for
+Distributed Denial-of-Service (DDoS) attacks.

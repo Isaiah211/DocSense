@@ -1,0 +1,1 @@
+This alleviates any problems we may ecounter due to model having a bias towards driving straight. Panel below shows multiple training samples generated from one image. The keras generator is presented below.

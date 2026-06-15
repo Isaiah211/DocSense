@@ -1,0 +1,1 @@
+Cassandra and EVCache both offer the advantages of key-value stores. Cassandra is a well-known and standard solution when in need of a distributed and scalable no-SQL store. Cassandra works well in some situations, however in cases where we need intensive and constant write operations we find EVCache to be a better fit.

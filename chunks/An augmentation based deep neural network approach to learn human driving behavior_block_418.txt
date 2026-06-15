@@ -1,0 +1,2 @@
+Snippet below presents the result of training. 5. Model performance:
+Video below shows the performance of algorithm on the track 1 on which the original data was collected.

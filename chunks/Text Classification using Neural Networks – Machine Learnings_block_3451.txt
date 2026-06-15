@@ -1,0 +1,1 @@
+The catch: if there’s a change to the training data our model will need to be re-calculated. For a very large dataset this could take a non-insignificant amount of time. We can now generate the probability of a sentence belonging to one (or more) of our classes.

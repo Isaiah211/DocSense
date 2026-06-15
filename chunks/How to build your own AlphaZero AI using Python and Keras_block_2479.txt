@@ -1,0 +1,1 @@
+Log files are saved to the log folder inside the run folder. To turn on logging, set the values of the logger_disabled variables to False inside this file. Viewing the log files will help you to understand how the algorithm works and see inside its ‘mind’.

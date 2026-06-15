@@ -1,0 +1,1 @@
+Here, I use the tf.variance_scaling_initializer(), which is one of the default initialization strategies. Note, that with TensorFlow it is possible to define multiple initialization functions for different variables within the graph. However, in most cases, a unified initialization is sufficient.

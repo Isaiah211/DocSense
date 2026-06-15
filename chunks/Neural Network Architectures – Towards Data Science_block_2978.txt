@@ -1,0 +1,1 @@
+As such it achieves such a small footprint that both encoder and decoder network together only occupies 0.7 MB with fp16 precision. Even at this small size, ENet is similar or above other pure neural network solutions in accuracy of segmentation. A systematic evaluation of CNN modules has been presented.

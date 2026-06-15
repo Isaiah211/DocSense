@@ -1,0 +1,1 @@
+We run each frame of this set through our classifier and achieve a true holdout accuracy score of 93.3%. Awesome! Looks like we’ve validated our hypothesis that we can achieve high levels of accuracy while only considering spatial features.

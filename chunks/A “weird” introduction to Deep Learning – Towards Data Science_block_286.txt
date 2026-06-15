@@ -1,0 +1,2 @@
+TensorFlow and Spark on Google Cloud:
+As I’ve said before one of the most important moments for this field was the creation and open sourced of TensorFlow. TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.

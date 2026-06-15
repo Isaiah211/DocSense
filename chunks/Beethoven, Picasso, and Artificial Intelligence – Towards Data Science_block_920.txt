@@ -1,0 +1,1 @@
+One, the generator, has no access to any art. It has no basis to go off of when generating images. The other network, the discriminator, is trained to classify the images generated as being art or not.

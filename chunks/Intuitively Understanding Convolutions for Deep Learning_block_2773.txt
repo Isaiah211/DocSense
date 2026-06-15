@@ -1,0 +1,2 @@
+The answer lies in the feature combinations the prior leads the parameters to learn. Early on in this article, we discussed that:
+So with backpropagation coming in all the way from the classification nodes of the network, the kernels have the interesting task of learning weights to produce features only from a set of local inputs. Additionally, because the kernel itself is applied across the entire image, the features the kernel learns must be general enough to come from any part of the image.

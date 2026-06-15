@@ -1,0 +1,1 @@
+Magenta’s goal is to be “a research project to advance the state of the art in machine intelligence for music and art generation” [2]. It is an open source project that uses TensorFlow. Magenta aims to learn how to generate art and music in a way that is indeed generative.

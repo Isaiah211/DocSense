@@ -1,0 +1,1 @@
+This seems like a good balance of memory usage and information. The architecture of the network is a single LSTM layer with 256 nodes. This is followed by a dropout of 0.2 to help prevent over-fitting and a fully-connected softmax layer to generate our predictions.

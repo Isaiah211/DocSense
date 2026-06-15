@@ -1,0 +1,1 @@
+The first thing I noticed from the samples above is that images are square-ish, but have different aspect ratios. My neural network will take a fixed-size input, so I have some preprocessing to do. I’ll get to that soon, but first let’s pick one label and see more of its images.

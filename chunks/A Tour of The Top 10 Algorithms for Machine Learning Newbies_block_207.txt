@@ -1,0 +1,1 @@
+The model representation for KNN is the entire training dataset. Simple right? Predictions are made for a new data point by searching through the entire training set for the K most similar instances (the neighbors) and summarizing the output variable for those K instances.

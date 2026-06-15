@@ -1,0 +1,1 @@
+cited above, they distribute the learning algorithm itself between different machines. While that approach might make sense in some cases, we have found that to be not always the norm, especially when a dataset can be stored on a single instance. To understand why, we first need to explain the different levels at which a model training process can be distributed.

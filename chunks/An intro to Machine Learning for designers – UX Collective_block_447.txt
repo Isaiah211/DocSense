@@ -1,0 +1,1 @@
+Depending on the application and what data is available, there are different types of machine learning algorithms to choose from. I’ll briefly cover each of the following. Supervised learning allows us to make predictions using correctly labeled data.

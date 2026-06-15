@@ -1,0 +1,1 @@
+Finally, it’s time to train our net! In this run function, we first build our net using the load_vgg, layers, and optimize function. Then we train the net using the train_nn function and save the inference data for records.

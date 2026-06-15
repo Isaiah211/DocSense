@@ -1,0 +1,1 @@
+Looking at the loss per iteration graph below, we can clearly see the loss monotonically decreasing towards a minimum. This is consistent with the gradient descent algorithm that we’ve discussed earlier. Let’s look at the final prediction (output) from the Neural Network after 1500 iterations.

@@ -1,0 +1,1 @@
+With this approach, we’ve taken our first steps in personalizing the selection of artwork for our recommendations and across our service. This has resulted in a meaningful improvement in how our members discover new content... so we’ve rolled it out to everyone!

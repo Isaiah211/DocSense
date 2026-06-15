@@ -1,0 +1,1 @@
+Even the most die-hard crypto enthusiasts prefer in practice to rely on trust rather than their own crypto-medieval systems. 93% of bitcoins are mined by managed consortiums, yet none of the consortiums use smart contracts to manage payouts. Instead, they promise things like a “long history of stable and accurate payouts.” Sounds like a trustworthy middleman!

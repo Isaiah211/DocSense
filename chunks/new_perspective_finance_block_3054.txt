@@ -1,0 +1,6 @@
+As more traders directly negotiate with each other and fewer use the market intermediary,
+the prices in the market are less revealing and informative, driving the spreads higher and perhaps
+leading to a collapse. BIS Papers No 7 17
+3. Competition issues for financial institutions in the internet era
+When we view all financial institutions as intermediaries, or more generally as firms, the question of
+which competition strategy to choose is central for each institution.

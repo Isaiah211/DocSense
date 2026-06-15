@@ -1,0 +1,1 @@
+The course takes a more applied approach and is lighter math-wise than the above two courses. Each section starts with an “intuition” video from Eremenko that summarizes the underlying theory of the concept being taught. de Ponteves then walks through implementation with separate videos for both Python and R.

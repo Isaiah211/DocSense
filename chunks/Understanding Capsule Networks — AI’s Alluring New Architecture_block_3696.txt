@@ -1,0 +1,1 @@
+What is a convolutional layer, how does it work, and what is its purpose? The goal is to extract some extremely basic features from the input image, like edges or curves. How can we do this?

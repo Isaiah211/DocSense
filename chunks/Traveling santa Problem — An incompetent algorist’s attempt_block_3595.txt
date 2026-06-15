@@ -1,0 +1,1 @@
+I got 7,415,334 with this method. I tried time limit on LKH algorithm. From 40,000 seconds I reduced it to 300, 20, 5 ,1 seconds but It made the results slightly worse.

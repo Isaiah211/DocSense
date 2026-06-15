@@ -1,0 +1,2 @@
+But why is this? My favorite reasoning, or atleast how I remember this:
+Calling the shape attribute from a Pandas dataframe gives us back a tuple with the first value representing the number of rows and the second value representing the number of columns. If you think about how this is indexed in Python, rows are at 0 and columns are at 1, much like how we declare our axis value.

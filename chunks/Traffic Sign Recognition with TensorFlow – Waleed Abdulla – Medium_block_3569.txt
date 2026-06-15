@@ -1,0 +1,1 @@
+I mentioned the Graph object earlier and how it holds all the Ops of the model. The Session, on the other hand, holds the values of all the variables. If a graph holds the equation y=xW+b then the session holds the actual values of these variables.

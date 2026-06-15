@@ -1,0 +1,1 @@
+You can now run the model to verify the performance. I would agree though, writing extra code for data augmentation is indeed a bit of an effort. So, to build our second model, I turned to Nanonets.

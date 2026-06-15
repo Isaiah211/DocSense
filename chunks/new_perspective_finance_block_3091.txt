@@ -1,0 +1,4 @@
+In dealer markets, dealers provide liquidity to the market. Madhavan (2000) refers to a “dealers’
+puzzle” - although a continuous market can be accomplished by automated systems without human
+intervention, most markets still operate with market makers as intermediaries. Considering the dealers as profit-making and competing intermediaries may help solve the puzzle and
+further understand the value of liquidity provision.

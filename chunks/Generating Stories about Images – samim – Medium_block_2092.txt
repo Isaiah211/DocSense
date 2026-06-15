@@ -1,0 +1,1 @@
+This experiment explores how to generate little romantic stories about images (incl. guest star Taylor Swift). neural-storyteller is a recently published experiment by Ryan Kiros (University of Toronto).

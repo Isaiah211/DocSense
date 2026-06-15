@@ -1,0 +1,1 @@
+The course begins with a linear algebra refresher and explains machine learning concepts like gradient descent, cost function, regularization, etc. along the way. It is structured better than any in person college course I ever attended.

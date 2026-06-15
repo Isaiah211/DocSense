@@ -1,0 +1,1 @@
+TensorFlow encapsulates the architecture of a neural network in an execution graph. The graph consists of operations (Ops for short) such as Add, Multiply, Reshape, ...etc. These ops perform actions on data in tensors (multidimensional arrays).

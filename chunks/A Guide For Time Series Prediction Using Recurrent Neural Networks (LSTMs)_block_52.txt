@@ -1,0 +1,2 @@
+Looking at the strengths of a neural network, especially a recurrent neural network, I came up with the idea of predicting the exchange rate between the USD and the INR. There are a lot of methods of forecasting exchange rates such as:
+In this article, we’ll tell you how to predict the future exchange rate behavior using time series analysis and by making use of machine learning with time series. Let us begin by talking about sequence problems.

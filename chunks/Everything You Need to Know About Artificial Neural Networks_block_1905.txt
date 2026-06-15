@@ -1,0 +1,1 @@
+You walk into it and the whole process happens again. Obviously, this is an oversimplification, but it is effectively what backpropogation does. An artificial neural network is given a multitude of examples and then it tries to get the same answer as the example given.

@@ -1,0 +1,1 @@
+For example, on average Airbnb hosts prefer accommodation requests that are at least a week in advance over last minute requests. But perhaps some hosts prefer short notice? The plot below looks at the dispersion of hosts’ preferences for last minute stays (less than 7 days) versus far in advance stays (more than 7 days).

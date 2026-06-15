@@ -1,0 +1,1 @@
+If you are new to artificial neural networks, here is how they work. We use numpy because we want our matrix multiplication to be fast. We use a sigmoid function to normalize values and its derivative to measure the error rate.

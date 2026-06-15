@@ -1,0 +1,2 @@
+I will go into more detail on this in the coming sections, but here is a simple example:
+After we have our capsules, we are going to perform another non-linearity function on it (like ReLU), but this time the equation is a bit more involved. The function scales the values of the vector so that only the length of the vector changes, not the angle. This way we can make the vector between 0 and 1 so it’s an actual probability.

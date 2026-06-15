@@ -1,0 +1,1 @@
+The other approach is to bring more knowledge into translation. For example, we’re using more syntactic knowledge today and doing automated parsing with language. It’s been a grand challenge of the field since the late 1950s.

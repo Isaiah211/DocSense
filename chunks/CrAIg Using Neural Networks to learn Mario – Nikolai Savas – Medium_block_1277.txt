@@ -1,0 +1,2 @@
+This is a synapse, and when the input neuron fires on the left, it will send a signal down the synapse and tell crAIg to press the “R” button. In this way, crAIg walks right. As crAIg evolves, more neurons and synapses are created until his brain might look something more like this:
+In this one I’ll just point out a couple things.

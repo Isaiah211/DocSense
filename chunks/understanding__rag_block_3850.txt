@@ -1,0 +1,1 @@
+It is a cost-effective approach to improving LLM output so it remains relevant, accurate, and useful in various contexts. Why is Retrieval-Augmented Generation important? LLMs are a key artificial intelligence (AI) technology powering intelligent chatbots and other natural language processing (NLP) applications.

@@ -1,0 +1,1 @@
+A machine had learnt a super-human strategy for playing Go, a feat previously thought impossible, or at the very least, at least a decade away from being accomplished. This in itself, was a remarkable achievement. However, on 18th October 2017, DeepMind took a giant leap further.

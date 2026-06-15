@@ -1,0 +1,1 @@
+These events themselves only last tens of milliseconds, but they have indirect lasting effects. An influx of calcium causes extra AMPA receptors to be inserted into the cell membrane, which will allow more sodium ions into the cell during future action potential events from the presynaptic neuron. A similar process works in reverse to trigger LTD.

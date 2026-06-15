@@ -1,0 +1,1 @@
+This is a convolutional neural network (as I mentioned before, it’s a special kind of NN that is very useful in image processing) that takes in a simplified image of a board arrangement. “Rectifier nonlinearities” are layers that can be added to the network’s architecture. They give it the ability to learn more complex things.

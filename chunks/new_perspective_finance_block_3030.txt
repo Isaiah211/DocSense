@@ -1,0 +1,6 @@
+In his
+book on two-sided matching markets, Roth (1990) presents not only game theoretical models, but also
+explains how the incentives that a market organisation gives to the participants impose constraints on
+the outcomes that the market may achieve. Finally, before we move on to the new perspective on intermediation, we would like to mention the
+inspiring work by Spulber (1999). He develops a theory in which firms, acting as intermediaries, create
+and run markets.

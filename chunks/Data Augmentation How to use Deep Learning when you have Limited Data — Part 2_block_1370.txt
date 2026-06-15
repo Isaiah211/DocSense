@@ -1,0 +1,1 @@
+Data Augmentation Factor = Arbitrary. Over-fitting usually happens when your neural network tries to learn high frequency features (patterns that occur a lot) that may not be useful. Gaussian noise, which has zero mean, essentially has data points in all frequencies, effectively distorting the high frequency features.

@@ -1,0 +1,1 @@
+In this regard the prize for a clean and simple network that can be easily understood and modified now goes to ResNet. SqueezeNet has been recently released. It is a re-hash of many concepts from ResNet and Inception, and show that after all, a better design of architecture will deliver small network sizes and parameters without needing complex compression algorithms.

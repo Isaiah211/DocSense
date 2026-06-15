@@ -1,0 +1,1 @@
+The first time consisted of learning how to do machine learning in a week. This time I’ve tried to learn neural networks. While I didn’t manage to do it within a week, due to various reasons, I did get a basic understanding of it throughout the summer and autumn of 2015.

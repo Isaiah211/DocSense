@@ -1,0 +1,1 @@
+In this post, I will explain why this new architecture is so important, as well as intuition behind it. In the following posts I will dive into technical details. However, before talking about capsules, we need to have a look at CNNs, which are the workhorse of today’s deep learning.

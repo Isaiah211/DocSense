@@ -1,0 +1,1 @@
+This is repeated over and over to evolve crAIg. The first step every generation is to calculate the fitness of every individual genome from the previous generation. This involves running the same function on each genome so that NEAT knows how successful each one is.

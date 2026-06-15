@@ -1,0 +1,1 @@
+The middle line is an average of the two. Clearly, the neural network is getting better at predicting the value of each game state and the likely next moves. To show how this results in stronger and stronger play, I ran a league between 17 players, ranging from the 1st iteration of the neural network, up to the 49th.

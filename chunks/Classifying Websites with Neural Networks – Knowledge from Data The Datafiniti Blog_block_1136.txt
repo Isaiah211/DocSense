@@ -1,0 +1,1 @@
+The actual scores on real-life data may be a bit lower, but not by much. This is pretty good! We should have an algorithm on our hands that can accurately classify product pages about 90% of the time.

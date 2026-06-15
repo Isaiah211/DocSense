@@ -1,0 +1,1 @@
+Then you use reinforcement learning to fine-tune it. Here, you make the network play against itself and learn from the outcomes. But there’s a problem in this training style.

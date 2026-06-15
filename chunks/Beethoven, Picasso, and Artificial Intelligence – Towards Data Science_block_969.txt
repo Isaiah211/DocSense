@@ -1,0 +1,1 @@
+They did, however, explain that convolutional neural networks train on the famous ImageNet dataset. Those neural networks are then used to create art-like images. Essentially, Deep Dream takes the styling of one image and uses it to modify another image.

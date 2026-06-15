@@ -1,0 +1,1 @@
+The missing piece for much of this to come about is a common meta-language for vertical and punctual apps to share data and actions. This common language will likely be an evolution of the various deep-linking standards being developed. Facebook has a flavour, Android has a flavour, and a myriad of startups have flavours.

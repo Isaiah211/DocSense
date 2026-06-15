@@ -1,0 +1,2 @@
+It’s a fundamentally challenging problem.”
+One example of conceptual search is Google Image Swirl, which was added to Labs in November. Enter a keyword and you get a list of 12 images; clicking on each one brings up a cluster of related pictures. Click on any of them to expand the ‘wonder wheel’ further.

@@ -1,0 +1,1 @@
+From basic statistics to full-fledged deep learning, Udacity teaches you a plethora of industry standard techniques to complete the program’s well-crafted projects. The projects are so good, in fact, that I forked their repos on Github and left my solutions up as portfolio items. The final step of the program is to complete a capstone project of your own choosing.

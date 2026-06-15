@@ -1,0 +1,1 @@
+Then, after convolution with a smaller number of features, they can be expanded again into meaningful combination for the next layer. Christian and his team are very efficient researchers. In February 2015 Batch-normalized Inception was introduced as Inception V2.

@@ -1,0 +1,1 @@
+Decide on a new global constant value, like “unknown“, “N/A” or minus infinity, that will be used to fill all the missing values. This technique is used because sometimes it just doesn’t make sense to try and predict the missing value. For example, let’s look at the students enrollment database again.

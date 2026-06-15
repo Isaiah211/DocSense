@@ -1,0 +1,2 @@
+But what is collaborative filtering, truly, and how does it work? Here’s a high-level rundown, explained in a quick conversation:
+What’s going on here? Each of these individuals has track preferences: the one on the left likes tracks P, Q, R, and S, while the one on the right likes tracks Q, R, S, and T.

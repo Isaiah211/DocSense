@@ -1,0 +1,1 @@
+It is presented in the form of a game, with the user drawing a picture of an object chosen by the application. The program then has 20 seconds to recognize the image. In each session, the user is given a total of 6 objects.

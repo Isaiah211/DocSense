@@ -1,0 +1,5 @@
+The AI did the rest. Duplex made the call and, when someone at the salon picked up, the voice AI started the conversation with:
+“Hi, I’m calling to book a woman’s hair cut appointment for a client, um, I’m looking for something on May third?”
+When the attendant asked Duplex to give her one second, Duplex responded with:
+“Mmm-hmm.”
+The conversation continued as the salon representative presented various dates and times and the AI asked about other options. Eventually, the AI and the salon worker agreed on an appointment date and time.

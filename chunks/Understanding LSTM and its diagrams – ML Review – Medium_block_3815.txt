@@ -1,0 +1,1 @@
+This is the diagram of a LSTM building block. At a first sight, this looks intimidating. Let’s ignore the internals, but only look at the inputs and outputs of the unit.

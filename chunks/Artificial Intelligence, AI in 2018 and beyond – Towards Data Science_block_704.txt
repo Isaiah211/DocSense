@@ -1,0 +1,1 @@
+Neural network architectures are the fundamental core of learning algorithms. Even if our learning algorithms are capable of mastering a new task, if the neural network is not correct, they will not be able to. The problem on learning neural network architecture from data is that it currently takes too long to experiment with multiple architectures on a large dataset.

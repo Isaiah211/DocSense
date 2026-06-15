@@ -1,0 +1,1 @@
+The latter involves repeated samples from the remainder of the seasonal decomposition of the time series in order to simulate samples that follow the same seasonal pattern as the original time series but are not exact copies of its values. Most neural network architectures benefit from scaling the inputs (sometimes also the output). Why?

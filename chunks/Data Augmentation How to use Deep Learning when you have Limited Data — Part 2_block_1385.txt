@@ -1,0 +1,1 @@
+What if you wanted to translate an image that doesn’t have a black background? What if you wanted to scale inward? Or rotate in finer angles?

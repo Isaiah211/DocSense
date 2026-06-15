@@ -1,0 +1,1 @@
+And a lot of their success lays in the careful design of the neural network architecture. I wanted to revisit the history of neural network design in the last few years and in the context of Deep Learning. For a more in-depth analysis and comparison of all the networks reported here, please see our recent article.

@@ -1,0 +1,1 @@
+• when investing in increasing training set size, check if a plateau has not been reach. • cleanliness of the data is more important then the size. • if you cannot increase the input image size, reduce the stride in the con- sequent layers, it has roughly the same effect.

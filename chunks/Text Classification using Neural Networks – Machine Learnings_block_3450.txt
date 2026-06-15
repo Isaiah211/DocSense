@@ -1,0 +1,1 @@
+The synapse.json file contains all of our synaptic weights, this is our model. This classify() function is all that’s needed for the classification once synapse weights have been calculated: ~15 lines of code. The catch: if there’s a change to the training data our model will need to be re-calculated.

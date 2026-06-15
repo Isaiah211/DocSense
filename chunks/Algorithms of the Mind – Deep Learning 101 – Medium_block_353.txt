@@ -1,0 +1,1 @@
+The magic is encoded in the layers between inputs and outputs. These layers act as a kind of associative memory, mapping back-and-forth from image and concept, from concept to image, all in one neural network. But beyond the simplistic, brain-inspired machine vision technology here, the broader scientific question is whether this is how human imagination — visualization — works.

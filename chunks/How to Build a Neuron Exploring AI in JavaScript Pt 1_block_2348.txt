@@ -1,0 +1,1 @@
+When any connected cell fires, all connected cells fire with it. However, some gap junctions are one way. Among other things, electrical synapses connect cells that control muscle groups such as the heart, where it’s important that all related cells cooperate, creating simultaneous muscle contractions.

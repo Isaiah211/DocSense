@@ -1,0 +1,1 @@
+Though it has a smaller scope than the original Stanford class upon which it is based, it still manages to cover a large number of techniques and algorithms. The estimated timeline is eleven weeks, with two weeks dedicated to neural networks and deep learning. Free and paid options are available.

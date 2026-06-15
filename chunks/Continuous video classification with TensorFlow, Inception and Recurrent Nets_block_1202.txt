@@ -1,0 +1,1 @@
+What CNNs cannot do (without computationally intensive 3D convolution layers) is accept a sequence of vectors. That’s where RNNs come in. RNNs allow us to understand the context of a video frame, relative to the frames that came before it.

@@ -1,0 +1,1 @@
+In the figure below, I plot the analytical solution in red, the gradient descent minimisation in blue and the coordinate descent in green, across a number of iterations. A small explanation is probably necessary to read the function that performs coordinate descent. For a more mathematical explanation refer to the original post.

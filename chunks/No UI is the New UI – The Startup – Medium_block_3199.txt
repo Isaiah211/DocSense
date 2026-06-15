@@ -1,0 +1,1 @@
+Why bother designing an app to manage your bank account when you could just talk to it directly? Beyond human-interface interaction, we are entering the world of Brain-Computer Interaction. In this world, digital-telepathy coupled with AI and other means of input could allow us to communicate directly with computer, without the need for a screen.

@@ -1,0 +1,1 @@
+If the networks train faster the feedback time will be shorter. Thus, it would be easier for my brain to connect the dots between the assumptions I had for the model and its results. See Tim Dettmers’ answer to “Why are GPUs well-suited to deep learning?” on Quora for a better explanation.

@@ -1,0 +1,1 @@
+Another great resource for understanding CNNs is this blog post. The last ANN type that I’m going to talk about is the type called Reinforcement Learning. Reinforcement Learning is a generic term used for the behavior that computers exhibit when trying to maximize a certain reward, which means that it in itself isn’t an artificial neural network architecture.

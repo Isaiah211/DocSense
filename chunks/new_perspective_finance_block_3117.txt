@@ -1,0 +1,6 @@
+A smartcard is a physical card with an embedded computer
+chip or magnetic stripe that stores the owner’s value, while network money is stored in pure electronic
+form as 0’s and 1’s in computers and can be transferred over telecommunication networks such as the
+internet. Moreover, a hybrid of the two forms can be developed and users may further switch between
+e-money and conventional deposits or even other payment media. A number of e-money schemes
+have been developed but most are still in the fledgling stage.

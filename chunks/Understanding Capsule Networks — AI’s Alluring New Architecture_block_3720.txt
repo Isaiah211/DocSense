@@ -1,0 +1,3 @@
+But this time we aren’t satisfied with just some lousy plain old numbers. We’re going to cut the stack up into 32 decks with 8 cards each deck. We can call this deck a “capsule layer.”
+Each capsule layer has 36 “capsules.”
+If you’re keeping up (and are a math wiz), that means each capsule has an array of 8 values.

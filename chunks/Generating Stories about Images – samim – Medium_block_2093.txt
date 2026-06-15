@@ -1,0 +1,1 @@
+neural-storyteller is a recently published experiment by Ryan Kiros (University of Toronto). It combines recurrent neural networks (RNN), skip-thoughts vectors and other techniques to generate little story about images. Neural-storyteller’s outputs are creative and often comedic.

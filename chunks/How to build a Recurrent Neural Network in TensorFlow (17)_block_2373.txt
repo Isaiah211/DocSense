@@ -1,0 +1,1 @@
+The input to the RNN at every time-step is the current value as well as a state vector which represent what the network has “seen” at time-steps before. This state-vector is the encoded memory of the RNN, initially set to zero. The best and most comprehensive article explaining RNN:s I’ve found so far is this article by researchers at UCSD, highly recommended.

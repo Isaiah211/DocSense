@@ -1,0 +1,1 @@
+Fifteen videos and 51 exercises with an estimated timeline of four hours. Unsupervised Learning in Python (DataCamp): Covers a variety of unsupervised learning algorithms using Python, scikit-learn, and scipy. The course ends with students building a recommender system to recommend popular musical artists.

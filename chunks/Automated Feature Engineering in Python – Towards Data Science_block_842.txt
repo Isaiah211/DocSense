@@ -1,0 +1,1 @@
+For example, in our dataset, the clients dataframe is a parent of the loans dataframe. Each client has only one row in clients but may have multiple rows in loans. Likewise, loans is the parent of payments because each loan will have multiple payments.

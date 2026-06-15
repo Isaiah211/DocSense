@@ -1,0 +1,1 @@
+After this unsupervised training, whenever the network is fed an image belonging to a certain category like “Cats”, the same corresponding set of “Cat” neurons always gets fired up. Simply by looking at the vast set of training images, this network has discovered the essential patterns of each category, as well as the differences of one category vs. another.

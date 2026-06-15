@@ -1,0 +1,1 @@
+By the time we’re done today, we should be able to classify what we see on our TV as either a football game or an advertisement, running on our Raspberry Pi. Let’s get to it! Video is an interesting classification problem because it includes both temporal and spatial features.

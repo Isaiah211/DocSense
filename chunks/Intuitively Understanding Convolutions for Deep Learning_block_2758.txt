@@ -1,0 +1,2 @@
+Each filter actually happens to be a collection of kernels, with there being one kernel for every single input channel to the layer, and each kernel being unique. Each filter in a convolution layer produces one and only one output channel, and they do it like so:
+Each of the kernels of the filter “slides” over their respective input channels, producing a processed version of each. Some kernels may have stronger weights than others, to give more emphasis to certain input channels than others (eg.

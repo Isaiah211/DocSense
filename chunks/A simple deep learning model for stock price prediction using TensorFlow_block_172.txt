@@ -1,0 +1,1 @@
+Also our data science consultants at STATWORX are heavily using TensorFlow for deep learning and neural net research and development. Let’s see what Google has planned for the future of TensorFlow. One thing that is missing, at least in my opinion, is a neat graphical user interface for designing and developing neural net architectures with TensorFlow backend.

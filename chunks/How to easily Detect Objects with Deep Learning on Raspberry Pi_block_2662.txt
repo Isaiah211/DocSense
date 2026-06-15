@@ -1,0 +1,5 @@
+Without it, you might need a few 100k images to train the model. You can find a bunch of pretrained models here
+The process of training a model is unnecessarily difficult to simplify the process we created a docker image would make it easy to train. To start training the model you can run:
+The docker image has a run.sh script that can be called with the following parameters
+You can find more details at:
+To train a model you need to select the right hyper parameters.

@@ -1,0 +1,2 @@
+In two parts, the paper describes an algorithm for rendering a photo in the style of a given painting:
+2. Instead of trying to match the activations exactly, try to match the correlation of the activations. They call this “style reconstruction”, and depending on the layer you reconstruct you get varying levels of abstraction.

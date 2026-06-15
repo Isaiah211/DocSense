@@ -1,0 +1,1 @@
+Consider our car example again. Below are some of the ways by which you can modify the image. Sure, they are pictures of the same car, but your target application may never see cars presented in these orientations.

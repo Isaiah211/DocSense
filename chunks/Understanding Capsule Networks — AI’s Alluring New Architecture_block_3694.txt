@@ -1,0 +1,1 @@
+Most images you are familiar with have 3 or 4 channels, for Red-Green-Blue and possibly an additional channel for Alpha, or transparency. Each one of these pixels is represented as a value from 0 to 255 and stored in a 28x28x1 matrix [28, 28, 1]. The brighter the pixel, the larger the value.

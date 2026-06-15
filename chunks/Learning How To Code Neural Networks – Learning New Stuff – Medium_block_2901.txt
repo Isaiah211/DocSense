@@ -1,0 +1,1 @@
+It’s great fun to find a dataset that interests you and try to make some predictions with your neural nets. To get a hold of a dataset, just visit my side project Datasets.co (← shameless self promotion) and find one you like. Anyway, the point is that you’re now better off experimenting with stuff that interests you rather than following my advices.

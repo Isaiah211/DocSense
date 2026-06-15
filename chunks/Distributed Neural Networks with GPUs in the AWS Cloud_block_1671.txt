@@ -1,0 +1,1 @@
+However, the training time jumped from 7 to over 20 hours. Profiling showed that most of the time was spent on the function calls to Nvidia Performance Primitive library, e.g. nppsMulC_32f_I, nppsExp_32f_I.

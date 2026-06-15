@@ -1,0 +1,2 @@
+It’s easy, we simply make another dataset without data been shuffled. https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/datasets.py#L1-L5
+Dataset API has other good methods for preprocessing data. There is a comprehensive list of methods in the.

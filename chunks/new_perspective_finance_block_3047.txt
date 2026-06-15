@@ -1,0 +1,5 @@
+Information is crucial in the production process of
+financial services and IT investment is one of most important strategic decisions for all financial
+institutions. Financial institutions produce matching by setting prices (in particular bid-ask spreads). If
+an institution is more efficient than others in price discovery, it may achieve narrower spreads that
+attract more customers and may gain higher profits.

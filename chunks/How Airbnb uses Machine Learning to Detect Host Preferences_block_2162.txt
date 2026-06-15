@@ -1,0 +1,1 @@
+This was a promising result. But, we still had to test the performance of the model live on our site. To test the online performance of the model, we launched an experiment that used the predicted probability of host acceptance as a significant weight in our ranking algorithm that also includes many other features that capture guests’ preferences.

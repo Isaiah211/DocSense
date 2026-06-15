@@ -1,0 +1,1 @@
+This step has an output valve that is controlled by the new memory, the previous output h_t-1, the input X_t and a bias vector. This valve controls how much new memory should output to the next LSTM unit. The above diagram is inspired by Christopher’s blog post.

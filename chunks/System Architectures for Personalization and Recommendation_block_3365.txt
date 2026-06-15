@@ -1,0 +1,1 @@
+A related issue is how to combine the different Signals and Models that are needed across the offline, nearline, and online regimes. Finally, we also need to figure out how to combine intermediate Recommendation Results in a way that makes sense for the user. The rest of this post will detail these components of this architecture as well as their interactions.

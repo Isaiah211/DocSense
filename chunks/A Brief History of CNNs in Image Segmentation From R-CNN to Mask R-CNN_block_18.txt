@@ -1,0 +1,2 @@
+Then, the features in each region are pooled (usually using max pooling). So all it takes us is one pass of the original image as opposed to ~2000! Fast R-CNN Insight 2: Combine All Models into One Network
+The second insight of Fast R-CNN is to jointly train the CNN, classifier, and bounding box regressor in a single model.

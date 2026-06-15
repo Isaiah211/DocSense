@@ -1,0 +1,1 @@
+This forces you to really understand the concepts, and will likely reveal holes in your knowledge, which isn’t fun. However, when you finally manage it, you’ll feel like you’ve just acquired a new superpower. When you’ve done this, you can continue with this Wild ML tutorial, by Denny Britz, which guides you through a little more robust neural network.

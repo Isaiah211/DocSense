@@ -1,0 +1,2 @@
+In order to achieve this, they built a complex network architecture with various blocks to process different input data and generate a result. The blocks for the encoder/decoder fall into three types: convolution, attention, and gated mixture of experts (MoE). Main results of learning:
+By the way, this model is present in tensor2tensor.

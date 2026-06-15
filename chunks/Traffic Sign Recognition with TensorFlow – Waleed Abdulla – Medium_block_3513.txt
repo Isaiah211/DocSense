@@ -1,0 +1,1 @@
+I’ll describe my own experience building this model and share the source code and relevant materials. This is suitable for those who know Python and the basics of machine learning already, but want hands on experience and to practice building a real application. In this part, I’ll talk about image classification and I’ll keep the model as simple as possible.

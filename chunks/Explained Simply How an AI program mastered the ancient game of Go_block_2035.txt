@@ -1,0 +1,1 @@
+The policy network has 13 layers, and is called “SL policy” network (SL = supervised learning). The data came from a... I’ll just say it’s a popular website on which millions of people play Go.

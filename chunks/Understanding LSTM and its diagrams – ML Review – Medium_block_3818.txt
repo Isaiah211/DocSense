@@ -1,0 +1,1 @@
+As for outputs, h_t is the output of the current network. C_t is the memory of the current unit. Therefore, this single unit makes decision by considering the current input, previous output and previous memory.

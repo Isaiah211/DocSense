@@ -1,0 +1,1 @@
+Lambda functions to the rescue! Lambda functions are used for creating small, one-time and anonymous function objects in Python. Basically, they let you create a function, without creating a function.

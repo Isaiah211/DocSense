@@ -1,0 +1,1 @@
+We have an input layer which is the data we provide to the ANN. We have the hidden layers, which is where the magic happens. Lastly, we have the output layer, which is where the finished computations of the network are placed for us to use.

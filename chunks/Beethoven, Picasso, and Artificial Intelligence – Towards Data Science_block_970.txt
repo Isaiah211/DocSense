@@ -1,0 +1,1 @@
+Essentially, Deep Dream takes the styling of one image and uses it to modify another image. The results can be anything from a silly fusion to an artistic masterpiece. This occurs when the program identifies the unique stylings of an image provided by the user and imposes those stylings onto another image that the user provides.

@@ -1,0 +1,1 @@
+This model has learned to reproduce the yearly shape of the data and doesn’t have the lag it used to have with a simple feed forward neural network. It is still underestimating some observations by certain amounts and there is definitely room for improvement in this model. There can be a lot of changes to be made in this model to make it better.

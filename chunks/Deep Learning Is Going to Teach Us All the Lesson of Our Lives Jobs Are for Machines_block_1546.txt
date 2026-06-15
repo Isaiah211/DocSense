@@ -1,0 +1,1 @@
+One of these applications is the creation of deep neural networks - kind of like pared-down virtual brains. They provide an avenue to machine learning that’s made incredible leaps that were previously thought to be much further down the road, if even possible at all. How?

@@ -1,0 +1,1 @@
+More importantly, this sequence can be of arbitrary length. The most straight-forward example is perhaps a time-series of numbers, where the task is to predict the next value given previous values. The input to the RNN at every time-step is the current value as well as a state vector which represent what the network has “seen” at time-steps before.

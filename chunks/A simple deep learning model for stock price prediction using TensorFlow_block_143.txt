@@ -1,0 +1,1 @@
+After definition of the required weight and bias variables, the network topology, the architecture of the network, needs to be specified. Hereby, placeholders (data) and variables (weighs and biases) need to be combined into a system of sequential matrix multiplications. Furthermore, the hidden layers of the network are transformed by activation functions.

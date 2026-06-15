@@ -1,0 +1,1 @@
+Certainly, the news that the bot has allegedly invented a language was inflated from scratch. When training (in negotiations with the same agent), they disabled the restriction of the similarity of the text to human, and the algorithm modified the language of interaction. Nothing unusual.

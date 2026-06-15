@@ -1,0 +1,1 @@
+Each of the game states act as a data sample, and the outcome of that game acts as the label. So by playing a 50-move game, you have 50 data samples for value prediction. Lol, no.

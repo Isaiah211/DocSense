@@ -1,0 +1,2 @@
+Otherwise, by simply using hyperparameters from the TensorFlow docs (i.e. no hyperparameter search) the fully-connected highway network performed much better than a fully-connected network. Using MNIST as my simple trial:
+Now that we have a highway network, I wanted to answer a few questions that came up for me while reading the paper.

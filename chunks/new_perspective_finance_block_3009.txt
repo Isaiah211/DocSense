@@ -1,0 +1,7 @@
+1
+ Lin (lhlin@eco.utexas.edu) works in the Economics Department and Geng (gengxj@mail.utexas.edu) and Whinston
+(abw@uts.cc.utexas.edu) in the Centre for Research in Electronic Commerce, all at the University of Texas at Austin. 14 BIS Papers No 7
+2.1 Present financial intermediation theory and recent developments
+The theory of financial intermediation is based on the classic notion of the perfect market that
+originated with Adam Smith, was developed by Marshall and Walras and was formalised in the ArrowDebreu model of resource allocation. According to this theory, financial intermediation exists because
+of market frictions and imperfections and acts as a remedy to the market system.

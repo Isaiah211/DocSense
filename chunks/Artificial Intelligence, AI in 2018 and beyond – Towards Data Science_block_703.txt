@@ -1,0 +1,1 @@
+Hand-crafted from experience, and it is currently one of the major limitations of the field. There is research in this direction: here and here (for example), but much more is needed. Neural network architectures are the fundamental core of learning algorithms.

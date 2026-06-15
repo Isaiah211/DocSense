@@ -1,0 +1,1 @@
+So while this UI was very expressive, often it felt unnatural and limiting. Furthermore many users just ended up filling the basic fields and not adding any depth in the open-text field (despite various visual cues). And editing a query for refining or pivoting was hard.

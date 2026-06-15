@@ -1,0 +1,6 @@
+But the reconstruction itself is very cool and fun to play around with. If we reconstruct our 4 input from its vector, this is what we get:
+If we manipulate the sliders (the vector), we can see how each dimension affects the 4:
+I recommend cloning the visualization repo to play around with different inputs and see how the sliders affect the reconstruction:
+Run the tool:
+Then point your browser to: http://localhost:5000
+I think that the reconstructions from capsule networks are stunning. Even though the current model is only trained on simple digits, it makes my mind run with the possibilities that a matured architecture trained on a larger dataset could achieve.

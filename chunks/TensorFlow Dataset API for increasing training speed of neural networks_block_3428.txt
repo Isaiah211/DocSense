@@ -1,0 +1,1 @@
+All code of this experiment is available on GitHub [Link]. MNIST is a very small dataset and profit of Dataset API isn’t representative. By contrast, the results on a real-life dataset are much more impressive.

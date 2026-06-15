@@ -1,0 +1,1 @@
+These two ✖ signs are the forget valve and the new memory valve. And finally, we need to generate the output for this LSTM unit. This step has an output valve that is controlled by the new memory, the previous output h_t-1, the input X_t and a bias vector.

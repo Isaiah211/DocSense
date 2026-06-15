@@ -1,0 +1,1 @@
+The first successful instance of large-scale Deep Learning made use of 16000 CPU cores in 1000 machines in order to train an Artificial Neural Network in a matter of days. While that was a remarkable milestone, the required infrastructure, cost, and computation time are still not practical. Andrew Ng and his team addressed this issue in follow up work .

@@ -1,0 +1,1 @@
+The placeholders are TensorFlow’s way of receiving input from the main program. Notice that I create the placeholders (and all other ops) inside the block of with graph.as_default(). This is so they become part of my graph object rather than the global graph.

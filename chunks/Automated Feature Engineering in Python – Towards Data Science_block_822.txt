@@ -1,0 +1,2 @@
+Let’s look at a few examples to see these concepts in action. A transformation acts on a single table (thinking in terms of Python, a table is just a Pandas DataFrame ) by creating new features out of one or more of the existing columns. As an example, if we have the table of clients below
+we can create features by finding the month of the joined column or taking the natural log of the income column.

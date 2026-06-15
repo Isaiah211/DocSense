@@ -1,0 +1,1 @@
+It’s tempting to skip this part, but I’ve found that the code I write to examine the data ends up being used a lot throughout the project. I usually do this in Jupyter notebooks and share them with the team. Knowing your data well from the start saves you a lot of time later.

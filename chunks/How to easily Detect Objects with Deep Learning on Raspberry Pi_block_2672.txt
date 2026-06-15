@@ -1,0 +1,2 @@
+We have removed the need to annotate Images, we have expert annotators who will annotate your images for you. We automatically train the best model for you, to achieve this we run a battery of model with different parameters to select the best for your data
+NanoNets is entirely in the cloud and runs without using any of your hardware. Which makes it much easier to use.

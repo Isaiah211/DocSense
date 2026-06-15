@@ -1,0 +1,1 @@
+By the end of these two functions, the species will have a certain number of genomes left as well as a “baby quota” — the difference between the number of genomes and the populationSize. This algorithm is necessary to allow for species to be left behind. Sometimes a species will go down the completely wrong path, and there’s no point in keeping them around.

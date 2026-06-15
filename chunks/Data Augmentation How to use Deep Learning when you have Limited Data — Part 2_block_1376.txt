@@ -1,0 +1,1 @@
+Sounds like a pretty straight forward classification task right? You’d be right, except for one thing. We are overlooking a crucial feature in the photographs that would affect the performance — The season in which the photograph was taken.

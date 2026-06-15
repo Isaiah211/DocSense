@@ -1,0 +1,1 @@
+Its input is 5 and its output is 1. The input is the sum of the three synapses connecting to the neuron (the three arrows at the left). At the far left we see two input values plus a bias value.

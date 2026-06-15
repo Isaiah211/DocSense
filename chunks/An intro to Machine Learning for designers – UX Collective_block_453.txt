@@ -1,0 +1,1 @@
+Instead we can identify patterns among unlabeled data. For example, we can identify related items on an e-commerce website or recommend items to someone based on others who made similar purchases. If the pattern is a group we call it a cluster.

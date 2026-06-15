@@ -1,0 +1,1 @@
+Once all the babies have been created in every species, we can finally progress to the final stage of the genetic algorithm: Respeciation. Essentially, we first select a “candidate genome” from each species. This genome is now the representative for the species.

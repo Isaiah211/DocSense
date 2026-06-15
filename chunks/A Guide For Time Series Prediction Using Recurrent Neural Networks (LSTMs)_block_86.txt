@@ -1,0 +1,1 @@
+Normalizing or transforming the data means that the new scale variables will be between zero and one. A fully Connected Model is a simple neural network model which is built as a simple regression model that will take one input and will spit out one output. This basically takes the price from the previous day and forecasts the price of the next day.

@@ -1,0 +1,3 @@
+The course also simplifies the process of installing machine learning dependencies with a Docker image and AMI (Amazon Machine Image) for local and AWS development respectively. In fact, the entire Udacity environment is in line with industry best practices and students who learn it will be well equipped in the job market. Winner = Udacity
+Lectures
+Coursera’s Machine Learning course was created and taught by the AI godfather himself: Andrew Ng.

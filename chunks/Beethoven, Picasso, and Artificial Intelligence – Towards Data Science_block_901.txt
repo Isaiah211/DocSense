@@ -1,0 +1,1 @@
+GANs, although quite complex, are becoming an outdated model. If artificial intelligence in the art space is to advance, researchers and developers will have to work to find better methods to allow machines to generate art and music. Two of these such methods are presented in the form of Sketch-RNN and CAN (Creative Adversarial Networks).

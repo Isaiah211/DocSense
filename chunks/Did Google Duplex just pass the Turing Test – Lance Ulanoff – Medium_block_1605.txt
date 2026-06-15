@@ -1,0 +1,2 @@
+Duplex handled all this without missing a beat. “The amazing thing is that the assistant can actually understand the nuances of conversation,” said Pichai during the keynote. That ability comes by way of neural network technology and intensive machine learning,
+For as accomplished as Duplex is in making hair appointments and restaurant reservations, it might stumble in deeper or more abstract conversations.

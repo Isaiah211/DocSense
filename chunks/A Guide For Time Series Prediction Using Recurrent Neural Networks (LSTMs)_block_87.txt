@@ -1,0 +1,1 @@
+This basically takes the price from the previous day and forecasts the price of the next day. As a loss function, we use mean squared error and stochastic gradient descent as an optimizer, which after enough numbers of epochs will try to look for a good local optimum. Below is the summary of the fully connected layer.

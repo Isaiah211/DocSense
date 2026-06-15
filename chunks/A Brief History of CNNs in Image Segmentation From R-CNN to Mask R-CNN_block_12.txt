@@ -1,0 +1,2 @@
+On the final layer of the CNN, R-CNN adds a Support Vector Machine (SVM) that simply classifies whether this is an object, and if so what object. This is step 4 in the image above. Improving the Bounding Boxes
+Now, having found the object in the box, can we tighten the box to fit the true dimensions of the object?

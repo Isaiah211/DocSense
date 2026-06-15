@@ -1,0 +1,2 @@
+However, the advantage of the system is that we can solve problems in which it is difficult for us to set the loss-function (for example, improving the quality of the photo) — we give it to the discriminator. A classic example of the GAN training result is pictures of bedrooms or people
+Previously, we considered the auto-coding (Sketch-RNN), which encodes the original data into a latent representation. The same thing happens with the generator.

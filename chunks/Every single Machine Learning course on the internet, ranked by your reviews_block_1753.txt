@@ -1,0 +1,1 @@
+Implementing Predictive Analytics with Spark in Azure HDInsight (Microsoft/edX): Introduces the core concepts of machine learning and a variety of algorithms. Leverages several big data-friendly tools, including Apache Spark, Scala, and Hadoop. Uses both Python and R.

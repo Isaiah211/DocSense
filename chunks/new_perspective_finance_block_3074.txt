@@ -1,0 +1,5 @@
+Next we discuss issues concerning competition between financial markets, especially those brought
+up by the proliferation of electronic trading systems. 3.3 The impact of ECNs
+One widely recognised fact is that due to the competition from ECNs, prices on exchanges such as
+Nasdaq have become tighter, ie the bid-ask spreads have narrowed. ECNs have also affected market
+operations by improving the flow of information through open order books.

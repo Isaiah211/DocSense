@@ -1,0 +1,1 @@
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting, a great paper by Srivastava, Hinton and others. 5. Idea: Convolutional Neural Nets (CNNs).

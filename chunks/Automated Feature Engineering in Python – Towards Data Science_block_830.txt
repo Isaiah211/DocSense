@@ -1,0 +1,1 @@
+Like most ideas in machine learning, it’s a complex method built on a foundation of simple concepts. By learning one building block at a time, we can form a good understanding of this powerful method. First, let’s take a look at our example data.

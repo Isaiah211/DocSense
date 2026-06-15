@@ -1,0 +1,1 @@
+Modify this if you’re using a different directory. My first challenge was finding a good training dataset. Traffic sign recognition is a well studied problem, so I figured I’ll find something online.

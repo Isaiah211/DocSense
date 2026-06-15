@@ -1,0 +1,1 @@
+So, to build our second model, I turned to Nanonets. They internally use transfer learning and data augmentation to provide the best results using minimal data. All you need to do is upload the data on their website, and wait until it’s trained in their servers (Usually around 30 minutes).

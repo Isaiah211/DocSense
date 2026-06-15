@@ -1,0 +1,1 @@
+Once the queries have completed, we need a mechanism for publishing the resulting data. We have several requirements for that mechanism: First, it should notify subscribers when the result of a query is ready. Second, it should support different repositories (not only HDFS, but also S3 or Cassandra, for instance).

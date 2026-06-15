@@ -1,0 +1,1 @@
+Machine that can operate like us. Our proposal for reinforcement learning work is detailed here. It uses a predictive neural network that can operate continuously and an associative memory to store recent experiences.

@@ -1,0 +1,1 @@
+At the far left we see two input values plus a bias value. The input values are 1 and 0 (the green numbers), while the bias holds a value of -2 (the brown number). The two inputs are then multiplied by their so called weights, which are 7 and 3 (the blue numbers).

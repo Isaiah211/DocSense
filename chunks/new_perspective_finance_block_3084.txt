@@ -1,0 +1,5 @@
+Timely data transmission across a large geographical
+region over the internet is still technically difficult giving the uncertain cyber-traffic. Moreover, as
+discussed later, the high security requirements for financial data worsen this technical difficulty as
+security and timely transmission are often at odds with each other. Another possible reason is the lowered entry cost if we view stock exchanges as profit-making
+businesses.

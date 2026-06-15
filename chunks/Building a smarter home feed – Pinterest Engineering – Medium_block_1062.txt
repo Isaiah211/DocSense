@@ -1,0 +1,1 @@
+The materialized feed represents a frozen view of the feed as it was the last time the user viewed it. To the materialized Pins we add the Pins from the content generator in the chunk. The service makes no decisions about order, instead it adds the Pins in exactly the order given by the chunk.

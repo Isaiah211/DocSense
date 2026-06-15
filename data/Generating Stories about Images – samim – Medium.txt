@@ -1,0 +1,12 @@
+Title: Generating Stories about Images – samim – Medium
+Author: samim
+----------------------------------------
+
+Stories are a fundamental human tool that we use to communicate thought. Creating a stories about a image is a difficult task that many struggle with. New machine-learning experiments are enabling us to generate stories based on the content of images. This experiment explores how to generate little romantic stories about images (incl. guest star Taylor Swift).
+neural-storyteller is a recently published experiment by Ryan Kiros (University of Toronto). It combines recurrent neural networks (RNN), skip-thoughts vectors and other techniques to generate little story about images. Neural-storyteller’s outputs are creative and often comedic. It is open-source.
+This experiment started by running 5000 randomly selected web-images through neural-storyteller and experimenting with hyper-parameters. neural-storyteller comes with 2 pre-trained models: One trained on 14 million passages of romance novels, the other trained on Taylor Swift Lyrics. Inputs and outputs were manually filtered and recombined into two videos.
+Using Romantic Novel Model. Voices generated with a Text-to-Speech.
+Using Taylor Swift Model. Combined with a well known Swift instrumental.
+neural-storyteller gives us a fascinating glimpse into the future of storytelling. Even though these technologies are not fully mature yet, the art of storytelling is bound to change. In the near future, authors will be training custom models, combining styles across genres and generating text with images & sounds. Exploring this exiting new medium is rewarding!
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Designer & Code Magician. Working at the intersection of HCI, Machine Learning & Creativity. Building tools for Enlightenment. Narrative Engineering.

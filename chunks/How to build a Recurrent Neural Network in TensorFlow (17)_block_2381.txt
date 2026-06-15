@@ -1,0 +1,1 @@
+The input and output of this graph is typically multidimensional arrays, also known as tensors. The graph, or parts of it can then be executed iteratively in a session, this can either be done on the CPU, GPU or even a resource on a remote server. The two basic TensorFlow data-structures that will be used in this example are placeholders and variables.

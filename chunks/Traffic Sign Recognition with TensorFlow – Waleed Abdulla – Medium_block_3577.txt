@@ -1,0 +1,1 @@
+The BelgiumTS dataset makes this easy by providing two separate sets, one for training and one for testing. In the notebook I load the test set, resize the images to 32x32, and then calculate the accuracy. This is the relevant part of the code that calculates the accuracy.

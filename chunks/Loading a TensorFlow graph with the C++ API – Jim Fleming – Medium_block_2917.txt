@@ -1,0 +1,2 @@
+And that should be all we need to do to compile and run C++ code for TensorFlow. The last thing to cover are the caveats I mentioned:
+Hopefully someone can shed some light on these last points so we can begin to embed TensorFlow graphs in applications. If you are that person, message me on Twitter or email.

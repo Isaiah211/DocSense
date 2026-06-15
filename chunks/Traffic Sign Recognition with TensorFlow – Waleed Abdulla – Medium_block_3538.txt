@@ -1,0 +1,2 @@
+Let’s print a few examples:
+The sizes seem to hover around 128x128. I could use that size to preserve as much information as possible, but in early development I prefer to use a smaller size because it leads to faster training, which allows me to iterate faster. I experimented with 16x16 and 20x20, but they were too small.

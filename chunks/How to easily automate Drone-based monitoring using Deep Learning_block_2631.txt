@@ -1,0 +1,2 @@
+Below are some of the commonly occurring challenges when using aerial imagery. There are several challenges to overcome when automating the analysis of drone imagery. Following lists a few of them with a prospective solution:
+Pragmatic Master, a South-African robotics-as-a-service collaborated with Nanonets for automation of remotely monitoring progress of a housing construction project in Africa.

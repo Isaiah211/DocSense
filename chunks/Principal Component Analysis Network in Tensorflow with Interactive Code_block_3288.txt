@@ -1,0 +1,2 @@
+And we can take advantage of this operation to do a similar job as max/mean pooling. Network Composed of Majority of Pooling Layers
+Now I know what you are thinking, it doesn’t make sense to have a network that is only composed of pooling layer while performing classification. And you are completely right!

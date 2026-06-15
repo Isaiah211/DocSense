@@ -1,0 +1,1 @@
+Another activation function that is used is the tanh function. Hm. This looks very similar to sigmoid.

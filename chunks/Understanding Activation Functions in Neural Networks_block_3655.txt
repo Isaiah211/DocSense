@@ -1,0 +1,1 @@
+This looks very similar to sigmoid. In fact, it is a scaled sigmoid function! Ok, now this has characteristics similar to sigmoid that we discussed above.

@@ -1,0 +1,1 @@
+Imagine programming a computer to recognize a chair. You’d need to enter a ton of instructions, and the result would still be a program detecting chairs that aren’t, and not detecting chairs that are. So how did we learn to detect chairs?

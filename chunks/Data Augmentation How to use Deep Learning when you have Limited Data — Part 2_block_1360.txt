@@ -1,0 +1,2 @@
+You can perform rotations by using any of the following commands, from your favorite packages. Data Augmentation Factor = 2 to 4x
+The image can be scaled outward or inward. While scaling outward, the final image size will be larger than the original image size.

@@ -1,0 +1,2 @@
+Each of these individuals has track preferences: the one on the left likes tracks P, Q, R, and S, while the one on the right likes tracks Q, R, S, and T. Collaborative filtering then uses that data to say:
+“Hmmm... You both like three of the same tracks — Q, R, and S — so you are probably similar users.

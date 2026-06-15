@@ -1,0 +1,87 @@
+Title: A “weird” introduction to Deep Learning – Towards Data Science
+Author: Favio Vázquez
+----------------------------------------
+
+There are amazing introductions, courses and blog posts on Deep Learning. I will name some of them in the resources sections, but this is a different kind of introduction.
+But why weird? Maybe because it won’t follow the “normal” structure of a Deep Learning post, where you start with the math, then go into the papers, the implementation and then to applications.
+It will be more close to the post I did before about “My journey into Deep Learning”, I think telling a story can be much more helpful than just throwing information and formulas everywhere. So let’s begin.
+NOTE: There’s a companion webinar to this article. Find it here:
+Sometimes is important to have a written backup of your thoughts. I tend to talk a lot, and be present in several presentations and conference, and this is my way of contributing with a little knowledge to everyone.
+Deep Learning (DL)is such an important field for Data Science, AI, Technology and our lives right now, and it deserves all of the attention is getting. Please don’t say that deep learning is just adding a layer to a neural net, and that’s it, magic! Nope. I’m hoping that after reading this you have a different perspective of what DL is.
+I just created this timeline based on several papers and other timelines with the purpose of everyone seeing that Deep Learning is much more than just Neural Networks. There has been really theoretical advances, software and hardware improvements that were necessary for us to get to this day. If you want it just ping me and I’ll send it to you. (Find my contact in the end of the article).
+Deep Learning has been around for quite a while now. So why it became so relevant so fast the last 5–7 years?
+As I said before, until the late 2000s, we were still missing a reliable way to train very deep neural networks. Nowadays, with the development of several simple but important theoretical and algorithmic improvements, the advances in hardware (mostly GPUs, now TPUs), and the exponential generation and accumulation of data, DL came naturally to fit this missing spot to transform the way we do machine learning.
+Deep Learning is an active field of research too, nothing is settle or closed, we are still searching for the best models, topology of the networks, best ways to optimize their hyperparameters and more. Is very hard, as any other active field on science, to keep up to date with the investigation, but it’s not impossible.
+A side note on topology and machine learning (Deep Learning with Topological Signatures by Hofer et al.):
+Luckily for us, there are lots of people helping understand and digest all of this information through courses like the Andrew Ng one, blog posts and much more.
+This for me is weird, or uncommon because normally you have to wait for sometime (sometime years) to be able to digest difficult and advance information in papers or research journals. Of course, most areas of science are now really fast too to get from a paper to a blog post that tells you what yo need to know, but in my opinion DL has a different feel.
+We are working with something that is very exciting, most people in the field are saying that the last ideas in the papers of deep learning (specifically new topologies and configurations for NN or algorithms to improve their usage) are the best ideas in Machine Learning in decades (remember that DL is inside of ML).
+I’ve used the word learning a lot in this article so far. But what is learning?
+In the context of Machine Learning, the word “learning” describes an automatic search process for better representations of the data you are analyzing and studying (please have this in mind, is not making a computer learn).
+This is a very important word for this field, REP-RE-SEN-TA-TION. Don’t forget about it. What is a representation? It’s a way to look at data.
+Let me give you an example, let’s say I tell you I want you to drive a line that separates the blue circles from the green triangles for this plot:
+So, if you want to use a line this is what the author says:
+This is impossible if we remember the concept of a line:
+So is the case lost? Actually no. If we find a way of representing this data in a different way, in a way we can draw a straight line to separate the types of data. This is somethinkg that math taught us hundreds of years ago. In this case what we need is a coordinate transformation, so we can plot or represent this data in a way we can draw this line. If we look the polar coordinate transformation, we have the solution:
+And that’s it now we can draw a line:
+So, in this simple example we found and chose the transformation to get a better representation by hand. But if we create a system, a program that can search for different representations (in this case a coordinate change), and then find a way of calculating the percentage of categories being classified correctly with this new approach, in that moment we are doing Machine Learning.
+This is something very important to have in mind, deep learning is representation learning using different kinds of neural networks and optimize the hyperparameters of the net to get (learn)the best representation for our data.
+This wouldn’t be possible without the amazing breakthroughs that led us to the current state of Deep Learning. Here I name some of them:
+Learning representations by back-propagating errors by David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams.
+A theoretical framework for Back-Propagation by Yann Lecun.
+2. Idea: Better initialization of the parameters of the nets. Something to remember: The initialization strategy should be selected according to the activation function used (next).
+3. Idea: Better activation functions. This mean, better ways of approximating the functions faster leading to faster training process.
+4. Idea: Dropout. Better ways of preventing overfitting and more.
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting, a great paper by Srivastava, Hinton and others.
+5. Idea: Convolutional Neural Nets (CNNs).
+Gradient based learning applied to document recognition by Lecun and others
+ImageNet Classification with Deep Convolutional Neural Networks by Krizhevsky and others.
+6. Idea: Residual Nets (ResNets).
+7. Idea: Region Based CNNs. Used for object detection and more.
+8. Idea: Recurrent Neural Networks (RNNs) and LSTMs.
+BTW: It was shown by Liao and Poggio (2016) that ResNets == RNNs, arXiv:1604.03640v1.
+9. Idea: Generative Adversarial Networks (GANs).
+10. Idea: Capsule Networks.
+And there are many others but I think those are really important theoretical and algorithmic breakthroughs that are changing the world, and that gave momentum for the DL revolution.
+It’s not easy to get started but I’ll try my best to guide you through this process. Check out this resources, but remember, this is not only watching videos and reading papers, it’s about understanding, programming, coding, failing and then making it happen.
+-1. Learn Python and R ;)
+0. Andrew Ng and Coursera (you know, he doesn’t need an intro):
+Siraj Raval: He’s amazing. He has the power to explain hard concepts in a fun and easy way. Follow him on his YouTube channel. Specifically this playlists:
+— The Math of Intelligence:
+— Intro to Deep Learning:
+3. François Chollet’s book: Deep Learning with Python (and R):
+3. IBM Cognitive Class:
+5. DataCamp:
+Deep Learning is one of the most important tools and theories a Data Scientist should learn. We are so lucky to see amazing people creating both research, software, tools and hardware specific for DL tasks.
+DL is computationally expensive, and even though there’s been advances in theory, software and hardware, we need the developments in Big Data and Distributed Machine Learning to improve performance and efficiency. Great people and companies are making amazing efforts to join the distributed frameworks (Spark) and DL libraries (TF and Keras).
+Here’s an overview:
+2. Elephas: Distributed DL with Keras & PySpark:
+3. Yahoo! Inc.: TensorFlowOnSpark:
+4. CERN Distributed Keras (Keras + Spark) :
+5. Qubole (tutorial Keras + Spark):
+6. Intel Corporation: BigDL (Distributed Deep Learning Library for Apache Spark)
+7. TensorFlow and Spark on Google Cloud:
+As I’ve said before one of the most important moments for this field was the creation and open sourced of TensorFlow.
+TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
+The things you are seeing in the image above are tensor manipulations working with the Riemann Tensor in General Relativity.
+Tensors, defined mathematically, are simply arrays of numbers, or functions, that transform according to certain rules under a change of coordinates.
+But in the scope of Machine Learning and Deep Learning a tensor is a generalization of vectors and matrices to potentially higher dimensions. Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes.
+We use heavily tensors all the time in DL, but you don’t need to be an expert in them to use it. You may need to understand a little bit about them so here I list some good resources:
+After you check that out, the breakthroughs I mentioned before and the programming frameworks like TensorFlow or Keras (for more on Keras go here), now I think you have an idea of what you need to understand and work with Deep Learning.
+But what have we achieved so far with DL? To name a few (from François Chollet book on DL):
+And much more. Here’s a list of 30 great and funny applications of DL:
+Thinking about the future of Deep Learning (for programming or building applications), I’ll repeat what I said in other posts.
+I really think GUIs and AutoML are the near future of getting things done with Deep Learning. Don’t get me wrong, I love coding, but I think the amount of code we will be writing next years will decay.
+We cannot spend so many hours worldwide programming the same stuff over and over again, so I think these two features (GUIs and AutoML) will help Data Scientist on getting more productive and solving more problems.
+On of the best free platforms for doing these tasks in a simple GUI is Deep Cognition. Their simple drag & drop interface helps you design deep learning models with ease. Deep Learning Studio can automatically design a deep learning model for your custom dataset thanks to their advance AutoML feature with nearly one click.
+Here you can learn more about them:
+Take a look at the prices :O, it’s freeeee :)
+I mean, it’s amazing how fast the development in the area is right now, that we can have simple GUIs to interact with all the hard and interesting concepts I talked about in this post.
+One of the things I like about that platform is that you can still code, interact with TensorFlow, Keras, Caffe, MXNet an much more with the command line or their Notebook without installing anything. You have both the notebook and the CLI!
+I take my hat off to them and their contribution to society.
+Other interesting applications of deep learning that you can try for free or for little cost are (some of them are on private betas):
+Thanks for reading this weird introduction to Deep Learning. I hope it helped you getting started in this amazing area, or maybe just discover something new.
+If you have questions just add me on LinkedIn and we’ll chat there:
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Data scientist, physicist and computer engineer. Love sharing ideas, thoughts and contributing to Open Source in Machine Learning and Deep Learning ;).
+Sharing concepts, ideas, and codes.

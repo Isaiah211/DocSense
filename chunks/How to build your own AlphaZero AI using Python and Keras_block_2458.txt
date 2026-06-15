@@ -1,0 +1,1 @@
+The game that our algorithm will learn to play is Connect4 (or Four In A Row). Not quite as complex as Go... but there are still 4,531,985,219,092 game positions in total.

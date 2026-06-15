@@ -1,0 +1,1 @@
+We need a way to reliably tokenize sentences into words and a way to stem words. And our training data, 12 sentences belonging to 3 classes (‘intents’). We can now organize our data structures for documents, classes and words.

@@ -1,0 +1,2 @@
+Contains the playMatches and playMatchesBetweenVersions functions that play matches between two agents. To play against your creation, run the following code (it’s also in the run.ipynb notebook)
+When you run the algorithm, all model and memory files are saved in the run folder, in the root directory. To restart the algorithm from this checkpoint later, transfer the run folder to the run_archive folder, attaching a run number to the folder name.

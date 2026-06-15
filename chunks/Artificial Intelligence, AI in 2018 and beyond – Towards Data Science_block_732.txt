@@ -1,0 +1,1 @@
+Attention in neural network has the potential to really revolutionize a lot of architectures, yet it has not been as recognized as it should. The combination of associative memories and attention is at the heart of the next wave of neural network advancements. Attention has already showed to be able to learn sequences as well as RNNs and at up to 100x less computation!

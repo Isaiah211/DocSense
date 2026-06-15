@@ -1,0 +1,1 @@
+This is costly. We would ideally want a few neurons in the network to not activate and thereby making the activations sparse and efficient. ReLu give us this benefit.

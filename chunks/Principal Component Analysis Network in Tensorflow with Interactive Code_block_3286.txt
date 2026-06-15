@@ -1,0 +1,2 @@
+I wanted to know if this was even possible as well as how well or worse it performs on MNIST data. Principle Component Analysis (PCA) Pooling Layer
+For anyone who is not familiar with PCAP please read this blog post first. The basic idea is Pooling layers such as Max or Mean pooling operations performs dimensionality reduction to not only to save computational power but also to act as a regularizer.

@@ -1,0 +1,1 @@
+Let’s assume that all cars of brand A are aligned exactly like the picture in the left (i.e. All cars are facing left) . Likewise, all cars of brand B are aligned exactly like the picture in the right (i.e.

@@ -1,0 +1,1 @@
+Another big group of newcomers to programming are MBAs and data analysts. Job listings which were once dominated by Excel are starting to list SQL as a “nice to have” and even “requirement”. Tools such as Tableau, SpotFire, SalesForce, and other web-based metrics systems continue to replace the spreadsheet as the primary tool for report generation.

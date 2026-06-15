@@ -1,0 +1,5 @@
+As technologies keep
+reducing transaction costs, new markets are invented. Game theory provides powerful tools and techniques in analysing specific market mechanisms. In his
+book on two-sided matching markets, Roth (1990) presents not only game theoretical models, but also
+explains how the incentives that a market organisation gives to the participants impose constraints on
+the outcomes that the market may achieve.

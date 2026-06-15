@@ -1,0 +1,1 @@
+The function is differentiable. The function is monotonic while its derivative is not monotonic. The tanh function is mainly used classification between two classes.

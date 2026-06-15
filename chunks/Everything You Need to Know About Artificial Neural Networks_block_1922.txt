@@ -1,0 +1,1 @@
+When would we want something like this? Well, think about playing a game of Blackjack. If you were given a 4 and a 5 to start, you know that 2 low cards are out of the deck.

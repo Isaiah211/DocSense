@@ -1,0 +1,1 @@
+The only thing you should note is how we’re using the policy probabilities and value estimations. We combine them during roll outs, to narrow down the number of moves we want to roll out at each step. Q(s,a) represents the value function, and u(s,a) is a stored probability for that position.

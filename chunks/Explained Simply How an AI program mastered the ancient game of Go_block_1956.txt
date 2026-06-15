@@ -1,0 +1,1 @@
+Well, it used a very brute force method. At each step of the game, it took a look at all the possible legal moves that could be played, and went ahead to explore each and every move to see what would happen. And it would keep exploring move after move for a while, forming a kind of HUGE decision tree of thousands of moves.

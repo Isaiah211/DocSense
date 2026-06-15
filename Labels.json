@@ -1,4 +1,11 @@
 {
-    "candidate_labels": ["Tech", "AI", "Finance", "Sports", "Education", "Management"],
-    "confidence_threshold": 0.50
+    "candidate_labels": [
+        "Technology, software engineering, databases, system infrastructure, and tools",
+        "Artificial Intelligence, machine learning, and weather forecasting services or bots",
+        "Finance, fintech, investment, cryptocurrency asset strategies, and banking",
+        "Sports, outdoor athletics, team competitions, and seasonal climate conditions",
+        "Education, learning systems, academic study courses, and environmental science",
+        "Management, project operations, business leadership, and corporate strategy"
+    ],
+    "confidence_threshold": 0.30
 }

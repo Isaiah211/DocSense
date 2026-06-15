@@ -1,0 +1,1 @@
+Some customers think verbally or holistically, others prefer pictures and graphs. What is new is that we now have good algorithms to identify how customers think from the choices they make as they explore websites (their clickstream). But once we identify the way they think, we still need an automatic way to learn which website look and feel will lead to the most sales.

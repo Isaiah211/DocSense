@@ -1,0 +1,3 @@
+Below is a list of some of the feature primitives in featuretools (we can also define custom primitives):
+These primitives can be used by themselves or combined to create features. To make features with specified primitives we use the ft.dfs function (standing for deep feature synthesis). We pass in the entityset, the target_entity , which is the table where we want to add the features, the selected trans_primitives (transformations), and agg_primitives (aggregations):
+The result is a dataframe of new features for each client (because we made clients the target_entity).

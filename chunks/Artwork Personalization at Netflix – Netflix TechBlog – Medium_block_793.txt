@@ -1,0 +1,1 @@
+These can be supervised learning models or contextual bandit counterparts with Thompson Sampling, LinUCB, or Bayesian methods that intelligently balance making the best prediction with data exploration. In contextual bandits, the context is usually represented as an feature vector provided as input to the model. There are many signals we can use as features for this problem.

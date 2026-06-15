@@ -1,0 +1,1 @@
+It’s true that tampering with data stored on a blockchain is hard, but it’s false that blockchain is a good way to create data that has integrity. To understand why this is the case, let’s work from the practical to the theoretical. For example, let’s consider a widely-proposed use case for blockchain: buying an e-book with a “smart” contract.

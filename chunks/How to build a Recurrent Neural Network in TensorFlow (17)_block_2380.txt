@@ -1,0 +1,1 @@
+The reshaping takes the whole dataset and puts it into a matrix, that later will be sliced up into these mini-batches. TensorFlow works by first building up a computational graph, that specifies what operations will be done. The input and output of this graph is typically multidimensional arrays, also known as tensors.

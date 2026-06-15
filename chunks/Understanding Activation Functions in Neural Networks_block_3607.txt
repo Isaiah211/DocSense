@@ -1,0 +1,1 @@
+So how do we decide whether the neuron should fire or not ( why this firing pattern? Because we learnt it from biology that’s the way brain works and brain is a working testimony of an awesome and intelligent system ). We decided to add “activation functions” for this purpose.

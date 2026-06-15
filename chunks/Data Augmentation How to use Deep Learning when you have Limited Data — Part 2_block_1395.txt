@@ -1,0 +1,1 @@
+Besides these, you can design your own methods for dealing with undefined space, but usually these methods would just do fine for most classification problems. If you use it in the right way, then yes! What is the right way you ask?

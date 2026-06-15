@@ -1,0 +1,1 @@
+The problem of too many features is known as the curse of dimensionality. As the number of features increases (the dimension of the data grows) it becomes more and more difficult for a model to learn the mapping between features and targets. In fact, the amount of data needed for the model to perform well scales exponentially with the number of features.

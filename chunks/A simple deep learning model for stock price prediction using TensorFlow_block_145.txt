@@ -1,0 +1,1 @@
+There are dozens of possible activation functions out there, one of the most common is the rectified linear unit (ReLU) which will also be used in this model. The image below illustrates the network architecture. The model consists of three major building blocks.

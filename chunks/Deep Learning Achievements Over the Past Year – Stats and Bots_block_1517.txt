@@ -1,0 +1,1 @@
+As I said, modern ML is beginning to be introduced into medicine. For example, Google collaborates with a medical center to help with diagnosis. Deepmind has even established a separate unit.

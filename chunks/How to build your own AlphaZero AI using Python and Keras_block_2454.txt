@@ -1,0 +1,1 @@
+There’s also a great article here that explains how AlphaZero works in more detail. Clone this Git repository, which contains the code I’ll be referencing. To start the learning process, run the top two panels in the run.ipynb Jupyter notebook.

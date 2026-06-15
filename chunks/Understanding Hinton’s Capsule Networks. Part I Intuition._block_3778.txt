@@ -1,0 +1,1 @@
+That internal representation is stored in computer’s memory as arrays of geometrical objects and matrices that represent relative positions and orientation of these objects. Then, special software takes that representation and converts it into an image on the screen. This is called rendering.

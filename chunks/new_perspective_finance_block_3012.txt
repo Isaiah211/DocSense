@@ -1,0 +1,5 @@
+Although the growth of financial markets and revolution in IT have reduced the
+transaction costs and alleviated information asymmetries, intermediaries survive, and in fact grow in
+overall size and importance to the economy. In response, some researchers seek to reconcile the
+differences between theory and reality and to view intermediaries as value-adding institutions. In a series of papers, Merton (1989, 1993, 1995) and Merton and Bodie (1993, 1995) propose a
+functional perspective of financial intermediation in contrast to the institutional perspective.

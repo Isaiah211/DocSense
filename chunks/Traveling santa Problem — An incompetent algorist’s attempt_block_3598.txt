@@ -1,0 +1,1 @@
+Path1 ~= 6.2MPath2 ~= 7.4MFor a long time I thought this would require either solving both paths simultaneously or using genetic algorithm or similar algorithm to combine both paths. Both were pretty difficult to implement.Then I got a simple idea. My map was divided in 36 squares.

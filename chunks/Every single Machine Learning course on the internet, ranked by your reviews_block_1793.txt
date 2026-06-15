@@ -1,0 +1,1 @@
+Machine Learning for Data Analysis (Wesleyan University/Coursera): A brief intro machine learning and a few select algorithms. Covers decision trees, random forests, lasso regression, and k-means clustering. Part of Wesleyan’s Data Analysis and Interpretation Specialization.

@@ -1,0 +1,1 @@
+It’s only a matter of time before Duplex is handling other mundane or difficult calls for us, like calling our parents with our own voices (see Wavenet technology). Eventually, we’ll have our Duplex voices call each other, handling pleasantries and making plans, which Google Assistant can then drop in our Google Calendar. But that’s the future.

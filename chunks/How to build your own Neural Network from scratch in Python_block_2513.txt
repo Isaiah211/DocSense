@@ -1,0 +1,2 @@
+There’s still much to learn about Neural Networks and Deep Learning. For example:
+I’ll be writing more on these topics soon, so do follow me on Medium and keep and eye out for them! I’ve certainly learnt a lot writing my own Neural Network from scratch.

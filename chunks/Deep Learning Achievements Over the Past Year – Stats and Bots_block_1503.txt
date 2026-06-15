@@ -1,0 +1,1 @@
+There is another study from DeepMind. To teach the robot complex behavior (walk, jump, etc.), and even do it similar to the human, you have to be heavily involved with the choice of the loss function, which will encourage the desired behavior. However, it would be preferable that the algorithm learned complex behavior itself by leaning with simple rewards.

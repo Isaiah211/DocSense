@@ -1,0 +1,1 @@
+In fact, knowing the exact place we are at is essential to predict our intentions, since most of the things we do with our devices are based on what we are doing in the real world. Unfortunately, location is very noisy, and we never know exactly where someone is. For example below, I was having lunch in San Francisco, and this is what my phone recorded while I was not moving.

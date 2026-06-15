@@ -1,0 +1,1 @@
+Anyway, the point is that you’re now better off experimenting with stuff that interests you rather than following my advices. Personally, I’m currently learning how to use Python libraries that makes it easier to code up neural networks, like Theano, Lasagne and nolearn. I’m using this to do challenges on Kaggle, which is both great fun and great learning.

@@ -1,0 +1,1 @@
+It is somewhat similar to Twitter’s Storm, but it addresses different concerns and responds to a different set of internal requirements. The data flow is managed mostly through logging through Chukwa to Hadoop for the initial steps of the process. Later we use Hermes as our publish-subscribe mechanism.

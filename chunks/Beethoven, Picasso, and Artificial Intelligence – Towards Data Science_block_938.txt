@@ -1,0 +1,1 @@
+As part of the experiment, over 1,250 people were asked to vote whether pieces presented to them were in fact composed by Bach. The subjects had varying degrees of musical expertise. The results showed that as the model for DeepBach’s complexity increased, the subjects had more and more trouble distinguishing the chorales of Bach from those of DeepBach.

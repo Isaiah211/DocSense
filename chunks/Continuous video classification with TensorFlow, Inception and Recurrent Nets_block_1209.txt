@@ -1,0 +1,1 @@
+The person who created the recipe out of all possible ingredients is the convolutional network, and the resulting instructions are the output of our pool layer. Now you make the cake and it’s ready to eat. You’re the softmax layer, and the finished product is our class prediction.

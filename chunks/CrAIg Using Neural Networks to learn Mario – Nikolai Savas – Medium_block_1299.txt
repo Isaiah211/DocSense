@@ -1,0 +1,1 @@
+Each species should have a certain number of genomes as well as a certain number of allotted spots for new offspring. Those spots now need to be populated. Each empty population spot needs to be filled, but can be filled through either “asexual” or “sexual” reproduction.

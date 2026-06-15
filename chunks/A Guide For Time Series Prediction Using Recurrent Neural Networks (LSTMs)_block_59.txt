@@ -1,0 +1,1 @@
+In programming terms this is like running a fixed program with certain inputs and some internal variables. The simplest recurrent neural network can be viewed as a fully connected neural network if we unroll the time axes. In this univariate case only two weights are involved.

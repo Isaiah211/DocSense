@@ -1,0 +1,1 @@
+This file contains a custom loss function, that masks predictions from illegal moves before passing to the cross entropy loss function. The locations of the run and run_archive folders. Log files are saved to the log folder inside the run folder.

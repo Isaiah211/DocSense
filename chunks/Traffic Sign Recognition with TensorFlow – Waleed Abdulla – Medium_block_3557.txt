@@ -1,0 +1,1 @@
+The higher the value, the more likely that the image represents that label. Logits are not probabilities, though — They can have any value, and they don’t add up to 1. The actual absolute values of the logits are not important, just their values relative to each other.

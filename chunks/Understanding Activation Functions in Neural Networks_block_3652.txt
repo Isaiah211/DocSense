@@ -1,0 +1,1 @@
+So what happens when the activations reach near the “near-horizontal” part of the curve on either sides? Gradient is small or has vanished ( cannot make significant change because of the extremely small value ). The network refuses to learn further or is drastically slow ( depending on use case and until gradient /computation gets hit by floating point value limits ).

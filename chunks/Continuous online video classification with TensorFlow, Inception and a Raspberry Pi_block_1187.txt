@@ -1,0 +1,1 @@
+Looks like we’ve validated our hypothesis that we can achieve high levels of accuracy while only considering spatial features. Impressive results, considering that we only used 20 minutes of training data! Thank you, Google, Pete, TensorFlow and all the folks who have developed CNNs over the years for your incredible work and contributions.

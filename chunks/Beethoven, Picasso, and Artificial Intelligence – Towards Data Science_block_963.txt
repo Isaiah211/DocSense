@@ -1,0 +1,1 @@
+In each session, the user is given a total of 6 objects. The images are then stored to the database used to train application. This happens to be the same database we saw earlier in the Sketch-RNN application.

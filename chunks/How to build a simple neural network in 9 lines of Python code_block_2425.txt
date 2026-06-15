@@ -1,0 +1,1 @@
+First we want to make the adjustment proportional to the size of the error. Secondly, we multiply by the input, which is either a 0 or a 1. If the input is 0, the weight isn’t adjusted.

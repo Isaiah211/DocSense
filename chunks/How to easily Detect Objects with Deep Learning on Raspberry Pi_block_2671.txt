@@ -1,0 +1,4 @@
+Install TensorFlow on the Raspberry Pi
+Depending on your device you might need to change the installation a little
+Run model for predicting on the new Image
+The Raspberry Pi has constraints on both Memory and Compute (a version of Tensorflow Compatible with the Raspberry Pi GPU is still not available). Therefore, it is important to benchmark how much time do each of the models take to make a prediction on a new image. We have removed the need to annotate Images, we have expert annotators who will annotate your images for you.

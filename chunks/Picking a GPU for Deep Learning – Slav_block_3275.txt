@@ -1,0 +1,1 @@
+It is worth noting that you can do half-precision on P100, effectively doubling the performance and VRAM size. On top of all this, K40 goes for over $2000, K80 for over $3000, and P100 is about $4500. And they get still get eaten alive by a desktop-grade card.

@@ -1,0 +1,1 @@
+After this the AI was able to mimic human playing to a certain degree, so it acted like a weak human player. And then to train the networks even further, they made the AI play against itself millions of times (this is the “reinforcement learning” part). With this, the AI got better because it had more practice.

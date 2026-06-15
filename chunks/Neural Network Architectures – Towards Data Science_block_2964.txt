@@ -1,0 +1,1 @@
+This is similar to older ideas like this one. But here they bypass TWO layers and are applied to large scales. Bypassing after 2 layers is a key intuition, as bypassing a single layer did not give much improvements.

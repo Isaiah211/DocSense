@@ -1,0 +1,4 @@
+My map was divided in 36 squares. If I combine 18 squares of first path and 18 squares of second path, I will have a path whose distance will be approximately average of the two paths.I tried this trick and used different combinations of the two paths squares and got the best score of 6,807,498
+For new path1, select blue squres from old path1 and grey square from old path2
+Use remaining squares for new path2.Remove cross lines
+My squares were joined in a zigzag manner. I removed the zig-zag lines for a further improvement.

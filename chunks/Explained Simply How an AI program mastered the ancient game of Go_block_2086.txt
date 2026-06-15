@@ -1,0 +1,1 @@
+While evaluating positions, giving equal importance to both the value function and the rollouts performed better than just using one of them. The rest is self explanatory, and reveals an interesting insight! Self explanatory.

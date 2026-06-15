@@ -1,0 +1,1 @@
+The idea of a strided convolution is that we only process slides a fixed distance apart, and skip the ones in the middle. From a different point of view, we only keep outputs a fixed distance apart, and remove the rest[1]. We then apply a nonlinearity to the output, and per usual, then stack another new convolution layer on top.

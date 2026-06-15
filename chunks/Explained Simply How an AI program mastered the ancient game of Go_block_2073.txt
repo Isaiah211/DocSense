@@ -1,0 +1,1 @@
+Remember that the policy network uses supervised learning to predict expert moves? And it doesn’t just give you most likely move, but rather gives you probabilities for each possible move that tell how likely it is to be an expert move. This probability can be stored for each of those actions.

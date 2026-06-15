@@ -1,0 +1,2 @@
+Different approaches employ different mechanisms as a part of the decoding mechanism. Let’s explore the 3 main approaches:
+The region-based methods generally follow the “segmentation using recognition” pipeline, which first extracts free-form regions from an image and describes them, followed by region-based classification. At test time, the region-based predictions are transformed to pixel predictions, usually by labeling a pixel according to the highest scoring region that contains it.

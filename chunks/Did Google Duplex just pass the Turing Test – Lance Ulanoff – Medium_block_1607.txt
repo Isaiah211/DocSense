@@ -1,0 +1,1 @@
+Duplex was guided during training within the domain by “experienced operators” who could keep track of mistakes and worked with engineers to improve responses. In short, this means that while Duplex has your hair and dining-out options covered, it could stumble in movie reservations and negotiations with your cable provider. Even so, Duplex fooled two humans.

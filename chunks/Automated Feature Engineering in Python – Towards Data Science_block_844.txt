@@ -1,0 +1,1 @@
+When we perform aggregations, we group the child table by the parent variable and calculate statistics across the children of each parent. To formalize a relationship in featuretools, we only need to specify the variable that links two tables together. The clients and the loans table are linked via the client_id variable and loans and payments are linked with the loan_id.

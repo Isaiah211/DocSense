@@ -1,0 +1,2 @@
+Like this:
+Also, both of these kernels won’t work well with edges of other angles or edges that are blurred. For that reason, we use many kernels (in our CapsNet implementation, we use 256 kernels). And the kernels are normally larger to allow for more wiggle room (our kernels will be 9x9).

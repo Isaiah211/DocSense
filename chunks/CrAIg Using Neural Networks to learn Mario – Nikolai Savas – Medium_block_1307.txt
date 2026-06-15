@@ -1,0 +1,1 @@
+This means that it exists in the genome, but it is marked as inactive. Synapses added in either Mutate Add Node or Mutate Add Synapse are given a unique “id” called a “historical marking”, that is used in the crossover (mating) algorithm. When two genomes “mate” to produce an offspring, there is an algorithm detailed in the NEAT paper that must be followed.

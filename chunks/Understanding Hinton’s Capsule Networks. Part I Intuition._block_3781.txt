@@ -1,0 +1,1 @@
+And the key idea is that representation of objects in the brain does not depend on view angle. So at this point the question is: how do we model these hierarchical relationships inside of a neural network? The answer comes from computer graphics.

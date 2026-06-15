@@ -1,0 +1,1 @@
+The data set represents the sketch as a set of pen strokes. This allows Sketch-RNN to then learn what aspects each sketch of a certain object has in common. If a user begins to draw a cat, Sketch-RNN could then show the user other common features that could be on the cat.

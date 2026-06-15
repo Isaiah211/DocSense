@@ -1,0 +1,2 @@
+Let us now forget that the rapid expansion of deep learning in 2008–2012 and in the recent years is mainly due to hardware:
+And we have talked about hardware extensively before. But we need to give you a recent update! Last 1–2 years saw a boom in the are of machine learning hardware, and in particular on the one targeting deep neural networks.

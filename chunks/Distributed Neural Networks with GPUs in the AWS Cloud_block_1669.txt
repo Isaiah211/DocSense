@@ -1,0 +1,1 @@
+We started by using a Lenovo S20 workstation with a Nvidia Quadro 600 GPU. This GPU has 98 cores and provides a useful baseline for our experiments; especially considering that we planned on using a more powerful machine and GPU in the AWS cloud. Our first attempt to train our Neural Network model took 7 hours.

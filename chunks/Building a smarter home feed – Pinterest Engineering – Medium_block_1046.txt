@@ -1,0 +1,1 @@
+Some Pins should be selectively dropped or deferred until a later time. Some sources may produce Pins of poor quality for a user, so instead of showing everything available immediately, we can be selective about what to show and what to hold back for a future session. 3.

@@ -1,0 +1,1 @@
+Idea: Dropout. Better ways of preventing overfitting and more. Dropout: A Simple Way to Prevent Neural Networks from Overfitting, a great paper by Srivastava, Hinton and others.

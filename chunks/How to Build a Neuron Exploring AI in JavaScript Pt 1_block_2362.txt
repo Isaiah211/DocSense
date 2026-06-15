@@ -1,0 +1,1 @@
+However, there’s a problem. As I’ve described above, real neurons don’t behave that way. Instead, synapses transmit fluctuating continuous value potentials over time through the soma (cell body) to the axon hillock trigger zone where the sum of the signal may or may not trigger an action potential at any given moment in time.

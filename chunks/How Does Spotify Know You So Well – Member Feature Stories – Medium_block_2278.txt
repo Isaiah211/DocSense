@@ -1,0 +1,2 @@
+Each row represents one of Spotify’s 140 million users — if you use Spotify, you yourself are a row in this matrix — and each column represents one of the 30 million songs in Spotify’s database. Then, the Python library runs this long, complicated matrix factorization formula:
+When it finishes, we end up with two types of vectors, represented here by X and Y. X is a user vector, representing one single user’s taste, and Y is a song vector, representing one single song’s profile.

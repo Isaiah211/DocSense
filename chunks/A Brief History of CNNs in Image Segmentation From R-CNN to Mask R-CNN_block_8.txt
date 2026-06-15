@@ -1,0 +1,3 @@
+The team, comprised of Ross Girshick (a name we’ll see again), Jeff Donahue, and Trevor Darrel found that this problem can be solved with Krizhevsky’s results by testing on the PASCAL VOC Challenge, a popular object detection challenge akin to ImageNet. They write,
+Let’s now take a moment to understand how their architecture, Regions With CNNs (R-CNN) works. Understanding R-CNN
+The goal of R-CNN is to take in an image, and correctly identify where the main objects (via a bounding box) in the image.

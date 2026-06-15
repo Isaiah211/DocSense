@@ -1,0 +1,1 @@
+It’s quite cheap but 6 GB VRAM is limiting. That’s probably the minimum you want to have if you are doing Computer Vision. It will be okay for NLP and categorical data models.

@@ -1,0 +1,2 @@
+Idea: Convolutional Neural Nets (CNNs). Gradient based learning applied to document recognition by Lecun and others
+ImageNet Classification with Deep Convolutional Neural Networks by Krizhevsky and others. 6.

@@ -1,0 +1,1 @@
+You see, I mentioned above that the neurons and synapses perform calculations. The question on your mind should be: “How do they learn what calculations to perform?” Was I right? The answer is that we need to essentially ask them a large amount of questions, and provide them with answers.

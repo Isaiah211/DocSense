@@ -1,0 +1,4 @@
+In the meanwhile you check the state of the model
+Once the model is trained. You can make predictions using the model
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story. Founder & CEO @ NanoNets.com
+NanoNets: Machine Learning API

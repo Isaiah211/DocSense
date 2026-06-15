@@ -1,0 +1,1 @@
+RL is actively used in games, robots, and system management (traffic, for example). Of course, everyone has heard about AlphaGo’s victories in the game over the best professionals. Researchers were using RL for training: the bot played with itself to improve its strategies.

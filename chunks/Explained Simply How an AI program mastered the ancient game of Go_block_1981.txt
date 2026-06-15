@@ -1,0 +1,1 @@
+But let’s think about how do humans themselves play chess? Let’s say you’re at a particular board position in the middle of the game. By game rules, you can do a dozen different things — move this pawn here, move the queen two squares here or three squares there, and so on.

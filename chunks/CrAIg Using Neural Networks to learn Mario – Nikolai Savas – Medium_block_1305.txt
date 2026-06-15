@@ -1,0 +1,2 @@
+Mutate Add Node
+This is the trickiest of the mutations. When adding a node, you need to split an already existing synapse into two synapses and add a node in between them. The weight of the original synapse is copied on to the second synapse, while the first synapse is given a weight of 1.

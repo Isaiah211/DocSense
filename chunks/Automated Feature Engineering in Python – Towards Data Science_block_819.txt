@@ -1,0 +1,1 @@
+We will use an example dataset to show the basics (stay tuned for future posts using real-world data). The complete code for this article is available on GitHub. Feature engineering means building additional features out of existing data which is often spread across multiple related tables.

@@ -1,0 +1,4 @@
+R-CNN runs a simple linear regression on the region proposal to generate tighter bounding box coordinates to get our final result. Here are the inputs and outputs of this regression model:
+So, to summarize, R-CNN is just the following steps:
+R-CNN works really well, but is really quite slow for a few simple reasons:
+In 2015, Ross Girshick, the first author of R-CNN, solved both these problems, leading to the second algorithm in our short history - Fast R-CNN. Let’s now go over its main insights.

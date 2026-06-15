@@ -1,0 +1,1 @@
+The input is the old memory (a vector). The first cross ✖ it passes through is the forget valve. It is actually an element-wise multiplication operation.

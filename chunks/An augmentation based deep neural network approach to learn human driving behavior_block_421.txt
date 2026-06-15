@@ -1,0 +1,2 @@
+Generalization from one image resolution to another
+Video below presents generalization from one image resolution to another. I used the same pretrained model and tested it on all the other image resolutions and found that the deep learning neural network was able to drive the car around for all image resolutions. I also tested different combinations of image size and image resolutions, and on track 1 the deep learning algorithm was able to drive the car around for all combinations of image resolution and sizes.

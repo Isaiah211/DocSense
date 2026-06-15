@@ -1,0 +1,1 @@
+After that, once you’ve trained both of the slow and fast policy networks enough using human player data, you can try letting Lusha play against herself on a Go board for a few days, and get more practice. This is the reinforcement learning part — making a better version of the policy network. Then, you train Foma for value prediction: determining the probability of you winning.

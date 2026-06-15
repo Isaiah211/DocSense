@@ -1,0 +1,4 @@
+Geng, X and A Whinston (2000): “Defeating distributed denial-of-service attacks”, IEEE IT
+Professional, July-August pp 36-41. Glosten, L and P Milgrom (1985): “Bid, ask, and transaction prices in a specialist market with
+heterogeneously informed traders”, Journal of Financial Economics, vol 14, no 1, March, pp 71-100. Gode, D and S Sunder (2001): “Designing electronic markets: on the impossibility of equitable
+continuously-clearing mechanisms with geographically distributed agents”, working paper, Feb.

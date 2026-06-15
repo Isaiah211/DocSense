@@ -1,0 +1,1 @@
+When in doubt start with high biases (more negative) since it’s easier to learn to overcome carrying than without carry gates (which is just a plain network). Overall I was happy with how easy highway networks were to implement. They’re fully differentiable with only a single additional hyperparameter for the initial carry bias.

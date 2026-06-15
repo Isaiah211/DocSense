@@ -1,0 +1,5 @@
+Market microstructure research makes assumptions about
+the information structure of market participants. We argue that information structure is driven by the
+developments in IT and is decided based on technology and economic incentives. Dewan and
+Mendelson (1998) study time-based competition in imperfect securities markets, where traders make
+IT investments to gain faster access to information and thus earn higher trading profits.

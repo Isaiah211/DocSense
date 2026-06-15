@@ -1,0 +1,1 @@
+That’s where Desti shines — saving you time and effort by delivering exactly what you want. Now let’s assume that Desti knows which hotels on the Kona Coast are actually beach resorts, are kid friendly and pet friendly. How can we make expressing this query easy and intuitive for the user?

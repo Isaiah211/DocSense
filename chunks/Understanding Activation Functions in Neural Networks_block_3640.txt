@@ -1,0 +1,1 @@
+Now we can stack layers. What about non binary activations? Yes, that too!.

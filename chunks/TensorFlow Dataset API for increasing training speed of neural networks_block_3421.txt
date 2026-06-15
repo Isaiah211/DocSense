@@ -1,0 +1,1 @@
+But we already preprocess our dataset and all we need to do is apply batching and, maybe, shuffling. Fortunately, Dataset API already has needed functions. They are .batch and .shuffle.

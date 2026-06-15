@@ -1,0 +1,1 @@
+Recommender Systems Specialization (University of Minnesota/Coursera): Strong focus one specific type of machine learning — recommender systems. A four course specialization plus a capstone project, which is a case study. Taught using LensKit (an open-source toolkit for recommender systems).

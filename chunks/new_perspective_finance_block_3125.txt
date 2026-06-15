@@ -1,0 +1,6 @@
+Next we will discuss the
+challenges that financial institutions face in e-finance over the internet, including security, quality of
+service and some aberrations in e-finance. 4.1 The heavily armed e-finance intermediaries
+Financial intermediaries are among the most careful businesses in using the internet. One piece of
+evidence is that there has been no publicised security break-in for e-financial services, compared with
+dozens of reported accidents for online retailers.

@@ -1,0 +1,2 @@
+Note: This is pseudo code, not intended to be a working example. It has a black box which is the CNN part of it which is fairly standard and shown in the image below. You can read the full paper here: https://pjreddie.com/media/files/papers/yolo_1.pdf
+For this task, you probably need a few 100 Images per Object.

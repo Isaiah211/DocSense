@@ -1,0 +1,1 @@
+Principles of Machine Learning (Microsoft/edX): Uses R, Python, and Microsoft Azure Machine Learning. Part of the Microsoft Professional Program Certificate in Data Science. Three to four hours per week over six weeks.

@@ -1,0 +1,1 @@
+Then we run a new machine learning algorithm on this batch of data. Next we test this new algorithm against the current production system through an A/B test. An A/B test helps us see if the new algorithm is better than our current production system by trying it out on a random subset of members.

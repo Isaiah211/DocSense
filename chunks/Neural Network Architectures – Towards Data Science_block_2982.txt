@@ -1,0 +1,1 @@
+If this is too big for your GPU, decrease the learning rate proportionally to the batch size. • use fully-connected layers as convolutional and average the predictions for the final decision. • when investing in increasing training set size, check if a plateau has not been reach.

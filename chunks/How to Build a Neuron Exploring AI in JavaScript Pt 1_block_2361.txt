@@ -1,0 +1,2 @@
+Other neural nets use input values from -1 to +1. The basic math looks a little like the following:
+This is a good idea if you want to conserve CPU power so you can emulate a lot more neurons, and we’ve been able to use these basic principles to accomplish very simple pattern recognition tasks, such as optical character recognition (OCR) using pre-trained networks. However, there’s a problem.

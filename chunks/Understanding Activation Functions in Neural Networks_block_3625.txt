@@ -1,0 +1,2 @@
+The first thing that comes to our minds would be Linear function. A = cx
+A straight line function where activation is proportional to input ( which is the weighted sum from neuron ). This way, it gives a range of activations, so it is not binary activation.

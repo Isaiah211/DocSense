@@ -1,0 +1,2 @@
+Here is an example slide:
+If that scared you, you aren’t alone. I usually shy away from courses heavy in math, but I actually appreciated the approach in this course. The course begins with a linear algebra refresher and explains machine learning concepts like gradient descent, cost function, regularization, etc.

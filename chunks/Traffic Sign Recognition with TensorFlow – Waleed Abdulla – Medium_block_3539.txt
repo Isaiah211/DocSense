@@ -1,0 +1,1 @@
+I experimented with 16x16 and 20x20, but they were too small. I ended up picking 32x32 which is easy to recognize (see below) and reduces the size of the model and training data by a factor of 16 compared to 128x128. I’m also in the habit of printing the min() and max() values often.

@@ -1,0 +1,1 @@
+With a capsule we can store 8 values per location! That gives us the opportunity to store more information than just whether or not we found a shape in that spot. But what other kinds of information would we want to store?

@@ -1,0 +1,1 @@
+This research paper is about proving how versatile and excellent this tool it is, not about teaching you how to use it. In television lingo, the Atari paper was a RL infomercial and this AlphaGo paper is a commercial. A quick note before you move on.

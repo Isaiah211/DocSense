@@ -1,0 +1,1 @@
+Augmentation helps us extract as much information from data as possible. We will generate additional data using the following data augmentation techniques. Augmentation is a technique of manipulating the incoming training data to generate more instances of training data.

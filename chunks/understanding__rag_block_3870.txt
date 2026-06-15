@@ -1,0 +1,2 @@
+The following sections provide an overview of the process. Create external data
+The new data outside of the LLM's original training data set is called external data. It can come from multiple data sources, such as a APIs, databases, or document repositories.

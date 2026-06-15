@@ -1,0 +1,2 @@
+Again, for more details you should check out the links I mentioned earlier. The innovation here is that instead of going through all the possible moves at each position (which Deep Blue did), it instead intelligently selects a small set of sensible moves and explores those instead. To explore them, it “rolls out” the future of each of these moves and compares them based on their imagined outcomes.(Seriously — this is all I think you need to understand this essay)
+Now — coming back to the screenshot from the paper.

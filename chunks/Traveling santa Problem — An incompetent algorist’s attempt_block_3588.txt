@@ -1,0 +1,1 @@
+I wrote scripts for file conversions and for running LKH. LKH easily solved my tsp problem in around 30 hours. But it was just one path.

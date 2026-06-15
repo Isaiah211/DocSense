@@ -1,0 +1,1 @@
+For example, they can answer questions such as, "How much was spent on machinery repairs last year?” by mapping the question to the relevant documents and returning specific text instead of search results. Developers can then use that answer to provide more context to the LLM. Conventional or keyword search solutions in RAG produce limited results for knowledge-intensive tasks.

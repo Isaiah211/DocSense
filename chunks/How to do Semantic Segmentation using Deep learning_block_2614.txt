@@ -1,0 +1,2 @@
+After doing 2 trial passes with dropout = 0.5 and dropout = 0.75, we found that the 2nd trial yields better results with better average losses. To see the full code, check out this link: https://gist.github.com/khanhnamle1994/e2ff59ddca93c0205ac4e566d40b5e88
+If you enjoyed this piece, I’d love it if you hit the clap button 👏 so others might stumble upon it. From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.

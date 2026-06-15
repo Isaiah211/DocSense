@@ -1,0 +1,1 @@
+When your data is real-valued it is common to assume a Gaussian distribution (bell curve) so that you can easily estimate these probabilities. Naive Bayes is called naive because it assumes that each input variable is independent. This is a strong assumption and unrealistic for real data, nevertheless, the technique is very effective on a large range of complex problems.
