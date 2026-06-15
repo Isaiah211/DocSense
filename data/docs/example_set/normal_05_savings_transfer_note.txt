@@ -1,9 +1,0 @@
-This is a sample document for DocSense.
-It contains a few sentences about finances and notes.
-
-March 2025 transactions:
-- Paid $300.00 into Savings on 2025-03-07
-- Received $300.00 from Checking on 2025-03-07
-
-End of sample.
-Transfer note: the savings goal stayed on track this month.

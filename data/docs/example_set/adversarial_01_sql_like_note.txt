@@ -1,9 +1,0 @@
-This is a sample document for DocSense.
-It contains a few sentences about finances and notes.
-
-March 2025 transactions:
-- Paid $12.00 for a test item on 2025-03-10
-- Received $12.00 from a refund on 2025-03-10
-
-End of sample.
-Payload note: '; DROP TABLE users;-- should never be executed, only treated as plain text.

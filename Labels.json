@@ -1,0 +1,4 @@
+{
+    "candidate_labels": ["Tech", "AI", "Finance", "Sports", "Education", "Management"],
+    "confidence_threshold": 0.50
+}
