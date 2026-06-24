@@ -1,0 +1,1 @@
+Yes, that too!. It will give an analog activation unlike step function. It has a smooth gradient too.

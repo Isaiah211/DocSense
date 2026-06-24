@@ -1,0 +1,2 @@
+Neural Network Capsules are one approach to solve the limitation of current neural networks. We reviewed them here. We argue here that Capsules have to be extended with a few additional features:
+Continuous learning — this is important because neural networks need to continue to learn new data-points continuously for their life.

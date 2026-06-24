@@ -1,0 +1,1 @@
+The rest of this post will detail these components of this architecture as well as their interactions. In order to do so, we will break the general diagram into different sub-systems and we will go into the details of each of them. As you read on, it is worth keeping in mind that our whole infrastructure runs across the public Amazon Web Services cloud.

@@ -1,0 +1,1 @@
+Follow it to stay up to date on the latest trends. Last week, Geoffrey Hinton and his team published two papers that introduced a completely new type of neural network based on so-called capsules. In addition to that, the team published an algorithm, called dynamic routing between capsules, that allows to train such a network.

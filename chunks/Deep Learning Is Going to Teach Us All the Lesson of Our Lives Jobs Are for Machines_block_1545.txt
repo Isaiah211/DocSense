@@ -1,0 +1,1 @@
+It’s all kind of like falling dominoes, but far faster, larger, and more complex. The result amazingly is us, and what we’ve been learning about how we work, we’ve now begun applying to the way machines work. One of these applications is the creation of deep neural networks - kind of like pared-down virtual brains.

@@ -1,0 +1,5 @@
+As another example, on POSIT and Instinet, traders engage in off-market
+negotiation, using market price as a reference. Economists have made comparisons between
+negotiation and the market mechanism. However, the two mechanisms are not fully comparable in the
+sense that the price discovery function of the market provides the negotiators with valuable
+information.

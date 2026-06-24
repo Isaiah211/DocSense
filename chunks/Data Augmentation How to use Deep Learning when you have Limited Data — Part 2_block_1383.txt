@@ -1,0 +1,1 @@
+The only downside of this method is that, the output tends to looks more artistic rather than realistic. However, there are certain advancements such as Deep Photo Style Transfer, shown below, that have impressive results. We have not explored these techniques in great depth as we are not concerned with their inner working.

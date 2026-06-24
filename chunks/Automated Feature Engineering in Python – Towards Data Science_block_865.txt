@@ -1,0 +1,1 @@
+I hope that you can now use automated feature engineering as an aid in a data science pipeline. Our models are only as good as the data we give them, and automated feature engineering can help to make the feature creation process more efficient. For more information on featuretools, including advanced usage, check out the online documentation.

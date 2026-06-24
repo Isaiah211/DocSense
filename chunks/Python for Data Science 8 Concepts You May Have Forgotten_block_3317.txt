@@ -1,0 +1,1 @@
+Linspace is very similar, but with a slight twist. Linspace returns evenly spaced numbers over a specified interval. So given a starting and stopping point, as well as a number of values, linspace will evenly space them out for you in a NumPy array.

@@ -1,0 +1,1 @@
+In addition to the natural cadence, Google added speech disfluencies (the verbal ticks, “ums,” “uhs,” and “mm-hmms”) and latency or pauses that naturally occur when people are speaking. The result is a perfectly human voice produced entirely by a computer. The second call demonstration, where a male-voiced Duplex tried to make restaurant reservations, was even more remarkable.

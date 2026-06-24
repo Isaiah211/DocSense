@@ -1,0 +1,1 @@
+This architecture is called a feedforward network. Feedforward indicates that the batch of data solely flows from left to right. Other network architectures, such as recurrent neural networks, also allow data flowing “backwards” in the network.

@@ -1,0 +1,5 @@
+They are a special type of financial intermediary with higher transparency and
+efficiency. On the other hand, traditional financial intermediaries, by matching savers and borrowers,
+are also providing market-making services, though in a more opaque way. Embracing both traditional intermediaries and markets in one framework, this new perspective enables
+better understanding of the financial system and makes it possible to solve long-time puzzles in
+finance theory.

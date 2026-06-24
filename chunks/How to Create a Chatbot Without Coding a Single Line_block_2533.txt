@@ -1,0 +1,1 @@
+On the other, you can download a nodejs sample code to execute it on your infrastructure. To sum up, API.AI is an advanced service, being the reason why it’s more complicated to build a bot using this tool. Unsurprisingly, it got bought by Google a few days ago.

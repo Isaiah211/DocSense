@@ -1,0 +1,1 @@
+It may reduce the parameters and size of network on disk, but is not usable. FractalNet uses a recursive architecture, that was not tested on ImageNet, and is a derivative or the more general ResNet. We believe that crafting neural network architectures is of paramount importance for the progress of the Deep Learning field.

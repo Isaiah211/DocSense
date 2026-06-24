@@ -1,0 +1,1 @@
+The major difference between the two variations is that the following diagram doesn’t treat the memory unit C as an input to the unit. Instead, it treats it as an internal thing “Cell”. I like the Christopher’s diagram, in that it explicitly shows how this memory C gets passed from the previous unit to the next.

@@ -1,0 +1,1 @@
+We used 6 LSTM nodes in the layer to which we gave input of shape (1,1), which is one input given to the network with one value. The last layer is a dense layer where the loss is mean squared error with stochastic gradient descent as an optimizer. We train this model for 200 epochs with early_stopping callback.

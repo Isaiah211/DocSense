@@ -1,0 +1,1 @@
+Neural networks are trained by approximating the gradient of loss function with respect to the neuron-weights, by looking at only a small subset of the data, also known as a mini-batch. The theoretical reason for doing this is further elaborated in this question. The reshaping takes the whole dataset and puts it into a matrix, that later will be sliced up into these mini-batches.

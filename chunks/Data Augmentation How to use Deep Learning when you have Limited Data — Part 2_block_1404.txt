@@ -1,0 +1,1 @@
+If you’ve checked out the dataset, you’ll notice that there’s only 50 images per class for both training and testing. Clearly, we can’t use augmentation for one of the classifiers. To make the odds more fair, we use Transfer Learning to give the models a better chance with the scarce amount of data.

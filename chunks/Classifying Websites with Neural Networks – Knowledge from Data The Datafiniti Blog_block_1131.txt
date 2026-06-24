@@ -1,0 +1,3 @@
+We’re not entirely sure what determines this, but we do have a record of mushrooms with their diameters and heights, along with which of these mushrooms were poisonous to eat, for sure. In order to see if we could use diameter and heights to determine poisonous-ness, we could set up the following equation:
+A * (diameter) + B * (height) = 0 or 1 for not-poisonous / poisonous
+We would then try various combinations of A and B for all possible diameters and heights until we found a combination that correctly determined poisonous-ness for as many mushrooms as possible. Neural networks provide a structure for using the output of one set of input data to adjust A and B to the most likely best values for the next set of input data.

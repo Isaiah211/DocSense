@@ -1,0 +1,2 @@
+This is what the 256 kernels ended up looking like (I colored them as pixels so it’s easier to digest). The more negative the numbers, the bluer they are. 0 is green and positive is yellow:
+After we filter the image with all of these kernels, we end up with a fat stack of 256 output images.

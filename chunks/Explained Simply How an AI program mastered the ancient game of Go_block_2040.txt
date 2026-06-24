@@ -1,0 +1,1 @@
+It will really help get through rolled out simulations of the future faster, when we apply the MCTS. For this next section, you don’t *have* to know about Reinforcement Learning already, but then you’ll have to assume that whatever I say works. If you really want to dig into details and make sure of everything, you might want to read a little about RL first.

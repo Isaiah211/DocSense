@@ -1,0 +1,1 @@
+But you can see there are problems! It’s not able to create mask for complete t-shirt, also it mask eyes which aren’t blue. This is happening because light from one side of body whitens the right side at the same time creates shadow in left region.

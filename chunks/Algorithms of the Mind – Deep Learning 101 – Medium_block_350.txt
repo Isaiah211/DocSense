@@ -1,0 +1,1 @@
+Five years ago, deep learning pioneer Geoff Hinton (who currently splits his time between the University of Toronto and Google) published the following demo. Hinton had trained a five-layer neural network to recognize handwritten digits when given their bitmapped images. It was a form of computer vision, one that made handwriting machine-readable.

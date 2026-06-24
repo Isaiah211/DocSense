@@ -1,0 +1,1 @@
+This method is similar to reflect, except for the fact that, at the boundary of reflection, a copy of the edge pixels are made. Normally, reflect and symmetric can be used interchangeably, but differences will be visible while dealing with very small images or patterns. The image is just repeated beyond its boundary, as if it’s being tiled.

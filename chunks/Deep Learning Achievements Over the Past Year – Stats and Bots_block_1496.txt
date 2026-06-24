@@ -1,0 +1,1 @@
+Researchers were using RL for training: the bot played with itself to improve its strategies. In previous years, DeepMind had learned using DQN to play arcade games better than humans. Currently, algorithms are being taught to play more complex games like Doom.

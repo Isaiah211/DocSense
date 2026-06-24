@@ -1,0 +1,1 @@
+Each axon branch terminates by splitting into clusters of tiny terminal branches, which interface with other neurons through synapses. Synapse is the word used to describe the transmission mechanism from one neuron to the next. There are two kinds of synapse receptors on the postsynaptic terminal wall: ion channels and metabolic channels.

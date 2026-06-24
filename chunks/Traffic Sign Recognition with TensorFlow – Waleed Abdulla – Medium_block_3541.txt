@@ -1,0 +1,1 @@
+This tells me that the image colors are the standard range of 0–255. We’re getting to the interesting part! Continuing the theme of keeping it simple, I started with the simplest possible model: A one layer network that consists of one neuron per label.

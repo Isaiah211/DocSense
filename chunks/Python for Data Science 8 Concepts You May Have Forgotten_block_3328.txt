@@ -1,0 +1,1 @@
+Apply sends a function to every element along a column or row depending on what you specify. You might imagine how useful this can be, especially for formatting and manipulating values across a whole DataFrame column, without having to loop at all. Last but certainly not least is pivot tables.

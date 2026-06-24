@@ -1,0 +1,4 @@
+Inc.: TensorFlowOnSpark:
+4. CERN Distributed Keras (Keras + Spark) :
+5. Qubole (tutorial Keras + Spark):
+6.

@@ -1,0 +1,2 @@
+The interests platform is built to support this vision. Specifically, it’s responsible for producing high quality data on interests, interest relationships, and their association with Pins, boards, and Pinners. Figure 1: Feedback loop between machine intelligence and human curation
+In contrast with conventional methods of generating such data, which rely primarily on machine learning and data mining techniques, our system relies heavily on human curation.

@@ -1,0 +1,1 @@
+We’ll discuss this in detail after we cover the types of augmentation. For each of these techniques, we also specify the factor by which the size of your dataset would get increased (aka. Data Augmentation Factor).

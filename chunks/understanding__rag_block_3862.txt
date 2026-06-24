@@ -1,0 +1,2 @@
+They can use RAG to connect the LLM directly to live social media feeds, news sites, or other frequently-updated information sources. The LLM can then provide the latest information to the users. Enhanced user trust
+RAG allows the LLM to present accurate information with source attribution.

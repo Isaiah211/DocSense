@@ -1,0 +1,1 @@
+But training of these network was difficult, and had to be split into smaller networks with layers added one by one. All this because of the lack of strong ways to regularize the model, or to somehow restrict the massive search space promoted by the large amount of parameters. VGG used large feature sizes in many layers and thus inference was quite costly at run-time.

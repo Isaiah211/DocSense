@@ -1,0 +1,2 @@
+Fast R-CNN Insight 2: Combine All Models into One Network
+The second insight of Fast R-CNN is to jointly train the CNN, classifier, and bounding box regressor in a single model. Where earlier we had different models to extract image features (CNN), classify (SVM), and tighten bounding boxes (regressor), Fast R-CNN instead used a single network to compute all three. You can see how this was done in the image above.

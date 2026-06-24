@@ -1,0 +1,1 @@
+We picked one of the most popular ones: YOLO (You only look once). and have shown how it works below in under 20 lines of code (if you ignore the comments). Note: This is pseudo code, not intended to be a working example.

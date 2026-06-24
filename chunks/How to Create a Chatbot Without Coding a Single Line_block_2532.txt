@@ -1,0 +1,1 @@
+small-talk or weather features. On the one hand, it’s possible to run the bot exclusively on their servers. On the other, you can download a nodejs sample code to execute it on your infrastructure.

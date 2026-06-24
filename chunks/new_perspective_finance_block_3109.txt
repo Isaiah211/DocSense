@@ -1,0 +1,3 @@
+Innovations in trading mechanisms can also be deployed as competitive strategies. Fan et al (2000)
+develop a theoretical model of an electronic continuous bond trading mechanism. The special feature
+of this model is that it allows bundle matching in addition to single asset auction.

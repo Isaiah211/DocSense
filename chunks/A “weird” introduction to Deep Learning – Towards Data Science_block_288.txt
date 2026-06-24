@@ -1,0 +1,1 @@
+Tensors, defined mathematically, are simply arrays of numbers, or functions, that transform according to certain rules under a change of coordinates. But in the scope of Machine Learning and Deep Learning a tensor is a generalization of vectors and matrices to potentially higher dimensions. Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes.

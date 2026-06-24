@@ -1,0 +1,1 @@
+In some articles and tutorials you’ll actually end up coding small neural networks. As soon as you’re comfortable with that, I recommend you to go all in on this strategy. It’s both fun and an extremely effective way of learning.

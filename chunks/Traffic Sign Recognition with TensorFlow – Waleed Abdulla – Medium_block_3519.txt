@@ -1,0 +1,2 @@
+I picked the Belgian Traffic Sign Dataset because it was big enough to train on, and yet small enough to be easy to work with. You can download the dataset from http://btsd.ethz.ch/shareddata/. There are a lot of datasets on that page, but you only need the two files listed under BelgiumTS for Classification (cropped images):
+After expanding the files, this is my directory structure.

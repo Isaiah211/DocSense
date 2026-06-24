@@ -1,0 +1,2 @@
+The next step is to figure out which of these 11,520 predictions agree with each other the most. It can be difficult to visualize a solution to this when we think in terms of high dimensional vectors. For the sake of sanity, let’s start off by pretending our vectors are just points in 2 dimensional space:
+We start off by calculating the mean of all of the points.

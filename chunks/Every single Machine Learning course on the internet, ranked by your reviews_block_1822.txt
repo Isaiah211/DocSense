@@ -1,0 +1,1 @@
+Machine Learning with Python (Big Data University): Taught using Python. Targeted towards beginners. Estimated completion time of four hours.

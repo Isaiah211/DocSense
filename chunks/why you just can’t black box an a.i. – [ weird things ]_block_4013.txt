@@ -1,0 +1,1 @@
+Think of it as dependency injection with an AI interfacing system. But by abstracting the AI away, what we’ve also done is made it impossible to test the inner workings of the AI system. No wonder then that the Singularitarian fellows have to bring in operant conditioning or social training to basically housebreak the synthetic mind into doing what they need it to do.

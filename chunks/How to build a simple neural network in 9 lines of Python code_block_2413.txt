@@ -1,0 +1,1 @@
+We can model this process by creating a neural network on a computer. It’s not necessary to model the biological complexity of the human brain at a molecular level, just its higher level rules. We use a mathematical technique called matrices, which are grids of numbers.

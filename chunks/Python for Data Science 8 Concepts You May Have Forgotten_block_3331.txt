@@ -1,0 +1,1 @@
+That’s it for now. I hope a couple of these overviews have effectively jogged your memory regarding important yet somewhat tricky methods, functions, and concepts you frequently encounter when using Python for data science. Personally, I know that even the act of writing these out and trying to explain them in simple terms has helped me out a ton.

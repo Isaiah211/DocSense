@@ -1,0 +1,1 @@
+In theory, the P100 and GTX 1080 Ti should be in the same league performance-wise. However, this cryptocurrency comparison has P100 lagging in every benchmark. It is worth noting that you can do half-precision on P100, effectively doubling the performance and VRAM size.

@@ -1,0 +1,1 @@
+This is similar to the effect produced by adding Gaussian noise to an image, but may have a lower information distortion level. You can add Gaussian noise to your image by using the following command, on TensorFlow. Data Augmentation Factor = 2x.

@@ -1,0 +1,1 @@
+Why is it a Big Deal? Flow XO offers a graphical interface to build so-called flows which define how your bot will operate to received messages or audio. It has a huge list of integrations.

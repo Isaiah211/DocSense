@@ -1,0 +1,1 @@
+Phew. The first line is self explanatory. In MCTS, you can start with an unskilled Foma and unskilled Lusha.

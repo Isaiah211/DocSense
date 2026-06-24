@@ -1,0 +1,5 @@
+For example, Credit Suisse First Boston’s GovTrade system started in 1992 and investors can
+access quote information and trade bonds such as treasury securities, repos and commercial paper
+through Bloomberg’s terminals. Other examples include Autobahn by Deutsche Bank, LMS by Merrill
+Lynch, Fixed Income Securities. Recently, some electronic bond trading systems with multiple dealers
+have been launched.

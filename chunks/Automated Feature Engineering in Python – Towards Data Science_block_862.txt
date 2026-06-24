@@ -1,0 +1,1 @@
+For now, we know that we can use featuretools to create numerous features from many tables with minimal effort! Like many topics in machine learning, automated feature engineering with featuretools is a complicated concept built on simple ideas. Using concepts of entitysets, entities, and relationships, featuretools can perform deep feature synthesis to create new features.

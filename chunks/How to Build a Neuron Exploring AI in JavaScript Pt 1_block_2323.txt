@@ -1,0 +1,1 @@
+Essentially, the software needed to learn and get better at a frequently repeated task over time. I’d read about neural networks and some early success people had achieved with them, so I decided to try it out myself. That marked the beginning of a life-long fascination with AI.

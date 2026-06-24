@@ -1,0 +1,1 @@
+For each search query that a guest enters on Airbnb’s search engine, our model computes the likelihood that relevant hosts will want to accommodate the guest’s request. Then, we surface likely matches more prominently in the search results. In our A/B testing the model showed about a 3.75% increase in booking conversion, resulting in many more matches on Airbnb.

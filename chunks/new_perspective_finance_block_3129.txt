@@ -1,0 +1,3 @@
+Attackers can circumvent security no matter how heavy is the protection by
+using this method. This is exactly what happened to E*Trade in February 2000, and it was offline for
+hours. The attacking technology used then is called the DDoS attack.

@@ -1,0 +1,1 @@
+To improve the world’s data, Google continues to focus on the importance of the open internet. Another Labs project, Google Fusion Tables facilitates data management in the cloud. It enables users to create tables, filter and aggregate data, merge it with other data sources and visualise it with Google Maps or the Google Visualisation API.

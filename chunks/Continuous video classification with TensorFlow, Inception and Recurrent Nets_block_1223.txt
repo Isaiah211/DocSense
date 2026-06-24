@@ -1,0 +1,1 @@
+Here we’ll go a little deeper. (See what I did there?) Instead of letting the CNN do all the hard work, we’ll give more responsibility to the RNN by using output of the CNN’s pool layer, which gives us the feature representation (not a prediction) of our images. We again build sequences with this data to feed into our RNN.

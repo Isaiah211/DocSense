@@ -1,0 +1,1 @@
+The problem on learning neural network architecture from data is that it currently takes too long to experiment with multiple architectures on a large dataset. One has to try training multiple architectures from scratch and see which one works best. Well this is exactly the time-consuming trial-and-error procedure we are using today!

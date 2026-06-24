@@ -1,0 +1,1 @@
+Much like Fast R-CNN, and Faster R-CNN, Mask R-CNN’s underlying intuition is straight forward. Given that Faster R-CNN works so well for object detection, could we extend it to also carry out pixel level segmentation? Mask R-CNN does this by adding a branch to Faster R-CNN that outputs a binary mask that says whether or not a given pixel is part of an object.

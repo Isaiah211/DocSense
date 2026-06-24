@@ -1,0 +1,1 @@
+The architecture of RNNs has become much more complicated, but in some areas similar results were achieved by simple feedforward-networks — DSSM. For example, Google has reached the same quality, as with LSTM previously, for its mail feature Smart Reply. In addition, Yandex launched a new search engine based on such networks.

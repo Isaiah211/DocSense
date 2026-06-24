@@ -1,0 +1,1 @@
+In practice, an optimization algorithm is used to find the values for the coefficients that maximizes the margin. SVM might be one of the most powerful out-of-the-box classifiers and worth trying on your dataset. Random Forest is one of the most popular and most powerful machine learning algorithms.

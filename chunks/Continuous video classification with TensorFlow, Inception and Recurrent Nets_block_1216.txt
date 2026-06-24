@@ -1,0 +1,1 @@
+Once we have our sequence of features and our network, training with TFLearn is a breeze. Evaluating is even easier. Now, let’s evaluate each of the methods we outlined above for adding an RNN to our CNN.

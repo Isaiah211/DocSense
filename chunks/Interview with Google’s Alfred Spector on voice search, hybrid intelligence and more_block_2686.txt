@@ -1,0 +1,2 @@
+They both go into one model, or it just becomes personalised to the individual; voice scientists are a little unclear as to which is the best approach.”
+The research department is also making progress in machine translation. Google Translate already features 51 languages, including Swahili and Yiddish. The latest version introduces instant, real-time translation, phonetic input and text-to-speech support (in English).

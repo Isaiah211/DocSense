@@ -1,0 +1,2 @@
+There are main characteristics of a GPU related to DL are:
+There are two reasons for having multiple GPUs: you want to train several models at once, or you want to do distributed training of a single model. We’ll go over each one. Training several models at once is a great technique to test different prototypes and hyperparameters.

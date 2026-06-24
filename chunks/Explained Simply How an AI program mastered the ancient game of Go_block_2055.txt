@@ -1,0 +1,1 @@
+Coming to the essay again: we’re done training Lusha here. Now back to Foma — remember the “optimal value function”: v*(s) -> that only tells you how likely you are to win in your current board position if both players play perfectly from that point on?So obviously, to train an NN to become our value function, we would need a perfect player... which we don’t have.

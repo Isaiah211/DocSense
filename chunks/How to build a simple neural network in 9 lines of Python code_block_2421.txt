@@ -1,0 +1,3 @@
+This process is called back propagation. Formula for calculating the neuron’s output
+You might be wondering, what is the special formula for calculating the neuron’s output? First we take the weighted sum of the neuron’s inputs, which is:
+Next we normalise this, so the result is between 0 and 1.

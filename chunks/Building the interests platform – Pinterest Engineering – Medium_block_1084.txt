@@ -1,0 +1,1 @@
+This filtering is especially important to interest terms which might be recommended to millions of users. We arrived at a fair quality collection of interests following the above algorithmic approaches. In order to understand the quality of our efforts, we gave a 50,000 term subset of our collection to a third party vendor which used crowdsourcing to rate our data.

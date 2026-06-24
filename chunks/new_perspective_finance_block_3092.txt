@@ -1,0 +1,4 @@
+Considering the dealers as profit-making and competing intermediaries may help solve the puzzle and
+further understand the value of liquidity provision. In the context of optimisation, Guo et al (2001) show
+that providing liquidity may solve an optimisation problem that otherwise will not converge. Currently, in automated trading systems, limit orders are matched automatically and there is no
+liquidity provider.

@@ -1,0 +1,1 @@
+But data by itself is just bits and bytes. The second key trend that is weaving the Age of Context is the breakthroughs in algorithms and models to analyze this data in close-to-real-time. For the Age of Context to come about, systems must know how to query and how to act on all the possible contextual data points to drive the simplified actions outlined in the examples above.

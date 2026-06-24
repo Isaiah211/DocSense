@@ -1,0 +1,1 @@
+Rather than implementing the raw equation, y = xW + b, I use a handy function that does that in one line and also applies the activation function. It expects input as a one-dimensional vector, though. So I flatten the images first.

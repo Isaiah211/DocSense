@@ -1,0 +1,1 @@
+The same goes for the Y vector, songs: you can compare a single song’s vector with all the others, and find out which songs are most similar to the one in question. Collaborative filtering does a pretty good job, but Spotify knew they could do even better by adding another engine. Enter NLP.

@@ -1,0 +1,1 @@
+Training several models at once is a great technique to test different prototypes and hyperparameters. It also shortens your feedback cycle and lets you try out many things at once. Distributed training, or training a single network on several video cards is slowly but surely gaining traction.

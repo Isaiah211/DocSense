@@ -1,0 +1,2 @@
+One of the initial ways we experimented with this was launching a preview of a page where Pinners can explore their interests. Figure 3: Exploring interests
+In order to match interests to Pinners, we need to aggregate all the information related with a person’s interests. At its core, our system recommends interests based upon Pins with which a Pinner interacts.

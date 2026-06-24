@@ -1,0 +1,1 @@
+For a more detailed look at other aspects of online risk management, check out Ohad Samet’s great ebook. Different risk vectors can require different architectures. For example, some risk vectors are not time critical, but require computationally intensive techniques to detect.

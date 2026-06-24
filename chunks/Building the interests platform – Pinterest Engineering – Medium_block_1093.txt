@@ -1,0 +1,1 @@
+At its core, our system recommends interests based upon Pins with which a Pinner interacts. Every Pin on Pinterest has been collected and given context by someone who thinks it’s important, and in doing so, is helping other people discover great content. Each individual Pin is an incredibly rich source of data.

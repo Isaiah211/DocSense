@@ -1,0 +1,1 @@
+But this model also serves a secondary purpose: unlike the first two types, raw audio models take new songs into account. Take, for example, a song your singer-songwriter friend has put up on Spotify. Maybe it only has 50 listens, so there are few other listeners to collaboratively filter it against.

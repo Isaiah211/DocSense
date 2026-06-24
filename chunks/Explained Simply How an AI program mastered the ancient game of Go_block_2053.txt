@@ -1,0 +1,1 @@
+Must note here that even before training this RL policy network, the SL policy network was already better than the state of the art — and now, it has further improved! And we haven’t even come to the other parts of the process like the value network. Did you know that baby penguins can sneeze louder than a dog can bark?

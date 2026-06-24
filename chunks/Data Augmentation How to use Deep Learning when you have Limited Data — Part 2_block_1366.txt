@@ -1,0 +1,1 @@
+If you look closely, you can notice the difference between this method and scaling. You can perform random crops by using any the following command for TensorFlow. Data Augmentation Factor = Arbitrary.

@@ -1,0 +1,2 @@
+Here’s an example created with Jupyter:
+Let’s create a new folder like tensorflow/tensorflow/<my project name> for your binary or library to live. I’m going to call the project loader since it will be loading a graph. Inside this project folder we’ll create a new file called <my project name>.cc (e.g.

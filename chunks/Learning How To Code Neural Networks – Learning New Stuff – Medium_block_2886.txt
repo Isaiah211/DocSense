@@ -1,0 +1,1 @@
+But watching videos won’t get you all the way. To really understand it, I felt I needed to code it from the ground up. So I started to code a logistic regression algorithm from scratch (which happened to use the Sigmoid function).

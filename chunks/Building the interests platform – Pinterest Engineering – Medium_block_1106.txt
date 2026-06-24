@@ -1,0 +1,2 @@
+To ensure quality, we need to guarantee quality from all sources. For that purpose, we measure the engagement of Pins from each source and address quality issue accordingly. Figure 5: How interest feeds are generated
+Accurately capturing Pinner interests and interest relationships, and making this data understandable and actionable for tens of millions of people (collecting tens of billions of Pins), is not only an engineering challenge, but also a product design one.

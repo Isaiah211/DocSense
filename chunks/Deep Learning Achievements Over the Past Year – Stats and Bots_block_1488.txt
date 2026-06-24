@@ -1,0 +1,1 @@
+What are adversarial-attacks? Standard networks trained, for example, on ImageNet, are completely unstable when adding special noise to the classified picture. In the example below, we see that the picture with noise for the human eye is practically unchanged, but the model goes crazy and predicts a completely different class.

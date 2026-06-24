@@ -1,0 +1,1 @@
+how far off are our predictions)? The Loss Function allows us to do exactly that. There are many available loss functions, and the nature of our problem should dictate our choice of loss function.

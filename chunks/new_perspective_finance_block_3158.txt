@@ -1,0 +1,4 @@
+Easley, D and M O’Hara (1987): “Price, trade size, and information in securities markets”, Journal of
+Financial Economics, vol 19, pp 69-90. Fan, M, S Srinivansan, J Stallaert and A Whinston (2001): Electronic Commerce and the Revolution in
+Financial Markets, Harcourt. Fan, M, J Stallaert and A Whinston (1999): “A web-based financial trading system”, IEEE Computer,
+April, pp 64-70.

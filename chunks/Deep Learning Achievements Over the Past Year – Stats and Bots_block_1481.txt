@@ -1,0 +1,1 @@
+You can find a source code here. In order to apply Pix2Pix, you need a dataset with the corresponding pairs of pictures from different domains. In the case, for example, with cards, it is not a problem to assemble such a dataset.

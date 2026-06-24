@@ -1,0 +1,4 @@
+If we were using a feedforward network, we’d reshape the 4×4 input into a vector of length 16, and pass it through a densely connected layer with 16 inputs and 4 outputs. One could visualize the weight matrix W for a layer:
+And although the convolution kernel operation may seem a bit strange at first, it is still a linear transformation with an equivalent transformation matrix. If we were to use a kernel K of size 3 on the reshaped 4×4 input to get a 2×2 output, the equivalent transformation matrix would be:
+(Note: while the above matrix is an equivalent transformation matrix, the actual operation is usually implemented as a very different matrix multiplication[2])
+The convolution then, as a whole, is still a linear transformation, but at the same time it’s also a dramatically different kind of transformation.

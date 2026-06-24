@@ -1,0 +1,3 @@
+That’s one of the reasons why traditional neural nets don’t handle unseen rotations very well:
+As we go from edges to shapes and from shapes to objects, it would be nice if we had more room to store this extra useful information. Here is a simplified comparison of 2 capsule layers (one for rectangles and the other for triangles) vs 2 traditional pixel outputs:
+Like a traditional 2D or 3D vector, this vector has an angle and a length. The length describes the probability, and the angle describes the instantiation parameters.

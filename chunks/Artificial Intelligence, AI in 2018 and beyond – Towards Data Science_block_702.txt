@@ -1,0 +1,1 @@
+the neural network architecture that is at the foundation of training to solve a specific task is not learned from data! In fact it is still designed by hand. Hand-crafted from experience, and it is currently one of the major limitations of the field.

@@ -1,0 +1,2 @@
+This is our dataset:
+Looks like a good training set. The image quality is great, and there are a variety of angles and lighting conditions. More importantly, the traffic signs occupy most of the area of each image, which allows me to focus on object classification and not have to worry about finding the location of the traffic sign in the image (object detection).

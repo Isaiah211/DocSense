@@ -1,0 +1,1 @@
+The data was not shuffled but sequentially sliced. The training data ranges from April to approx. end of July 2017, the test data ends end of August 2017.

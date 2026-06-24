@@ -1,0 +1,1 @@
+See more about these goals here, and here, and here. Software is defined here as neural networks architectures trained with an optimization algorithm to solve a specific task. Today neural networks are the de-facto tool for learning to solve tasks that involve learning supervised to categorize from a large dataset.

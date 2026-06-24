@@ -1,0 +1,1 @@
+We run the holdout set through the same network and get... 95.4%! Better than our 93.3% we got without the LSTM, and not a bad result, given we’re using the full output of the CNN, and thus not giving the RNN much responsibility.

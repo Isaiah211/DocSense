@@ -1,0 +1,3 @@
+To name a few (from François Chollet book on DL):
+And much more. Here’s a list of 30 great and funny applications of DL:
+Thinking about the future of Deep Learning (for programming or building applications), I’ll repeat what I said in other posts. I really think GUIs and AutoML are the near future of getting things done with Deep Learning.

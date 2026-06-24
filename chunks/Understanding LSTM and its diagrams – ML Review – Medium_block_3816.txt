@@ -1,0 +1,1 @@
+Let’s ignore the internals, but only look at the inputs and outputs of the unit. The network takes three inputs. X_t is the input of the current time step.

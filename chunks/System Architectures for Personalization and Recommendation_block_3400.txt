@@ -1,0 +1,1 @@
+Here the latency is not as important as the information quality and quantity. Of course, there are user events that can be treated as both events and data and therefore sent to both flows. At Netflix, our near-real-time event flow is managed through an internal framework called Manhattan.

@@ -1,0 +1,2 @@
+Episode 4: Search Goes Natural
+To the naked eye, this looks like we’ve gone full circle — one text box, parsed queries shown as tags. What could be simpler? Well, not exactly, because we still need queries to be meaningful.

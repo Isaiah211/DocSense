@@ -1,0 +1,2 @@
+See Tim Dettmers’ answer to “Why are GPUs well-suited to deep learning?” on Quora for a better explanation. Also for an in-depth, albeit slightly outdated GPUs comparison see his article “Which GPU(s) to Get for Deep Learning”. There are main characteristics of a GPU related to DL are:
+There are two reasons for having multiple GPUs: you want to train several models at once, or you want to do distributed training of a single model.

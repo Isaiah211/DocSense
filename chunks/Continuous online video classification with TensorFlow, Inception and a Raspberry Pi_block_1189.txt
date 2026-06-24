@@ -1,0 +1,1 @@
+How does it do on live TV, with always changing context? For this, we load up our Raspberry Pi 3 with our newly trained model weights, turn on the PiCamera at 10 fps, and instead of saving the image, send it through our CNN to be classified. We have to make some modifications to the code to classify in real time.

@@ -1,0 +1,1 @@
+That is what training does. The kernels all start off empty (or in a random state) and keep getting tweaked in the direction that makes the output closer to what we want. This is what the 256 kernels ended up looking like (I colored them as pixels so it’s easier to digest).

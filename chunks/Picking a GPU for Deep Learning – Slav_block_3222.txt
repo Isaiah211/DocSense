@@ -1,0 +1,1 @@
+As it stands, success with Deep Learning heavily dependents on having the right hardware to work with. When I was building my personal Deep Learning box, I reviewed all the GPUs on the market. In this article, I’m going to share my insights about choosing the right graphics processor.

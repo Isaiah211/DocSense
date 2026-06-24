@@ -1,0 +1,6 @@
+Thus by
+hedging and rebalancing the risks in terms of the replicating portfolios instead of a specific derivative,
+the aggregation and netting of portfolios, in particular the cancellations between orders on the same
+assets, will result in significant reduction in transaction costs. In essence, financial intermediaries can
+provide customised options at lower prices by developing replicating portfolios and an internal bundletrading system. 3.8 Electronic money
+As with all new terms related to the internet, e-money refers to various items in different contexts.

@@ -1,0 +1,1 @@
+We again build sequences with this data to feed into our RNN. Running our training data through the network to make sure we get high accuracy succeeds at 99.89%! Sanity checked.

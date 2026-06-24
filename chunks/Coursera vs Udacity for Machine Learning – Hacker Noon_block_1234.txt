@@ -1,0 +1,2 @@
+Led by famed Stanford Professor Andrew Ng, this course feels like a college course with a syllabus, weekly schedule, and standard lectures. The college feel extends to the curriculum as well. Here is an example slide:
+If that scared you, you aren’t alone.

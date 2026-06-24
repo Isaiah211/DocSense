@@ -1,0 +1,1 @@
+CRM data? ...) and our goal for the data mining process. So how can you handle missing values in your database?

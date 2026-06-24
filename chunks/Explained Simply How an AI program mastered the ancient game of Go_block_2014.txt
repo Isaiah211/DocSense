@@ -1,0 +1,1 @@
+Here we discuss how Foma and Lusha were trained. To train the policy network (predicting for a given position which moves experts would pick), you simply use examples of human games and use them as data for good old supervised learning. And you want to train another slightly different version of this policy network to use for rollouts; this one will be smaller and faster.

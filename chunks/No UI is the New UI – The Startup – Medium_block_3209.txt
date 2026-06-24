@@ -1,0 +1,1 @@
+The new startups developing invisible and conversational apps understand this. They understand that the UI is not the product itself, but only a scaffolding allowing us to access the product. And if avoiding that scaffolding can lead to a better experience, then it definitively should be.

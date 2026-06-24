@@ -1,0 +1,1 @@
+The idea is that after a certain number of images are generated, the GAN will create images that are very similar to what we consider art. This is a very impressive accomplishment to say the least. But what if we take it a step further?

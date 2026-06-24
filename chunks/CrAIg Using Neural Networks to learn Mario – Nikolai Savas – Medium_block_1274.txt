@@ -1,0 +1,1 @@
+On the left you see a big grid of squares. This is what the game looks like right now, or what crAIg can “see”. He doesn’t know what any of the squares mean, but he knows that an “air” tile is different from a “ground” tile in some way.

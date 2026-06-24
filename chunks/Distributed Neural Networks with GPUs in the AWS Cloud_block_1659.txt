@@ -1,0 +1,1 @@
+To understand why, we first need to explain the different levels at which a model training process can be distributed. In a standard scenario, we will have a particular model with multiple instances. Those instances might correspond to different partitions in your problem space.

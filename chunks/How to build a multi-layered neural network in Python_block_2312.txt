@@ -1,0 +1,2 @@
+First I’ll give you the code and then I’ll explain further. Also available here: https://github.com/miloharper/multi-layer-neural-network
+This code is an adaptation from my previous neural network. So for a more comprehensive explanation, it’s worth looking back at my earlier blog post.

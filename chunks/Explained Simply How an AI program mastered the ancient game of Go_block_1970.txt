@@ -1,0 +1,1 @@
+These other programs had used an already popular pre-existing game playing algorithm, called the “Monte Carlo Tree Search” (MCTS). More about this later. But guess what, we still haven’t talked about the real deal.

@@ -1,0 +1,1 @@
+Different sources of Pins should be mixed together at different rates. 2. Some Pins should be selectively dropped or deferred until a later time.

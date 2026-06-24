@@ -1,0 +1,2 @@
+What makes it extraordinary is that a lot of the ideas in the paper are actually far less complex than previous versions. At its heart, lies the following beautifully simple mantra for learning:
+Doesn’t that sound a lot like how you learn to play games? When you play a bad move, it’s either because you misjudged the future value of resulting positions, or you misjudged the likelihood that your opponent would play a certain move, so didn’t think to explore that possibility.

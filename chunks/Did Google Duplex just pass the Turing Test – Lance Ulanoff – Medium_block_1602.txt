@@ -1,0 +1,1 @@
+Google Assistant running Duplex didn’t exhibit any of those short comings. It sounded like a young female assistant carefully scheduling her boss’s haircut. In addition to the natural cadence, Google added speech disfluencies (the verbal ticks, “ums,” “uhs,” and “mm-hmms”) and latency or pauses that naturally occur when people are speaking.

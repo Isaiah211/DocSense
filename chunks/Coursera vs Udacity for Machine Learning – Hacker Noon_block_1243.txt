@@ -1,0 +1,1 @@
+Due to Matlab’s cost and licensing issues, the machine learning world has mostly moved to Python. This move severely limits the utility of the programming assignments because you’ll have to relearn a lot of that work in Python. If you are a seasoned programmer who knows many languages, that might not be a big deal.

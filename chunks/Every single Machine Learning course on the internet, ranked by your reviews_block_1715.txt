@@ -1,0 +1,2 @@
+A machine learning workflow is the process required for carrying out a machine learning project. Though individual projects can differ, most workflows share several common tasks: problem evaluation, data exploration, data preprocessing, model training/testing/deployment, etc. Below you’ll find helpful visualization of these core steps:
+The ideal course introduces the entire process and provides interactive examples, assignments, and/or quizzes where students can perform each task themselves.

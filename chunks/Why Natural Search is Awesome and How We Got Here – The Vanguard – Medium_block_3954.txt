@@ -1,0 +1,5 @@
+This is more or less what it looked like in our beta version:
+Search box:
+A conversational UI:
+We launched this, monitored use and quickly realized is that early users split into two groups:
+Discarding the 2nd group (we’re busy people), we learned that people don’t know how to interact naturally with computers, or they have no idea what to ask or expect, so they revert to the most primitive queries. Problem is, our goal was to answer interesting, specific queries, because we believe that if we give you a great answer that caters to what you want, your likelihood of buying is that much higher. Furthermore, absolutely no one got the conversational aspect — the fact you can continue refining and pivoting through conversation.

@@ -1,0 +1,1 @@
+You don’t need to specially train the network to do things like capture more area on the board etc. You just give it all the possible legal moves it can choose from, and say, “you have to win”. And this is why RL is so versatile; it can be used to train policy or value networks for any game, not just Go.

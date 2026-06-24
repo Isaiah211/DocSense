@@ -1,0 +1,1 @@
+Each one has their specific purpose, but the appeal here (instead of using range), is that they output NumPy arrays, which are typically easier to work with for data science. Arange returns evenly spaced values within a given interval. Along with a starting and stopping point, you can also define a step size or data type if necessary.

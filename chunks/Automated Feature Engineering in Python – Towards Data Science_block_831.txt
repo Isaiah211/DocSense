@@ -1,0 +1,2 @@
+First, let’s take a look at our example data. We already saw some of the dataset above, and the complete collection of tables is as follows:
+If we have a machine learning task, such as predicting whether a client will repay a future loan, we will want to combine all the information about clients into a single table. The tables are related (through the client_id and the loan_id variables) and we could use a series of transformations and aggregations to do this process by hand.

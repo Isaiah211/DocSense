@@ -1,0 +1,1 @@
+Draw bounding boxes on the images. You can use a tool like labelImg. You will typically need a few people who will be working on annotating your images.

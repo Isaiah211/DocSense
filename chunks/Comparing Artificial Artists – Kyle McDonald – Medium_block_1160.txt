@@ -1,0 +1,1 @@
+They call this “style reconstruction”, and depending on the layer you reconstruct you get varying levels of abstraction. The correlation feature they use is called a Gram matrix: the dot product between the vectorized feature activation matrix and its transpose. If this sounds confusing, see the footnotes.

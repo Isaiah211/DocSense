@@ -1,0 +1,1 @@
+So to provide a concrete proof, I’ve mentioned the table below. It shows the error rate of popular neural networks on the Cifar 10 (C10) and Cifar 100 (C100) datasets. C10+ and C100+ columns are the error rates with data augmentation.

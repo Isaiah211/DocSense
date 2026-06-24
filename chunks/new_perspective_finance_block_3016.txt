@@ -1,0 +1,5 @@
+All these theories try to render some active roles played by financial intermediaries rather than a pure
+remedy to market imperfections. However, these theories, just as the traditional intermediation theory,
+have the perfect market as their benchmark. While financial intermediaries are studied closely and
+carefully, the financial markets are still viewed in an abstract way as frictionless and dynamically
+complete in the limit.

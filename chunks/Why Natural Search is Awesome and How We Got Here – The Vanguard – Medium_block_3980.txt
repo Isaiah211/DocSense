@@ -1,0 +1,2 @@
+For instance if we know your kids are traveling with you, we’d drop in “family friendly” and you could dismiss it with one click. So Where is This Going
+So far, Natural Search looks and behaves better than anything else we’ve seen in this space. From now on, most of the focus is on making the guesses even smarter, with more statistic reasoning about what people ask for in different contexts, and more contextual info driving those guesses.

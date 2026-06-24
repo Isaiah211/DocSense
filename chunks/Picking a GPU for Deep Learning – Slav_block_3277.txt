@@ -1,0 +1,2 @@
+All the specs in the world won’t help you if you don’t know what you are looking for. Here are my GPU recommendations depending on your budget:
+I have over $1000: Get as many GTX 1080 Ti or GTX 1080 as you can. If you have 3 or 4 GPUs running in the same box, beware of issues with feeding them with data.

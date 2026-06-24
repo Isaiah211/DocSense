@@ -1,0 +1,2 @@
+We added 0.004 steering angle units per pixel shift to the right, and subtracted 0.004 steering angle units per pixel shift to the left. We will also shift the images vertically by a random number to simulate the effect of driving up or down the slope. Shadow augmentation
+The next augmentation we will add is shadow augmentation where random shadows are cast across the image.

@@ -1,0 +1,1 @@
+Instead, I used the videos to help me understand what I needed to learn. The first thing I realized I needed to investigate further was the Sigmoid function, as this seemed to be a critical part of many neural networks. I knew a little bit about the function, as it was also covered in Week 3 of the same course.

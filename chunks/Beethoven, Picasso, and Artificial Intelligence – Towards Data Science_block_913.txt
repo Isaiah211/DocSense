@@ -1,0 +1,1 @@
+It has been used in a Google AI Experiment to be able to sketch alongside a user. While doing so, it can provide the users with suggestions and even complete the user’s sketch when they decide to take a break. Sketch-RNN is exposed to a massive number of sketches provided through a dataset of vector drawings obtained through another Google application that we will discuss later.

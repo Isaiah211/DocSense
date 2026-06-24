@@ -1,0 +1,1 @@
+You’ll see these hit and trial results later in the paper. After each roll out, you update your search tree with whatever information you gained during the simulation, so that your next simulation is more intelligent. And at the end of all simulations, you just pick the best move.

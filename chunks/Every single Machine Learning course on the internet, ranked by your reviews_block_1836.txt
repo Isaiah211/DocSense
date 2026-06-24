@@ -1,0 +1,1 @@
+DataCamp’s hybrid teaching style leverages video and text-based instruction with lots of examples through an in-browser code editor. A subscription is required for full access to each course. Introduction to Machine Learning (DataCamp): Covers classification, regression, and clustering algorithms.

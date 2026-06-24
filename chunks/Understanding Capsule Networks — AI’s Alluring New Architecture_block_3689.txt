@@ -1,0 +1,1 @@
+In order to make it easier to follow along, I have built a visualization tool that allows you to see what is happening at each layer. This is paired with a simple implementation of the network. All of it can be found on GitHub here.

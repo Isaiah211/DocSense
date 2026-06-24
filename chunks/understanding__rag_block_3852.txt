@@ -1,0 +1,2 @@
+Unfortunately, the nature of LLM technology introduces unpredictability in LLM responses. Additionally, LLM training data is static and introduces a cut-off date on the knowledge it has. Known challenges of LLMs include:
+- Presenting false information when it does not have the answer.

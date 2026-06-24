@@ -1,0 +1,1 @@
+I believe that understanding the inner workings of a Neural Network is important to any aspiring Data Scientist. This article contains what I’ve learned, and hopefully it’ll be useful for you as well! Most introductory texts to Neural Networks brings up brain analogies when describing them.

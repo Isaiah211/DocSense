@@ -1,0 +1,1 @@
+So that is ok too. Then what is the problem with this? If you are familiar with gradient descent for training, you would notice that for this function, derivative is a constant.

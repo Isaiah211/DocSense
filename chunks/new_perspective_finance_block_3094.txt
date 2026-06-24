@@ -1,0 +1,5 @@
+That is, the system may be the other side of a transaction and
+thus carry inventory. As long as it is profitable to build in such functionality in the trading systems,
+there is no reason that the companies operating the exchanges will not implement it in the future. To
+implement such a system, another problem to be solved is the “trading rule” for this automated system
+(the algorithm).

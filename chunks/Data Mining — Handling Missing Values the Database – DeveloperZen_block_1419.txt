@@ -1,0 +1,1 @@
+So how can you handle missing values in your database? This is usually done when the class label is missing (assuming your data mining goal is classification), or many attributes are missing from the row (not just one). However, you’ll obviously get poor performance if the percentage of such rows is high.

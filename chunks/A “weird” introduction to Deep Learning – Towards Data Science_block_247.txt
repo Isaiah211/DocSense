@@ -1,0 +1,1 @@
+Deep Learning has been around for quite a while now. So why it became so relevant so fast the last 5–7 years? As I said before, until the late 2000s, we were still missing a reliable way to train very deep neural networks.

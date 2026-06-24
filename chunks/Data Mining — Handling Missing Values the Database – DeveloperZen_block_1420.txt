@@ -1,0 +1,1 @@
+However, you’ll obviously get poor performance if the percentage of such rows is high. For example, let’s say we have a database of students enrolment data (age, SAT score, state of residence, etc.) and a column classifying their success in college to “Low”, “Medium” and “High”. Let’s say our goal is to build a model predicting a student’s success in college.

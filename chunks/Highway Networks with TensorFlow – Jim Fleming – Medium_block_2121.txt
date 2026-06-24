@@ -1,0 +1,3 @@
+Using MNIST as my simple trial:
+Now that we have a highway network, I wanted to answer a few questions that came up for me while reading the paper. For instance, how deep will the network converge? The paper briefly mentions 1000 layers:
+Can we train with 1000 layers on MNIST?

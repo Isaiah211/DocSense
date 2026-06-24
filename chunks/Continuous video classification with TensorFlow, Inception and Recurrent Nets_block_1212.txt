@@ -1,0 +1,1 @@
+We could choose any length for N, but I settled on 40. At 10fps, which is the framerate of our video, that gives us 4 seconds of video to process at a time. This seems like a good balance of memory usage and information.

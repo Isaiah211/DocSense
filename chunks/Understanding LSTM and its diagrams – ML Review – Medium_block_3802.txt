@@ -1,0 +1,2 @@
+I think the above blog post written by Christopher Olah is the best LSTM material you would find. Please visit the original link if you want to learn LSTM. (But I did create some nice diagrams.)
+Although we don’t know how brain functions yet, we have the feeling that it must have a logic unit and a memory unit.

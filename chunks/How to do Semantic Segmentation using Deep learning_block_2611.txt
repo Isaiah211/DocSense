@@ -1,0 +1,1 @@
+For the training process, we also set keep_probability to 0.5 and learning_rate to 0.001. To keep track of the progress, we also print out the loss during training. Finally, it’s time to train our net!

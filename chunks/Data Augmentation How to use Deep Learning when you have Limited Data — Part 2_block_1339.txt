@@ -1,0 +1,1 @@
+Didn’t you just get a 95% accuracy on your dataset using your “state-of-the-art” neural network? I’m not exaggerating, similar incidents and goof-ups have occurred in the past. Why does this happen?

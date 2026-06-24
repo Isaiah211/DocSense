@@ -1,0 +1,2 @@
+Unfortunately, his results don’t quite match the paper, and it’s unclear why. I’m just getting started with this topic, so as I learn I want to share my understanding of the algorithm here, along with some results I got from testing his code. In two parts, the paper describes an algorithm for rendering a photo in the style of a given painting:
+2.

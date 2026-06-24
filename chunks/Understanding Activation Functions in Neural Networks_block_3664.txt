@@ -1,0 +1,1 @@
+The range of ReLu is [0, inf). This means it can blow up the activation. Another point that I would like to discuss here is the sparsity of the activation.

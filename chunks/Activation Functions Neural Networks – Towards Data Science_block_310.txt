@@ -1,0 +1,2 @@
+The tanh function is mainly used classification between two classes. 3. ReLU (Rectified Linear Unit) Activation Function
+The ReLU is the most used activation function in the world right now.Since, it is used in almost all the convolutional neural networks or deep learning.

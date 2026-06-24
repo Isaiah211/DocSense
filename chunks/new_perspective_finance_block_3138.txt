@@ -1,0 +1,7 @@
+An SLA is a contract
+between the service provider and receiver that defines the services and service levels and also
+specifies the guarantees. In order to give the service provider the proper incentive to provide secure
+and high quality VPN service, there has to be penalty for non-compliance and the penalty should be
+decided according to the loss of the financial institutions in the case of failure (Lin and Whinston
+2001). 4.4 Shill bidding
+Developments in e-finance have brought up new challenges to financial intermediaries and markets.

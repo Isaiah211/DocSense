@@ -1,0 +1,2 @@
+For a more in-depth analysis and comparison of all the networks reported here, please see our recent article. One representative figure from this article is here:
+Reporting top-1 one-crop accuracy versus amount of operations required for a single forward pass in multiple popular neural network architectures. It is the year 1994, and this is one of the very first convolutional neural networks, and what propelled the field of Deep Learning.

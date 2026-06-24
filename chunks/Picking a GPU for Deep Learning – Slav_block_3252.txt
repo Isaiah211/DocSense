@@ -1,0 +1,1 @@
+RAM: It is recommended to have 2 gigabytes of memory for every gigabyte of video card RAM. Having more certainly helps in some situations, like when you want to keep an entire dataset in memory. Power supply: It should provide enough power for the CPU and the GPUs, plus 100 watts extra.

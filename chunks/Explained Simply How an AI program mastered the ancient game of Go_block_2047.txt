@@ -1,0 +1,1 @@
+So you can save this version of the neural network in a list of “players”, who all behave slightly differently right? Great — now while training the neural network, you can randomly make it play against many different older and newer versions of the opponent, chosen from that list. They are versions of the same player, but they all play slightly differently.

@@ -1,0 +1,3 @@
+Top Left Image → Original InputTop Right Image → After First LayerBottom Left Image → After Second LayerBottom Right Image → After Fourth Layer
+Contrast to PCAP, with max pooling we can clearly observe that the pixel with most high intensity moves on to the next layer. This is expected since, that is what max pooling does. Interactive Code
+For Google Colab, you would need a google account to view the codes, also you can’t run read only scripts in Google Colab so make a copy on your play ground.

@@ -1,0 +1,1 @@
+So you can run another convolution layer on top of another (such as the two on the left) to extract deeper features, which we visualize. Yet, however deep our feature detectors get, without any further changes they’ll still be operating on very small patches of the image. No matter how deep your detectors are, you can’t detect faces from a 3×3 grid.

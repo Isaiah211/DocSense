@@ -1,0 +1,1 @@
+So the key difference we make with deep learning is ask this question: Can useful kernels be learnt? For early layers operating on raw pixels, we could reasonably expect feature detectors of fairly low level features, like edges, lines, etc. There’s an entire branch of deep learning research focused on making neural network models interpretable.

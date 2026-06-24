@@ -1,0 +1,1 @@
+Content management systems are among the most visible of the tools automating away the need for a software engineer. SquareSpace and WordPress are among the most popular CMS systems today. These platforms are significantly reducing the value of people with a just a little bit of front end web development skill.

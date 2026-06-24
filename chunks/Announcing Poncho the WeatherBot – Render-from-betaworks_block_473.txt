@@ -1,0 +1,1 @@
+We are joining others like Lyft and Foursquare as Slack officially launches Slash Command today. OK, first up let me tell you how it works. You simply type in ‘/poncho’ and your zipcode into Slack and then BOOM: the next thing you’ll see is your very own forecast for that zipcode, resplendent with text and gifs and everything.

@@ -1,0 +1,1 @@
+The next step is to sort each frame into two folders: football and ad. The name of the folders represent the labels of each frame, which will be the classes our network will learn to predict on when we retrain the top layer of the Inception v3 CNN. This is essentially using the flowers method described in TensorFlow for Poets, applied to video frames.

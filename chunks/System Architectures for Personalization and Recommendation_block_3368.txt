@@ -1,0 +1,1 @@
+Each approach has its advantages and disadvantages, which need to be taken into account for each use case. Online computation can respond quickly to events and use the most recent data. An example is to assemble a gallery of action movies sorted for the member using the current context.

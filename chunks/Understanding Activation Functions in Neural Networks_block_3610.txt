@@ -1,0 +1,1 @@
+If the value of Y is above a certain value, declare it activated. If it’s less than the threshold, then say it’s not. Hmm great.

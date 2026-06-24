@@ -1,0 +1,1 @@
+I just created this timeline based on several papers and other timelines with the purpose of everyone seeing that Deep Learning is much more than just Neural Networks. There has been really theoretical advances, software and hardware improvements that were necessary for us to get to this day. If you want it just ping me and I’ll send it to you.

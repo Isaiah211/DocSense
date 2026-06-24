@@ -1,0 +1,1 @@
+The figure below shows the input data-matrix, and the current batch batchX_placeholder is in the dashed rectangle. As we will see later, this “batch window” is slided truncated_backprop_length steps to the right at each run, hence the arrow. In our example below batch_size = 3, truncated_backprop_length = 3, and total_series_length = 36.

@@ -1,0 +1,4 @@
+4. Leaky ReLU
+It is an attempt to solve the dying ReLU problem
+Can you see the Leak? 😆
+The leak helps to increase the range of the ReLU function.

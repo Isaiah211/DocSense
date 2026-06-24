@@ -1,0 +1,1 @@
+Normally you train the network so that it minimises a loss function, which is essentially the error/difference between predicted outcome and actual label. That is called gradient DESCENT. In the actual implementation of this research paper, they have indeed used the regular gradient descent.

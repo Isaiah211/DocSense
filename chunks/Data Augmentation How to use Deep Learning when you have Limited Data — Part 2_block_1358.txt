@@ -1,0 +1,1 @@
+If it’s a rectangle, rotating it by 180 degrees would preserve the size. Rotating the image by finer angles will also change the final image size. We’ll see how we can deal with this issue in the next section.

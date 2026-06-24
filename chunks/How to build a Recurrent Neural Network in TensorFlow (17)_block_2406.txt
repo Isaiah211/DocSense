@@ -1,0 +1,1 @@
+After each part in the article series the whole runnable program will be presented. If a line is referenced by number, these are the line numbers that we mean. In the next post in this series we will be simplify the computational graph creation by using the native TensorFlow RNN API.

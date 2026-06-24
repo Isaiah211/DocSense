@@ -1,0 +1,2 @@
+NEAT is a genetic algorithm that puts every iteration of crAIg’s brain to the test and then selectively breeds them in a very similar way to the evolution of species in nature. The hierarchy is as follows:
+Synapse/Neuron: Building blocks of crAIg’s brain. Genome: An iteration of crAIg’s brain.

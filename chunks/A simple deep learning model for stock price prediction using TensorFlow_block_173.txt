@@ -1,0 +1,2 @@
+One thing that is missing, at least in my opinion, is a neat graphical user interface for designing and developing neural net architectures with TensorFlow backend. Maybe, this is something Google is already working on ;)
+If you have any comments or questions on my first Medium story, feel free to comment below! I will try to answer them.

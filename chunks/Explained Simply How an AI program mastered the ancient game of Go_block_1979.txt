@@ -1,0 +1,1 @@
+Let’s talk about the first paragraph of the essay above. Remember what I said about Deep Blue making a huge tree of millions of board positions and moves at each step of the game? You had to do simulations and look at and compare each and every possible move.

@@ -1,0 +1,2 @@
+Here are the inputs and outputs to this overall model:
+Even with all these advancements, there was still one remaining bottleneck in the Fast R-CNN process — the region proposer. As we saw, the very first step to detecting the locations of objects is generating a bunch of potential bounding boxes or regions of interest to test. In Fast R-CNN, these proposals were created using Selective Search, a fairly slow process that was found to be the bottleneck of the overall process.

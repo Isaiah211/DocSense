@@ -1,0 +1,1 @@
+7. Idea: Region Based CNNs. Used for object detection and more.

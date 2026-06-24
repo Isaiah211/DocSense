@@ -1,0 +1,1 @@
+Each empty population spot needs to be filled, but can be filled through either “asexual” or “sexual” reproduction. In other words, offspring can result from either two genomes in the species being merged or from a mutation of a single genome in the species. Before I discuss the process of “merging” two genomes, I’ll first discuss mutations.

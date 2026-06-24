@@ -1,0 +1,2 @@
+If there are deviations, that’s an interesting anomaly that could be converted into a feature, and all this can be detected from comparing a pixel with its neighbors, with other pixels in its locality. And this idea is really what a lot of earlier computer vision feature extraction methods were based around. For instance, for edge detection, one can use a Sobel edge detection filter, a kernel with fixed parameters, operating just like the standard one-channel convolution:
+For a non-edge containing grid (eg.

@@ -1,0 +1,1 @@
+I joined in excitedly.. but soon realized this is not an easy problem. Solving this problem would require expertise on data structures and some good familiarity with TSP problems and its many heuristic algorithms.

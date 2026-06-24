@@ -1,0 +1,2 @@
+We have streamlined Openscoring for a production environment by adding several features, including kafka logging and statsd monitoring. Andy Kramolisch has modified Openscoring to permit using several models simultaneously. As described below, there are several considerations that we weighed carefully before moving forward with Openscoring:
+After considering all of these factors, we decided that Openscoring best satisfied our two-pronged goal of having a fast and robust, yet flexible machine learning framework.

@@ -1,0 +1,1 @@
+For example, photos with associated hashtags or a house’s features (eq. number of bedrooms, location) and its price. By using supervised learning we can fit a line to the labelled data that either splits the data into categories or represents the trend of the data.

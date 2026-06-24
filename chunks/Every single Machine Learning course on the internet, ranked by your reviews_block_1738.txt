@@ -1,0 +1,1 @@
+A reminder that deep learning-only courses are not included in this guide — you can find those here. The Analytics Edge (Massachusetts Institute of Technology/edX): More focused on analytics in general, though it does cover several machine learning topics. Uses R.

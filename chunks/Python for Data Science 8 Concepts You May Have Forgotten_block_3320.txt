@@ -1,0 +1,2 @@
+Let’s use the example of dropping a column for now:
+I don’t know how many times I wrote this line of code before I actually knew why I was declaring axis what I was. As you can probably deduce from above, set axis to 1 if you want to deal with columns and set it to 0 if you want rows. But why is this?

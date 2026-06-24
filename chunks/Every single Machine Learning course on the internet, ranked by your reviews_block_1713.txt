@@ -1,0 +1,2 @@
+We compiled average ratings and number of reviews from Class Central and other review sites to calculate a weighted average rating for each course. We read text reviews and used this feedback to supplement the numerical ratings. We made subjective syllabus judgment calls based on three factors:
+A popular definition originates from Arthur Samuel in 1959: machine learning is a subfield of computer science that gives “computers the ability to learn without being explicitly programmed.” In practice, this means developing computer programs that can make predictions based on data.

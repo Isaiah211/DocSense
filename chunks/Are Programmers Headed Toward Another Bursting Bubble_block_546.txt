@@ -1,0 +1,1 @@
+Some jobs have disappeared, but demand for people who can write software has seen an increase overall. Data Science is a fascinating example of commodification at a level closer to software. Scikit.learn, Tensorflow, and PyTorch are all software libraries that make it easier for people to build machine learning applications without building the algorithms from scratch.

@@ -1,0 +1,1 @@
+Sounds like the perfect situation for a CNN if you ask me. Christopher Olah has a great blog post about understanding CNNs as well as other types of ANNs which you can find here. Another great resource for understanding CNNs is this blog post.

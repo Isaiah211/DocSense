@@ -1,0 +1,1 @@
+We must be very careful while using deep learning models, because they have a tendency to overfit the data. Overfitting refers to the condition where the model is very sensitive to the training data itself, and the model’s behavior does not generalize to new/unseen data. One way to avoid overfitting is to collect a lot of data.

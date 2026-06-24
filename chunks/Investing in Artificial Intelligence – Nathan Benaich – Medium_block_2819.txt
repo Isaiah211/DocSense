@@ -1,0 +1,1 @@
+For example, IBM Watson surfaces relevant literature when supporting a patient diagnosis in the oncology clinic. Doing so improves user satisfaction and helps build confidence in the system to encourage longer term use and investment. Remember, it’s generally hard for us to trust something we don’t truly understand.

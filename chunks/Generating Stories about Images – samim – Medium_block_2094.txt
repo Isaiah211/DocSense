@@ -1,0 +1,1 @@
+Neural-storyteller’s outputs are creative and often comedic. It is open-source. This experiment started by running 5000 randomly selected web-images through neural-storyteller and experimenting with hyper-parameters.

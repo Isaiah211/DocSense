@@ -1,0 +1,1 @@
+Our main off-line evaluation metric for the model was mean squared error (MSE), which is more appropriate in a setting when we care about the predicted probability more than about classification. In our off-line evaluation of the model we were able to get a 10% decrease in MSE over our previous model that captured host acceptance probability. This was a promising result.

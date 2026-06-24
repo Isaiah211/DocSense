@@ -1,0 +1,1 @@
+Species: A collection of Genomes. Generation: An iteration of the NEAT algorithm. This is repeated over and over to evolve crAIg.

@@ -1,0 +1,1 @@
+However, if both columns are 0 or both columns are 1, then the output is 0. So the correct answer is 0. However, this would be too much for our single neuron to handle.

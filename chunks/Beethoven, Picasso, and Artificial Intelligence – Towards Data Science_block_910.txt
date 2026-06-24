@@ -1,0 +1,1 @@
+The model wouldn’t be able to turn a text-based description of an image into an actual picture either. As impressive as the GAN may be, we would all agree that it can be improved. Each of the shortcoming mentioned have actually been addressed and, to an extent, solved.

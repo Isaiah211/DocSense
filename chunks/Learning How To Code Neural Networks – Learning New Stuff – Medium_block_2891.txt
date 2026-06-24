@@ -1,0 +1,1 @@
+The concept is called backpropagation. The weights were the blue numbers on our neuron in the beginning of the article. This process happens backwards, because you start at the end of the network (observe how wrong the networks ‘guess’ is), and then move backwards through the network, while adjusting the weights on the way, until you finally reach the inputs.

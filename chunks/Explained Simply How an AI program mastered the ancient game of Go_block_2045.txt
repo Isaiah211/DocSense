@@ -1,0 +1,1 @@
+You’ll just be training to practice how to beat THAT ONE player. This is, you guessed it, overfitting: your techniques play well against one opponent, but don’t generalize well to other opponents. So how do you fix this?

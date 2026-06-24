@@ -1,0 +1,3 @@
+First, we prepared data and after that, we processed 1 and 5 epochs with Dataset API and without. Model for this MNIST example can be found on github:
+https://github.com/wallarm/researches/blob/a719923f6a2da461deea0e01622d11cbfc8b057b/tf_ds_api/model.py#L1-L25
+Below are the results we obtained on a machine with one Nvidia GTX 1080 and TF 1.8.0. All code of this experiment is available on GitHub [Link].

@@ -1,0 +1,1 @@
+AWS Machine Learning: A Complete Guide With Python (Chandra Lingam/Udemy): A unique focus on cloud-based machine learning and specifically Amazon Web Services. Uses Python. Nine hours of on-demand video.

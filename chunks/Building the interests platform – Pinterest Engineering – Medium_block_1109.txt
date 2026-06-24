@@ -1,0 +1,1 @@
+Acknowledgements: The core team members for the interests backend platform are Ningning Hu, Leon Lin, Ryan Shih and Yuan Wei. Many other folks from other parts of the company, especially the discovery team and the infrastructure teams, have provided very useful feedback and help along the way to make the ongoing project successful. Ningning Hu is an engineer at Pinterest.

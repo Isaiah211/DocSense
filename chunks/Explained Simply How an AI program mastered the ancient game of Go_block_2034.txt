@@ -1,0 +1,1 @@
+In the actual implementation of this research paper, they have indeed used the regular gradient descent. You can easily find a loss function that behaves opposite to the reward function such that minimising this loss will maximise the reward. The policy network has 13 layers, and is called “SL policy” network (SL = supervised learning).

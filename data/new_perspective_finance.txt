@@ -1,0 +1,637 @@
+BIS Papers No 7 13
+A new perspective to finance and competition and
+challenges for financial institutions in the internet era
+Lihui Lin, Xianjun Geng and Andrew Whinston1
+1. Introduction
+New information technology (IT), especially the internet, have revolutionised the finance industry with
+the rapid growth of electronic finance. E-finance activities include all types of financial activities carried
+out over the internet or other public networks, such as online banking, electronic trading, the provision
+and delivery of various financial products and services (for instance insurance, mortgage and
+brokerage), electronic money, electronic payment and communication of financial information.
+E-finance is a driving force that is changing the landscape of the finance industry fundamentally, in
+particular, towards a more competitive industry. E-finance has blurred the boundaries between
+different financial institutions, enabled new financial products and services, and made existing financial
+services available in different packages. But we think the influences of e-finance go far beyond this.
+The developments in e-finance, together with other financial innovations, are constantly bringing new
+challenges to finance theory and changing people’s understanding of the financial system.
+In this paper we suggest a new perspective on financial intermediation and markets. We discuss why
+and how this new framework of analysis may shed light on the understanding of finance in the age of
+the internet and IT revolution as well as help explain the financial innovations seen in the past few
+decades. We also examine competition issues and what strategies financial institutions should adopt.
+2. A new perspective on financial intermediation
+We propose a new perspective on financial intermediation in which both traditional intermediaries and
+financial markets can be examined in a unified approach. The present theory of financial
+intermediation based on the idea of the perfect market posits the role of intermediaries as one that
+alleviates market imperfections. Meanwhile, research on market microstructure, which studies closely
+how markets function and operate, illuminates the market mechanism. We think that the traditional
+distinction between the intermediaries and markets hampers finance theory in explaining the fast and
+constantly changing financial system.
+Financial markets, like all other markets, are created and operated by people and therefore are
+essentially firms. They are a special type of financial intermediary with higher transparency and
+efficiency. On the other hand, traditional financial intermediaries, by matching savers and borrowers,
+are also providing market-making services, though in a more opaque way.
+Embracing both traditional intermediaries and markets in one framework, this new perspective enables
+better understanding of the financial system and makes it possible to solve long-time puzzles in
+finance theory. Instead of patching and modifying a theory that is constantly challenged by new
+developments, this more integrated and consistent conceptual framework tends to explain well the
+revolution that is taking place in the finance industry.
+
+1
+ Lin (lhlin@eco.utexas.edu) works in the Economics Department and Geng (gengxj@mail.utexas.edu) and Whinston
+(abw@uts.cc.utexas.edu) in the Centre for Research in Electronic Commerce, all at the University of Texas at Austin.
+14 BIS Papers No 7
+2.1 Present financial intermediation theory and recent developments
+The theory of financial intermediation is based on the classic notion of the perfect market that
+originated with Adam Smith, was developed by Marshall and Walras and was formalised in the ArrowDebreu model of resource allocation. According to this theory, financial intermediation exists because
+of market frictions and imperfections and acts as a remedy to the market system.
+Researchers have studied the role of intermediation in alleviating different market frictions and
+imperfections. One body of literature focuses on transaction cost (see, for example, Gurley and Shaw
+(1960)), and another stresses the importance of asymmetric information between investors and
+borrowers (see Leland and Pyle (1977), Campbell and Kracaw (1980), Diamond (1984), Gale and
+Hellwig (1985), Boyd and Prescott (1986); for a comprehensive understanding, see Freixas and
+Rochet (1997) and for a brief summary, see Allen and Santomero (1998)).
+However, such a passive view on intermediation is obviously inadequate in explaining the reality of the
+finance industry, especially the dramatic growth, accelerated developments and extensive innovations
+in recent decades. Although the growth of financial markets and revolution in IT have reduced the
+transaction costs and alleviated information asymmetries, intermediaries survive, and in fact grow in
+overall size and importance to the economy. In response, some researchers seek to reconcile the
+differences between theory and reality and to view intermediaries as value-adding institutions.
+In a series of papers, Merton (1989, 1993, 1995) and Merton and Bodie (1993, 1995) propose a
+functional perspective of financial intermediation in contrast to the institutional perspective. From their
+perspective, the economic functions of financial intermediation are relatively stable and the institutional
+structure evolves in performing those functions. Merton (1995) describes a model of the dynamics of
+financial evolution in which intermediaries serve an important latent function of creating and testing
+new products before they are “seasoned” enough to be traded in a market. The interactions between
+financial intermediaries and markets reinforce and improve the performance of their functions and
+push the “financial system toward an idealised target of full efficiency” (Merton (1995)).
+In line with the functional perspective analysis, Allen and Santomero (1998) emphasise the role of
+intermediation in risk trading and participation costs. They argue that while their role in reducing
+market frictions decline, they play a crucial role in transferring and managing risk and in lowering
+participation costs for individuals.
+All these theories try to render some active roles played by financial intermediaries rather than a pure
+remedy to market imperfections. However, these theories, just as the traditional intermediation theory,
+have the perfect market as their benchmark. While financial intermediaries are studied closely and
+carefully, the financial markets are still viewed in an abstract way as frictionless and dynamically
+complete in the limit. Scholtens and van Wensveen (2000) suggest that financial intermediation theory
+leave its paradigm of static perfect markets, and envisage that in a modern theory, financial institutions
+should be viewed as independent market parties who create financial products and whose worth to
+their clients is the transformation of risk, term, scale, location, and liquidity.
+We think that to explore a new theory of financial intermediation, taking into account technology
+developments, it is not enough to look at only traditional intermediaries. Intermediaries should be
+viewed in the big picture of financial systems. In particular, we need to look at how financial markets
+work, the study of which is called market microstructure, the topic we discuss in the following
+subsection.
+2.2 The market microstructure literature and other contributions to understanding
+markets
+While economics usually treats markets as ideal and abstract, there are studies that focus on how
+markets are created and function, the most conspicuous being the market microstructure theory in
+finance. This literature puts market mechanisms under the microscope and analyses specific
+institutions of exchange and trading rules, especially their role in price formation; see O’Hara (1995).
+In earlier models of the price discovery process, dealers (or market makers) act as providers of
+liquidity and set prices in order to control inventory levels. Recent work in market microstructure
+focuses more on the impact of information on market prices, linking advances in the economics of
+information, rational expectations and imperfect competition. In these models, dealers change prices
+in response to information considerations; Madhavan (2000).
+BIS Papers No 7 15
+This information-based game-theoretic paradigm was first introduced in Glosten and Milgrom (1985)
+and Kyle (1985), and further developed by Easley and O’Hara (1987), Holden and Subrahmanyam
+(1992) and many others.
+In the Glosten and Milgrom (1985) model, there are two types of traders, informed and uninformed.
+Ignoring inventory and order processing costs, a rational market maker will quote bid and ask prices
+that are ex post regret-free. For example, the market maker’s bid price is the expected value of the
+security given that a sell order has arrived. By setting the bid and ask spread, the market maker earns
+zero expected profit by recouping profits from the uninformed traders to compensate for the loss to the
+informed. Thus, the bid-ask spread may exist even if the market maker has no costs, behaves
+competitively and is risk neutral.
+In addition to price formation, informational research in microstructure also covers various topics such
+as market structure and design, market transparency (the ability of market participants to observe
+information about the trading process), and informational issues in microstructure related to other
+areas including corporate finance, asset pricing, and international finance; Madhavan (2000).
+We think that the informed-uninformed paradigm in market microstructure literature does not take into
+account the role of information technology. Market microstructure research makes assumptions about
+the information structure of market participants. We argue that information structure is driven by the
+developments in IT and is decided based on technology and economic incentives. Dewan and
+Mendelson (1998) study time-based competition in imperfect securities markets, where traders make
+IT investments to gain faster access to information and thus earn higher trading profits.
+As well as the market microstructure literature, there are other studies that have shed considerable
+light on the market mechanism. Shiller (1993) pointed out that the market system is an invention, a
+system created by social thinkers who designed it with a purpose. We think that markets are not only
+social inventions but also inventions based on technology developments. As technologies keep
+reducing transaction costs, new markets are invented.
+Game theory provides powerful tools and techniques in analysing specific market mechanisms. In his
+book on two-sided matching markets, Roth (1990) presents not only game theoretical models, but also
+explains how the incentives that a market organisation gives to the participants impose constraints on
+the outcomes that the market may achieve.
+Finally, before we move on to the new perspective on intermediation, we would like to mention the
+inspiring work by Spulber (1999). He develops a theory in which firms, acting as intermediaries, create
+and run markets. It is path breaking in integrating both intermediation theory and microstructure
+theory, and in applying and extending them to a new area. Notably, his theory of firms emphasises
+that firms operate the market mechanism, most importantly by posting prices as well as providing
+other related services such as monitoring. He is critical of most economic analysis for
+overemphasising the idealised view of the market mechanism and downplaying the role of firms in
+market-making activities.
+2.3 The financial system analysed in terms of the new perspective
+With the background of literature on both intermediaries and markets, we now introduce a new
+perspective on financial intermediation, an integrated theory in which both traditional intermediaries
+and financial markets can be analysed with a unified approach. In order to fully understand the role of
+financial intermediation, it is necessary to break down the clear-cut distinction between financial
+intermediaries and financial markets and to study the financial system in one analytical framework.
+In essence, all financial institutions act as intermediaries between lenders and borrowers, either by
+purchasing and reselling with or without transformation (such as a bank taking deposits and
+transforming them into loans, or a stock specialist trading shares from her own account), or by
+matching orders (such as an auction market).
+First of all, financial institutions produce “matching” between market participants. Financial markets
+produce matching for standardised products. Traditional intermediaries deal with more customised
+products and services, thus more transformation is needed within the organisation before matching is
+achieved. As an analogy to other industries, financial markets act like retailers while the traditional
+intermediaries are more like manufactures and/or wholesalers.
+16 BIS Papers No 7
+This new perspective helps to understand the role of market making that financial institutions play. In
+general, because the market mechanism has been considered exogenous to the analysis, the value
+added by creating and operating markets has not been fully recognised. Thus the intermediation
+theory finds itself in an awkward position when trying to define value-adding activities carried out by
+intermediaries, while in market microstructure theory there is no theoretical foundation for profitable
+market making activities. We think it is time to pay due attention to the value of market making. By
+doing so, the value-adding functions performed by intermediaries become conspicuous.
+Such a perspective is actually crucial in understanding the finance industry in the internet era. The
+rapid developments in electronic finance have blurred the boundaries between commercial and
+investment banks, brokerage firms and trading platforms, traditional intermediaries and market
+intermediaries. Separate finance theories cannot explain this trend in the finance industry. With this
+integrated analytical framework, however, we see that the advances in technology have changed the
+production function in all financial institutions and these firms are differentiating their products and
+services as well as vertically integrating with each other.
+This new perspective also enables analyses of financial markets that were not possible under the
+idealised view about them. One of the open questions in the market microstructure literature is the
+“network externality puzzle”, referring to the fact that despite strong arguments for consolidation, many
+markets are fragmented; Madhavan (2000). From the new perspective, however, financial markets are
+operated as businesses and they compete with each other. Instead of discussing market
+fragmentation and social welfare, we now study how markets compete and what is the best achievable
+result. Instead of asking whether market consolidation is beneficial, we now study the empirical issue
+of whether there will be entry in the “market” for financial markets and what the equilibrium number of
+markets will be, in other words, we ask whether one global market will emerge.
+It may also shed light on the issue of liquidity. Both intermediation theory and microstructure theory
+study liquidity but in isolated approaches. Diamond and Dybvig (1983) develop a three-period model
+where banks can provide liquidity to customers with idiosyncratic inter-temporal preferences. In their
+model, banks are “coalitions of depositors” and have no financial resources other than deposits. In
+microstructure theory, it is well known that dealers provide liquidity to the markets by standing ready to
+trade from their own accounts with investors. In light of the latter, we think that banks can also provide
+liquidity with their own equity.
+We emphasise that in this unified theory of financial intermediation, the role of information is still
+crucial and the role of IT should be fully recognised. Information is crucial in the production process of
+financial services and IT investment is one of most important strategic decisions for all financial
+institutions. Financial institutions produce matching by setting prices (in particular bid-ask spreads). If
+an institution is more efficient than others in price discovery, it may achieve narrower spreads that
+attract more customers and may gain higher profits. To be efficient a firm has to invest in technology
+and the expected higher profits may justify the investment.
+Informational economics paradigms dominate in both the intermediation and microstructure literature.
+However, in both bodies of literature the fundamental assumption is that information is free and thus
+information asymmetry is a market imperfection. As a special case, price, the most important
+(aggregated) information in markets, is free.
+But if information is totally free, firms’ incentives to invest in IT will disappear because of the free-riding
+problem. So we argue that information asymmetry is not a market imperfection, but a competitive
+advantage in production. As an example of information free riding, electronic crossing systems make
+profit by being a parasite of real exchanges such as NYSE, that is, they use the prices on these
+exchanges for free. As another example, on POSIT and Instinet, traders engage in off-market
+negotiation, using market price as a reference. Economists have made comparisons between
+negotiation and the market mechanism. However, the two mechanisms are not fully comparable in the
+sense that the price discovery function of the market provides the negotiators with valuable
+information. The information free-riding problem can be so serious as to undermine the market
+mechanism. As more traders directly negotiate with each other and fewer use the market intermediary,
+the prices in the market are less revealing and informative, driving the spreads higher and perhaps
+leading to a collapse.
+BIS Papers No 7 17
+3. Competition issues for financial institutions in the internet era
+When we view all financial institutions as intermediaries, or more generally as firms, the question of
+which competition strategy to choose is central for each institution. Financial intermediaries and
+markets are deploying e-finance to compete with each other fiercer than ever before.
+Traditionally, financial institutions have different geographic locations and physical branch networks
+that “naturally” differentiate them from each other. The competition between these firms can be
+characterised by a Hotelling location model. However, the internet is changing the fundamental
+business environment. As the internet is potentially accessible by everyone, a financial institution can
+no longer dominate a local or regional market simply by its physical presence. Financial institutions
+must find their particular competitive edge beyond sheer location and physical branches.
+The internet and new information technologies have lowered the barrier of entering the finance
+industry by reducing the initial investment and the transaction costs tremendously. Both incumbents
+and new entrants find themselves offering essentially the same products and services and thus often
+involve in Bertrand competition, or price wars, in order to gain bigger market share. For example, the
+average brokerage commissions charged by top-10 online brokers dropped from $53 at the beginning
+of 1996 to $16 in mid-1998, according to Credit Suisse First Boston (1998).
+Because of the strong network externality in financial services, each firm is trying to enlarge its
+customer base, many by mergers and acquisitions, either horizontally or vertically. Another trend in the
+financial sector, which we think will prevail in the future, is differentiation in products and services.
+In the following sections we discuss some competition issues in e-finance activities. Sato, Hawkins
+and Berentsen (2001) present a conceptual structure for e-finance that consists of six levels: online
+products, intermediaries, exchanges and trading systems, clearing and settlement systems, legal and
+regulatory frameworks, and a communication platform. We discuss some of these activities with the
+integrated analytical framework and the theme of competition strategies for financial institutions in the
+internet age.
+3.1 Bricks-and-mortar banks versus virtual banks
+Most researchers and practitioners believe that disintermediation is unlikely to occur and financial
+intermediation is still essential in the age of the internet; Sato, Hawkins and Berentsen (2001), Beck
+(2001).
+The most important pro-competition feature of the internet is the reduction of fixed costs and
+transaction costs and this allows new competitors into the banking system. However, the two major
+entry barriers for virtual banks are reputation (both as an agent for the lenders and as the monitor to
+the borrowers), and large funds to pool risks. At first glance there is no way for an entrant to overcome
+these barriers and be able to compete with those long-established and well-trusted traditional banks.
+But researchers have noticed that large firms with a high reputation among customers and an existing
+large customer base may be potential entrants. In fact, Sony just opened up an online banking branch,
+which will focus on individual customers in a bid to attract one trillion yen ($9.3 billion) in deposits
+within five years.
+Besides established large firms, these entry barriers can also be overcome by large initial investment.
+With large funding, virtual banks can gradually build up their customer base and reputation. Because
+of the significant operating cost reduction, virtual banks can offer much more attractive rates to their
+customers. Since most financial services offered by banks are standardised, it is not impossible that
+virtual banks can build a customer base large enough to be viable. The equity of these banks will help
+them provide liquidity to their customers.
+We are not saying that pure-play virtual intermediaries are the future of the finance industry. While
+such businesses may emerge and survive, the more successful strategies for financial institutions in
+the internet age will depend on how they can find competitive edges over others in fully utilising the
+existing systems and endless new opportunities the technologies have brought. Not only electronic
+banks should differentiate themselves from brick-and-mortar banks, each bank should demonstrate
+convincingly how its operations, products and services are creating value for customers that others
+cannot provide.
+18 BIS Papers No 7
+3.2 Electronic stock markets: exchanges and trading systems
+Securities markets used to be geographically segmented before the advent of the internet irrevocably
+overhauled the landscape of the finance industry, including securities trading business. Theoretically,
+the internet has made the notion of a single global securities market possible. In reality, however,
+innovations in network technology have led to a boom in the business of developing electronic trading
+systems; see Allen, Hawkins and Sato (this volume) and Fan et al (2001). Various types of electronic
+trading systems, such as electronic communications networks (ECNs) and crossing networks, have
+been developed, competing with well-established exchanges. In 2000, ECNs accounted for 30% of the
+total share volume in Nasdaq stocks and around 3% of exchange-listed stocks, compared to the
+figures of 13% and 1.4%, respectively, in 1993. On the other hand, existing markets around the world
+are involved in the process of implementing electronic order books that consolidate orders submitted
+by traders in that particular market.
+In light of the integrated view of financial institutions, we consider such phenomena as fundamental
+changes in the industrial organisation of the industry. Entry becomes profitable with the tremendous
+decrease in the fixed and marginal costs of building a securities market. More importantly, financial
+markets can no longer operate as local monopolies2
+ because the internet has broken down the
+geographic boundaries.
+Next we discuss issues concerning competition between financial markets, especially those brought
+up by the proliferation of electronic trading systems.
+3.3 The impact of ECNs
+One widely recognised fact is that due to the competition from ECNs, prices on exchanges such as
+Nasdaq have become tighter, ie the bid-ask spreads have narrowed. ECNs have also affected market
+operations by improving the flow of information through open order books. However, there is also a
+serious concern that ECNs may exacerbate the market fragmentation and the inefficiency of multiple
+trading systems. Though technologies are getting fancier, life for the traders is not made easier.
+Actually, it is very costly to switch from one trading system to another due to the lack of
+standardisation among different systems, which causes inefficiency.
+ECNs such as Instinet have also blurred the distinction between brokers, market makers, and even
+markets. For example, Instinet operates a trading desk that is the functional equivalent of a closed
+order book. Although this often means routing orders to other systems, Instinet can attract more order
+flow to the trading service. Instinet is a member of all US regional exchanges, the AMEX, the London,
+Paris, Toronto, Zurich, Hong Kong, Frankfurt, Stockholm and Bermuda stock exchanges, the CBOE,
+and the European Options Exchange, which gives its customers access to all the securities listed on
+these exchanges. Instinet is also a part owner (9.9%) of a NYSE floor brokerage unit through its
+ownership of Lynch Jones & Ryan, a private New York company that specialises in institutional trading
+and research; Fan et al (2001).
+The main reason for investors, especially institutional investors, to use ECNs is that they protect
+“privacy” because of their anonymity and thus enable traders to transact large volumes without
+affecting market prices significantly. This in effect conceals their identity to the market makers and
+causes the information to be revealed more slowly.
+3.4 Monopoly or oligopoly - competition view on market consolidation and fragmentation
+As geographical constraints are becoming less a problem, the network externality effect makes market
+consolidation an attractive choice for security exchanges in terms of liquidity. However in practice we
+have not seen a wave of stock exchange mergers in recent years. Until now, there has been little
+theoretical analysis of this “network puzzle” (Madhavan 2000). We suggest that instead of a normative
+view on market consolidation/fragmentation, we should adopt a positive view in which markets are
+
+2
+ For financial markets, a “local market” can refer to larger geographic regions than in the case of other industries and
+sometimes can even mean a national market.
+BIS Papers No 7 19
+treated as profit-making businesses competing with each other. Next we will discuss possible
+explanations of the network puzzle with this approach.
+One possible reason is that due to the limitations of technologies, the geographical factor is still
+important and a local monopoly is still possible. Timely data transmission across a large geographical
+region over the internet is still technically difficult giving the uncertain cyber-traffic. Moreover, as
+discussed later, the high security requirements for financial data worsen this technical difficulty as
+security and timely transmission are often at odds with each other.
+Another possible reason is the lowered entry cost if we view stock exchanges as profit-making
+businesses. While the advances in IT have made market consolidation - the extreme being a single
+global securities market - possible, the technologies also make it financially attractive to establish
+electronic exchanges, and as a result the markets are more fragmented.
+A third possible reason is that markets may differentiate from each other by different trading
+mechanisms that may fit different demands. Generally speaking, continuous markets can better serve
+time-critical orders than call markets, albeit normally at a higher cost. As an example, Hendershott and
+Mendelson (2000) show that less patient traders will go to dealer markets for instant execution, while
+more patient traders will first try crossing networks for a possibly better price. Stock exchanges with
+different mechanisms are differentiated from each other such that no competition can lead to
+consolidation. Gode and Sunder (1999) discuss a specific technical problem in electronic markets: the
+time lag problem for geographically distributed agents. They think that a call market instead of a
+continuous market may solve this problem.
+A fourth possible reason is the asymmetric information view. As shown in rational expectation
+equilibrium theory, an informed trader cannot avoid sending information to the market if he wants to
+reap information rent, thus alleviating the information asymmetry. This creates conflicts among
+informed traders, as latecomers will suffer from the information leakage, and propels them to different
+exchanges.
+3.5 Electronic market with the provision of liquidity: electronic dealers?
+In dealer markets, dealers provide liquidity to the market. Madhavan (2000) refers to a “dealers’
+puzzle” - although a continuous market can be accomplished by automated systems without human
+intervention, most markets still operate with market makers as intermediaries.
+Considering the dealers as profit-making and competing intermediaries may help solve the puzzle and
+further understand the value of liquidity provision. In the context of optimisation, Guo et al (2001) show
+that providing liquidity may solve an optimisation problem that otherwise will not converge.
+Currently, in automated trading systems, limit orders are matched automatically and there is no
+liquidity provider. However, it is technologically feasible to implement an automated trading system in
+which the system can provide liquidity. That is, the system may be the other side of a transaction and
+thus carry inventory. As long as it is profitable to build in such functionality in the trading systems,
+there is no reason that the companies operating the exchanges will not implement it in the future. To
+implement such a system, another problem to be solved is the “trading rule” for this automated system
+(the algorithm).
+A theoretical breakthrough in understanding the dealers’ role in providing liquidity may lead to the
+development of automated trading systems with an embedded “electronic dealer”. However, it is also
+possible that such systems emerge in practice, introducing new challenges and opportunities for the
+study of liquidity issues in finance theory.
+3.6 Developments in the electronic bond market
+The recent developments of electronic bond trading systems best demonstrate how IT may change
+the landscape of markets and why markets should be viewed as profit-making businesses.
+Traditionally, most of the dealers and brokers in the bond market executed trades by telephone and
+fax. For example, the secondary market for U.S. treasury securities is largely an over-the-counter
+market, but unlike Nasdaq, the highly automated OTC market for stocks, trading in the treasury market
+is highly people-intensive; Fan et al (2001).
+20 BIS Papers No 7
+But major changes have taken place since the last decade. Electronic information dissemination
+systems such as GovPx and FIPS (Fixed-Income Pricing System) were introduced in early 1990s.
+Some companies, especially investment banks, have opened their single dealer system for bond
+trading. For example, Credit Suisse First Boston’s GovTrade system started in 1992 and investors can
+access quote information and trade bonds such as treasury securities, repos and commercial paper
+through Bloomberg’s terminals. Other examples include Autobahn by Deutsche Bank, LMS by Merrill
+Lynch, Fixed Income Securities. Recently, some electronic bond trading systems with multiple dealers
+have been launched. The competition between multiple dealers usually leads to narrower bid-ask
+spread and better prices for investors.
+It is interesting that as the bond market progresses in adopting IT, rather than seeing a single, growing
+electronic bond market, many companies are developing their own electronic bond exchanges and
+these systems are competing with each other.
+First, it is profitable for these companies to operate an electronic market. The advances in technology
+have significantly reduced the fixed and marginal costs and make such a business profitable. And
+without other restrictions, entry to the industry will continue until the profit equals the opportunity cost
+and the equilibrium is reached.
+Secondly, as competition gets keener, firms will seek to differentiate to maintain their profit level. Such
+strategies are often backed up by investment in technology such that the firms can introduce new
+products and services that others cannot or can only provide at higher costs. By offering different
+services and expanding scopes of products, bond-trading systems enhance their competitive
+advantages and gain higher market share and profits. For example, multiple-dealer bond trading
+systems developed after the proliferation of single dealer systems. The competition among multipledealer systems is also highly intensive. TradeWeb started in the first quarter of 1998 and offers realtime trading for US securities. A similar system, Chicago Board of Brokerage’s MarketPower opened
+in July 1998. Bloomberg BondTrader, a component of the Bloomberg Electronic Trading System
+operational since March 1999, allows clients of participating dealers to execute orders and to make
+price inquiries for US Treasury bills, notes and bonds on a regular, skip-day, corporate and whenissued basis. During the fourth quarter of 2000, BondTrader was expanded to include the buying and
+selling of global non-dollar sovereign issues and US agencies on the same platform. State Street’s
+Bond Connect, a complete fixed income electronic marketplace opened in June 2000 and significantly
+augmented its system in January 2001 with features such as “Indication Of Interest” that can focus
+market attention on particular securities and thereby release latent liquidity.
+Innovations in trading mechanisms can also be deployed as competitive strategies. Fan et al (2000)
+develop a theoretical model of an electronic continuous bond trading mechanism. The special feature
+of this model is that it allows bundle matching in addition to single asset auction. In practice, one
+example of innovation is that Bond Connect implements a call market in three sets of auction
+sessions, with the first session of each set designed as the primary auction for aggregating liquidity,
+and later sessions to allow adjustments.
+3.7 E-finance-enabled design of financial organisations and mechanisms
+The advances in IT have not only reduced transaction costs, but are also changing the way financial
+products and services are provided. Innovation in organisation and mechanism may be the key for
+financial institutions to provide value-added products and services and differentiate themselves.
+In particular, developments in electronic commerce have enabled more customised services to
+customers and “customisation” may be one of the most important competition strategies that financial
+institutions will adopt in the foreseeable future. Saatcioglu et al (2001) introduce a new business
+model, a “financial portal” that develops proprietary indices that focus on individual and small-business
+customer needs, as well as corresponding financial instruments based on these indices, and a bundle
+trading mechanism that helps establish and rebalance portfolios as needed. It provides customers with
+customised investment services, while not requiring the knowledge and resources for investing in
+individual securities, is more tailored to specific needs than mutual funds or index-tracking stocks, and
+is much more affordable, and maybe more comfortable, than hiring financial consultants for investment
+advice. Such a business model would not be feasible without the internet that can be accessed by
+anyone from anywhere or the computing power that can support an automated bundle trading system;
+Fan et al (1999).
+BIS Papers No 7 21
+Gu et al (2001) develop a new model for the OTC derivatives market. Based on Merton’s (1992)
+theory on the replication of derivatives by a set of risky assets (other than the underlying asset) plus a
+risk-free asset, financial intermediaries can transform option orders into common format replicating
+portfolios, and match these orders in terms of replicating portfolios in a bundle-trading market. Thus by
+hedging and rebalancing the risks in terms of the replicating portfolios instead of a specific derivative,
+the aggregation and netting of portfolios, in particular the cancellations between orders on the same
+assets, will result in significant reduction in transaction costs. In essence, financial intermediaries can
+provide customised options at lower prices by developing replicating portfolios and an internal bundletrading system.
+3.8 Electronic money
+As with all new terms related to the internet, e-money refers to various items in different contexts. But
+most people regard the two major forms of e-money as the smart or stored value card (SVC), and
+network money or so-called cybermoney. A smartcard is a physical card with an embedded computer
+chip or magnetic stripe that stores the owner’s value, while network money is stored in pure electronic
+form as 0’s and 1’s in computers and can be transferred over telecommunication networks such as the
+internet. Moreover, a hybrid of the two forms can be developed and users may further switch between
+e-money and conventional deposits or even other payment media. A number of e-money schemes
+have been developed but most are still in the fledgling stage.
+Many researchers have studied the prospects of electronic money while others have examined the
+policy implications. We think that the proliferation or failure of e-money depends not only on the
+customer acceptance (though crucial), but also on the firms’ incentives to develop and promote this
+new scheme.
+Firstly, the issuer of e-money commits to provide specified quantities of goods at any future time,
+which can be either instantaneous or far into the future. As a special type of debt, e-money can be
+used as a source of financing, especially for operation. The influence of e-money on corporate finance
+opens a new field both in theory and practice.
+Second, companies may use the issuing of e-money as a competition strategy. The development of emoney involves strong network effects, just as in computer operating systems, telephone networks
+and ATM cards, which means that the more people are using it, the better off are all the current users
+in the network. As it gains popularity, e-money will become more liquid, transferable, convenient and
+less risky. With the growth in e-commerce, we project that e-money issued by one or more companies
+may gain higher acceptance than others and circulate well in the cyberspace. By issuing and
+promoting its own e-money, a company can gain market share, negotiation power over suppliers as
+well as earn more profits.
+4. The challenges of public networks for e-finance activities
+It is not surprising that once the internet is utilised, financial institutions have to face its problems.
+Communications over the internet are insecure and often congested. Next we will discuss the
+challenges that financial institutions face in e-finance over the internet, including security, quality of
+service and some aberrations in e-finance.
+4.1 The heavily armed e-finance intermediaries
+Financial intermediaries are among the most careful businesses in using the internet. One piece of
+evidence is that there has been no publicised security break-in for e-financial services, compared with
+dozens of reported accidents for online retailers. Technologically speaking, timely software patching
+and a real-time censoring mechanism almost suffice to prevent any possible system break-ins.
+Financial institutions are not hesitating to invest in these technological solutions, given the possible
+disastrous results if such a security investment is not made.
+Although direct system break-ins or information interception/manipulation are always possible, such a
+possibility is fading away as e-business software is becoming more fault-tolerating and computer
+security teams are becoming more experienced. Practically speaking, heavily armed e-financial
+22 BIS Papers No 7
+intermediaries can effectively prevent all attempts to tear down their security walls, except for
+Distributed Denial-of-Service (DDoS) attacks.
+4.2 The dangerous distributed denial-of-service attack
+What if attackers do not try to break-in, but simply block the entrance so that consumers cannot visit
+the e-finance provider? Attackers can circumvent security no matter how heavy is the protection by
+using this method. This is exactly what happened to E*Trade in February 2000, and it was offline for
+hours. The attacking technology used then is called the DDoS attack. Two years after its first
+appearance in 1999, the internet community still has no effective way to deal with the DDoS attack.
+They are dangerous to all e-businesses, but especially dangerous to e-financial institutions as they are
+often more time-sensitive than other industries. Securities trading is a good example. A stock trader is
+likely to be dissatisfied with an e-brokerage if she misses a good trading chance simply because she
+cannot login to the e-brokerage’s website.
+The lack of an economically sound pricing structure exposes the internet to DDoS attacks. As long as
+flat monthly fees are the dominant form of pricing, meaning that the marginal cost of sending out traffic
+is zero, organisations have little incentive to protect their traffic and so DDoS attacks cannot be
+effectively prevented; (Geng and Whinston 2000). Unfortunately, such events are still likely to happen
+in near future as it is repeatedly reported that more sophisticated DDoS attack tools are proliferating
+on the internet, while at the same time there is no strong signal that the troublesome flat rate pricing
+scheme will be modified.
+4.3 Virtual private networks and service level agreements
+In the business-to-business realm, more and more financial institutions are setting up Virtual Private
+Networks3
+ (VPNs) over the internet to cut costs for intra-organisational transactions. They may choose
+VPNs over leased lines to connect remote offices and users to cut costs significantly. Instead of
+investing in the infrastructure themselves, they can drastically reduce their capital and operational
+costs by outsourcing their network services to service providers who offer a robust VPN service and
+therefore can focus on their core business in financial services.
+One of the critical technology components of a VPN is security and in no other industry is security
+more prominent. The most important technologies for the security component of a VPN include access
+control to ensure the security of network connections, encryption to protect the privacy of data and
+authentication to verify the user’s identity as well as the integrity of the data.
+Another component critical in implementing a VPN is traffic management to guarantee reliability,
+quality of service and high-speed performance. The internet backbone is congested, and critical
+business applications running on the internet have to be prioritised and reliably delivered.
+Because of these technology challenges of VPN, it is crucial for financial institutions to negotiate
+carefully the Service Level Agreement (SLA) with their VPN service provider. An SLA is a contract
+between the service provider and receiver that defines the services and service levels and also
+specifies the guarantees. In order to give the service provider the proper incentive to provide secure
+and high quality VPN service, there has to be penalty for non-compliance and the penalty should be
+decided according to the loss of the financial institutions in the case of failure (Lin and Whinston
+2001).
+4.4 Shill bidding
+Developments in e-finance have brought up new challenges to financial intermediaries and markets.
+Aberrations such as shill bidding may occur. Shill bidding was first recognised by online auction
+
+3
+ A VPN is a private data network that makes use of public networks, maintaining the security of a private network through
+tunnelling protocols and security procedures such as access control and encryption. VPNs provide companies with the
+same capabilities at much lower cost by taking advantage of the economies of scale and management facilities of large
+public networks. Companies may use a private virtual network for both extranet and wide-area intranet.
+BIS Papers No 7 23
+houses (eg eBay) as the deliberate placing of bids to artificially raise the price of an item.4
+ Similar
+activities may also undermine financial markets that use auction or any variation of auction
+mechanism.
+For example, there are also frauds that resemble shill-bidding behaviour in the IPO market; Bloomberg
+(2001). In the IPO market the company pays institutions for bidding up the prices to mislead the public
+into believing the new stock is worth more than its true value.
+Many financial markets are essentially common-value double-auction markets and as more
+transactions are made over the public network, inadequacy in authentication and other security
+measures may lead to illegal transactions. Wang et al (2001) study the shill bidding issues in the
+context of online auctions and propose that auctioneers can properly design a fee structure to prevent
+shill bidding. Financial markets may also design such mechanisms to deter illegal buying and selling of
+securities by “shills” of the insiders.
+4.5 Payment for order flow
+Weinberg and Kruger (2000) have pointed out that exchanges now pay brokerage firms for funnelling
+orders to the exchanges.5
+ This illustrates that financial markets, now fiercely competing with each
+other, are using any business strategy available. With the rapid growth in online brokerage firms and
+trading platforms, financial markets, in trying to make profits, are paying for the order flow. Such
+practices obviously will hurt the customers of the brokerage firms since their orders may be routed to
+the best paying exchanges instead to those with best prices.
+5. Conclusions
+We think that both financial intermediaries and financial markets can be viewed as firms producing
+financial products and services. With this new perspective, we can better understand the new
+developments in the finance industry in the internet era. In particular, it helps to explain the
+proliferation of electronic financial institutions such as virtual banks, automated trading systems and
+electronic debt markets.
+It also sheds light on the industrial organisational structure of the finance sector and the competitive
+strategies of financial organisations. With the development of IT and the internet, financial institutions
+have to find competitive edges beyond location and physical network. Differentiation of financial
+products and services is crucial for business success and proprietary development of new services by
+utilising IT will be the key.
+The internet also presents challenges to financial institutions trying to fully utilise this public
+infrastructure. Security and quality concerns should be well addressed and Service Level Agreements
+can be a contracting tool for financial institutions to ensure proper performance from their service
+providers while concentrating on the core business of finance services.
+
+4
+ To avoid the appearance of being involved in this activity, online auction sites often require that family members and
+individuals living together, working together or sharing a computer, should not bid on each other's items.
+http://pages.ebay.com/help/community/shillBidding.html
+5
+ They say “Knight Securities, one of Nasdaq’s largest market makers, spent $134 million through the third quarter paying
+other firms to let it handle their orders. … the nation’s five options exchanges hoped to avoid the flow payment system, but
+relented and embraced it. … The Chicago Board Options Exchange launched its own payment programme in July. The
+Amex, Philadelphia and Pacific exchanges quickly followed, offering 40 cents to $1 per option contract. … (As Edward
+Provost, CBOE’s business development chief, put it) “Standing on principles sounds good, but since regulators have not
+prohibited a practice that was eroding our market share, it would have made a lousy business decision” to forgo paying for
+orders.”
+24 BIS Papers No 7
+References
+Allen, F and A Santomero (1998): “The theory of financial intermediation”, Journal of Banking and
+Finance, vol 2, pp 1461-85.
+Beck, H (2001): “Banking is essential, banks are not. The future of financial intermediation in the age
+of the internet”, Netnomics, vol 3, pp 2-22.
+Bloomberg (2001): “Three tech firms accused of IPO fraud”, http://news.cnet.com/news/0-1007-200-
+5700881.html, 23 April.
+Boyd, J and E Prescott (1986): “Financial intermediary coalitions”, Journal of Economic Theory, vol 38,
+pp 211-32.
+Campbell, T and W Kracaw (1980): “Information production, market signalling, and the theory of
+financial intermediation”, Journal of Finance, vol 35, pp 863-82.
+Credit Suisse First Boston (1998): Research Report, November.
+Dewan, S and H Mendelson (1998): “Information technology and time-based competition in financial
+markets”, Management Science, vol 44, no 5, May, pp 595-609.
+Diamond, D and P Dybvig (1983): “Bank runs, deposit insurance and liquidity”, Journal of Political
+Economy, vol 91, pp 401-19.
+Diamond, D (1984): “Financial intermediation and delegated monitoring”, Review of Economic Studies,
+vol 51, pp 393-414.
+Easley, D and M O’Hara (1987): “Price, trade size, and information in securities markets”, Journal of
+Financial Economics, vol 19, pp 69-90.
+Fan, M, S Srinivansan, J Stallaert and A Whinston (2001): Electronic Commerce and the Revolution in
+Financial Markets, Harcourt.
+Fan, M, J Stallaert and A Whinston (1999): “A web-based financial trading system”, IEEE Computer,
+April, pp 64-70.
+Fan, M, J Stallaert, and A Whinston (2000): “Designing electronic market institutions for bond trading”,
+in Melnick, E (Ed), Creating Value in Financial Services: Strategies, Operations, and Technologies,
+Kluwer Academic Publishers, Boston.
+Freixas, X and Rochet, J-C (1997): Microeconomics of Banking, MIT Press.
+Gale, D and M Hellwig (1985): “Incentive-compatible debt contracts: The one-period problem”, Review
+of Economic Studies, vol 52, pp 647-64.
+Geng, X and A Whinston (2000): “Defeating distributed denial-of-service attacks”, IEEE IT
+Professional, July-August pp 36-41.
+Glosten, L and P Milgrom (1985): “Bid, ask, and transaction prices in a specialist market with
+heterogeneously informed traders”, Journal of Financial Economics, vol 14, no 1, March, pp 71-100.
+Gode, D and S Sunder (2001): “Designing electronic markets: on the impossibility of equitable
+continuously-clearing mechanisms with geographically distributed agents”, working paper, Feb.
+Gu, S, J Stallaert and A Whinston (2001): “Exchange market model for over-the-counter equity
+derivatives trading”, working paper, June.
+Guo, Z, G Koehler and A Whinston (2001): “ Market-based optimisation algorithms for distributed
+systems”, working paper.
+Gurley, J and E Shaw (1960): Money in a Theory of Finance, Brookings Institution, Washington, DC.
+Hendershott, T and H Mendelson (2000): “Crossing networks and dealer markets: competition and
+performance”, Journal of Finance, vol 55, no 5, October, pp 2071-2115.
+Holden, C and A Subrahmanyam (1992): “Long-lived private information and imperfect competition”,
+Journal of Finance, vol 47,pp 247-70.
+Kyle, A (1985): “Continuous auctions and insider trading”, Econometrica, vol 53, pp 1315-35.
+BIS Papers No 7 25
+Leland, H and D Pyle (1977): “Informational asymmetries, financial structure and financial
+intermediation”, Journal of Finance, vol 32, pp 371-87.
+Lin, L and A Whinston (2001): “Service level agreement and hedging of risks for service providers”,
+working paper, Centre for Research in Electronic Commerce, University of Texas at Austin.
+Madhavan, A (2000): “Market microstructure: a survey”, Journal of Financial Markets, vol 3, pp 205-58.
+Merton, R (1989): “On the application of the continuous-time theory of finance to financial
+intermediation and insurance”, Geneva Papers on Risk and Insurance Theory, vol 14, pp 225-61.
+——— (1992): Continuous-time Finance, Blackwell Publishers.
+——— (1993): “Operation and regulation in financial intermediation: a functional perspective”, in:
+P England (ed.), Operation and Regulation of Financial Markets, The Economic Council, Stockholm.
+——— (1995): “A functional perspective of financial intermediation”, Financial Management, vol 24, no
+2, Summer, pp 23-41.
+Merton, R and Z Bodie (1993): “Deposit insurance reform, a functional approach”, in A Meltzer and C
+Plosser, (eds), Carnegie-Rochester Conference Series on Public Policy, vol 38, June.
+——— (1995): “A framework for analysing the financial system”, in Crane et al, (eds) The Global
+Financial System: A Functional Perspective, Harvard Business School Press, Boston.
+O’Hara, M (1995): Market Microstructure Theory, Blackwell Publishers.
+Roth, A (1990): Two-sided matching: a study in game-theoretic modeling and analysis, Cambridge
+(England).
+Saatcioglu, K, J Stallaert and A Whinston (2001): “Design of a financial portal”, Communications of the
+ACM, vol 44, no 6, June.
+Sato, S, J Hawkins and A Berentsen (2001): “E-finance: recent developments and policy implications”,
+forthcoming in Tracking a Transformation: E-commerce and the Terms of Competition in Industries,
+Brookings Institution.
+Scholtens, B and D van Wensveen (2000): “A critique on the theory of financial intermediation”,
+Journal of Banking and Finance, vol 24, pp1243-51.
+Shiller, R (1993): Macro Markets: Creating Institutions for Managing Society’s Largest Economic
+Risks, Clarendon Press.
+Spulber, D (1999): Market Microstructure: Intermediaries and the Theory of the Firm, Cambridge
+University Press.
+Wang, W, Z Hidvegi and A Whinston (2001): “Shill bidding in English auctions”, working paper, April.
+Weinberg, N and D Kruger (2000): “Death by a thousand trades”, Forbes, 11 December, pp 262-72. 

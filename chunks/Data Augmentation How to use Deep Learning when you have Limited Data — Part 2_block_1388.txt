@@ -1,0 +1,1 @@
+Hence, when you do these transformations, you get a black region where the image is not defined. But is that the right assumption? In the real world scenario, it’s mostly a no.

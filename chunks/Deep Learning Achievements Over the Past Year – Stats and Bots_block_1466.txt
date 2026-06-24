@@ -1,0 +1,2 @@
+Eventually, as befits the auto-encoder, the model received a latent vector that characterizes the original picture. Whereas the decoder can extract a drawing from this vector, you can change it and get new sketches. And even perform vector arithmetic to create a catpig:
+One of the hottest topics in Deep Learning is Generative Adversarial Networks (GANs).

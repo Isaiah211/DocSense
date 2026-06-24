@@ -1,0 +1,2 @@
+This is essentially using the flowers method described in TensorFlow for Poets, applied to video frames. To retrain the final layer of the CNN on our new data, we checkout the r0.11 tag from the TensorFlow repo and run the following command:
+Retraining the final layer of the network on this data takes about 30 minutes on my laptop with a GeForce GTX 960m GPU. At the completion of 4,000 training steps, our model reports an incredible 98.8% accuracy on the held out validation set!

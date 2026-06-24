@@ -1,0 +1,1 @@
+To understand it better, think about the following. Suppose you are creating a binary classifier. Something which should say a “yes” or “no” ( activate or not activate ).

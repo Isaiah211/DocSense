@@ -1,0 +1,1 @@
+The huge green bubble is one of my co-founder (which sends way too many emails!), as is the red bubble. The other fairly large ones are other people in my team that I work closely with. But what’s interesting is that we can also see who in my network works together, as they will tend to be included together in emails threads and thus form clusters in this graph.

@@ -1,0 +1,1 @@
+And why did you bold the word layers earlier? Layers are just sets of neurons. We have an input layer which is the data we provide to the ANN.

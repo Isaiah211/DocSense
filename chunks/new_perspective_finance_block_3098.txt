@@ -1,0 +1,5 @@
+treasury securities is largely an over-the-counter
+market, but unlike Nasdaq, the highly automated OTC market for stocks, trading in the treasury market
+is highly people-intensive; Fan et al (2001). 20 BIS Papers No 7
+But major changes have taken place since the last decade. Electronic information dissemination
+systems such as GovPx and FIPS (Fixed-Income Pricing System) were introduced in early 1990s.

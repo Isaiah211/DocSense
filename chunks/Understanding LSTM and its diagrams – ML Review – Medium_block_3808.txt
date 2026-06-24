@@ -1,0 +1,1 @@
+There are many examples of such a situation, such as the stock market. To make a good investment judgement, we have to at least look at the stock data from a time window. The naive way to let neural network accept a time series data is connecting several neural networks together.

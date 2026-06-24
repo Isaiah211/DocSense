@@ -1,0 +1,1 @@
+The service makes no decisions about order, instead it adds the Pins in exactly the order given by the chunk. Because it has a fairly low rate of reading and writing, the materialized feed is likely to suffer from fewer availability events. In addition, feeds can be trimmed to restrict them to a maximum size.

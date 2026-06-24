@@ -1,0 +1,2 @@
+An input with a large positive weight or a large negative weight, will have a strong effect on the neuron’s output. Before we start, we set each weight to a random number. Then we begin the training process:
+Eventually the weights of the neuron will reach an optimum for the training set.

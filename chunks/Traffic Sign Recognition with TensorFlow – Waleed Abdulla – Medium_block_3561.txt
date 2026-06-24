@@ -1,0 +1,1 @@
+If you’re not familiar with it, there is a really good explanation here and here. Cross-entropy is a measure of difference between two vectors of probabilities. So we need to convert labels and the logits to probability vectors.

@@ -1,0 +1,1 @@
+This involves placing X and O markers in a grid to try to form squares of different sizes. Larger squares score more points than smaller squares and the player with the most points when the grid is full wins. If you switch the Connect4 game.py file for the Metasquares game.py file, the same algorithm will learn how to play Metasquares instead.

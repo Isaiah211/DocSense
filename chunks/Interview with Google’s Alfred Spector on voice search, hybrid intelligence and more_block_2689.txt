@@ -1,0 +1,1 @@
+“But we also continue to focus on quality because almost always the translations are valuable but imperfect. Sometimes it comes from training our translation system over more raw data, so we have, say, EU documents in English and French and can compare them and learn rules for translation. The other approach is to bring more knowledge into translation.

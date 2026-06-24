@@ -1,0 +1,20 @@
+Title: Announcing Poncho the WeatherBot – Render-from-betaworks
+Author: James Cooper
+----------------------------------------
+
+You can now get personal weather forecasts in Slack.
+UPDATE: Since publishing this piece in November 2015 the Poncho Weather Messenger bot launched on stage at the Facebook conference and is now the most popular bot on Facebook. If you are new to bots this is a great place to start. Try it out, here. You’ll like it.
+Poncho is a personalized weather service from the coolest of cats. Who needs boring and meaningless data when you can get personalized forecasts with gifs and text that will make you smile - whatever the weather.
+Vanity Fair said, ‘It’s like being pals with the Weatherman’. Which is true, if your weatherman was super cool.
+Up until now we have been a text and email service. You get texts or emails in the morning and evenings. You can sign up for that right here.
+But we know that people want more Poncho. You guys want Poncho on call. With new Slack integration, we’ve got you covered.
+If you are using Slack for your messaging needs (and if not, why not?) we have some uh-maze-ing news for you. That’s right — you can summon up your very own forecast from Poncho in Slack. We are joining others like Lyft and Foursquare as Slack officially launches Slash Command today.
+OK, first up let me tell you how it works. You simply type in ‘/poncho’ and your zipcode into Slack and then BOOM: the next thing you’ll see is your very own forecast for that zipcode, resplendent with text and gifs and everything.
+So for example in the video I typed in ‘/poncho 11217’ and I got a forecast for my zipcode in Brooklyn. It was Halloween so the theme was ‘The Shining’ which is why the forecast was Weather spelt backwards and the gif was the scary kid from the film. If you are new to Poncho you’ll soon figure out that half the fun is deciphering the messages our wonderful editorial team put together.
+Setting up Poncho in Slack is super simple. Just click the ‘Add to Slack’ button. Yes, that one up there.
+Make sure to add it to all the channels so that Poncho will be available wherever you want. You wouldn’t want your friends to miss out, would you? Unless of course you’re keeping all the best jokes for yourself. I’ve seen that happen.
+All righty. See you on Slack, err, slackers.
+(And if you are not on Slack you can still use the text and email version or wait for our super cute app which will be coming out soon.)
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Head of Creative at betaworks, New York.
+Ideas and Observations from betaworks

@@ -1,0 +1,2 @@
+Each squares is allocated a number from 0 to 41, as follows:
+The game.py file gives the logic behind moving from one game state to another, given a chosen action. For example, given the empty board and action 38, the takeAction method return a new game state, with the starting player’s piece at the bottom of the centre column. You can replace the game.py file with any game file that conforms to the same API and the algorithm will in principal, learn strategy through self play, based on the rules you have given it.

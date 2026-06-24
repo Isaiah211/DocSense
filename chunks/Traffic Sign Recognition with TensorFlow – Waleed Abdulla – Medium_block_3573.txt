@@ -1,0 +1,1 @@
+To use it, we call session.run() just like in the training code. The predicted_labels op returns the output of the argmax() function, so that’s what we need to run. Here I classify 10 random images and print both, the predictions and the groundtruth labels for comparison.

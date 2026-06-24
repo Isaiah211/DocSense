@@ -1,0 +1,1 @@
+Is that a problem? I think it’s not in this case, because the differences in aspect ratios are not that large. My own criteria is that if a person can recognize the images when they’re stretched then the model should be able to do so as well.

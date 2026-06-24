@@ -1,0 +1,1 @@
+If a graph holds the equation y=xW+b then the session holds the actual values of these variables. Usually the first thing to run after starting a session is the initialization op, init, to initialize the variables. Then we start the training loop and run the train op repeatedly.

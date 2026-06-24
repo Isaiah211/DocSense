@@ -1,0 +1,3 @@
+Viewing the log files will help you to understand how the algorithm works and see inside its ‘mind’. For example, here is a sample from the logger.mcts file. Equally from the logger.tourney file, you can see the probabilities attached to each move, during the evaluation phase:
+Training over a couple of days produces the following chart of loss against mini-batch iteration number:
+The top line is the error in the policy head (the cross entropy of the MCTS move probabilities, against the output from the neural network).

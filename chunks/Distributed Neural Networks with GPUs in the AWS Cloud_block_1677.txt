@@ -1,0 +1,3 @@
+In a virtualized environment such as the AWS cloud, these accesses cause a trap in the hypervisor that results in even slower access. NVreg_CheckPCIConfigSpace is a parameter of kernel module nvidia-current, that can be set using:
+We tested the effect of changing this parameter using a benchmark that calls MulC repeatedly (128x1000 times). Below are the results (runtime in sec) on our cg1.4xlarge instances:
+As you can see, disabling accesses to PCI space had a spectacular effect in the original npps functions, decreasing the runtime by 95%.

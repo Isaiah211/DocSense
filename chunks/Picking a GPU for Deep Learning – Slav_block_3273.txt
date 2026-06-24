@@ -1,0 +1,1 @@
+The 1080 performed five times faster than the Tesla card and 2.5x faster than K80. K40 has 12 GB VRAM and K80 a whopping 24 GBs. In theory, the P100 and GTX 1080 Ti should be in the same league performance-wise.

@@ -1,0 +1,5 @@
+This new perspective also enables analyses of financial markets that were not possible under the
+idealised view about them. One of the open questions in the market microstructure literature is the
+“network externality puzzle”, referring to the fact that despite strong arguments for consolidation, many
+markets are fragmented; Madhavan (2000). From the new perspective, however, financial markets are
+operated as businesses and they compete with each other.

@@ -1,0 +1,1 @@
+This is shown below, where the blue curve is the real load, and the orange one is the predicted load. This model can be used to notify people of the best time to drop and pickup their parcels, which results in better yield management and customer service. It can also be used to plan the construction of new post offices, by sizing them accordingly.

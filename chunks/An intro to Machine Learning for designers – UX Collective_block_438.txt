@@ -1,0 +1,1 @@
+Over the past decade new algorithms, better hardware, and more data have made machine learning an order of magnitude more effective. Only in the past few years companies like Google, Amazon, and Apple have made some of their powerful machine learning tools available to developers. Now is the best time to learn about machine learning and apply it to the products you are building.

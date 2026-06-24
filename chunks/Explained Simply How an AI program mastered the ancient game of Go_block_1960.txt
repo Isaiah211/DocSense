@@ -1,0 +1,1 @@
+On the next turn, it basically goes through the whole thing again. As you can see, this means Deep Blue thought about millions of theoretical positions before playing each move. This was not so impressive in terms of the AI software of Deep Blue, but rather in the hardware — IBM claimed it to be one of the most powerful computers available in the market at that time.

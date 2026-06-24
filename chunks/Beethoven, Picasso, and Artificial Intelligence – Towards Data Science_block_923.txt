@@ -1,0 +1,1 @@
+This is a big difference from GAN creating art that emulated the training images. Eventually, the CAN will learn how to produce only new and innovative artwork. One final future for the vanilla GAN is StackGAN.

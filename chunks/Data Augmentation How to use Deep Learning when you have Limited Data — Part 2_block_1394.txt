@@ -1,0 +1,1 @@
+The image is just repeated beyond its boundary, as if it’s being tiled. This method is not as popularly used as the rest as it does not make sense for a lot of scenarios. Besides these, you can design your own methods for dealing with undefined space, but usually these methods would just do fine for most classification problems.

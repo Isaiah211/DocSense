@@ -1,0 +1,1 @@
+This formula is like the exponential weighted moving average (EWMA) by making its pass values of the output with the current values of the input. One can build a deep recurrent neural network by simply stacking units to one another. A simple recurrent neural network works well only for a short-term memory.

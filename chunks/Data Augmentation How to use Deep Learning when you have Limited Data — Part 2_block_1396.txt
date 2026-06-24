@@ -1,0 +1,1 @@
+What is the right way you ask? Well, sometimes not all augmentation techniques make sense for a dataset. Consider our car example again.

@@ -1,0 +1,1 @@
+Then while you backtrack from future to present, you can take average values of all the different moves you rolled out, and pick the most suitable action. So far, this has only worked on a weak amateur level in Go, because the policy functions and value functions that they used to guide these rollouts weren’t that great. Phew.

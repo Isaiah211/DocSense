@@ -1,0 +1,1 @@
+Among other things, electrical synapses connect cells that control muscle groups such as the heart, where it’s important that all related cells cooperate, creating simultaneous muscle contractions. Different synapses can have different strengths (called weights). A synapse weight can change over time through a process known as synaptic plasticity.

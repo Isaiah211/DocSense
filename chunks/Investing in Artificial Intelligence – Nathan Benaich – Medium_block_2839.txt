@@ -1,0 +1,2 @@
+Some companies are already hacking away at this problem:
+A point worth noting is that the UK has a slight leg up on the data access front. Initiatives like the UK Biobank (500k patient records), Genomics England (100k genomes sequenced), HipSci (stem cells) and the NHS care.data programme are leading the way in creating centralised data repositories for public health and therapeutic research. Cheers for pointing out, Hari Arul.

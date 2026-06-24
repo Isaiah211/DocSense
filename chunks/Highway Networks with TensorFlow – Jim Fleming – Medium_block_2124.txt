@@ -1,0 +1,1 @@
+We can’t do much useful at or past 1000 layers so that seems sufficient for now. What happens if you set very low or very high carry biases? In either extreme the network simply fails to converge in a reasonable amount of time.

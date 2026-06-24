@@ -1,0 +1,1 @@
+RNNs are very useful in natural language processing since prior words or characters are useful in understanding the context of another word. There are plenty of different implementations, but the intention is always the same. We want to retain information.

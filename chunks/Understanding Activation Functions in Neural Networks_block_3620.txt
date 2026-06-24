@@ -1,0 +1,1 @@
+Which class is it? Hmm hard, complicated. You would want the network to activate only 1 neuron and others should be 0 ( only then would you be able to say it classified properly/identified the class ).

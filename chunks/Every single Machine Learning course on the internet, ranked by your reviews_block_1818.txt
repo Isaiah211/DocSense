@@ -1,0 +1,1 @@
+Applied Machine Learning in Python (University of Michigan/Coursera): Taught using Python and the scikit learn toolkit. Part of the Applied Data Science with Python Specialization. Scheduled to start May 29th.

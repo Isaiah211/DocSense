@@ -1,0 +1,4 @@
+ECNs have also affected market
+operations by improving the flow of information through open order books. However, there is also a
+serious concern that ECNs may exacerbate the market fragmentation and the inefficiency of multiple
+trading systems. Though technologies are getting fancier, life for the traders is not made easier.

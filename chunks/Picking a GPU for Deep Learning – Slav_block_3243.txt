@@ -1,0 +1,1 @@
+To have 16 PCIe lanes available for 3 or 4 GPUs, you need a monstrous processor. Something in the class of or AMD ThreadRipper (64 lanes) with a corresponding motherboard. Also, for more GPUs you need a faster processor and hard disk to be able to feed them data quickly enough, so they don’t sit idle.

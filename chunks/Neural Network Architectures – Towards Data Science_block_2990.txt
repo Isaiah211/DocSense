@@ -1,0 +1,3 @@
+Here is the complete model architecture:
+Unfortunately, we have tested this network in actual application and found it to be abysmally slow on a batch of 1 on a Titan Xp GPU. Look at a comparison here of inference time per image:
+Clearly this is not a contender in fast inference! It may reduce the parameters and size of network on disk, but is not usable.

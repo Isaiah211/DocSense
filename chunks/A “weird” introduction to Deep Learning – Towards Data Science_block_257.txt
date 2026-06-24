@@ -1,0 +1,3 @@
+This is somethinkg that math taught us hundreds of years ago. In this case what we need is a coordinate transformation, so we can plot or represent this data in a way we can draw this line. If we look the polar coordinate transformation, we have the solution:
+And that’s it now we can draw a line:
+So, in this simple example we found and chose the transformation to get a better representation by hand.

@@ -1,0 +1,2 @@
+After loading the images into Numpy arrays, I display a sample image of each label. See code in the notebook. This is our dataset:
+Looks like a good training set.

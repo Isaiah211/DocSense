@@ -1,0 +1,1 @@
+Can you work out the pattern? Should the ‘?’ be 0 or 1? You might have noticed, that the output is always equal to the value of the leftmost input column.

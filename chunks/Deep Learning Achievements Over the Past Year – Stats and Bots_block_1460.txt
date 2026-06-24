@@ -1,0 +1,2 @@
+And again the breakthrough was achieved by the team from Deepmind: on the CLEVR dataset they reached a super-human accuracy of 95.5%. The network architecture is very interesting:
+An interesting application of neural networks was created by the company Uizard: generating a layout code according to a screenshot from the interface designer. This is an extremely useful application of neural networks, which can make life easier when developing software.

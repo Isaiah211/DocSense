@@ -1,0 +1,1 @@
+But let’s say you magically had a way to do both of these. And that’s where deep learning comes in! So in this research, DeepMind used neural networks to do both of these tasks (if you haven’t read about them yet, here’s the link again).

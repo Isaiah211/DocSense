@@ -1,0 +1,2 @@
+These specific documents will be returned because they are highly-relevant to what the employee has input. The relevancy was calculated and established using mathematical vector calculations and representations. Augment the LLM prompt
+Next, the RAG model augments the user input (or prompts) by adding the relevant retrieved data in context.

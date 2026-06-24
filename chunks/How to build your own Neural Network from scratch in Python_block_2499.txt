@@ -1,0 +1,1 @@
+There are many available loss functions, and the nature of our problem should dictate our choice of loss function. In this tutorial, we’ll use a simple sum-of-sqaures error as our loss function. That is, the sum-of-squares error is simply the sum of the difference between each predicted value and the actual value.

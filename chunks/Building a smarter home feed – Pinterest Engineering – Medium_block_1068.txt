@@ -1,0 +1,1 @@
+The home feed is now powered by three separate services, each with a well-defined role in its production and distribution. The individual services can be altered or replaced with components that serve the same general purpose. The use of pools to buffer Pins according to their quality allows us a greater amount of control over the composition of home feeds.

@@ -1,0 +1,1 @@
+However, the C++ API for constructing graphs is not as complete as the Python API. Many features (including automatic gradient computation) are not available from C++ yet. Another example in the repo demonstrates defining your own operations but most users will never need this.

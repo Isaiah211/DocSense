@@ -1,0 +1,1 @@
+Which means, any small changes in the values of X in that region will cause values of Y to change significantly. Ah, that means this function has a tendency to bring the Y values to either end of the curve. Looks like it’s good for a classifier considering its property?

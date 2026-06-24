@@ -1,0 +1,1 @@
+The generator tries to generate images similar to the training set without seeing the images [4]. The more images the generator creates, the closer they get to the images from the training set. The idea is that after a certain number of images are generated, the GAN will create images that are very similar to what we consider art.

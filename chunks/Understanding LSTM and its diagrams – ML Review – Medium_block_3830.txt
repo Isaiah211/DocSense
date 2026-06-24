@@ -1,0 +1,1 @@
+After these two operations, you have the old memory C_t-1 changed to the new memory C_t. Now lets look at the valves. The first one is called the forget valve.

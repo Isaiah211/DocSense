@@ -1,0 +1,2 @@
+Data Augmentation Factor = 2 to 4x
+One key thing to note about this operation is that image dimensions may not be preserved after rotation. If your image is a square, rotating it at right angles will preserve the image size. If it’s a rectangle, rotating it by 180 degrees would preserve the size.

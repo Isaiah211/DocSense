@@ -1,0 +1,1 @@
+The act method repeats the simulation multiple times to understand which move from the current position is most favourable. It then returns the chosen action to the game, to enact the move. The replay method retrains the neural network, using memories from previous games.

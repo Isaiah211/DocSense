@@ -1,0 +1,6 @@
+A stock trader is
+likely to be dissatisfied with an e-brokerage if she misses a good trading chance simply because she
+cannot login to the e-brokerage’s website. The lack of an economically sound pricing structure exposes the internet to DDoS attacks. As long as
+flat monthly fees are the dominant form of pricing, meaning that the marginal cost of sending out traffic
+is zero, organisations have little incentive to protect their traffic and so DDoS attacks cannot be
+effectively prevented; (Geng and Whinston 2000).

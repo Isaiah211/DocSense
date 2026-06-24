@@ -1,0 +1,1 @@
+So do computers, we have the logic units, CPUs and GPUs and we also have memories. But when you look at a neural network, it functions like a black box. You feed in some inputs from one side, you receive some outputs from the other side.

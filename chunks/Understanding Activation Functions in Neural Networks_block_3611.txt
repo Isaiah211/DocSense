@@ -1,0 +1,3 @@
+Hmm great. This could work! Activation function A = “activated” if Y > threshold else not
+Alternatively, A = 1 if y> threshold, 0 otherwise
+Well, what we just did is a “step function”, see the below figure.

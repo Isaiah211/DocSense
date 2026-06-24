@@ -1,0 +1,2 @@
+If you had to tell someone else how to redraw it, and they couldn’t look at it, what would you say? This image is extremely basic, so there are only a few details we need to describe the shape:
+We can call these “instantiation parameters.” With more complex images we will end up needing more details. They can include pose (position, size, orientation), deformation, velocity, albedo, hue, texture, and so on.

@@ -1,0 +1,2 @@
+This is an impressive and significant example of the practical application of ML. As you know, trained models are poorly transferred from task to task, as each task has to be trained for a specific model. A small step towards the universality of the models was done by Google Brain in his article “One Model To Learn The All.”
+Researchers have trained a model that performs eight tasks from different domains (text, speech, and images).

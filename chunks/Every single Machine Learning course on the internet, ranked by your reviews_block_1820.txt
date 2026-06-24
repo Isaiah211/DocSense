@@ -1,0 +1,1 @@
+Applied Machine Learning (Microsoft/edX): Taught using various tools, including Python, R, and Microsoft Azure Machine Learning (note: Microsoft produces the course). Includes hands-on labs to reinforce the lecture content. Three to four hours per week over six weeks.

@@ -1,0 +1,2 @@
+We can create an empty entityset in featuretools using the following:
+Now we have to add entities. Each entity must have an index, which is a column with all unique elements. That is, each value in the index must appear in the table only once.

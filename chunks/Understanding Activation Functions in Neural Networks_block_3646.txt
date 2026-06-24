@@ -1,0 +1,1 @@
+Making clear distinctions on prediction. Another advantage of this activation function is, unlike linear function, the output of the activation function is always going to be in range (0,1) compared to (-inf, inf) of linear function. So we have our activations bound in a range.

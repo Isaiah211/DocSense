@@ -1,0 +1,1 @@
+It’s been shown to work well in classification tasks and trains faster than sigmoid or tanh. For more background, check here and here. The output of the fully connected layer is a logits vector of length 62 (technically, it’s [None, 62] because we’re dealing with a batch of logits vectors).

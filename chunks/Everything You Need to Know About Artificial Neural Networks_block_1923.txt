@@ -1,0 +1,1 @@
+If you were given a 4 and a 5 to start, you know that 2 low cards are out of the deck. Information like this could help you determine whether or not you should hit. RNNs are very useful in natural language processing since prior words or characters are useful in understanding the context of another word.

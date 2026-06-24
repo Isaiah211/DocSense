@@ -1,0 +1,1 @@
+In the next post in this series we will be simplify the computational graph creation by using the native TensorFlow RNN API. From a quick cheer to a standing ovation, clap to show how much you enjoyed this story. Studied Engineering Physics and in Machine Learning at Royal Institute of Technology in Stockholm.

@@ -1,0 +1,1 @@
+Fraudulent actors often exhibit repetitive patterns. As we recognize these patterns, we can apply heuristics to predict when they are about to occur again, and help stop them. For complex, evolving fraud vectors, heuristics eventually become too complicated and therefore unwieldy.

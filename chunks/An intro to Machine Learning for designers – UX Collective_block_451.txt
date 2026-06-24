@@ -1,0 +1,1 @@
+For example, we can look at new photos and predict hashtags or look at a new house’s features and predict its price. If the output we are trying to predict is a list of tags or values we call it classification. If the output we are trying to predict is a number we call it regression.

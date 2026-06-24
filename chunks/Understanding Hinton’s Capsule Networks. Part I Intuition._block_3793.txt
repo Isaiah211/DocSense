@@ -1,0 +1,1 @@
+This algorithm is called “dynamic routing between capsules”. This algorithm allows capsules to communicate with each other and create representations similar to scene graphs in computer graphics. Capsules introduce a new building block that can be used in deep learning to better model hierarchical relationships inside of internal knowledge representation of a neural network.

@@ -1,0 +1,1 @@
+A essential design choice of any CNN architecture is that the input sizes grow smaller and smaller from the start to the end of the network, while the number of channels grow deeper. This, as mentioned earlier, is often done through strides or pooling layers. Locality determines what inputs from the previous layer the outputs get to see.

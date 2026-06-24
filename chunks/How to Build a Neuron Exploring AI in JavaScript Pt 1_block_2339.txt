@@ -1,0 +1,1 @@
+The action potential travels along the output nerve fiber, called an axon. The axon splits into collateral branches which can carry the output signal to different parts of the neural network. Each axon branch terminates by splitting into clusters of tiny terminal branches, which interface with other neurons through synapses.

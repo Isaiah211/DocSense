@@ -1,0 +1,4 @@
+The further the point is away from the mean, the less important that point becomes:
+We then recalculate the mean, this time taking into account the point’s importance:
+We end up going through this cycle 3 times:
+As you can see, as we go through this cycle, the points that don’t agree with the others start to disappear. The highest agreeing points end up getting passed on to the next layer with the highest activations. After agreement, we end up with ten 16 dimensional vectors, one vector for each digit.

@@ -1,0 +1,1 @@
+When a user accesses the home feed, we ask the content generator for new Pins since their last visit. The generator decides the quantity, composition, and arrangement of new Pins to return in response to this request. The content generator assembles available Pins into chunks for consumption by the user as part of their home feed.

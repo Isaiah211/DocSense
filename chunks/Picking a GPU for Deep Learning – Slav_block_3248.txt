@@ -1,0 +1,2 @@
+Your GPU needs a computer around it:
+Hard Disk: First, you need to read the data off the disk. An SSD is recommended here, but an HDD can work as well. CPU: That data might have to be decoded by the CPU (e.g.

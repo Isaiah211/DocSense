@@ -1,0 +1,2 @@
+If only it was so easy with people. :)
+Here is the work of OpenAI and DeepMind on the same topic. The bottom line is that an agent has a task, the algorithm provides two possible solutions for the human and indicates which one is better.

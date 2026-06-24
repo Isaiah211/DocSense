@@ -1,0 +1,1 @@
+Website morphing uses an “index” solution to learn the best morph for a customer. Our latest efforts also identify when to morph a website by embedded another “dynamic program” within the index solution. In our research to understand how consumers deal with the future, we’ve demonstrated that indices other than Gittins’ index might be more descriptive of consumer foresight.

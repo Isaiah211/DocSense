@@ -1,0 +1,1 @@
+He doesn’t know what any of the squares mean, but he knows that an “air” tile is different from a “ground” tile in some way. Each of the squares is actually an input neuron. On the right side you can see the 4 “output neurons”, or the buttons that crAIg can press.

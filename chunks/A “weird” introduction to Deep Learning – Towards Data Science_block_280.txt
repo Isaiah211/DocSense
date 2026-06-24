@@ -1,0 +1,3 @@
+IBM Cognitive Class:
+5. DataCamp:
+Deep Learning is one of the most important tools and theories a Data Scientist should learn. We are so lucky to see amazing people creating both research, software, tools and hardware specific for DL tasks.

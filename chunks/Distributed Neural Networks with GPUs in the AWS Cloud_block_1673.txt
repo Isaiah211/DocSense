@@ -1,0 +1,2 @@
+While we tried to uncover the root cause, we worked our way around the issue by reimplementing the npps functions using the customized cuda kernel, e.g. replace nppsMulC_32f_I function with:
+Replacing all npps functions in this way for the Neural Network code reduced the total training time on the cg1 instance from over 20 hours to just 47 minutes when training on 4 million samples. Training 1 million samples took 96 seconds of GPU time.

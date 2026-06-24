@@ -1,0 +1,1 @@
+In this part, I’ll talk about image classification and I’ll keep the model as simple as possible. In later parts, I’ll cover convolutional networks, data augmentation, and object detection. The source code is available in this Jupyter notebook.

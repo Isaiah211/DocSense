@@ -1,0 +1,1 @@
+The two basic TensorFlow data-structures that will be used in this example are placeholders and variables. On each run the batch data is fed to the placeholders, which are “starting nodes” of the computational graph. Also the RNN-state is supplied in a placeholder, which is saved from the output of the previous run.

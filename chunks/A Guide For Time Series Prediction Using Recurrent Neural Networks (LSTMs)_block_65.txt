@@ -1,0 +1,2 @@
+LSTM has an internal state variable, which is passed from one cell to another and modified by Operation Gates. 1. Forget Gate
+It is a sigmoid layer that takes the output at t-1 and the current input at time t and concatenates them into a single tensor and applies a linear transformation followed by a sigmoid.

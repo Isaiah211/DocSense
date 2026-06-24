@@ -1,0 +1,1 @@
+Limitations of current neural networks — We have talked about before on the limitation of neural networks as they are today. Cannot predict, reason on content, and have temporal instabilities — we need a new kind of neural networks that you can about read here. Neural Network Capsules are one approach to solve the limitation of current neural networks.

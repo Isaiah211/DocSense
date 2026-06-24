@@ -1,0 +1,1 @@
+But the great advantage of VGG was the insight that multiple 3×3 convolution in sequence can emulate the effect of larger receptive fields, for examples 5×5 and 7×7. These ideas will be also used in more recent network architectures as Inception and ResNet. The VGG networks uses multiple 3x3 convolutional layers to represent complex features.

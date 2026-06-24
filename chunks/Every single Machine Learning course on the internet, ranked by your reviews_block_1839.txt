@@ -1,0 +1,1 @@
+Covers classification and regression algorithms. Seventeen videos and 54 exercises with an estimated timeline of four hours. Unsupervised Learning in R (DataCamp): Provides a basic introduction to clustering and dimensionality reduction in R.

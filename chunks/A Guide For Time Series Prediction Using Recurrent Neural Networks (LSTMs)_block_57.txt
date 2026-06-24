@@ -1,0 +1,1 @@
+The model now can generate a new output and we can continue like this indefinitely. You can now see why these are known as recurrent neural networks. A recurrent neural network deals with sequence problems because their connections form a directed cycle.

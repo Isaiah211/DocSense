@@ -1,0 +1,1 @@
+It was a form of computer vision, one that made handwriting machine-readable. But unlike previous works on the same topic, where the main objective is simply to recognize digits, Hinton’s network could also run in reverse. That is, given the concept of a digit, it can regenerate images corresponding to that very concept.

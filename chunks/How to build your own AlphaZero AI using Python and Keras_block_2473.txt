@@ -1,0 +1,1 @@
+This is where you set the key parameters that influence the algorithm. Adjusting these variables will affect that running time, neural network accuracy and overall success of the algorithm. The above parameters produce a high quality Connect4 player, but take a long time to do so.

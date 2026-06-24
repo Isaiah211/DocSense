@@ -1,0 +1,1 @@
+Tesla GPUsThis includes K40, K80 (which is 2x K40 in one), P100, and others. You might already be using these via Amazon Web Services, Google Cloud Platform, or another cloud provider. In my previous article, I did some benchmarks on GTX 1080 Ti vs.

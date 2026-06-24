@@ -1,0 +1,1 @@
+This is expected when running a simple model like this one. In a future post I’ll talk about ways to improve the consistency of the results. Congratulations!

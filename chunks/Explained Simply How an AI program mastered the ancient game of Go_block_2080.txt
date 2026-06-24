@@ -1,0 +1,1 @@
+If you attach a % of X to the first, you’ll have to attach 100-X to the second. That’s what this mixing parameter means. You’ll see these hit and trial results later in the paper.

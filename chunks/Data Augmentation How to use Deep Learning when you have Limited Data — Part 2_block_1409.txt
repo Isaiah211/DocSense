@@ -1,0 +1,1 @@
+All you need to do is upload the data on their website, and wait until it’s trained in their servers (Usually around 30 minutes). What do you know, it’s perfect for our comparison experiment. Once it’s done training, you can request calls to their API to calculate the test accuracy.

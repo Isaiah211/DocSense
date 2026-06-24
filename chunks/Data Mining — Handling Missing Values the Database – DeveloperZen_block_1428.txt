@@ -1,0 +1,2 @@
+Another example could be using a decision tree to try and predict the probable value in the missing attribute, according to other attributes in the data. I’d suggest looking into regression and decision trees first (ID3 tree generation) as they’re relatively easy and there are plenty of examples on the net... Additional Notes
+Originally published at www.developerzen.com on August 14, 2009.

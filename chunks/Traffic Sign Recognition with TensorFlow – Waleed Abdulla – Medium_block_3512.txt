@@ -1,0 +1,1 @@
+It’s intended to be a learning experience, for myself and for anyone else who likes to follow along. There are a lot of resources that cover the theory and math of neural networks, so I’ll focus on the practical aspects instead. I’ll describe my own experience building this model and share the source code and relevant materials.

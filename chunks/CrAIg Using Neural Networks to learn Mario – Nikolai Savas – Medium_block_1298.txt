@@ -1,0 +1,1 @@
+If a species is marked for extinction __ times in a row, then all genomes in the species are killed off. Now comes the fun genetics part! Each species should have a certain number of genomes as well as a certain number of allotted spots for new offspring.

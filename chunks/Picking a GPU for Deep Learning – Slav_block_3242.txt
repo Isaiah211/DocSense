@@ -1,0 +1,1 @@
+An Intel Xeon with a MSI — X99A SLI PLUS will do the job. For 3 or 4 GPUs, go with 8x lanes per card with a Xeon with 24 to 32 PCIe lanes. To have 16 PCIe lanes available for 3 or 4 GPUs, you need a monstrous processor.

@@ -1,0 +1,2 @@
+We provide two plans for using our service,
+For both the plans, we use highly sophisticated data privacy and security protocols in collaboration with Amazon Web Services, which is our cloud partner. Your dataset is anonymised and goes through minimal human intervention during the pre-processing and training process. All our human labellers have signed a non-disclosure agreement (NDA) to protect your data from going into wrong hands.

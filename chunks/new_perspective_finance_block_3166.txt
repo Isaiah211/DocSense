@@ -1,0 +1,3 @@
+Lin, L and A Whinston (2001): “Service level agreement and hedging of risks for service providers”,
+working paper, Centre for Research in Electronic Commerce, University of Texas at Austin. Madhavan, A (2000): “Market microstructure: a survey”, Journal of Financial Markets, vol 3, pp 205-58. Merton, R (1989): “On the application of the continuous-time theory of finance to financial
+intermediation and insurance”, Geneva Papers on Risk and Insurance Theory, vol 14, pp 225-61.

@@ -1,0 +1,2 @@
+Let’s examine our text classifier one section at a time. We will take the following steps:
+The code is here, we’re using iPython notebook which is a super productive way of working on data science projects. The code syntax is Python.

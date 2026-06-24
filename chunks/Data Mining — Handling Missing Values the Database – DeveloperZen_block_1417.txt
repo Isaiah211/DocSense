@@ -1,0 +1,1 @@
+If we specifically look at dealing with missing data, there are several techniques that can be used. Choosing the right technique is a choice that depends on the problem domain — the data’s domain (sales data? CRM data?

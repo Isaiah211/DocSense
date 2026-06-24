@@ -1,0 +1,2 @@
+You might have noticed, that the output is always equal to the value of the leftmost input column. Therefore the answer is the ‘?’ should be 1. Training process
+But how do we teach our neuron to answer the question correctly?

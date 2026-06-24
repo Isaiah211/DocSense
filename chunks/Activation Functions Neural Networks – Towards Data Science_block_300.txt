@@ -1,0 +1,4 @@
+Why we use Activation functions with Neural Networks? The Activation Functions can be basically divided into 2 types-
+As you can see the function is a line or linear.Therefore, the output of the functions will not be confined between any range. Equation : f(x) = x
+Range : (-infinity to infinity)
+It doesn’t help with the complexity or various parameters of usual data that is fed to the neural networks.

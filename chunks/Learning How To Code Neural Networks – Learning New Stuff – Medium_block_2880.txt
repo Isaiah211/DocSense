@@ -1,0 +1,1 @@
+This is the input for our artificial neuron. The neuron then performs some kind of computation on this number — in our case the Sigmoid function, and then spits out an output. This happens to be 1, as Sigmoid of 5 equals to 1, if we round the number up (more info on the Sigmoid function follows later).

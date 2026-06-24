@@ -1,0 +1,1 @@
+This led to large savings in computational cost, and the success of this architecture. Let’s examine this in detail. Let’s say you have 256 features coming in, and 256 coming out, and let’s say the Inception layer only performs 3x3 convolutions.

@@ -1,0 +1,1 @@
+You might have noticed that as my neural network has become smarter I’ve inadvertently personified her by using “she” instead of “it”. That’s pretty cool. But the computer is doing lots of matrix multiplication behind the scenes, which is hard to visualise.

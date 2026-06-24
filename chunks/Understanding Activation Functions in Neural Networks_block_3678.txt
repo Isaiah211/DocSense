@@ -1,0 +1,1 @@
+That is a good point to consider when we are designing deep neural nets. Now, which activation functions to use. Does that mean we just use ReLu for everything we do?

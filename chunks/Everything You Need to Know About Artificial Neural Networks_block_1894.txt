@@ -1,0 +1,1 @@
+Artificial neural networks are not a new concept. In fact, we didn’t even always call them neural networks and they certainly don’t look the same now as they did at their inception. Back during the 1960s we had what was called a perceptron.

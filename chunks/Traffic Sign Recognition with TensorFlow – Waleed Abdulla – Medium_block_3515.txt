@@ -1,0 +1,1 @@
+The source code is available in this Jupyter notebook. I’m using Python 3.5 and TensorFlow 0.12. If you prefer to run the code in Docker, you can use my Docker image that contains many popular deep learning tools.

@@ -1,0 +1,4 @@
+Justin switched his implementation to use L-BFGS and equally weighted layers, and to my eyes this matches the results in the original paper. Here are his results for one of the harder content/style pairs:
+Other implementations that look great, but I haven’t tested enough:
+The definition of the Gram matrix confused me at first, so I wrote it out as code. Using a literal translation of equation 3 in the paper, you would write in Python, with numpy:
+It turns out that the original description is computed more efficiently than this literal translation.

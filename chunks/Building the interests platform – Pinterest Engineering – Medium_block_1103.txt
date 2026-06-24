@@ -1,0 +1,1 @@
+At this point, 90% of all Pins have related Pins, and we’ve seen 20% growth in engagement with related Pins in the last six months. Interests feeds provide Pinners with a continuous feed of Pins that are highly related. Our feeds are populated using a variety of sources, including search and through our annotation pipeline.

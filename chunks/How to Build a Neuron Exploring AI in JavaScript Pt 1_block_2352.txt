@@ -1,0 +1,1 @@
+A decrease in synaptic weight is called Long Term Depression (LTD). If the postsynaptic neuron tends to fire a lot when the presynaptic neuron fires, the synaptic weight increases. If the cells don’t tend to fire together often, the connection weakens.

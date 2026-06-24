@@ -1,0 +1,1 @@
+If you’re familiar with SQL, then these concepts will probably come a lot easier for you. Anyhow, these functions are essentially just ways to combine dataframes in specific ways. It can be difficult to keep track of which is best to use at which time, so let’s review it.

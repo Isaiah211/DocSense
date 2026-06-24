@@ -1,0 +1,3 @@
+The Inception module after the stem is rather similar to Inception V3:
+They also combined the Inception module with the ResNet module:
+This time though the solution is, in my opinion, less elegant and more complex, but also full of less transparent heuristics. It is hard to understand the choices and it is also hard for the authors to justify them. In this regard the prize for a clean and simple network that can be easily understood and modified now goes to ResNet.

@@ -1,0 +1,1 @@
+To select 15 pixels from the original image, we just select 15 * 25/128 ~= 2.93 pixels. In RoIPool, we would round this down and select 2 pixels causing a slight misalignment. However, in RoIAlign, we avoid such rounding.

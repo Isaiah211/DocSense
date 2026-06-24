@@ -1,0 +1,1 @@
+From here, different features can be evaluated across groups or be rolled out to only a particular group of users. Machine learning allows us to make predictions about how a user might behave next. Knowing this, we can help prepare for a user’s next action.

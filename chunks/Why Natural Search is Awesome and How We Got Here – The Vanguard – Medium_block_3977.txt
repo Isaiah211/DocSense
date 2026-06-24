@@ -1,0 +1,3 @@
+We need a query that has at least a location + a type (or something from which we can derive a type), and without a template telling us that the “hotel” is the type, and the “restaurant” is something you want your hotel to have (vs. maybe the opposite), the system needs to better understand the grammatical structure or the sentence, and cue you into inputting things the right way when it’s suggesting and auto-completing. Typing a query:
+The query is understood — you can add / edit:
+With this new user interface, changing queries (“refining and pivoting”) is very natural — add tags, or take away tags.

@@ -1,0 +1,4 @@
+Currently, in automated trading systems, limit orders are matched automatically and there is no
+liquidity provider. However, it is technologically feasible to implement an automated trading system in
+which the system can provide liquidity. That is, the system may be the other side of a transaction and
+thus carry inventory.

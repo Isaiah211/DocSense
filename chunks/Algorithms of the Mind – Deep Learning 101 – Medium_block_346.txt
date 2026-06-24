@@ -1,0 +1,2 @@
+“Science often follows technology, because inventions give us new ways to think about the world and new phenomena in need of explanation.”
+Or so Aram Harrow, an MIT physics professor, counter-intuitively argues in “Why now is the right time to study quantum computing”. He suggests that the scientific idea of entropy could not really be conceived until steam engine technology necessitated understanding of thermodynamics. Quantum computing similarly arose from attempts to simulate quantum mechanics on ordinary computers.

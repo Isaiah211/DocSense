@@ -1,0 +1,1 @@
+But what if we are faced with a more difficult problem? Can you guess what the ‘?’ should be? The trick is to notice that the third column is irrelevant, but the first two columns exhibit the behaviour of a XOR gate.

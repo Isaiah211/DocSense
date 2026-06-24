@@ -1,0 +1,1 @@
+All neurons will output a 1 ( from step function). Now what would you decide? Which class is it?

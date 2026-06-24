@@ -1,0 +1,2 @@
+And even perform vector arithmetic to create a catpig:
+One of the hottest topics in Deep Learning is Generative Adversarial Networks (GANs). Most often, this idea is used to work with images, so I will explain the concept using them. The idea is in the competition of two networks — the generator and the discriminator.

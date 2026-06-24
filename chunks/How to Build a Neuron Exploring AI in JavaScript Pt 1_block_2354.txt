@@ -1,0 +1,1 @@
+If the presynaptic neuron fires after the postsynaptic neuron within 20ms, the weight decreases (LTD). This process is called spike-timing-dependent plasticity. Spike-timing-dependent plasticity was discovered in the 1990’s and is still being explored, but it is believed that action potential backpropagation from the cell’s axon to the dendrites is involved in the LTP process.

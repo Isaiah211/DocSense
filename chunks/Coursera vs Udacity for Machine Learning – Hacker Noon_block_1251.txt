@@ -1,0 +1,3 @@
+By the end of the program I just skipped right to the projects and watched the lectures, or even searched Youtube, as needed. Winner = Coursera
+Projects
+Coursera’s course has programming assignments in which student’s submit code to be tested against automated unit tests. While this model helps the class scale, it leaves you hunting through the forums when things go wrong.

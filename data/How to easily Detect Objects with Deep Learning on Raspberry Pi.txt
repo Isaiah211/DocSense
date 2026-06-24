@@ -1,0 +1,55 @@
+Title: How to easily Detect Objects with Deep Learning on Raspberry Pi
+Author: Sarthak Jain
+----------------------------------------
+
+Disclaimer: I’m building nanonets.com to help build ML with less data and no hardware
+The raspberry pi is a neat piece of hardware that has captured the hearts of a generation with ~15M devices sold, with hackers building even cooler projects on it. Given the popularity of Deep Learning and the Raspberry Pi Camera we thought it would be nice if we could detect any object using Deep Learning on the Pi.
+Now you will be able to detect a photobomber in your selfie, someone entering Harambe’s cage, where someone kept the Sriracha or an Amazon delivery guy entering your house.
+20M years of evolution have made human vision fairly evolved. The human brain has 30% of it’s Neurons work on processing vision (as compared with 8 percent for touch and just 3 percent for hearing). Humans have two major advantages when compared with machines. One is stereoscopic vision, the second is an almost infinite supply of training data (an infant of 5 years has had approximately 2.7B Images sampled at 30fps).
+To mimic human level performance scientists broke down the visual perception task into four different categories.
+Object detection has been good enough for a variety of applications (even though image segmentation is a much more precise result, it suffers from the complexity of creating training data. It typically takes a human annotator 12x more time to segment an image than draw bounding boxes; this is more anecdotal and lacks a source). Also, after detecting objects, it is separately possible to segment the object from the bounding box.
+Object detection is of significant practical importance and has been used across a variety of industries. Some of the examples are mentioned below:
+Object Detection can be used to answer a variety of questions. These are the broad categories:
+There are a variety of models/architectures that are used for object detection. Each with trade-offs between speed, size, and accuracy. We picked one of the most popular ones: YOLO (You only look once). and have shown how it works below in under 20 lines of code (if you ignore the comments).
+Note: This is pseudo code, not intended to be a working example. It has a black box which is the CNN part of it which is fairly standard and shown in the image below.
+You can read the full paper here: https://pjreddie.com/media/files/papers/yolo_1.pdf
+For this task, you probably need a few 100 Images per Object. Try to capture data as close to the data you’re going to finally make predictions on.
+Draw bounding boxes on the images. You can use a tool like labelImg. You will typically need a few people who will be working on annotating your images. This is a fairly intensive and time consuming task.
+You can read more about this at medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab. You need a pretrained model so you can reduce the amount of data required to train. Without it, you might need a few 100k images to train the model.
+You can find a bunch of pretrained models here
+The process of training a model is unnecessarily difficult to simplify the process we created a docker image would make it easy to train.
+To start training the model you can run:
+The docker image has a run.sh script that can be called with the following parameters
+You can find more details at:
+To train a model you need to select the right hyper parameters.
+Finding the right parameters
+The art of “Deep Learning” involves a little bit of hit and try to figure out which are the best parameters to get the highest accuracy for your model. There is some level of black magic associated with this, along with a little bit of theory. This is a great resource for finding the right parameters.
+Quantize Model (make it smaller to fit on a small device like the Raspberry Pi or Mobile)
+Small devices like Mobile Phones and Rasberry PI have very little memory and computation power.
+Training neural networks is done by applying many tiny nudges to the weights, and these small increments typically need floating point precision to work (though there are research efforts to use quantized representations here too).
+Taking a pre-trained model and running inference is very different. One of the magical qualities of Deep Neural Networks is that they tend to cope very well with high levels of noise in their inputs.
+Why Quantize?
+Neural network models can take up a lot of space on disk, with the original AlexNet being over 200 MB in float format for example. Almost all of that size is taken up with the weights for the neural connections, since there are often many millions of these in a single model.
+The Nodes and Weights of a neural network are originally stored as 32-bit floating point numbers. The simplest motivation for quantization is to shrink file sizes by storing the min and max for each layer, and then compressing each float value to an eight-bit integer.The size of the files is reduced by 75%.
+Code for Quantization:
+You need the Raspberry Pi camera live and working. Then capture a new Image
+For instructions on how to install checkout this link
+Download Model
+Once your done training the model you can download it on to your pi. To export the model run:
+Then download the model onto the Raspberry Pi.
+Install TensorFlow on the Raspberry Pi
+Depending on your device you might need to change the installation a little
+Run model for predicting on the new Image
+The Raspberry Pi has constraints on both Memory and Compute (a version of Tensorflow Compatible with the Raspberry Pi GPU is still not available). Therefore, it is important to benchmark how much time do each of the models take to make a prediction on a new image.
+We have removed the need to annotate Images, we have expert annotators who will annotate your images for you.
+We automatically train the best model for you, to achieve this we run a battery of model with different parameters to select the best for your data
+NanoNets is entirely in the cloud and runs without using any of your hardware. Which makes it much easier to use.
+Since devices like the Raspberry Pi and mobile phones were not built to run complex compute heavy tasks, you can outsource the workload to our cloud which does all of the compute for you
+Get your free API Key from http://app.nanonets.com/user/api_key
+Collect the images of object you want to detect. You can annotate them either using our web UI (https://app.nanonets.com/ObjectAnnotation/?appId=YOUR_MODEL_ID) or use open source tool like labelImg. Once you have dataset ready in folders, images (image files) and annotations (annotations for the image files), start uploading the dataset.
+Once the Images have been uploaded, begin training the Model
+The model takes ~2 hours to train. You will get an email once the model is trained. In the meanwhile you check the state of the model
+Once the model is trained. You can make predictions using the model
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Founder & CEO @ NanoNets.com
+NanoNets: Machine Learning API

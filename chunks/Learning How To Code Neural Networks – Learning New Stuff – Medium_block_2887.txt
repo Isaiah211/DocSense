@@ -1,0 +1,1 @@
+So I started to code a logistic regression algorithm from scratch (which happened to use the Sigmoid function). It took a whole day, and it’s probably not a very good implementation of logistic regression. But that doesn’t matter, as I finally understood how it works.

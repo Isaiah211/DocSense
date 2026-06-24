@@ -1,0 +1,1 @@
+Those instances might correspond to different partitions in your problem space. A typical situation is to have different models trained for different countries or regions since the feature distribution and even the item space might be very different from one region to the other. This represents the first initial level at which we can decide to distribute our learning process.

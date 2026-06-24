@@ -1,0 +1,1 @@
+V8 on the other hand has a growing body of competitors some of whom are solving open research questions. Languages will come and go (how many Fortran job openings are there?) but there will always be someone building the next language. Lucky for us, programming language implementations are written with programming languages themselves.

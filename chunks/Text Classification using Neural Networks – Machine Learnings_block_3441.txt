@@ -1,0 +1,2 @@
+Our training data is transformed into “bag of words” for each sentence. The above step is a classic in text classification: each training sentence is reduced to an array of 0’s and 1’s against the array of unique words in the corpus. is stemmed:
+then transformed to input: a 1 for each word in the bag (the ?

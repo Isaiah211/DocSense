@@ -1,0 +1,1 @@
+The two values are flowing through the graph and arrive at the square node, where they are being added. The result of the addition is stored into another variable, c. Actually, a, b and c can be considered as placeholders.

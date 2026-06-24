@@ -1,0 +1,7 @@
+According to this theory, financial intermediation exists because
+of market frictions and imperfections and acts as a remedy to the market system. Researchers have studied the role of intermediation in alleviating different market frictions and
+imperfections. One body of literature focuses on transaction cost (see, for example, Gurley and Shaw
+(1960)), and another stresses the importance of asymmetric information between investors and
+borrowers (see Leland and Pyle (1977), Campbell and Kracaw (1980), Diamond (1984), Gale and
+Hellwig (1985), Boyd and Prescott (1986); for a comprehensive understanding, see Freixas and
+Rochet (1997) and for a brief summary, see Allen and Santomero (1998)).

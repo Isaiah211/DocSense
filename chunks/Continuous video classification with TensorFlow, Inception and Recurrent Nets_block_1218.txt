@@ -1,0 +1,2 @@
+(I wish commercials were only 1/10th of a second long!)
+This is why it could be interesting to examine the temporal dependencies of the probabilities of each label before we look at the more raw output of the pool layer. We convert our individual predictions into sequences using the code above, and then feed the sequences to our RNN. After training the RNN on our first batch of data, we then evaluate the predictions on both the batch we used for training and a holdout set that the RNN has never seen.

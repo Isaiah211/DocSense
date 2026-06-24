@@ -1,0 +1,1 @@
+Additionally, it’s possible to link to yahoo pipelines and broadcast everything you want. It supports scheduled messages, auto posting from RSS, Facebook, Twitter, YouTube and has a basic mechanism to send specific answers to specific keywords. Watch their pitch to get a better understanding.

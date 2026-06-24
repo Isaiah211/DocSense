@@ -1,0 +1,1 @@
+DeepMind took 30 million positions from 30 million different games, to reduce any chances of there being duplicate data. And it worked! Now, something conceptual here: there are two ways to evaluate the value of a board position.

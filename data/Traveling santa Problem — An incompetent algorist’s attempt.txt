@@ -1,0 +1,33 @@
+Title: Traveling santa Problem — An incompetent algorist’s attempt
+Author: Hrishikesh Huilgolkar
+----------------------------------------
+
+Kaggle announced the Traveling santa problem in the christmas season. I joined in excitedly.. but soon realized this is not an easy problem. Solving this problem would require expertise on data structures and some good familiarity with TSP problems and its many heuristic algorithms. I had neither.. I had to find a way to deal with this problem. I compenseted my lack of algorithmic expertise with common sense, logic and intuition. I finished 65th out of 356 total competitors.
+I did some research on packaged TSP solvers and top TSP algorithms. I found concorde but I could not get it to work on my ubuntu machine. So I settled with LKH which uses Lin-Kernighan heuristic for solving TSP and related problems. I wrote scripts for file conversions and for running LKH.
+LKH easily solved my tsp problem in around 30 hours. But it was just one path. I still had to figure out how to make it find the second path.A simple idea to get 2 disjoint paths is to generate first path and then make weight of those edges infinite and run LKH on the problem again. But this required the problem to be in Distance Matrix format.Then I found a major problem.
+Problem: Ram too lowCreating distance matrix for 150,000 points was unimaginable.It would requirememory for one digit * 150,000 * 150,000assuming memory for one digit = 8 bytes
+memory required = 8*150,0002which is 167 GB!
+(Correct me if I am wrong)
+Solution:A simple solution was to divide the map in manageable chunks.I used scipy’s distance matrix creation function scipy.spatial.distance.pdist() It creates distance matrix from coordinates.The matrix created by pdist is in compressed form (a flattened matrix of upper diagonal elements. scipy.spatial.distance.squareform() can create a square distance matrix from compressed matrix but that would waste a lot of ram.So I created a custom function which divided compressed matrix by rows so LKH can read it.
+Input:(coordinates)1 12 34 1
+output of pdist:(compressed upper column)1 2 4
+Output of squreform():(Uncompressed square matrix)0 1 21 0 42 4 0
+Output of my function which processed compressed matrix:(Upper diagonal elements)[[1,2],[4]]
+Lots of ram saved!
+I tried using Manhattan distance instead of euclidean distance. But after dividing the problem in grids, time taken by distance calculation was manageable so I stuck with euclidean distance.
+Through trial and error, I found that on my laptop with 4 GB ram, a 6 by 6 grid in the above format was manageable for both creating distance matrix and for LKH.
+I ran LKH on resulting distance matrices and joined the individual solutions.
+I joined the resulting solutions in different combination for both paths so as to avoid common paths.
+I got 7,415,334 with this method.
+I tried time limit on LKH algorithm. From 40,000 seconds I reduced it to 300, 20, 5 ,1 seconds but It made the results slightly worse.
+Mingle
+The solution above was good but It could have been better. The problem was that the first path was so good that the second path struggled to find good path. The difference between the two paths was big.
+Path1 ~= 6.2MPath2 ~= 7.4MFor a long time I thought this would require either solving both paths simultaneously or using genetic algorithm or similar algorithm to combine both paths. Both were pretty difficult to implement.Then I got a simple idea. My map was divided in 36 squares. If I combine 18 squares of first path and 18 squares of second path, I will have a path whose distance will be approximately average of the two paths.I tried this trick and used different combinations of the two paths squares and got the best score of 6,807,498
+For new path1, select blue squres from old path1 and grey square from old path2
+Use remaining squares for new path2.Remove cross lines
+My squares were joined in a zigzag manner. I removed the zig-zag lines for a further improvement.
+I scored 6,744,291 which was my best score.Another idea was to make end point of one square and the beginning point of next square as near as possible but I couldn’t implement the idea before deadline.My score was around 200,000 points away from the first place which was 6,526,972. Not bad!
+Public repo: https://bitbucket.org/hrishikeshio/traveling-santa (More documentation for source code coming soon)
+Originally published at www.blogicious.com on January 19, 2013.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Blockchain, cryptocurrencies and the decentralised future

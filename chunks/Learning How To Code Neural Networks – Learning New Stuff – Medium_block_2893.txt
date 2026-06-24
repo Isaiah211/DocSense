@@ -1,0 +1,2 @@
+The Kahn Academy calculus courses seems like a good way to start, though I haven’t used them myself, as I took calculus on university. The three best sources I found for understanding backpropagation are these:
+You should definitely code along while you’re reading the articles, especially the two first ones. It’ll give you some sample code to look back at when you’re confused in the future.

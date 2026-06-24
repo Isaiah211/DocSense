@@ -1,0 +1,2 @@
+This is something very important to have in mind, deep learning is representation learning using different kinds of neural networks and optimize the hyperparameters of the net to get (learn)the best representation for our data. This wouldn’t be possible without the amazing breakthroughs that led us to the current state of Deep Learning. Here I name some of them:
+Learning representations by back-propagating errors by David E.

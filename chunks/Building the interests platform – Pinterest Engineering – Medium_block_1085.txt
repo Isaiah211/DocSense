@@ -1,0 +1,2 @@
+In order to understand the quality of our efforts, we gave a 50,000 term subset of our collection to a third party vendor which used crowdsourcing to rate our data. To be rigorous, we composed a set of four criteria by which users would evaluate candidate Interests terms:
+- Is it English? - Is it a valid phrase in grammar?

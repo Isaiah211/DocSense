@@ -1,0 +1,1 @@
+Their CUDA toolkit is deeply entrenched. It works with all major DL frameworks — Tensoflow, Pytorch, Caffe, CNTK, etc. As of now, none of these work out of the box with OpenCL (CUDA alternative), which runs on AMD GPUs.

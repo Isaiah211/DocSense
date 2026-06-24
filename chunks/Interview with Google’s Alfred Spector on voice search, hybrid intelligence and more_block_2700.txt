@@ -1,0 +1,2 @@
+One also has to have careful regard for privacy issues.”
+By collecting enormous amounts of data, Google hopes to create a powerful database that eventually will understand the relationship between words (for example, ‘a dog is an animal’ and ‘a dog has four legs’). The challenge is to try to establish these relationships automatically, using tons of information, instead of having experts teach the system. This database would then improve search results and language translations because it would have a better understanding of the meaning of the words.

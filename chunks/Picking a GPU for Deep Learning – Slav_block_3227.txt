@@ -1,0 +1,1 @@
+The main computational module in a computer is the Central Processing Unit (better known as CPU). It is designed to do computation rapidly on a small amount of data. For example, multiplying a few numbers on a CPU is blazingly fast.

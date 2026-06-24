@@ -1,0 +1,2 @@
+It’ll give you some sample code to look back at when you’re confused in the future. Plus, I can’t really emphasize this enough:
+The third article is also fantastic, but I’ve used this more as a wiki than a plain tutorial, as it’s actually an entire book. It contains thorough explanations all the important concepts in neural networks.

@@ -1,0 +1,1 @@
+Sam Abrahams wrote up excellent instructions for doing this, so I won’t cover them again here. After we install our dependencies, we run the program and... crap!

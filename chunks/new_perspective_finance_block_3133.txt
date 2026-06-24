@@ -1,0 +1,10 @@
+As long as
+flat monthly fees are the dominant form of pricing, meaning that the marginal cost of sending out traffic
+is zero, organisations have little incentive to protect their traffic and so DDoS attacks cannot be
+effectively prevented; (Geng and Whinston 2000). Unfortunately, such events are still likely to happen
+in near future as it is repeatedly reported that more sophisticated DDoS attack tools are proliferating
+on the internet, while at the same time there is no strong signal that the troublesome flat rate pricing
+scheme will be modified. 4.3 Virtual private networks and service level agreements
+In the business-to-business realm, more and more financial institutions are setting up Virtual Private
+Networks3
+ (VPNs) over the internet to cut costs for intra-organisational transactions.

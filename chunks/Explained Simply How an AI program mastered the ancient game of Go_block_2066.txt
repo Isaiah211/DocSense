@@ -1,0 +1,1 @@
+But DeepMind compared how both of these options do. You can also do a mixture of both these options. We will learn about this “mixing parameter” a little bit later, so make a mental note of this concept!

@@ -1,0 +1,1 @@
+3. Idea: Better activation functions. This mean, better ways of approximating the functions faster leading to faster training process.

@@ -1,0 +1,1 @@
+Now we come to Go. Just believe me that this game is much more open-ended, and if you tried the Deep Blue strategy on Go, you wouldn’t be able to play well. There would be SO MANY positions to look at at each step that it would simply be impractical for a computer to go through that hell.

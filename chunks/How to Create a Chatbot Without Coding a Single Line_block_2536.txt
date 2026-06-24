@@ -1,0 +1,1 @@
+It has a huge list of integrations. As a consequence, it’s more complex than Chatfuel, but also a lot more flexible. Pretty amazing is their support on Messenger, Slack, SMS and Telegram.

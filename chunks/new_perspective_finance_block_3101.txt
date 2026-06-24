@@ -1,0 +1,5 @@
+Recently, some electronic bond trading systems with multiple dealers
+have been launched. The competition between multiple dealers usually leads to narrower bid-ask
+spread and better prices for investors. It is interesting that as the bond market progresses in adopting IT, rather than seeing a single, growing
+electronic bond market, many companies are developing their own electronic bond exchanges and
+these systems are competing with each other.

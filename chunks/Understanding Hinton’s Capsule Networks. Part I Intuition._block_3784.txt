@@ -1,0 +1,1 @@
+It incorporates relative relationships between objects and it is represented numerically as a 4D pose matrix. When these relationships are built into internal representation of data, it becomes very easy for a model to understand that the thing that it sees is just another view of something that it has seen before. Consider the image below.

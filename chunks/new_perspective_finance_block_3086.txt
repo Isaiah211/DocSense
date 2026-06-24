@@ -1,0 +1,5 @@
+A third possible reason is that markets may differentiate from each other by different trading
+mechanisms that may fit different demands. Generally speaking, continuous markets can better serve
+time-critical orders than call markets, albeit normally at a higher cost. As an example, Hendershott and
+Mendelson (2000) show that less patient traders will go to dealer markets for instant execution, while
+more patient traders will first try crossing networks for a possibly better price.

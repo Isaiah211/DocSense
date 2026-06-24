@@ -1,0 +1,1 @@
+Humans have two major advantages when compared with machines. One is stereoscopic vision, the second is an almost infinite supply of training data (an infant of 5 years has had approximately 2.7B Images sampled at 30fps). To mimic human level performance scientists broke down the visual perception task into four different categories.

@@ -1,0 +1,1 @@
+This probability can be stored for each of those actions. Here they call it “prior probability”, and they obviously use it while selecting which actions to explore. So basically, to decide whether or not to explore a particular move, you consider two things: First, by playing this move, how likely are you to win?

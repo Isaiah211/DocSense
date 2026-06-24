@@ -1,0 +1,1 @@
+After augmentation, the augmented images looks as follows. These images are generated using kera’s generator, and unlimited number of images can be generated from one image. I used Lambda layer in keras to normalize intensities between -.5 and .5.

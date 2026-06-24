@@ -1,0 +1,1 @@
+This level is particularly interesting if there are many parameters to optimize and you have a good strategy to optimize them, like Bayesian optimization with Gaussian Processes. The only communication between runs are hyperparameter settings and test evaluation metrics. Finally, the algorithm training itself can be distributed.

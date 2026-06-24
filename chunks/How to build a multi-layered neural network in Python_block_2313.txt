@@ -1,0 +1,1 @@
+So for a more comprehensive explanation, it’s worth looking back at my earlier blog post. What’s different this time, is that there are multiple layers. When the neural network calculates the error in layer 2, it propagates the error backwards to layer 1, adjusting the weights as it goes.

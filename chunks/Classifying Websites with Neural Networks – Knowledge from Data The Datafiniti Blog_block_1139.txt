@@ -1,0 +1,1 @@
+This information would help us fill out our product search. We don’t actually use neural networks for doing this. Neural networks are better-suited toward classification problems, and extracting data from a web page is a different type of problem.

@@ -1,0 +1,1 @@
+I finished 65th out of 356 total competitors. I did some research on packaged TSP solvers and top TSP algorithms. I found concorde but I could not get it to work on my ubuntu machine.

@@ -1,0 +1,1 @@
+This contains the Agent class (a player in the game). Each player is initialised with its own neural network and Monte Carlo Search Tree. The simulate method runs the Monte Carlo Tree Search process.

@@ -1,0 +1,1 @@
+Second, you can see another neuron at the very bottom (labelled 176). This is called a hidden neuron, and represents a neuron that is neither input nor output. They appear in crAIg’s brain for added complexity as he evolves.

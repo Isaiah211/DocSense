@@ -1,0 +1,1 @@
+Locality determines what inputs from the previous layer the outputs get to see. The receptive field determines what area of the original input to the entire network the output gets to see. The idea of a strided convolution is that we only process slides a fixed distance apart, and skip the ones in the middle.

@@ -1,0 +1,1 @@
+In the early days of multilayer perceptrons, we originally thought that having just one input layer, one hidden layer, and one output layer was sufficient. It makes sense, right? Given some numbers, you just need one set of computations, and then you get an output.

@@ -1,0 +1,7 @@
+Note that in each iteration we process the entire training set simultaneously. Therefore our variables are matrices, which are grids of numbers. Here is a complete working example written in Python:
+Also available here: https://github.com/miloharper/simple-neural-network
+Final thoughts
+Try running the neural network using this Terminal command:
+python main.py
+You should get a result that looks like:
+We did it!

@@ -1,0 +1,1 @@
+We will learn about this “mixing parameter” a little bit later, so make a mental note of this concept! Well, your single neural network trying to approximate the optimal value function is EVEN BETTER than doing thousands of mental simulations using a rollout policy! Foma really kicked ass here.

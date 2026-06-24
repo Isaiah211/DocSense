@@ -1,0 +1,1 @@
+The answer is, yes! But before we get into the magic of making that happen, we need to reflect upon some basic questions. When you train a machine learning model, what you’re really doing is tuning its parameters such that it can map a particular input (say, an image) to some output (a label).

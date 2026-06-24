@@ -1,0 +1,7 @@
+3.8 Electronic money
+As with all new terms related to the internet, e-money refers to various items in different contexts. But
+most people regard the two major forms of e-money as the smart or stored value card (SVC), and
+network money or so-called cybermoney. A smartcard is a physical card with an embedded computer
+chip or magnetic stripe that stores the owner’s value, while network money is stored in pure electronic
+form as 0’s and 1’s in computers and can be transferred over telecommunication networks such as the
+internet.

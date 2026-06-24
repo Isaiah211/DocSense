@@ -1,0 +1,3 @@
+Typing a query:
+The query is understood — you can add / edit:
+With this new user interface, changing queries (“refining and pivoting”) is very natural — add tags, or take away tags. Widgets were contextually integrated using the auto-suggest drop-down menu, so they are naturally suggested at the right time (e.g. after you said you were looking for a hotel, we help you choose when, how many rooms etc.).

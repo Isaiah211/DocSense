@@ -1,0 +1,1 @@
+The weight the preference of each trip characteristic has on the acceptance decision is the coefficient that comes out of the logistic regression. To improve the prediction, we include a few more geographic and host specific features in the logistic regression. This flow chart summarizes the modeling technique.

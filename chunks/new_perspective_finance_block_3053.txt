@@ -1,0 +1,6 @@
+However, the two mechanisms are not fully comparable in the
+sense that the price discovery function of the market provides the negotiators with valuable
+information. The information free-riding problem can be so serious as to undermine the market
+mechanism. As more traders directly negotiate with each other and fewer use the market intermediary,
+the prices in the market are less revealing and informative, driving the spreads higher and perhaps
+leading to a collapse.

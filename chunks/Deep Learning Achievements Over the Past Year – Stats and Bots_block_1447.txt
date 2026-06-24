@@ -1,0 +1,1 @@
+If you remove the dependence of the network on the input text and leave only the dependence on the previously generated phoneme, then the network will generate phonemes similar to the human language, but they will be meaningless. Hear the example of the generated voice. This same model can be applied not only to speech, but also, for example, to creating music.

@@ -1,0 +1,2 @@
+A quick look at the S&P time series using pyplot.plot(data['SP500']):
+Note: This is actually the lead of the S&P 500 index, meaning, its value is shifted 1 minute into the future. This operation is necessary since we want to predict the next minute of the index and not the current minute. The dataset was split into training and test data.

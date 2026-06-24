@@ -1,0 +1,1 @@
+Foma really kicked ass here. When they replaced the fast rollout policy with the twice-as-accurate (but slow) RL policy Lusha, and did thousands of simulations with that, it did better than Foma. But only slightly better, and too slowly.

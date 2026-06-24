@@ -1,0 +1,1 @@
+Free. Statistical Machine Learning (Larry Wasserman/Carnegie Mellon University): Likely the most advanced course in this guide. A follow-up to Carnegie Mellon’s Machine Learning course.

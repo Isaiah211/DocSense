@@ -1,0 +1,1 @@
+Briefly, researchers made an autoregressive full-convolution WaveNet model based on previous approaches to image generation (PixelRNN and PixelCNN). The network was trained end-to-end: text for the input, audio for the output. The researches got an excellent result as the difference compared to human has been reduced by 50%.

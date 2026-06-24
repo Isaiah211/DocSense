@@ -1,0 +1,1 @@
+In our A/B testing the model showed about a 3.75% increase in booking conversion, resulting in many more matches on Airbnb. In this blog post I outline the process that brought us to this model. I kicked off my research into hosts’ acceptances by checking if other hosts maximized their occupancy like my friend.

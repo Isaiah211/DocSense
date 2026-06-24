@@ -1,0 +1,1 @@
+If you are a seasoned programmer who knows many languages, that might not be a big deal. However, if you are relatively new to programming then this detour may cost you a lot of time. The Udacity course is taught in a modern Python environment with popular frameworks like Sklearn, Tensorflow, and Keras.

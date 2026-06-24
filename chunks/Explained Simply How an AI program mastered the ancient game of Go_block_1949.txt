@@ -1,0 +1,1 @@
+Beyond that you don’t need to know any physics or advanced math or anything. This will make it more approachable for people who only just now started learning about machine learning or neural networks. And especially for those who don’t use English as their first language (which can make it very difficult to read such papers).

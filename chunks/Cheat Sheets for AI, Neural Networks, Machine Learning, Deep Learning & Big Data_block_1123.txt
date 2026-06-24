@@ -1,0 +1,2 @@
+pyplot is a matplotlib module which provides a MATLAB-like interface.[6] matplotlib is designed to be as usable as MATLAB, with the ability to use Python, with the advantage that it is free. >>> If you like this list, you can let me know here. <<<
+Stefan is the founder of Chatbot’s Life, a Chatbot media and consulting firm.

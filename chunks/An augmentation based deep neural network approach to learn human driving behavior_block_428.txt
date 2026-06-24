@@ -1,0 +1,1 @@
+In general large epoch size and training with more data results in better performance, but in this case any time I got beyond 10 epochs, the car simply drove off the track. Although all the image augmentation and tweaks seem reasonable n0w, I did not think of them apriori. I hope others find this post useful, and get inspried to try novel things.

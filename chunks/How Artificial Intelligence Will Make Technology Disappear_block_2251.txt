@@ -1,0 +1,1 @@
+It’s not yet perfect, but it’s a first step towards our long term vision — and it certainly saves a lot of time, swipes and taps! One thing in particular that we are really proud of is that we were able to build privacy by design (full post coming soon!). It is a tremendous engineering challenge, but we are now running all our algorithms directly on the device.

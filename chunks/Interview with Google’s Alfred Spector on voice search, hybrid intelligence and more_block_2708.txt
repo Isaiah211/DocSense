@@ -1,0 +1,2 @@
+“It’s an example of open collaboration,” Spector says. “If it’s public, we can crawl it to make it searchable and easily visible to people. We hired one of the best database researchers in the world, Alon Halevy, to lead it.”
+Google is aiming to make more information available more easily across multiple devices, whether it’s images, videos, speech or maps, no matter which language we’re using.

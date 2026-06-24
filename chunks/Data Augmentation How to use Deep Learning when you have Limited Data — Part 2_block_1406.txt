@@ -1,0 +1,1 @@
+I’ve written a TensorFlow implementation here, which is based on this implementation. Once you’ve cloned my repo, you can get the dataset from here, and vgg19.npy (used for transfer learning) from here. You can now run the model to verify the performance.

@@ -1,0 +1,1 @@
+As such, they’re often fickle (avg. 90-day retention for apps is 35%). Returning expected value out of the box is key to building habits (hyperparameter optimisation can help).

@@ -1,0 +1,1 @@
+Whether or not an input feature falls within this “roughly same location”, gets determined directly by whether it’s in the area of the kernel that produced the output or not. This means the size of the kernel directly determines how many (or few) input features get combined in the production of a new output feature. This is all in pretty stark contrast to a fully connected layer.

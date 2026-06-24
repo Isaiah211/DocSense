@@ -1,0 +1,3 @@
+We are now ready to build our neural network model, we will save this as a json structure to represent our synaptic weights. You should experiment with different ‘alpha’ (gradient descent parameter) and see how it affects the error rate. This parameter helps our error adjustment find the lowest error rate:
+synapse_0 += alpha * synapse_0_weight_update
+We use 20 neurons in our hidden layer, you can adjust this easily.

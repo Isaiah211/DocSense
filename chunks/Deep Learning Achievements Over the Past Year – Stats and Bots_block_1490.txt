@@ -1,0 +1,1 @@
+One of the tasks on Kaggle is related to this: the participants are encouraged to create universal attacks/defenses, which are all eventually run against each other to determine the best. Why should we even investigate these attacks? First, if we want to protect our products, we can add noise to the captcha to prevent spammers from recognizing it automatically.

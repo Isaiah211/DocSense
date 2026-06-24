@@ -1,0 +1,1 @@
+PCIe Lanes (Updated): The caveat to using multiple video cards is that you need to be able to feed them with data. For this purpose, each GPU should have 16 PCIe lanes available for data transfer. Tim Dettmers points out that having 8 PCIe lanes per card should only decrease performance by “0–10%” for two GPUs.

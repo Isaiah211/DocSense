@@ -1,0 +1,1 @@
+At Netflix, our near-real-time event flow is managed through an internal framework called Manhattan. Manhattan is a distributed computation system that is central to our algorithmic architecture for recommendation. It is somewhat similar to Twitter’s Storm, but it addresses different concerns and responds to a different set of internal requirements.

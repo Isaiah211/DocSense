@@ -1,0 +1,7 @@
+To understand this last one, consider that:
+The gradient of the Sigmoid curve, can be found by taking the derivative:
+So by substituting the second equation into the first equation, the final formula for adjusting the weights is:
+There are alternative formulae, which would allow the neuron to learn more quickly, but this one has the advantage of being fairly simple. Constructing the Python code
+Although we won’t use a neural network library, we will import four methods from a Python mathematics library called numpy. These are:
+For example we can use the array() method to represent the training set shown earlier:
+The ‘.T’ function, transposes the matrix from horizontal to vertical.

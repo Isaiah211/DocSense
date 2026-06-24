@@ -1,0 +1,1 @@
+schedule messages, user lists, etc. Manychat allows broadcast content from RSS feeds. Additionally, it’s possible to link to yahoo pipelines and broadcast everything you want.

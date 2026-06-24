@@ -1,0 +1,1 @@
+Designers should be able to talk with software developers about what is possible, how to prepare, and what outcomes to expect. Below are a few example applications that should serve as inspiration for these conversations. Machine learning can help create user-centric products by personalizing experiences to the individuals who use them.

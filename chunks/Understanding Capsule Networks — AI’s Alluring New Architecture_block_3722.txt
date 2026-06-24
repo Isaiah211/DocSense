@@ -1,0 +1,1 @@
+With a single pixel, we could only store the confidence of whether or not we found an edge in that spot. The higher the number, the higher the confidence. With a capsule we can store 8 values per location!

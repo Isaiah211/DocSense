@@ -1,9 +1,0 @@
-This is a sample document for DocSense.
-It contains a few sentences about finances and notes.
-
-March 2025 transactions:
-- Paid $45.00 to Transit on 2025-03-02
-- Received $2400.00 from Employer on 2025-03-01
-
-End of sample.
-Salary deposit note: payroll arrived on time and the budget looks stable.

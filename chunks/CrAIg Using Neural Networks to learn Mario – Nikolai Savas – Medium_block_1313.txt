@@ -1,0 +1,1 @@
+I won’t go into the gritty details of how the equation works, as it is well explain in section 3.3 of the original paper, as well as here in crAIg’s code. If a genome is too different from any of the candidate genomes, it is placed in its own species. Using this process, all of the genomes in the generic pool are re-placed into species.

@@ -1,0 +1,1 @@
+It’s simple to create different logic blocks and link them to respective triggers. It offers great plugins e.g. human take-over and a minimalistic AI.

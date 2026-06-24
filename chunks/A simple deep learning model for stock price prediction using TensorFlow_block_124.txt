@@ -1,0 +1,2 @@
+This approach allows the user to specify mathematical operations as elements in a graph of data, variables and operators. Since neural networks are actually graphs of data and mathematical operations, TensorFlow is just perfect for neural networks and deep learning. Check out this simple example (stolen from our deep learning introduction from our blog):
+In the figure above, two numbers are supposed to be added.

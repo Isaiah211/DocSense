@@ -1,0 +1,1 @@
+Research for better activation functions is still ongoing. Hope you got the idea behind activation function, why they are used and how do we decide which one to use. From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.

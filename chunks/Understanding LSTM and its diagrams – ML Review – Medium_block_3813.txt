@@ -1,0 +1,1 @@
+You know what data is valuable to remember for later use and what needs to be forgotten when it is useless. Theoretically the naively connected neural network, so called recurrent neural network, can work. But in practice, it suffers from two problems: vanishing gradient and exploding gradient, which make it unusable.

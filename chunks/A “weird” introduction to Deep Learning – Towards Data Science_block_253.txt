@@ -1,0 +1,1 @@
+In the context of Machine Learning, the word “learning” describes an automatic search process for better representations of the data you are analyzing and studying (please have this in mind, is not making a computer learn). This is a very important word for this field, REP-RE-SEN-TA-TION. Don’t forget about it.

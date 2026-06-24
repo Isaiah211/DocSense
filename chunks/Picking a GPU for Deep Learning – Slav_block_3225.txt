@@ -1,0 +1,1 @@
+This is opposed to having to tell your algorithm what to look for, as in the olde times. However, often this means the model starts with a blank state (unless we are transfer learning). To capture the nature of the data from scratch the neural net needs to process a lot of information.

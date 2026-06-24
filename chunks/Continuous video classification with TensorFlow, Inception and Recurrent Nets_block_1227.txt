@@ -1,0 +1,1 @@
+Awesome! We have shown that taking both spatial and temporal features into consideration improves our accuracy significantly. Next, we’ll want to try this method on a more complex dataset, perhaps using multiple classes of TV programming, and with a whole whackload more data to train on.

@@ -1,0 +1,2 @@
+Not all text classification scenarios are the same: some predictive situations require more confidence than others. The last classification shows some internal details:
+Notice the bag-of-words (bow) for the sentence, 2 words matched our corpus. The neural-net also learns from the 0’s, the non-matching words.

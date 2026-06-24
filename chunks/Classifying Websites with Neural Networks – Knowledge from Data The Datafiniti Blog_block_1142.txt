@@ -1,0 +1,1 @@
+We may go into the actual metrics and methodology for developing them in a separate post! We feel pretty good about our ability to classify and extract product data. The extraction part could be better, but it’s steadily being improved.

@@ -1,0 +1,1 @@
+96.58%! That’s an error reduction of 3.28 percentage points (or 49%!) from our CNN-only benchmark. Awesome!

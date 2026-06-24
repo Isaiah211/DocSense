@@ -1,0 +1,4 @@
+Qubole (tutorial Keras + Spark):
+6. Intel Corporation: BigDL (Distributed Deep Learning Library for Apache Spark)
+7. TensorFlow and Spark on Google Cloud:
+As I’ve said before one of the most important moments for this field was the creation and open sourced of TensorFlow.

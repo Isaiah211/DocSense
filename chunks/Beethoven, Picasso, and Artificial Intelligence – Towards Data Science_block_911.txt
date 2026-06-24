@@ -1,0 +1,1 @@
+Each of the shortcoming mentioned have actually been addressed and, to an extent, solved. Let’s look at how this is done. Sketch-RNN is a recurrent neural network model developed by Google.

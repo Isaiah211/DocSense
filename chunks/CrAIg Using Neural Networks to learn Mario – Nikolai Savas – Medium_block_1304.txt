@@ -1,0 +1,2 @@
+This new synapse is given a random weight. 3. Mutate Add Node
+This is the trickiest of the mutations.

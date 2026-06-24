@@ -1,0 +1,1 @@
+However, since we can go deeper, the layers do not need to be as wide which can compensate. Here’s are the complete notebooks if you want to play with the code: fully-connected highway repo and convolutional highway repo. Follow me on Twitter for more posts like these.

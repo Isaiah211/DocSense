@@ -1,0 +1,2 @@
+LeNet5 explained that those should not be used in the first layer, because images are highly spatially correlated, and using individual pixel of the image as separate input features would not take advantage of these correlations. LeNet5 features can be summarized as:
+In overall this network was the origin of much of the recent architectures, and a true inspiration for many people in the field. In the years from 1998 to 2010 neural network were in incubation.

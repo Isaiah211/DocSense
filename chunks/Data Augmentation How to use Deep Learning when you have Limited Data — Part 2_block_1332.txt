@@ -1,0 +1,1 @@
+We account for these situations by training our neural network with additional synthetically modified data. Yes. It can help to increase the amount of relevant data in your dataset.

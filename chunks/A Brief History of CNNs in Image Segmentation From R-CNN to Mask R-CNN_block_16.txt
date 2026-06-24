@@ -1,0 +1,1 @@
+His insight was simple — Why not run the CNN just once per image and then find a way to share that computation across the ~2000 proposals? This is exactly what Fast R-CNN does using a technique known as RoIPool (Region of Interest Pooling). At its core, RoIPool shares the forward pass of a CNN for an image across its subregions.

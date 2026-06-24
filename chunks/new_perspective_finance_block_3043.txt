@@ -1,0 +1,4 @@
+Instead of asking whether market consolidation is beneficial, we now study the empirical issue
+of whether there will be entry in the “market” for financial markets and what the equilibrium number of
+markets will be, in other words, we ask whether one global market will emerge. It may also shed light on the issue of liquidity. Both intermediation theory and microstructure theory
+study liquidity but in isolated approaches.

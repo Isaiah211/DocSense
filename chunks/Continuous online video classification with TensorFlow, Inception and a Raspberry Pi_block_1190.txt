@@ -1,0 +1,2 @@
+We have to make some modifications to the code to classify in real time. The final result looks like this:
+We also have to get TensorFlow running on the Pi. Sam Abrahams wrote up excellent instructions for doing this, so I won’t cover them again here.

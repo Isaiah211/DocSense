@@ -1,0 +1,1 @@
+A new MobileNets architecture is also available since April 2017. This architecture uses separable convolutions to reduce the number of parameters. The separate convolution is the same as Xception above.

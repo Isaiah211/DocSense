@@ -1,0 +1,3 @@
+Episode 2: Vegas Slot Machines or Make It Dead Simple
+We realized we have to focus on the first query, and give people some cues about what’s possible. And came up with this interface:
+These contextual spinners turned interaction from a totally open-ended query to something closer to multiple-choice questions. In essence these were interchangeable templates, where you could get ideas for “what to search for” as well as easily input your query.

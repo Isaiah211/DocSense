@@ -1,0 +1,2 @@
+The augmented prompt allows the large language models to generate an accurate answer to user queries. Update external data
+The next question may be—what if the external data becomes stale? To maintain current information for retrieval, asynchronously update the documents and update embedding representation of the documents.

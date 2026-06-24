@@ -1,0 +1,1 @@
+While we could try and develop a complicated set of rules to account for all the conditions that perfectly identify a product page, doing so would be extremely time consuming, and frankly, incredibly boring work. Instead, we can try using a classical technique out of the artificial intelligence handbook: neural networks. Here’s a quick primer on neural networks.

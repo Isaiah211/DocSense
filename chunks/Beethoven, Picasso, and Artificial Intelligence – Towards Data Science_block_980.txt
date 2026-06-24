@@ -1,0 +1,1 @@
+AI needs to be trained to be able to perform as expected. That training has a huge impact on the results we get. Shouldn’t we want to train our machines in the most beneficial way possible.

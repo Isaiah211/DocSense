@@ -1,0 +1,1 @@
+Then you can choose moves which will keep leading you to winning states. All of a sudden Foma is your partner in crime, not an annoying friend. Here, Foma behaves as your optimal value function v*(s).

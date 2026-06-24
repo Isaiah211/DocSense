@@ -1,0 +1,4 @@
+We need a weight matrix and a bias vector then we’ll compute the following for the layer output:
+Here’s what a dense layer looks like as a graph in TensorBoard:
+For the highway layer what we want are two “gates” that control the flow of information. The “transform” gate controls how much of the activation we pass through and the “carry” gate controls how much of the unmodified input we pass through. Otherwise, the layer largely resembles a dense layer with a few additions:
+What happens is that when the transform gate is 1, we pass through our activation (H) and suppress the carry gate (since it will be 0).

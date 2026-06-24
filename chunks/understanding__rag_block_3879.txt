@@ -1,0 +1,1 @@
+This is a common challenge in data analytics—different data-science approaches to change management can be used. What is the difference between Retrieval-Augmented Generation and semantic search? Semantic search enhances RAG results for organizations wanting to add vast external knowledge sources to their LLM applications.

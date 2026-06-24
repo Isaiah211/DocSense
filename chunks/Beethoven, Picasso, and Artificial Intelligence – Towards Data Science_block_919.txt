@@ -1,0 +1,1 @@
+In their paper regarding adversarial networks generating art, several researchers discuss a new way of generating art through CANs. The idea is that the CAN has two adversary networks. One, the generator, has no access to any art.

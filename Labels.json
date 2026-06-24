@@ -1,0 +1,28 @@
+{
+    "candidate_labels": [
+        {
+            "id": "Tech",
+            "search_phrases": ["software engineering", "relational databases", "system infrastructure", "computer programming computing"]
+        },
+        {
+            "id": "AI",
+            "search_phrases": ["artificial intelligence", "machine learning algorithms", "deep learning neural networks", "automated conversational chatbots bots"]
+        },
+        {
+            "id": "Finance",
+            "search_phrases": ["fintech investments", "cryptocurrency banking", "asset strategies", "stock market economics trading portfolio"]
+        },
+        {
+            "id": "Sports",
+            "search_phrases": ["athletics fitness training", "team sports competitions", "games matches olympics athletes"]
+        },
+        {
+            "id": "Education",
+            "search_phrases": ["academic study courses", "learning systems teaching", "schools classrooms universities textbooks"]
+        },
+        {
+            "id": "Management",
+            "search_phrases": ["project operations leadership", "agile corporate strategy", "business management workflow planning"]
+        }
+    ]
+}

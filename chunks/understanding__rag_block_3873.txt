@@ -1,0 +1,2 @@
+Retrieve relevant information
+The next step is to perform a relevancy search. The user query is converted to a vector representation and matched with the vector databases. For example, consider a smart chatbot that can answer human resource questions for an organization.

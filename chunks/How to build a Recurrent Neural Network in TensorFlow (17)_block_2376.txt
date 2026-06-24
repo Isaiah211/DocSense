@@ -1,0 +1,1 @@
+You are encouraged to look up more theory on the Internet, there are plenty of good explanations. We will build a simple Echo-RNN that remembers the input data and then echoes it after a few time-steps. First let’s set some constants we’ll need, what they mean will become clear in a moment.

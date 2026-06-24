@@ -1,0 +1,1 @@
+And the kernels are normally larger to allow for more wiggle room (our kernels will be 9x9). This is what one of the kernels looked like after training the model. It’s not very obvious, but this is just a larger version of our edge detector that is more robust and only finds edges that go from bright to dark.

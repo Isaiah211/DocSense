@@ -1,0 +1,3 @@
+If this sounds confusing, see the footnotes. Finally, instead of optimizing for just one of these things, they optimize for both simultaneously: the style of one image, and the content of another image. Here is an attempt to recreate the results from the paper using Kai’s implementation:
+Not quite the same, and possibly explained by a few differences between Kai’s implementation and the original paper:
+As a final comparison, consider the images Andrej Karpathy posted from his own implementation.

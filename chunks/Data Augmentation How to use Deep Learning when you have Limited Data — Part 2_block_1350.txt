@@ -1,0 +1,1 @@
+In this section, we present some basic but powerful augmentation techniques that are popularly used. Before we explore these techniques, for simplicity, let us make one assumption. The assumption is that, we don’t need to consider what lies beyond the image’s boundary.

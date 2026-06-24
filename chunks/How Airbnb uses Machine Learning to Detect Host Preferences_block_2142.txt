@@ -1,0 +1,1 @@
+And maybe hosts in big markets, like my friend, are different from hosts in smaller markets. Indeed, when I looked at listings from big and small markets separately, I found that they behaved quite differently. Hosts in big markets care a lot about their occupancy — a request with no gaps is almost 6% likelier to be accepted than one with 7 gap nights.

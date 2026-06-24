@@ -1,0 +1,1 @@
+We also want to pull out the actual structured data! In particular, we’re interested in product name, price, and any unique identifiers (e.g., UPC, EAN, & ISBN). This information would help us fill out our product search.

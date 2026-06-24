@@ -1,0 +1,2 @@
+The final piece will be a summary of those articles, plus the best online courses for other key topics such as data wrangling, databases, and even software engineering. If you’re looking for a complete list of Data Science online courses, you can find them on Class Central’s Data Science and Big Data subject page. If you enjoyed reading this, check out some of Class Central’s other pieces:
+If you have suggestions for courses I missed, let me know in the responses!

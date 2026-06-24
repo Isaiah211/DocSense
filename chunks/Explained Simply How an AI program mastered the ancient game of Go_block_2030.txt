@@ -1,0 +1,1 @@
+Just regular supervised learning. Here they use “stochastic gradient ASCENT”. Well, this is an algorithm for backpropagation.

@@ -1,0 +1,1 @@
+nppsMulC_32f_I, nppsExp_32f_I. Calling the npps functions repeatedly took 10x more system time on the cg1 instance than in the Lenovo S20. While we tried to uncover the root cause, we worked our way around the issue by reimplementing the npps functions using the customized cuda kernel, e.g.

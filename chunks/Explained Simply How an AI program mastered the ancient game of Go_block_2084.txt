@@ -1,0 +1,2 @@
+But in the case of the value function (which you would remember uses a strong player to approximate a perfect player), training Foma using the RL policy works better than training her with the SL policy. “Doing all this evaluation takes a lot of computing power. We really had to bring out the big guns to be able to run these damn programs.”
+Self explanatory.

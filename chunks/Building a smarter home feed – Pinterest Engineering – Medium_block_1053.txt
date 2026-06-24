@@ -1,0 +1,1 @@
+Each pool is a priority queue sorted on score and belongs to a single user. Newly added Pins mix with those added before, allowing the highest quality Pins to be accessible over time at the front of the queue. Pools can be implemented in a variety of ways so long as the priority queue requirement is met.

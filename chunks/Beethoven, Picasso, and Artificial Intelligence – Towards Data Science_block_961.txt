@@ -1,0 +1,1 @@
+To understand handwritings or drawings, you don’t just look at what the person drew. You look at how they actually drew it” [1]. It is presented in the form of a game, with the user drawing a picture of an object chosen by the application.

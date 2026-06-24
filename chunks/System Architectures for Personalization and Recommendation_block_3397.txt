@@ -1,0 +1,1 @@
+These actions can be related to clicks, browsing, viewing, or even the content of the viewport at any time. Events can then be aggregated to provide base data for our algorithms. Here we try to make a distinction between data and events, although the boundary is certainly blurry.

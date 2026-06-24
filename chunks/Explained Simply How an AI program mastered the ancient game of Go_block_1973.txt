@@ -1,0 +1,1 @@
+and it got so much better that it reached superhuman levels. THIS improved variation of MCTS is “AlphaGo”, the AI that beat Lee Sedol and went down in AI history as one of the greatest breakthroughs ever. So essentially, AlphaGo is simply an improved implementation of a very ordinary computer science algorithm.

@@ -1,0 +1,6 @@
+Specifically this playlists:
+— The Math of Intelligence:
+— Intro to Deep Learning:
+3. François Chollet’s book: Deep Learning with Python (and R):
+3. IBM Cognitive Class:
+5.

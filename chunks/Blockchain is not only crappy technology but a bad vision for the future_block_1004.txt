@@ -1,0 +1,3 @@
+It’s a powerful idea. So in summary, here’s what blockchain-the-technology is: “Let’s create a very long sequence of small files — each one containing a hash of the previous file, some new data, and the answer to a difficult math problem — and divide up some money every hour among anyone willing to certify and store those files for us on their computers.”
+Now, here’s what blockchain-the-metaphor is: “What if everyone keeps their records in a tamper-proof repository not owned by anyone?”
+An illustration of the difference: In 2006, Walmart launched a system to track its bananas and mangoes from field to store. In 2009 they abandoned it because of logistical problems getting everyone to enter the data, and in 2017 they re-launched it (to much fanfare) on blockchain.

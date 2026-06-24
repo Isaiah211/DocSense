@@ -1,0 +1,3 @@
+ReLU is an activation function that takes in a value. If it’s negative it becomes zero, and if it’s positive it stays the same. In code:
+And as a graph:
+We apply this function to all of the outputs of our convolutions.

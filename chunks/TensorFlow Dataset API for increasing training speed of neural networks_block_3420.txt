@@ -1,0 +1,1 @@
+Dataset.from_tensor_slices method takes placeholders with the same size of the 0th dimension element and returns dataset object. Once the dataset is in TF, you can process it, for example, you can use .map(f) function which can process the data. But we already preprocess our dataset and all we need to do is apply batching and, maybe, shuffling.

@@ -1,0 +1,1 @@
+According to me, LSTM is like a model which has its own memory and which can behave like an intelligent human in making decisions. Thank you again and happy machine learning! From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.

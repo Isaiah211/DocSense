@@ -1,0 +1,1 @@
+Since image segmentation requires pixel level specificity, unlike bounding boxes, this naturally led to inaccuracies. The authors were able to solve this problem by cleverly adjusting RoIPool to be more precisely aligned using a method known as RoIAlign. Imagine we have an image of size 128x128 and a feature map of size 25x25.

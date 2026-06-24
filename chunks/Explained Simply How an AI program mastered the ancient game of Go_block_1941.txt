@@ -1,0 +1,1 @@
+Go is an ancient board game which has so many possible moves at each step that future positions are hard to predict — and therefore it requires strong intuition and abstract thinking to play. Because of this reason, it was believed that only humans could be good at playing Go. Most researchers thought that it would still take decades to build an AI which could think like that.

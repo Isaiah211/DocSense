@@ -1,0 +1,1 @@
+That has already been accounted for, as you see that the init_state placeholder has batch_size rows. Next let’s build the part of the graph that does the actual RNN computation. Notice the concatenation on line 6, what we actually want to do is calculate the sum of two affine transforms current_input * Wa + current_state * Wb in the figure below.

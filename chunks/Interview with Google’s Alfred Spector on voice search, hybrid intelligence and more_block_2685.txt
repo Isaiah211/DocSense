@@ -1,0 +1,2 @@
+“One idea is to take all of the voices that the system hears over time into one huge pan-human voice model. So, on the one hand we have a voice that’s higher and with an English accent, and on the other hand my voice, which is deeper and with an American accent. They both go into one model, or it just becomes personalised to the individual; voice scientists are a little unclear as to which is the best approach.”
+The research department is also making progress in machine translation.

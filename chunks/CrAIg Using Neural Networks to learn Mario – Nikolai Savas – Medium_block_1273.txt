@@ -1,0 +1,1 @@
+Above is the second part of this project, a Node.js server that displays the current state of crAIg’s brain, or what he is “thinking”. Let’s go through it quickly to understand what it’s representing. On the left you see a big grid of squares.

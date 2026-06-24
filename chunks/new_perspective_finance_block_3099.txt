@@ -1,0 +1,5 @@
+Electronic information dissemination
+systems such as GovPx and FIPS (Fixed-Income Pricing System) were introduced in early 1990s. Some companies, especially investment banks, have opened their single dealer system for bond
+trading. For example, Credit Suisse First Boston’s GovTrade system started in 1992 and investors can
+access quote information and trade bonds such as treasury securities, repos and commercial paper
+through Bloomberg’s terminals.

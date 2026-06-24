@@ -1,0 +1,1 @@
+Labelling of images: Labelling images is probably the hardest and the most time-consuming step in any supervised machine learning pipeline, but at Nanonets we have this covered for you. We have in-house experts that have multiple years of working with aerial images. They will annotate your images with high precision and accuracy to aid better model training.

@@ -1,0 +1,3 @@
+I’ll pull out a couple interesting bits here:
+In order to turn our discrete predictions or features into a sequence, we loop through each frame in chronological order, add it to a queue of size N, and pop off the first frame we previously added. Here’s the gist:
+N represents the length of our sequence that we’ll pass to the RNN. We could choose any length for N, but I settled on 40.

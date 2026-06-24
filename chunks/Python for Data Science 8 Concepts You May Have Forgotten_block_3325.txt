@@ -1,0 +1,1 @@
+Merge combines multiple dataframes on specific, common columns that serve as the primary key. Join, much like merge, combines two dataframes. However, it joins them based on their indices, rather than some specified column.

@@ -1,0 +1,1 @@
+It’s both fun and an extremely effective way of learning. One of the articles I also learned a lot from was A Neural Network in 11 Lines Of Python by IAmTrask. It contains an extraordinary amount of compressed knowledge and concepts in just 11 lines.

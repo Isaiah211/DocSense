@@ -1,0 +1,1 @@
+Then we train the net using the train_nn function and save the inference data for records. About our parameters, we choose epochs = 40, batch_size = 16, num_classes = 2, and image_shape = (160, 576). After doing 2 trial passes with dropout = 0.5 and dropout = 0.75, we found that the 2nd trial yields better results with better average losses.

@@ -1,0 +1,1 @@
+The assignments themselves were directly related to the course material and reinforced the lectures. Sometimes it felt like I was actually creating my own machine learning framework; at other times, however, it felt like I was just implementing methods until the unit tests passed. Udacity’s projects were extremely well designed.

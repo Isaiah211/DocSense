@@ -1,0 +1,1 @@
+Because scaling invokes the calculation of statistics e.g. the min/max of a variable. When performing time series forecasting in real life, you do not have information from future observations at the time of forecasting.

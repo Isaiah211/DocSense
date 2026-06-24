@@ -1,0 +1,1 @@
+The second call demonstration, where a male-voiced Duplex tried to make restaurant reservations, was even more remarkable. The human call participant didn’t entirely understand Duplex’s verbal requests and then told Duplex that, for the number of people it wanted to bring to the restaurant, they didn’t need a reservation. Duplex handled all this without missing a beat.

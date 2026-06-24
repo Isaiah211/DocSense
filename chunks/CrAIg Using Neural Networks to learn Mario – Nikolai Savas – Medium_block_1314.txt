@@ -1,0 +1,1 @@
+Using this process, all of the genomes in the generic pool are re-placed into species. Once this process has completed, the generation is done, and we are ready to re-calculate the fitness of each of the genomes. While creating crAIg meant getting very little sleep at YHack, it was well worth it for a couple reasons.

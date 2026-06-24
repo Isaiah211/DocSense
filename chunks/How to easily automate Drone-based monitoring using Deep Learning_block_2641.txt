@@ -1,0 +1,1 @@
+Our API also supports detecting multiple objects in the same image such as Roofs and Aprons in one image. 4. Test & Integrate: Once the model is trained, you can either integrate Nanonet’s API directly into your system or we also provide a docker image with the trained model and inference code that you can use.

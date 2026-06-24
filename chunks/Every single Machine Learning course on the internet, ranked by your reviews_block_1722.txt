@@ -1,0 +1,1 @@
+It has a 4.7-star weighted average rating over 422 reviews. Released in 2011, it covers all aspects of the machine learning workflow. Though it has a smaller scope than the original Stanford class upon which it is based, it still manages to cover a large number of techniques and algorithms.

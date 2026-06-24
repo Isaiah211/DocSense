@@ -1,0 +1,1 @@
+Initially we considered whether we were experiencing a bias or a variance problem, and tried using more data and more features. However, after finding no improvement, we started digging deeper into the data, and found that the problem was that our ground truth was not accurate. Consider chargebacks as an example.

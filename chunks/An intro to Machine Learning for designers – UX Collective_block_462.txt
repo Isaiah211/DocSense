@@ -1,0 +1,2 @@
+This makes it important to think about whether the resulting impact justifies the amount of resources needed to implement. We have barely covered the tip of the iceberg, but hopefully at this point you feel more comfortable thinking about how machine learning can be applied to your product. If you are interested in learning more about machine learning, here are some helpful resources:
+Thanks for reading.

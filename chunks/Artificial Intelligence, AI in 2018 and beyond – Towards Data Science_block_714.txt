@@ -1,0 +1,1 @@
+Or, in the modern world, where is my cell-phone as we walk out the door in a rush. Building predictive neural networks is at the core of interacting with the real world, and acting in a complex environment. As such this is the core network for any work in reinforcement learning.

@@ -1,0 +1,2 @@
+We’re going to collect data for offline training with a Raspberry Pi and a PiCamera. We’ll point the camera at a TV and record 10 frames per second, or more specifically, save 10 jpegs every second, which will comprise our “video”. Here’s the code for capturing our images:
+Once we have our data, we’ll use a convolutional neural network (CNN) to classify each frame with one of our labels: ad or football.

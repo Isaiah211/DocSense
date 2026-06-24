@@ -1,0 +1,1 @@
+Its purpose is to conduct text negotiations with another agent and reach a deal: how to divide items (books, hats, etc.) by two. Each agent has his own goal in the negotiations that the other does not know about. It’s impossible to leave the negotiations without a deal.

@@ -1,0 +1,1 @@
+Instead of feeding the data at each individual time step, you provide data at all time steps within a window, or a context, to the neural network. A lot of times, you need to process data that has periodic patterns. As a silly example, suppose you want to predict christmas tree sales.

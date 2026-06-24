@@ -1,0 +1,57 @@
+Title: Picking a GPU for Deep Learning – Slav
+Author: Slav Ivanov
+----------------------------------------
+
+Quite a few people have asked me recently about choosing a GPU for Machine Learning. As it stands, success with Deep Learning heavily dependents on having the right hardware to work with. When I was building my personal Deep Learning box, I reviewed all the GPUs on the market. In this article, I’m going to share my insights about choosing the right graphics processor. Also, we’ll go over:
+Deep Learning (DL) is part of the field of Machine Learning (ML). DL works by approximating a solution to a problem using neural networks. One of the nice properties of about neural networks is that they find patterns in the data (features) by themselves. This is opposed to having to tell your algorithm what to look for, as in the olde times. However, often this means the model starts with a blank state (unless we are transfer learning). To capture the nature of the data from scratch the neural net needs to process a lot of information. There are two ways to do so — with a CPU or a GPU.
+The main computational module in a computer is the Central Processing Unit (better known as CPU). It is designed to do computation rapidly on a small amount of data. For example, multiplying a few numbers on a CPU is blazingly fast. But it struggles when operating on a large amount of data. E.g., multiplying matrices of tens or hundreds thousand numbers. Behind the scenes, DL is mostly comprised of operations like matrix multiplication.
+Amusingly, 3D computer games rely on these same operations to render that beautiful landscape you see in Rise of the Tomb Raider. Thus, GPUs were developed to handle lots of parallel computations using thousands of cores. Also, they have a large memory bandwidth to deal with the data for these computations. This makes them the ideal commodity hardware to do DL on. Or at least, until ASICs for Machine Learning like Google’s TPU make their way to market.
+For me, the most important reason for picking a powerful graphics processor is saving time while prototyping models. If the networks train faster the feedback time will be shorter. Thus, it would be easier for my brain to connect the dots between the assumptions I had for the model and its results.
+See Tim Dettmers’ answer to “Why are GPUs well-suited to deep learning?” on Quora for a better explanation. Also for an in-depth, albeit slightly outdated GPUs comparison see his article “Which GPU(s) to Get for Deep Learning”.
+There are main characteristics of a GPU related to DL are:
+There are two reasons for having multiple GPUs: you want to train several models at once, or you want to do distributed training of a single model. We’ll go over each one.
+Training several models at once is a great technique to test different prototypes and hyperparameters. It also shortens your feedback cycle and lets you try out many things at once.
+Distributed training, or training a single network on several video cards is slowly but surely gaining traction. Nowadays, there are easy to use approaches to this for Tensorflow and Keras (via Horovod), CNTK and PyTorch. The distributed training libraries offer almost linear speed-ups to the number of cards. For example, with 2 GPUs you get 1.8x faster training.
+PCIe Lanes (Updated): The caveat to using multiple video cards is that you need to be able to feed them with data. For this purpose, each GPU should have 16 PCIe lanes available for data transfer. Tim Dettmers points out that having 8 PCIe lanes per card should only decrease performance by “0–10%” for two GPUs.
+For a single card, any desktop processor and chipset like Intel i5 7500 and Asus TUF Z270 will use 16 lanes.
+However, for two GPUs, you can go 8x/8x lanes or get a processor AND a motherboard that support 32 PCIe lanes. 32 lanes are outside the realm of desktop CPUs. An Intel Xeon with a MSI — X99A SLI PLUS will do the job.
+For 3 or 4 GPUs, go with 8x lanes per card with a Xeon with 24 to 32 PCIe lanes.
+To have 16 PCIe lanes available for 3 or 4 GPUs, you need a monstrous processor. Something in the class of or AMD ThreadRipper (64 lanes) with a corresponding motherboard.
+Also, for more GPUs you need a faster processor and hard disk to be able to feed them data quickly enough, so they don’t sit idle.
+Nvidia has been focusing on Deep Learning for a while now, and the head start is paying off. Their CUDA toolkit is deeply entrenched. It works with all major DL frameworks — Tensoflow, Pytorch, Caffe, CNTK, etc. As of now, none of these work out of the box with OpenCL (CUDA alternative), which runs on AMD GPUs. I hope support for OpenCL comes soon as there are great inexpensive GPUs from AMD on the market. Also, some AMD cards support half-precision computation which doubles their performance and VRAM size.
+Currently, if you want to do DL and want to avoid major headaches, choose Nvidia.
+Your GPU needs a computer around it:
+Hard Disk: First, you need to read the data off the disk. An SSD is recommended here, but an HDD can work as well.
+CPU: That data might have to be decoded by the CPU (e.g. jpegs). Fortunately, any mid-range modern processor will do just fine.
+Motherboard: The data passes via the motherboard to reach the GPU. For a single video card, almost any chipset will work. If you are planning on working with multiple graphic cards, read this section.
+RAM: It is recommended to have 2 gigabytes of memory for every gigabyte of video card RAM. Having more certainly helps in some situations, like when you want to keep an entire dataset in memory.
+Power supply: It should provide enough power for the CPU and the GPUs, plus 100 watts extra.
+You can get all of this for $500 to $1000. Or even less if you buy a used workstation.
+Here is performance comparison between all cards. Check the individual card profiles below. Notably, the performance of Titan XP and GTX 1080 Ti is very close despite the huge price gap between them.
+The price comparison reveals that GTX 1080 Ti, GTX 1070 and GTX 1060 have great value for the compute performance they provide. All the cards are in the same league value-wise, except Titan XP.
+The king of the hill. When every GB of VRAM matters, this card has more than any other on the (consumer) market. It’s only a recommended buy if you know why you want it.
+For the price of Titan X, you could get two GTX 1080s, which is a lot of power and 16 GBs of VRAM.
+This card is what I currently use. It’s a great high-end option, with lots of RAM and high throughput. Very good value.
+I recommend this GPU if you can afford it. It works great for Computer Vision or Kaggle competitions.
+Quite capable mid to high-end card. The price was reduced from $700 to $550 when 1080 Ti was introduced. 8 GB is enough for most Computer Vision tasks. People regularly compete on Kaggle with these.
+The newest card in Nvidia’s lineup. If 1080 is over budget, this will get you the same amount of VRAM (8 GB). Also, 80% of the performance for 80% of the price. Pretty sweet deal.
+It’s hard to get these nowadays because they are used for cryptocurrency mining. With a considerable amount of VRAM for this price but somewhat slower. If you can get it (or a couple) second-hand at a good price, go for it.
+It’s quite cheap but 6 GB VRAM is limiting. That’s probably the minimum you want to have if you are doing Computer Vision. It will be okay for NLP and categorical data models.
+Also available as P106–100 for cryptocurrency mining, but it’s the same card without a display output.
+The entry-level card which will get you started but not much more. Still, if you are unsure about getting in Deep Learning, this might be a cheap way to get your feet wet.
+Titan X Pascal It used to be the best consumer GPU Nvidia had to offer. Made obsolete by 1080 Ti, which has the same specs and is 40% cheaper.
+Tesla GPUsThis includes K40, K80 (which is 2x K40 in one), P100, and others. You might already be using these via Amazon Web Services, Google Cloud Platform, or another cloud provider.
+In my previous article, I did some benchmarks on GTX 1080 Ti vs. K40. The 1080 performed five times faster than the Tesla card and 2.5x faster than K80. K40 has 12 GB VRAM and K80 a whopping 24 GBs.
+In theory, the P100 and GTX 1080 Ti should be in the same league performance-wise. However, this cryptocurrency comparison has P100 lagging in every benchmark. It is worth noting that you can do half-precision on P100, effectively doubling the performance and VRAM size.
+On top of all this, K40 goes for over $2000, K80 for over $3000, and P100 is about $4500. And they get still get eaten alive by a desktop-grade card. Obviously, as it stands, I don’t recommend getting them.
+All the specs in the world won’t help you if you don’t know what you are looking for. Here are my GPU recommendations depending on your budget:
+I have over $1000: Get as many GTX 1080 Ti or GTX 1080 as you can. If you have 3 or 4 GPUs running in the same box, beware of issues with feeding them with data. Also keep in mind the airflow in the case and the space on the motherboard.
+I have $700 to $900: GTX 1080 Ti is highly recommended. If you want to go multi-GPU, get 2x GTX 1070 (if you can find them) or 2x GTX 1070 Ti. Kaggle, here I come!
+I have $400 to $700: Get the GTX 1080 or GTX 1070 Ti. Maybe 2x GTX 1060 if you really want 2 GPUs. However, know that 6 GB per model can be limiting.
+I have $300 to $400: GTX 1060 will get you started. Unless you can find a used GTX 1070.
+I have less than $300: Get GTX 1050 Ti or save for GTX 1060 if you are serious about Deep Learning.
+Deep Learning has the great promise of transforming many areas of our life. Unfortunately, learning to wield this powerful tool, requires good hardware. Hopefully, I’ve given you some clarity on where to start in this quest.
+Disclosure: The above are affiliate links, to help me pay for, well, more GPUs.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Entrepreneur / Hacker
+Machine learning, Deep learning and other types of learning.

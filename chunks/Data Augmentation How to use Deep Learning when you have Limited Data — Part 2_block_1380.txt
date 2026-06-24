@@ -1,0 +1,1 @@
+If you think it sounds too vague, it’s not; that’s literally how powerful this neural network is! Below is an example of conditional GANs used to transform photographs of summer sceneries to winter sceneries. The above method is robust, but computationally intensive.

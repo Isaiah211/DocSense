@@ -1,0 +1,1 @@
+My friend would accept or reject requests depending on whether or not the request would help him to maximize his occupancy. About two years later, I joined Airbnb as a Data Scientist. I remembered my friend’s behavior and was curious to discover what affects hosts’ decisions to accept accommodation requests and how Airbnb could increase acceptances and matches on the platform.

@@ -1,0 +1,4 @@
+This way, only one CNN needs to be trained and we get region proposals almost for free! The authors write:
+Here are the inputs and outputs of their model:
+How the Regions are Generated
+Let’s take a moment to see how Faster R-CNN generates these region proposals from CNN features. Faster R-CNN adds a Fully Convolutional Network on top of the features of the CNN creating what’s known as the Region Proposal Network.

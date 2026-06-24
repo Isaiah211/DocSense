@@ -1,0 +1,1 @@
+Used for object detection and more. 8. Idea: Recurrent Neural Networks (RNNs) and LSTMs.

@@ -1,0 +1,1 @@
+This was perhaps the toughest test for the deep learning algorithm. In the second track, there were more right turns and u-turns, it was darker, and the road had slopes. All of which were absent in the original track.

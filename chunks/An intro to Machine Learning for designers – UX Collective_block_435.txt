@@ -1,0 +1,1 @@
+Wherever you fall on this issue, most people would agree that designers should know about code. This helps designers understand constraints and empathize with developers. It also allows designers to think outside of the pixel perfect box when problem solving.

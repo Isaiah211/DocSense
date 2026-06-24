@@ -1,0 +1,2 @@
+We add an entity with an existing index to an entityset using the following syntax:
+The loans dataframe also has a unique index, loan_id and the syntax to add this to the entityset is the same as for clients. However, for the payments dataframe, there is no unique index. When we add this entity to the entityset, we need to pass in the parameter make_index = True and specify the name of the index.

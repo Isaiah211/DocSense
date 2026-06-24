@@ -1,0 +1,1 @@
+We can stack features to any depth we want, but in practice, I have never gone beyond a depth of 2. After this point, the features are difficult to interpret, but I encourage anyone interested to try “going deeper”. We do not have to manually specify the feature primitives, but instead can let featuretools automatically choose features for us.

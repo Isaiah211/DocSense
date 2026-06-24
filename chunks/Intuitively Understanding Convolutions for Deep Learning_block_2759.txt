@@ -1,0 +1,1 @@
+Some kernels may have stronger weights than others, to give more emphasis to certain input channels than others (eg. a filter may have a red kernel channel with stronger weights than others, and hence, respond more to differences in the red channel features than the others). Each of the per-channel processed versions are then summed together to form one channel.

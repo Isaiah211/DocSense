@@ -1,0 +1,1 @@
+Neural networks are better-suited toward classification problems, and extracting data from a web page is a different type of problem. Instead, we use a variety of heuristics specific to each attribute we’re trying to extract. For example, for product name, we look at the <h1> and <h2> tags, and use a few metrics to determine the best choice.

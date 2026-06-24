@@ -1,0 +1,2 @@
+I also tested different combinations of image size and image resolutions, and on track 1 the deep learning algorithm was able to drive the car around for all combinations of image resolution and sizes. Generalization from one track to another
+Figure below presents generalization from one track to another. This was perhaps the toughest test for the deep learning algorithm.

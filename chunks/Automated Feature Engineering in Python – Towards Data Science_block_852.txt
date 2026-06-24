@@ -1,0 +1,1 @@
+The depth of a deep feature is the number of primitives required to make the feature. For example, the MEAN(payments.payment_amount) column is a deep feature with a depth of 1 because it was created using a single aggregation. A feature with a depth of two is LAST(loans(MEAN(payments.payment_amount)) This is made by stacking two aggregations: LAST (most recent) on top of MEAN.

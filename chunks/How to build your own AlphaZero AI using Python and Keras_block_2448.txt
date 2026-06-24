@@ -1,0 +1,2 @@
+With this, AlphaZero was born — the general algorithm for getting good at something, quickly, without any prior knowledge of human expert strategy. There are two amazing things about this achievement:
+It cannot be overstated how important this is. This means that the underlying methodology of AlphaGo Zero can be applied to ANY game with perfect information (the game state is fully known to both players at all times) because no prior expertise is required beyond the rules of the game.

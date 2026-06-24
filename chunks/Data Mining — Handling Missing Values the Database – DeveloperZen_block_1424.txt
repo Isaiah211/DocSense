@@ -1,0 +1,1 @@
+Filling it up with some state doesn’t really makes sense as opposed to using something like “N/A”. Replace missing values of an attribute with the mean (or median if its discrete) value for that attribute in the database. For example, in a database of US family incomes, if the average income of a US family is X you can use that value to replace missing income values.

@@ -1,0 +1,2 @@
+Here it is in just 9 lines of code:
+In this blog post, I’ll explain how I did it, so you can build your own. I’ll also provide a longer, but more beautiful version of the source code. But first, what is a neural network?

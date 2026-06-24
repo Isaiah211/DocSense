@@ -1,0 +1,3 @@
+Similar to the big data revolution, which was sparked by the release of Google’s BigTable and BigQuery papers, we will see corporations release equally groundbreaking new technologies into the community. Those innovations will be adapted to new industries and use cases that the Googles of the world don’t have the DNA or desire to tackle. Opportunities for entrepreneurs:
+“My company does deep learning for X”
+Few words will make you more popular in 2015.

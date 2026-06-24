@@ -1,0 +1,1 @@
+Inside this project folder we’ll create a new file called <my project name>.cc (e.g. loader.cc). If you’re curious, the .cc extension is essentially the same as .cpp but is preferred by Google’s code guidelines.

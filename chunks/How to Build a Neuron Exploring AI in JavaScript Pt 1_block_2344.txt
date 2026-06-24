@@ -1,0 +1,1 @@
+Those chemical transmitters bind to metabolic receptors which do not have ion channels of their own. That binding triggers chemical reactions on the inside of the cell wall to release G-proteins which can open ion channels connected to different receptors. As the G-proteins must first diffuse and rebind to neighboring channels, this process naturally takes longer.

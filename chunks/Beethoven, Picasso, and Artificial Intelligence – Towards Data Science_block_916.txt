@@ -1,0 +1,1 @@
+If a user begins to draw a cat, Sketch-RNN could then show the user other common features that could be on the cat. This model could have many new creative applications. “The decoder-only model trained on various classes can assist the creative process of an artist by suggesting many possible ways of finishing a sketch” [3].

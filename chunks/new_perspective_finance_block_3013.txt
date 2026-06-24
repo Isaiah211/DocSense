@@ -1,0 +1,6 @@
+In a series of papers, Merton (1989, 1993, 1995) and Merton and Bodie (1993, 1995) propose a
+functional perspective of financial intermediation in contrast to the institutional perspective. From their
+perspective, the economic functions of financial intermediation are relatively stable and the institutional
+structure evolves in performing those functions. Merton (1995) describes a model of the dynamics of
+financial evolution in which intermediaries serve an important latent function of creating and testing
+new products before they are “seasoned” enough to be traded in a market.

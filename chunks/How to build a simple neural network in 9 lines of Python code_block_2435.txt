@@ -1,0 +1,1 @@
+Traditional computer programs normally can’t learn. What’s amazing about neural networks is that they can learn, adapt and respond to new situations. Just like the human mind.

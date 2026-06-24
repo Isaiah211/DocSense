@@ -1,0 +1,1 @@
+Free. Machine Learning for Data Science (University of California, San Diego/edX): Doesn’t launch until January 2018. Programming examples and assignments are in Python, using Jupyter notebooks.

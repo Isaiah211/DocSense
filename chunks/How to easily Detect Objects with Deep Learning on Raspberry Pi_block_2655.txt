@@ -1,0 +1,2 @@
+These are the broad categories:
+There are a variety of models/architectures that are used for object detection. Each with trade-offs between speed, size, and accuracy. We picked one of the most popular ones: YOLO (You only look once).

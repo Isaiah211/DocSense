@@ -1,0 +1,2 @@
+We do not have to manually specify the feature primitives, but instead can let featuretools automatically choose features for us. To do this, we use the same ft.dfs function call but do not pass in any feature primitives:
+Featuretools has built many new features for us to use. While this process does automatically create new features, it will not replace the data scientist because we still have to figure out what to do with all these features.

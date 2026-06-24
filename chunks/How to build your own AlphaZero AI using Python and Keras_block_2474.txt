@@ -1,0 +1,1 @@
+The above parameters produce a high quality Connect4 player, but take a long time to do so. To speed the algorithm up, try the following parameters instead. Contains the playMatches and playMatchesBetweenVersions functions that play matches between two agents.

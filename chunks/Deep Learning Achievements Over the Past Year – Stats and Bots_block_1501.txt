@@ -1,0 +1,1 @@
+The bottom line is that an agent has a task, the algorithm provides two possible solutions for the human and indicates which one is better. The process is repeated iteratively and the algorithm for 900 bits of feedback (binary markup) from the person learned how to solve the problem. As always, the human must be careful and think of what he is teaching the machine.

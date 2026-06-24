@@ -1,0 +1,1 @@
+Let me illustrate it with an example. Imagine that you have a dataset, consisting of two brands of cars, as shown above. Let’s assume that all cars of brand A are aligned exactly like the picture in the left (i.e.

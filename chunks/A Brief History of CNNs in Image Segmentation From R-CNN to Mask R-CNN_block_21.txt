@@ -1,0 +1,2 @@
+It also added a linear regression layer parallel to the softmax layer to output bounding box coordinates. In this way, all the outputs needed came from one single network! Here are the inputs and outputs to this overall model:
+Even with all these advancements, there was still one remaining bottleneck in the Fast R-CNN process — the region proposer.

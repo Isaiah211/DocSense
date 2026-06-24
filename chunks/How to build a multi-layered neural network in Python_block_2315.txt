@@ -1,0 +1,4 @@
+Ok, let’s try running it using the Terminal command:
+python main.py
+You should get a result that looks like this:
+First the neural network assigned herself random weights to her synaptic connections, then she trained herself using the training set. Then she considered a new situation [1, 1, 0] that she hadn’t seen before and predicted 0.0078876. The correct answer is 0.

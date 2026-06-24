@@ -1,0 +1,1 @@
+Instead, the entire app revolves around a single messaging screen. These are called ‘Invisible’ and ‘Conversational’ apps, and since my initial post, a slew of similar apps came to market. Even as of writing this, Facebook is releasing M, a personal assistant that’s integrated with Messenger to help you do about anything.

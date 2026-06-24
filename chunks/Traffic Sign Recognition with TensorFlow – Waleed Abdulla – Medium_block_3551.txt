@@ -1,0 +1,1 @@
+It stands for [batch size, height, width, channels] (often shortened as NHWC) . The None for batch size means that the batch size is flexible, which means that we can feed different batch sizes to the model without having to change the code. Pay attention to the order of your inputs because some models and frameworks might use a different arrangement, such as NCHW.

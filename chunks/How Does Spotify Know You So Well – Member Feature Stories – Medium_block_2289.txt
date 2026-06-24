@@ -1,0 +1,1 @@
+Maybe it only has 50 listens, so there are few other listeners to collaboratively filter it against. It also isn’t mentioned anywhere on the internet yet, so NLP models won’t pick it up. Luckily, raw audio models don’t discriminate between new tracks and popular tracks, so with their help, your friend’s song could end up in a Discover Weekly playlist alongside popular songs!

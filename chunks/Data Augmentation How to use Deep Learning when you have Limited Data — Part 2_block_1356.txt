@@ -1,0 +1,2 @@
+Below are examples for images that are flipped. You can perform flips by using any of the following commands, from your favorite packages. Data Augmentation Factor = 2 to 4x
+One key thing to note about this operation is that image dimensions may not be preserved after rotation.

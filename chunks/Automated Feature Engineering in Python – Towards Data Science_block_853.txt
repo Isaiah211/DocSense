@@ -1,0 +1,1 @@
+A feature with a depth of two is LAST(loans(MEAN(payments.payment_amount)) This is made by stacking two aggregations: LAST (most recent) on top of MEAN. This represents the average payment size of the most recent loan for each client. We can stack features to any depth we want, but in practice, I have never gone beyond a depth of 2.

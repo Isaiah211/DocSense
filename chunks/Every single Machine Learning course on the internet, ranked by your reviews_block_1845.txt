@@ -1,0 +1,1 @@
+The course ends with students building a recommender system to recommend popular musical artists. Thirteen videos and 52 exercises with an estimated timeline of four hours. Machine Learning (Tom Mitchell/Carnegie Mellon University): Carnegie Mellon’s graduate introductory machine learning course.

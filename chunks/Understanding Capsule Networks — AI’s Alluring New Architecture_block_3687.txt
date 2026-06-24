@@ -1,0 +1,1 @@
+It’s time we started thinking about new solutions or improvements — and now, enter capsules. Previously, I briefly discussed how capsule networks combat some of these traditional problems. For the past for few months, I’ve been submerging myself in all things capsules.

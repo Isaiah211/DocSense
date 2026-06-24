@@ -1,0 +1,1 @@
+Enter NLP. The second type of recommendation models that Spotify employs are Natural Language Processing (NLP) models. The source data for these models, as the name suggests, are regular ol’ words: track metadata, news articles, blogs, and other text around the internet.

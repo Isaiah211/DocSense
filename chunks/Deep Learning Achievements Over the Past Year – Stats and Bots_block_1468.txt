@@ -1,0 +1,2 @@
+The idea is in the competition of two networks — the generator and the discriminator. The first network creates a picture, and the second one tries to understand whether the picture is real or generated. Schematically it looks like this:
+During training, the generator from a random vector (noise) generates an image and feeds it to the input of the discriminator, which says whether it is fake or not.

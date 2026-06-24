@@ -1,0 +1,1 @@
+Finally, the algorithm training itself can be distributed. While this is also interesting, it comes at a cost. For example, training ANN is a comparatively communication-intensive process.

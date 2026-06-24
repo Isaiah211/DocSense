@@ -1,0 +1,2 @@
+Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes. We use heavily tensors all the time in DL, but you don’t need to be an expert in them to use it. You may need to understand a little bit about them so here I list some good resources:
+After you check that out, the breakthroughs I mentioned before and the programming frameworks like TensorFlow or Keras (for more on Keras go here), now I think you have an idea of what you need to understand and work with Deep Learning.

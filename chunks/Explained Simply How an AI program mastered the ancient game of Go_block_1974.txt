@@ -1,0 +1,1 @@
+So essentially, AlphaGo is simply an improved implementation of a very ordinary computer science algorithm. Do you understand now why AI in its current form is absolutely nothing to be scared of? Wow, we’ve spent a lot of time on the Abstract alone.

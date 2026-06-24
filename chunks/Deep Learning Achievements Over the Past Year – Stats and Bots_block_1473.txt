@@ -1,0 +1,2 @@
+You can change the vector and see how the faces change. The same arithmetic works over the latent space: “a man in glasses” minus “a man” plus a “woman” is equal to “a woman with glasses.”
+If you teach a controlled parameter to the latent vector during training, when you generate it, you can change it and so manage the necessary image in the picture. This approach is called conditional GAN.

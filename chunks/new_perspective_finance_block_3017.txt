@@ -1,0 +1,7 @@
+While financial intermediaries are studied closely and
+carefully, the financial markets are still viewed in an abstract way as frictionless and dynamically
+complete in the limit. Scholtens and van Wensveen (2000) suggest that financial intermediation theory
+leave its paradigm of static perfect markets, and envisage that in a modern theory, financial institutions
+should be viewed as independent market parties who create financial products and whose worth to
+their clients is the transformation of risk, term, scale, location, and liquidity. We think that to explore a new theory of financial intermediation, taking into account technology
+developments, it is not enough to look at only traditional intermediaries.

@@ -1,0 +1,1 @@
+But your neural network outputs that it’s a Brand B car! You’re confused. Didn’t you just get a 95% accuracy on your dataset using your “state-of-the-art” neural network?

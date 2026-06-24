@@ -1,0 +1,3 @@
+This is a simple exercise from the Udacity’s Self-Driving Car Nano-degree program, which you can learn more about the setup in this GitHub repo. Here are the key features of the FCN architecture:
+There are 3 versions of FCN (FCN-32, FCN-16, FCN-8). We’ll implement FCN-8, as detailed step-by-step below:
+We first load the pre-trained VGG-16 model into TensorFlow.

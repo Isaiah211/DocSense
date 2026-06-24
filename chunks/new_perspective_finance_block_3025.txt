@@ -1,0 +1,6 @@
+In addition to price formation, informational research in microstructure also covers various topics such
+as market structure and design, market transparency (the ability of market participants to observe
+information about the trading process), and informational issues in microstructure related to other
+areas including corporate finance, asset pricing, and international finance; Madhavan (2000). We think that the informed-uninformed paradigm in market microstructure literature does not take into
+account the role of information technology. Market microstructure research makes assumptions about
+the information structure of market participants.

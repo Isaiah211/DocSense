@@ -1,0 +1,2 @@
+Acknowledgements:
+I am very thankful to Udacity for selecting me for the first cohort, this allowed me to connect with many like-minded individuals. As always, learned a lot from discussions with Henrik Tünnermann and John Chen. I am also thankful for getting the NVIDA’s GPU grant.

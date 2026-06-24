@@ -1,0 +1,1 @@
+This professor was really asking: Do you want to build websites using JavaScript, or do you want to build the V8 engine that powers JavaScript? The creation of websites is being automated by WordPress (and others) today. V8 on the other hand has a growing body of competitors some of whom are solving open research questions.

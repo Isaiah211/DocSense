@@ -1,0 +1,1 @@
+This should make sense intuitively, because the deeper we go the more complex our features become and the more parameters we need to recreate them. For example, you will need more information to describe an entire face than just a person’s eye. The next step is to figure out which of these 11,520 predictions agree with each other the most.

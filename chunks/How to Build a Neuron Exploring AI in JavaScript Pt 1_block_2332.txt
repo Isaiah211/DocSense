@@ -1,0 +1,1 @@
+How does the human brain deal with the complexity of that job? With neurons. Taken alone, a single neuron doesn’t do anything particularly interesting, but when combined together, neural networks are responsible for our ability to recognize the world around us, solve problems, and interact with our environment and the people around us.

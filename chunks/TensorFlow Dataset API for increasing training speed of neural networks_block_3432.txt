@@ -1,0 +1,2 @@
+@YCombibator S16
+Wallarm is DevOps-friendly WAF with hybrid architecture uniquely suited for cloud applications. It applies machine learning to traffic to adaptively generate security rules and verifies the impact of malicious payloads in real time

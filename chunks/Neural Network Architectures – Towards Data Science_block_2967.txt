@@ -1,0 +1,1 @@
+Like in the case of Inception modules, this allows to keep the computation low, while providing rich combination of features. See “bottleneck layer” section after “GoogLeNet and Inception”. ResNet uses a fairly simple initial layers at the input (stem): a 7x7 conv layer followed with a pool of 2.

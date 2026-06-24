@@ -1,0 +1,1 @@
+al’s original result to R-CNN, and finally all the way to such powerful results as Mask R-CNN. Seen in isolation, results like Mask R-CNN seem like incredible leaps of genius that would be unapproachable. Yet, through this post, I hope you’ve seen how such advancements are really the sum of intuitive, incremental improvements through years of hard work and collaboration.

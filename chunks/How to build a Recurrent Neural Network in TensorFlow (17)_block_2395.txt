@@ -1,0 +1,1 @@
+In our example the classes are mutually exclusive (they are either zero or one), which is the reason for using the “Sparse-softmax”, you can read more about it in the API. The usage is to havelogits is of shape [batch_size, num_classes] and labels of shape [batch_size]. There is a visualization function so we can se what’s going on in the network as we train.

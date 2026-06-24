@@ -1,0 +1,1 @@
+What would happen if we use a technique that forces us to guess what lies beyond an image’s boundary? In this case, we need to interpolate some information. We’ll discuss this in detail after we cover the types of augmentation.

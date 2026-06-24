@@ -1,0 +1,1 @@
+Creating a stories about a image is a difficult task that many struggle with. New machine-learning experiments are enabling us to generate stories based on the content of images. This experiment explores how to generate little romantic stories about images (incl.

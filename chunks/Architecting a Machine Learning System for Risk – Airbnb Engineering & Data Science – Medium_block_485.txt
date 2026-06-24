@@ -1,0 +1,1 @@
+For example, email providers devote significant resources to protecting users from spam, whereas payments companies deal more with credit card chargebacks. We can mitigate the potential for bad actors to carry out different types of attacks in different ways. Many risks can be mitigated through user-facing changes to the product that require additional verification from the user.

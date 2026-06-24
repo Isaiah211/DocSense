@@ -1,0 +1,1 @@
+It takes the current state board state s, and outputs the probability that you will win the game. You play a game and get to know the outcome (win or loss). Each of the game states act as a data sample, and the outcome of that game acts as the label.

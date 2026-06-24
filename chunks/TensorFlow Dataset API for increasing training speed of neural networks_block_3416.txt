@@ -1,0 +1,1 @@
+Dataset is a mid-level TensorFlow APIs which makes working with data faster and more convenient.. In this blog, we will measure just how much faster model training can be with Dataset, compared to the you use of feed_dict. For starters, let’s prepare data that will be used to train the model.

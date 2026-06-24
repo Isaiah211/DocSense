@@ -1,0 +1,1 @@
+Think of apply as a map function, but made for Pandas DataFrames or more specifically, for Series. If you’re not as familiar, Series are pretty similar to NumPy arrays for the most part. Apply sends a function to every element along a column or row depending on what you specify.

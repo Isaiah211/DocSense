@@ -1,0 +1,2 @@
+The length of the vector is the confidence of the digit being found — the longer the better. The vector can also be used to generate a reconstruction of the input image. This is what the lengths of the vectors look like with the input of 4:
+The fifth block is the brightest, which means high confidence.

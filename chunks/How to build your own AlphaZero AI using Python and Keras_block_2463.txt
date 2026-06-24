@@ -1,0 +1,2 @@
+You can replace the game.py file with any game file that conforms to the same API and the algorithm will in principal, learn strategy through self play, based on the rules you have given it. This contains the code that starts the learning process. It loads the game rules and then iterates through the main loop of the algorithm, which consist of three stages:
+There are two agents involved in this loop, the best_player and the current_player.

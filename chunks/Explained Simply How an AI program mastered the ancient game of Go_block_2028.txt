@@ -1,0 +1,1 @@
+They give it the ability to learn more complex things. If you’ve ever trained NNs before, you might have used the “ReLU” layer. That’s what these are.

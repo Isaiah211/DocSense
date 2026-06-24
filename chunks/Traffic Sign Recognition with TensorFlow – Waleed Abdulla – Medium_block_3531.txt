@@ -1,0 +1,2 @@
+I’ll get to that soon, but first let’s pick one label and see more of its images. Here is an example of label 32:
+It looks like the dataset considers all speed limit signs to be of the same class, regardless of the numbers on them. That’s fine, as long as we know about it beforehand and know what to expect.

@@ -1,0 +1,1 @@
+And to combine them, we’ll have to know how to build them. Conceiving of an AI in a black box is a good approach if we want to test how a particular system should react when working with the AI and focusing on the system we’re trying to test by mocking the AI’s responses down the chain of events. Think of it as dependency injection with an AI interfacing system.

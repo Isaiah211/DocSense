@@ -1,0 +1,2 @@
+That’s going to be fun. Part 3 is now available: Five video classification methods implemented in Keras and TensorFlow
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story. Founder of Coastline Automation, using AI to make every car crash-proof.

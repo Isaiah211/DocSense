@@ -1,0 +1,1 @@
+Say a self-driving car which has one passenger in it, the “owner”, skids in the rain and is going to crash into a car in front, pushing that car off a cliff. It can either take a sharp turn and fall of the cliff or continue going straight leading to the other car falling of the cliff. Both cars have one passenger.

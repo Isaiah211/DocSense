@@ -1,0 +1,1 @@
+This can take on many forms: Principal Component Analysis (PCA), SelectKBest, using feature importances from a model, or auto-encoding using deep neural networks. However, feature reduction is a different topic for another article. For now, we know that we can use featuretools to create numerous features from many tables with minimal effort!

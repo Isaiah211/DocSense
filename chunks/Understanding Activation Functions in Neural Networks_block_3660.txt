@@ -1,0 +1,1 @@
+It gives an output x if x is positive and 0 otherwise. At first look this would look like having the same problems of linear function, as it is linear in positive axis. First of all, ReLu is nonlinear in nature.

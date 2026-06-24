@@ -1,0 +1,5 @@
+In essence, all financial institutions act as intermediaries between lenders and borrowers, either by
+purchasing and reselling with or without transformation (such as a bank taking deposits and
+transforming them into loans, or a stock specialist trading shares from her own account), or by
+matching orders (such as an auction market). First of all, financial institutions produce “matching” between market participants. Financial markets
+produce matching for standardised products.

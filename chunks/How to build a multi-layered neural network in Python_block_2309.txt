@@ -1,0 +1,1 @@
+As the neural network learns, it will amplify those correlations by adjusting the weights in both layers. In fact, image recognition is very similar. There is no direct relationship between pixels and apples.

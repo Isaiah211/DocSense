@@ -1,0 +1,1 @@
+This is harder to train and converge this way. It would have been better if the activation was not binary and it instead would say “50% activated” or “20% activated” and so on. And then if more than 1 neuron activates, you could find which neuron has the “highest activation” and so on ( better than max, a softmax, but let’s leave that for now ).

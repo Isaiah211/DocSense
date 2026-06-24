@@ -1,0 +1,3 @@
+Guo, Z, G Koehler and A Whinston (2001): “ Market-based optimisation algorithms for distributed
+systems”, working paper. Gurley, J and E Shaw (1960): Money in a Theory of Finance, Brookings Institution, Washington, DC. Hendershott, T and H Mendelson (2000): “Crossing networks and dealer markets: competition and
+performance”, Journal of Finance, vol 55, no 5, October, pp 2071-2115.

@@ -1,0 +1,3 @@
+So by substituting the first equation into the second, the final formula for the output of the neuron is:
+You might have noticed that we’re not using a minimum firing threshold, to keep things simple. Formula for adjusting the weights
+During the training cycle (Diagram 3), we adjust the weights. But how much do we adjust the weights by?

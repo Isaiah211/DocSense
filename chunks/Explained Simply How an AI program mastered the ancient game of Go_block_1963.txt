@@ -1,0 +1,1 @@
+There would be SO MANY positions to look at at each step that it would simply be impractical for a computer to go through that hell. For example, at the opening move in Chess there are 20 possible moves. In Go the first player has 361 possible moves, and this scope of choices stays wide throughout the game.

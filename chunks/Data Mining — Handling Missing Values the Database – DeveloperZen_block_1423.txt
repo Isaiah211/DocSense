@@ -1,0 +1,1 @@
+For example, let’s look at the students enrollment database again. Assuming the state of residence attribute data is missing for some students. Filling it up with some state doesn’t really makes sense as opposed to using something like “N/A”.

@@ -1,0 +1,2 @@
+Our model training strategy is optimised to detect very small objects such as Geysers and Aprons which have an area of a few pixels. Following are the mean average precision per class that we get, Roof: 95.1%Geyser: 88%Wallplate: 92%Apron: 81%
+Note: Adding more images can lead to an increase in the mean average precision. Our API also supports detecting multiple objects in the same image such as Roofs and Aprons in one image.

@@ -1,0 +1,1 @@
+It’s naive because it ignores the information encoded between multiple frames of the video. Since football games have rather distinct spatial features, we believe this method should work wonderfully for the task at hand. We’re going to collect data for offline training with a Raspberry Pi and a PiCamera.

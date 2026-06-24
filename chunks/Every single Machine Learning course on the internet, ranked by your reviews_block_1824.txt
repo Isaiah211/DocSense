@@ -1,0 +1,1 @@
+Free. Machine Learning with Apache SystemML (Big Data University): Taught using Apache SystemML, which is a declarative style language designed for large-scale machine learning. Estimated completion time of eight hours.

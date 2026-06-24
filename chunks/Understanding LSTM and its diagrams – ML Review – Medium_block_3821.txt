@@ -1,0 +1,1 @@
+You want to change this memory flow along the way and this change is controlled by two valves. The first valve is called the forget valve. If you shut it, no old memory will be kept.

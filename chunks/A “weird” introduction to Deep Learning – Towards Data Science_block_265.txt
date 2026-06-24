@@ -1,0 +1,1 @@
+This mean, better ways of approximating the functions faster leading to faster training process. 4. Idea: Dropout.

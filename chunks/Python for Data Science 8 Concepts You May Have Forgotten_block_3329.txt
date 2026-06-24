@@ -1,0 +1,1 @@
+Last but certainly not least is pivot tables. If you’re familiar with Microsoft Excel, then you’ve probably heard of pivot tables in some respect. The Pandas built-in pivot_table function creates a spreadsheet-style pivot table as a DataFrame.

@@ -1,0 +1,2 @@
+While it is true that these apps do require UI design to some extent, I believe these are just the tip of the iceberg. Beyond them, new technologies have the potential to disrupt the screen entirely. To my point, have a look at the following videos:
+The first video showcases project Soli, a small Radar chip created by Google to allow fine gesture recognition.

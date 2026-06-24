@@ -1,0 +1,2 @@
+Once we get up to the level of shapes, we don’t want to have a kernel for every angle of rectangles, ovals, triangles, and so on. It would get unwieldy, and would become even worse when dealing with more complicated shapes that have 3 dimensional rotations and features like lighting. That’s one of the reasons why traditional neural nets don’t handle unseen rotations very well:
+As we go from edges to shapes and from shapes to objects, it would be nice if we had more room to store this extra useful information.

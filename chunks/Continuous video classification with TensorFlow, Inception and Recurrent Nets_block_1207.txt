@@ -1,0 +1,2 @@
+There are two interesting paths that come to mind when adding a recurrent net to the end of our convolutional net:
+Let’s say you’re baking a cake. You have at your disposal all of the ingredients in the world. We’ll say that this assortment of ingredients is our image to be classified.

@@ -1,0 +1,2 @@
+This may not work for natural images, but can work for images taken in a monochromatic background
+The edge values of the image are extended after the boundary. This method can work for mild translations. The image pixel values are reflected along the image boundary.

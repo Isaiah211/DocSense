@@ -1,0 +1,1 @@
+It’s impossible to leave the negotiations without a deal. For training, they collected a dataset of human negotiations and trained a supervised recurrent network. Then, they took a reinforcement learning trained agent and trained it to talk with itself, setting a limit — the similarity of the language to human.

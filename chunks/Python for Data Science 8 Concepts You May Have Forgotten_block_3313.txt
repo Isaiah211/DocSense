@@ -1,0 +1,1 @@
+In this example, it goes through each element and maps the result of itself times 2 to a new list. Note that the list function simply converts the output to list type. The filter function takes in a list and a rule, much like map, however it returns a subset of the original list by comparing each element against the boolean filtering rule.

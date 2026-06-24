@@ -1,0 +1,5 @@
+We think that to explore a new theory of financial intermediation, taking into account technology
+developments, it is not enough to look at only traditional intermediaries. Intermediaries should be
+viewed in the big picture of financial systems. In particular, we need to look at how financial markets
+work, the study of which is called market microstructure, the topic we discuss in the following
+subsection.

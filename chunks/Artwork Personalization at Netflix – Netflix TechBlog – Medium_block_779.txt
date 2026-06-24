@@ -1,0 +1,1 @@
+This is illustrated in the figure below. To reduce this regret, we move away from batch machine learning and consider online machine learning. For artwork personalization, the specific online learning framework we use is contextual bandits.

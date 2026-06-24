@@ -1,0 +1,1 @@
+They can include pose (position, size, orientation), deformation, velocity, albedo, hue, texture, and so on. You might remember that when we made a kernel for edge detection, it only worked on a specific angle. We needed a kernel for each angle.

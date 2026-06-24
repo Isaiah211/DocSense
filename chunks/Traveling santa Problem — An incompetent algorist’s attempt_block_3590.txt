@@ -1,0 +1,3 @@
+But this required the problem to be in Distance Matrix format.Then I found a major problem. Problem: Ram too lowCreating distance matrix for 150,000 points was unimaginable.It would requirememory for one digit * 150,000 * 150,000assuming memory for one digit = 8 bytes
+memory required = 8*150,0002which is 167 GB! (Correct me if I am wrong)
+Solution:A simple solution was to divide the map in manageable chunks.I used scipy’s distance matrix creation function scipy.spatial.distance.pdist() It creates distance matrix from coordinates.The matrix created by pdist is in compressed form (a flattened matrix of upper diagonal elements.

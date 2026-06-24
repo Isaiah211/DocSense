@@ -1,0 +1,5 @@
+The internet backbone is congested, and critical
+business applications running on the internet have to be prioritised and reliably delivered. Because of these technology challenges of VPN, it is crucial for financial institutions to negotiate
+carefully the Service Level Agreement (SLA) with their VPN service provider. An SLA is a contract
+between the service provider and receiver that defines the services and service levels and also
+specifies the guarantees.

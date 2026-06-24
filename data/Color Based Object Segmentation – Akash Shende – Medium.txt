@@ -1,0 +1,16 @@
+Title: Color Based Object Segmentation – Akash Shende – Medium
+Author: Akash Shende
+----------------------------------------
+
+In this picture, Pranav Mistry is using color marker on his fingers to track the gesture and his wearable computer perform action based on gestures. That sounds easy! But No, it’s not. Computer need to understand those color marker first, for that it needs to separate marker from any surroundings.
+Segmentation can be helpful to achieve this. Various methods are available for segmentation, however, this article talks about robust Color based object segmentation.
+Create binary mask that separates blue T-shirt from rest.
+To find blue t-shirt in given image, I used OpenCV’s inRange method: Which takes color (or greyscale) image, lower & higher range value as its parameter and returns binary image, where pixel value set to 0 when input pixel doesn’t fall in specified range, otherwise pixel value set to 1. With the help of this function and after determining range values, I ended up with this mask.
+But you can see there are problems! It’s not able to create mask for complete t-shirt, also it mask eyes which aren’t blue. This is happening because light from one side of body whitens the right side at the same time creates shadow in left region. Thus, it creates different shades of blue and results into partial segmentation.
+Normalization of color plane reduces variation in light by averaging pixel values, thus it removes highlighted and shadowed region and make image flatten. Following image is free from highlights & shadows and it is divided into one large green background, blue t-shirt and skin. Now the inRange method able to mask only t-shirt.
+Following function converts a pixel at X, Y location into its corresponding normalized rgb pixel.
+Let R,G,B are pixel values, then normalized pixel g(x,y) is calculated as,divide the individual color component by sum of all color components and multiply by 255. Division results into floating point number in range of 0.0 to 1.0 and as this is 8 bit image result is scaled up by 255.
+This function accepts 8 bit RGB image matrix of size 800x600 and returns normalized RGB image.
+Originally published at akash0x53.github.io on April 29, 2013.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Python आणि बरच काही .

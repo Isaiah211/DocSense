@@ -1,0 +1,3 @@
+In 1942, Isaac Asimov introduced three laws of robotics in his short story “Runaround”. They were as follows:
+He later added a fourth law, the zeroth law:
+0. A robot may not harm humanity, or, by inaction, allow humanity to come to harm.

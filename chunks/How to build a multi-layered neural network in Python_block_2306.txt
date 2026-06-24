@@ -1,0 +1,1 @@
+However, this would be too much for our single neuron to handle. This is considered a “nonlinear pattern” because there is no direct one-to-one relationship between the inputs and the output. Instead, we must create an additional hidden layer, consisting of four neurons (Layer 1).

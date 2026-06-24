@@ -1,0 +1,2 @@
+For instance, for edge detection, one can use a Sobel edge detection filter, a kernel with fixed parameters, operating just like the standard one-channel convolution:
+For a non-edge containing grid (eg. the background sky), most of the pixels are the same value, so the overall output of the kernel at that point is 0. For a grid with an vertical edge, there is a difference between the pixels to the left and right of the edge, and the kernel computes that difference to be non-zero, activating and revealing the edges.

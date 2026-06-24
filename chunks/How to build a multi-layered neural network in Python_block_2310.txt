@@ -1,0 +1,1 @@
+There is no direct relationship between pixels and apples. But there is a direct relationship between combinations of pixels and apples. The process of adding more layers to a neural network, so it can think about combinations, is called “deep learning”.

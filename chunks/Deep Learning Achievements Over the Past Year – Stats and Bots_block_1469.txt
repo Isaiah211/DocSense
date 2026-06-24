@@ -1,0 +1,2 @@
+Schematically it looks like this:
+During training, the generator from a random vector (noise) generates an image and feeds it to the input of the discriminator, which says whether it is fake or not. The discriminator is also given real images from the dataset. It is difficult to train such construction, as it is hard to find the equilibrium point of two networks.

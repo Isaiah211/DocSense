@@ -1,0 +1,1 @@
+But after dividing the problem in grids, time taken by distance calculation was manageable so I stuck with euclidean distance. Through trial and error, I found that on my laptop with 4 GB ram, a 6 by 6 grid in the above format was manageable for both creating distance matrix and for LKH. I ran LKH on resulting distance matrices and joined the individual solutions.

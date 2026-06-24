@@ -1,0 +1,7 @@
+By setting the bid and ask spread, the market maker earns
+zero expected profit by recouping profits from the uninformed traders to compensate for the loss to the
+informed. Thus, the bid-ask spread may exist even if the market maker has no costs, behaves
+competitively and is risk neutral. In addition to price formation, informational research in microstructure also covers various topics such
+as market structure and design, market transparency (the ability of market participants to observe
+information about the trading process), and informational issues in microstructure related to other
+areas including corporate finance, asset pricing, and international finance; Madhavan (2000).

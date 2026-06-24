@@ -1,0 +1,1 @@
+We’re going to train the neuron to solve the problem below. The first four examples are called a training set. Can you work out the pattern?

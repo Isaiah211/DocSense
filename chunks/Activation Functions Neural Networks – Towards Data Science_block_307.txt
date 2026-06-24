@@ -1,0 +1,2 @@
+Tanh or hyperbolic tangent Activation Function
+tanh is also like logistic sigmoid but better. The range of the tanh function is from (-1 to 1). tanh is also sigmoidal (s - shaped).

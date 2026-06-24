@@ -1,0 +1,1 @@
+It’s useful to see the convolution operation as a hard prior on the weight matrix. In this context, by prior, I mean predefined network parameters. For example, when you use a pretrained model for image classification, you use the pretrained network parameters as your prior, as a feature extractor to your final densely connected layer.

@@ -1,0 +1,2 @@
+And few understand what is important in micro-chips and how to develop them. Here is our list:
+About neuromorphic neural networks hardware, please see here. We talked briefly about applications in the Goals section above, but we really need to go into details here.

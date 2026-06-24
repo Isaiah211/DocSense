@@ -1,0 +1,1 @@
+For instance, we know that we want some rectangular boxes that resemble the shapes of humans. Likewise, we know we won’t see many boxes that are very very thin. In such a way, we create k such common aspect ratios we call anchor boxes.

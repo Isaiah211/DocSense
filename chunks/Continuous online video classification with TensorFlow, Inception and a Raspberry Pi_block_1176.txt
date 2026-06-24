@@ -1,0 +1,2 @@
+Here’s the code for capturing our images:
+Once we have our data, we’ll use a convolutional neural network (CNN) to classify each frame with one of our labels: ad or football. CNNs are the state-of-the-art for image classification. And in 2016, it’s essentially a solved problem.

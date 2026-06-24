@@ -1,0 +1,2 @@
+Gradient descent performs the same number of operations . The R code that performs this comparison and generates the plot above is given below
+Feel free to download this code (remember to cite me and send me some cookies). Happy descent!

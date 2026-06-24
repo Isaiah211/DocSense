@@ -1,0 +1,5 @@
+For example, there are also frauds that resemble shill-bidding behaviour in the IPO market; Bloomberg
+(2001). In the IPO market the company pays institutions for bidding up the prices to mislead the public
+into believing the new stock is worth more than its true value. Many financial markets are essentially common-value double-auction markets and as more
+transactions are made over the public network, inadequacy in authentication and other security
+measures may lead to illegal transactions.

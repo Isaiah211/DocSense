@@ -1,0 +1,1 @@
+However, before talking about capsules, we need to have a look at CNNs, which are the workhorse of today’s deep learning. CNNs (convolutional neural networks) are awesome. They are one of the reasons deep learning is so popular today.

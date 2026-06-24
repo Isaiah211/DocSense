@@ -1,0 +1,1 @@
+Orientational and relative spatial relationships between these components are not very important to a CNN. How do CNNs work? The main component of a CNN is a convolutional layer.

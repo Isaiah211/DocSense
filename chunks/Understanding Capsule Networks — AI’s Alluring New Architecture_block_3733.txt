@@ -1,0 +1,2 @@
+With a capsule network, we have something called a “reconstruction.” A reconstruction takes the vector we created and tries to recreate the original input image, given only this vector. We then grade the model based on how close the reconstruction matches the original image. I will go into more detail on this in the coming sections, but here is a simple example:
+After we have our capsules, we are going to perform another non-linearity function on it (like ReLU), but this time the equation is a bit more involved.

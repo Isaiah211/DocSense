@@ -1,0 +1,2 @@
+This is also the very first time that a network of > hundred, even 1000 layers was trained. ResNet with a large number of layers started to use a bottleneck layer similar to the Inception bottleneck:
+This layer reduces the number of features at each layer by first using a 1x1 convolution with a smaller output (usually 1/4 of the input), and then a 3x3 layer, and then again a 1x1 convolution to a larger number of features. Like in the case of Inception modules, this allows to keep the computation low, while providing rich combination of features.

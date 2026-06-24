@@ -1,0 +1,1 @@
+Do you speak Japanese? Ryohji Ikebe has kindly written a brief memo about this essay in Japanese, in a series of Tweets. As you know, the goal of this research was to train an AI program to play Go at the level of world-class professional human players.

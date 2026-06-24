@@ -1,0 +1,1 @@
+More critically, the cost of storing this data has dropped to nearly zero. Deloitte estimated that in 1992 the cost of storing a Gigabyte of data was $569 and that by 2012 the cost had dropped to $0.03. But data by itself is just bits and bytes.

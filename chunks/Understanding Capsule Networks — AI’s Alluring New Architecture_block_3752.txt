@@ -1,0 +1,1 @@
+After agreement, we end up with ten 16 dimensional vectors, one vector for each digit. This matrix is our final prediction. The length of the vector is the confidence of the digit being found — the longer the better.

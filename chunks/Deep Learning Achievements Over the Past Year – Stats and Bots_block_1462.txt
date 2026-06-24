@@ -1,0 +1,1 @@
+However, this is still under research and there is no talk on real usage yet. There is no code or dataset in open source, but they promise to upload it. Perhaps you’ve seen Quick, Draw!

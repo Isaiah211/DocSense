@@ -1,0 +1,1 @@
+Lots of variables influence the process, the trigger frequencies, and the pattern of action potential bursts. With the model presented above, how would you determine whether or not triggers occurred within the LTP/LTD windows? What critical element is our basic model missing?

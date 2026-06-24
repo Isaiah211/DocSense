@@ -1,0 +1,1 @@
+Try to make changes to this model as you like and see how the model reacts to those changes. I made the dataset available on my github account under deep learning in python repository. Feel free to download the dataset and play with it.

@@ -1,0 +1,1 @@
+With convolutional neural networks! Convolutional neural networks are the same technology used in facial recognition software. In Spotify’s case, they’ve been modified for use on audio data instead of pixels.

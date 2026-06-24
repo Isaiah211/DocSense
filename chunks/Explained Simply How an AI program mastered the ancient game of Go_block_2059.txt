@@ -1,0 +1,1 @@
+Lol, no. This approach is naive. You can’t use all 50 moves from the game and add them to the dataset.

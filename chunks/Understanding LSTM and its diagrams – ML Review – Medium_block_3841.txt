@@ -1,0 +1,1 @@
+and C_t is part of the output. The second reason I don’t like the following diagram is that the computation you perform within the unit should be ordered, but you can’t see it clearly from the following diagram. For example to calculate the output of this unit, you need to have C_t, the new memory ready.

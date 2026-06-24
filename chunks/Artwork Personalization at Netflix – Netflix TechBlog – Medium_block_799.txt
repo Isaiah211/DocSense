@@ -1,0 +1,1 @@
+We sort a candidate set of images by these probabilities and pick the one with the highest probability. That is the image we present to that particular member. To evaluate our contextual bandit algorithms prior to deploying them online on real members, we can use an offline technique known as replay [1].

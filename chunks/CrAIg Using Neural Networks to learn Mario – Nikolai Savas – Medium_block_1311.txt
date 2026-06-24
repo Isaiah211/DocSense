@@ -1,0 +1,1 @@
+This genome is now the representative for the species. All genomes that are not selected as candidates are put into a generic pool and re-organized. The re-organization relies on an equation called the “compatibility distance equation”.

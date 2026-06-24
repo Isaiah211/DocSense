@@ -1,0 +1,1 @@
+Attention has already showed to be able to learn sequences as well as RNNs and at up to 100x less computation! Who can ignore that? We recognize that attention based neural network are going to slowly supplant speech recognition based on RNN, and also find their ways in reinforcement learning architecture and AI in general.

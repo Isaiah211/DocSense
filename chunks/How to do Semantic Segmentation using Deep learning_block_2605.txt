@@ -1,0 +1,1 @@
+In this exercise we will label the pixels of a road in images using FCN. We’ll work with the Kitti Road Dataset for road/lane detection. This is a simple exercise from the Udacity’s Self-Driving Car Nano-degree program, which you can learn more about the setup in this GitHub repo.

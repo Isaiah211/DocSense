@@ -1,0 +1,1 @@
+Of course, using a GPU with faster memory would also help (e.g. TITAN’s memory bandwidth is 288 GB/sec). We repeated the same comparison between the default npps functions and our customized ones (with and without PCI space access) on the g2.2xlarge instances.

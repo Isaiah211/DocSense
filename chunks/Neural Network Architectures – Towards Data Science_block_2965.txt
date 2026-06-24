@@ -1,0 +1,1 @@
+Bypassing after 2 layers is a key intuition, as bypassing a single layer did not give much improvements. By 2 layers can be thought as a small classifier, or a Network-In-Network! This is also the very first time that a network of > hundred, even 1000 layers was trained.

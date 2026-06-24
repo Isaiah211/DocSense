@@ -1,0 +1,45 @@
+Title: How to build a simple neural network in 9 lines of Python code
+Author: Milo Spencer-Harper
+----------------------------------------
+
+As part of my quest to learn about AI, I set myself the goal of building a simple neural network in Python. To ensure I truly understand it, I had to build it from scratch without using a neural network library. Thanks to an excellent blog post by Andrew Trask I achieved my goal. Here it is in just 9 lines of code:
+In this blog post, I’ll explain how I did it, so you can build your own. I’ll also provide a longer, but more beautiful version of the source code.
+But first, what is a neural network? The human brain consists of 100 billion cells called neurons, connected together by synapses. If sufficient synaptic inputs to a neuron fire, that neuron will also fire. We call this process “thinking”.
+We can model this process by creating a neural network on a computer. It’s not necessary to model the biological complexity of the human brain at a molecular level, just its higher level rules. We use a mathematical technique called matrices, which are grids of numbers. To make it really simple, we will just model a single neuron, with three inputs and one output.
+We’re going to train the neuron to solve the problem below. The first four examples are called a training set. Can you work out the pattern? Should the ‘?’ be 0 or 1?
+You might have noticed, that the output is always equal to the value of the leftmost input column. Therefore the answer is the ‘?’ should be 1.
+Training process
+But how do we teach our neuron to answer the question correctly? We will give each input a weight, which can be a positive or negative number. An input with a large positive weight or a large negative weight, will have a strong effect on the neuron’s output. Before we start, we set each weight to a random number. Then we begin the training process:
+Eventually the weights of the neuron will reach an optimum for the training set. If we allow the neuron to think about a new situation, that follows the same pattern, it should make a good prediction.
+This process is called back propagation.
+Formula for calculating the neuron’s output
+You might be wondering, what is the special formula for calculating the neuron’s output? First we take the weighted sum of the neuron’s inputs, which is:
+Next we normalise this, so the result is between 0 and 1. For this, we use a mathematically convenient function, called the Sigmoid function:
+If plotted on a graph, the Sigmoid function draws an S shaped curve.
+So by substituting the first equation into the second, the final formula for the output of the neuron is:
+You might have noticed that we’re not using a minimum firing threshold, to keep things simple.
+Formula for adjusting the weights
+During the training cycle (Diagram 3), we adjust the weights. But how much do we adjust the weights by? We can use the “Error Weighted Derivative” formula:
+Why this formula? First we want to make the adjustment proportional to the size of the error. Secondly, we multiply by the input, which is either a 0 or a 1. If the input is 0, the weight isn’t adjusted. Finally, we multiply by the gradient of the Sigmoid curve (Diagram 4). To understand this last one, consider that:
+The gradient of the Sigmoid curve, can be found by taking the derivative:
+So by substituting the second equation into the first equation, the final formula for adjusting the weights is:
+There are alternative formulae, which would allow the neuron to learn more quickly, but this one has the advantage of being fairly simple.
+Constructing the Python code
+Although we won’t use a neural network library, we will import four methods from a Python mathematics library called numpy. These are:
+For example we can use the array() method to represent the training set shown earlier:
+The ‘.T’ function, transposes the matrix from horizontal to vertical. So the computer is storing the numbers like this.
+Ok. I think we’re ready for the more beautiful version of the source code. Once I’ve given it to you, I’ll conclude with some final thoughts.
+I have added comments to my source code to explain everything, line by line. Note that in each iteration we process the entire training set simultaneously. Therefore our variables are matrices, which are grids of numbers. Here is a complete working example written in Python:
+Also available here: https://github.com/miloharper/simple-neural-network
+Final thoughts
+Try running the neural network using this Terminal command:
+python main.py
+You should get a result that looks like:
+We did it! We built a simple neural network using Python!
+First the neural network assigned itself random weights, then trained itself using the training set. Then it considered a new situation [1, 0, 0] and predicted 0.99993704. The correct answer was 1. So very close!
+Traditional computer programs normally can’t learn. What’s amazing about neural networks is that they can learn, adapt and respond to new situations. Just like the human mind.
+Of course that was just 1 neuron performing a very simple task. But what if we hooked millions of these neurons together? Could we one day create something conscious?
+I’ve been inspired by the huge response this article has received. I’m considering creating an online course. Click here to tell me what topic to cover. I’d love to hear your feedback.
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Studied Economics at Oxford University. Founder of www.moju.io. Interested in politics and AI.
+Technology trends and New Invention? Follow this collection to update the latest trend! [UPDATE] As a collection editor, I don’t have any permission to add your articles in the wild. Please submit your article and I will approve. Also, follow this collection, please.

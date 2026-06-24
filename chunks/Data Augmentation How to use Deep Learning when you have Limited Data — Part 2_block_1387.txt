@@ -1,0 +1,1 @@
+Since our image does not have any information about things outside it’s boundary, we need to make some assumptions. Usually, the space beyond the image’s boundary is assumed to be the constant 0 at every point. Hence, when you do these transformations, you get a black region where the image is not defined.

@@ -1,0 +1,1 @@
+Let’s say our goal is to build a model predicting a student’s success in college. Data rows who are missing the success column are not useful in predicting success so they could very well be ignored and removed before running the algorithm. Decide on a new global constant value, like “unknown“, “N/A” or minus infinity, that will be used to fill all the missing values.

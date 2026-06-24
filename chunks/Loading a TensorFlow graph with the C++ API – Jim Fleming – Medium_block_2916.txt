@@ -1,0 +1,2 @@
+You can also use the linkshared option on the binary to produce a shared library or the cc_library rule if you’re going to link it using Bazel. Here’s the final directory structure:
+You could also call bazel run :loader to run the executable directly, however the working directory for bazel run is buried in a temporary folder and ReadBinaryProto looks in the current working directory for relative paths. And that should be all we need to do to compile and run C++ code for TensorFlow.

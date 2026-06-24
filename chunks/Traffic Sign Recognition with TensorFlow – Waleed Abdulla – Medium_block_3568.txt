@@ -1,0 +1,1 @@
+This is where we iteratively train the model to minimize the loss function. Before we start training, though, we need to create a Session object. I mentioned the Graph object earlier and how it holds all the Ops of the model.

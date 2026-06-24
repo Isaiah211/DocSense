@@ -1,0 +1,2 @@
+After reading that, you’ll be able to get through this essay. If you want to get a shallow understanding of Reinforcement Learning too (optional reading), you can find it here. Here’s the original paper if you want to try reading it:
+As for me: Hi I’m Aman, an AI and autonomous robots engineer.

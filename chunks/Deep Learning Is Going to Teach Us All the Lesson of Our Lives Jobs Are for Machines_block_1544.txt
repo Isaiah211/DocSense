@@ -1,0 +1,1 @@
+Some cells are only connected to one other, and some are connected to many. Electrical signals then pass through these connections, at various rates, and subsequent neural firings happen in turn. It’s all kind of like falling dominoes, but far faster, larger, and more complex.

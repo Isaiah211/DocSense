@@ -1,0 +1,2 @@
+The best example of this is the boat and house example illustrated by Aurélien Géron in this excellent video. Each capsule tries to predict the next layer’s activations based on itself:
+Looking at these predictions, which object would you choose to pass on to the next layer (not knowing the input)? Probably the boat, right?

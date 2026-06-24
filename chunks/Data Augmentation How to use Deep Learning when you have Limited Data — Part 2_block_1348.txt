@@ -1,0 +1,1 @@
+The second option is known as online augmentation, or augmentation on the fly. This method is preferred for larger datasets, as you can’t afford the explosive increase in size. Instead, you would perform transformations on the mini-batches that you would feed to your model.

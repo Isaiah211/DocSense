@@ -1,0 +1,6 @@
+But these two diagrams are essentially the same. Here, I want to use the same symbols and colors of the first diagram to redraw the above diagram:
+This is the forget gate (valve) that shuts the old memory:
+This is the new memory valve and the new memory:
+These are the two valves and the element-wise summation to merge the old memory and the new memory to form C_t (in green, flows back to the big “Cell”):
+This is the output valve and output of the LSTM unit:
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story. Software engineer & wantrepreneur.

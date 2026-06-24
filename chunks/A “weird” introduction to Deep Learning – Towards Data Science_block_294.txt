@@ -1,0 +1,3 @@
+Their simple drag & drop interface helps you design deep learning models with ease. Deep Learning Studio can automatically design a deep learning model for your custom dataset thanks to their advance AutoML feature with nearly one click. Here you can learn more about them:
+Take a look at the prices :O, it’s freeeee :)
+I mean, it’s amazing how fast the development in the area is right now, that we can have simple GUIs to interact with all the hard and interesting concepts I talked about in this post.

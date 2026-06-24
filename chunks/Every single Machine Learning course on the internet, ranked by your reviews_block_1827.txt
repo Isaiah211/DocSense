@@ -1,0 +1,1 @@
+Programming examples and assignments are in Python, using Jupyter notebooks. Eight hours per week over ten weeks. Free with a verified certificate available for purchase.

@@ -1,0 +1,1 @@
+New memory and the old memory will merge by this operation. How much new memory should be added to the old memory is controlled by another valve, the ✖ below the + sign. After these two operations, you have the old memory C_t-1 changed to the new memory C_t.

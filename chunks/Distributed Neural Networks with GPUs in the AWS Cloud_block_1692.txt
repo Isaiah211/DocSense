@@ -1,0 +1,1 @@
+To do this, we use the distributed task queue Celery to send work to each of the GPUs. Each worker process listens to the task queue and runs the training on one GPU. This allows us, for example, to tune, train, and update several models daily for all international regions.

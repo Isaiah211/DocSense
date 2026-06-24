@@ -1,0 +1,1 @@
+And you want to train another slightly different version of this policy network to use for rollouts; this one will be smaller and faster. Let’s just say that since Lusha is so experienced, she takes some time to process each position. She’s good to start the narrowing-down process with, but if you try to make her repeat the process , she’ll still take a little too much time.

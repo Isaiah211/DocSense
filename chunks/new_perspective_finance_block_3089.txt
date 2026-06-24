@@ -1,0 +1,5 @@
+A fourth possible reason is the asymmetric information view. As shown in rational expectation
+equilibrium theory, an informed trader cannot avoid sending information to the market if he wants to
+reap information rent, thus alleviating the information asymmetry. This creates conflicts among
+informed traders, as latecomers will suffer from the information leakage, and propels them to different
+exchanges.

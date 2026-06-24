@@ -1,0 +1,36 @@
+Title: Continuous video classification with TensorFlow, Inception and Recurrent Nets
+Author: Matt Harvey
+----------------------------------------
+
+A video is a sequence of images. In our previous post, we explored a method for continuous online video classification that treated each frame as discrete, as if its context relative to previous frames was unimportant. Today, we’re going to stop treating our video as individual photos and start treating it like the video that it is by looking at our images in a sequence. We’ll process these sequences by harnessing the magic of recurrent neural networks (RNNs).
+To restate the problem we outlined in our previous post: We’re attempting to continually classify video as it’s streamed, in an online system. Specifically, we’re classifying whether what’s streaming on a TV is a football game or an advertisement.
+Convolutional neural networks, which we used exclusively in our previous post, do an amazing job at taking in a fixed-size vector, like an image of an animal, and generating a fixed-size label, like the class of animal in the image. What CNNs cannot do (without computationally intensive 3D convolution layers) is accept a sequence of vectors. That’s where RNNs come in.
+RNNs allow us to understand the context of a video frame, relative to the frames that came before it. They do this by passing the output of one training step to the input of the next training step, along with the new frames. Andrej Karpathy describes this eloquently in his popular blog post, “The Unreasonable Effectiveness of Recurrent Neural Networks”:
+We’re using a special type of RNN here, called an LSTM, that allows our network to learn long-term dependencies. Christopher Olah writes in his outstanding essay about LSTMs: “Almost all exciting results based on recurrent neural networks are achieved with [LSTMs].”
+Sold! Let’s get to it.
+Our aim is to use the power of CNNs to detect spatial features and RNNs for the temporal features, effectively building a CNN->RNN network, or CRNN. For the sake of time, rather than building and training a new network from scratch, we’ll...
+Step 2 is unique so we’ll expand on it a bit. There are two interesting paths that come to mind when adding a recurrent net to the end of our convolutional net:
+Let’s say you’re baking a cake. You have at your disposal all of the ingredients in the world. We’ll say that this assortment of ingredients is our image to be classified. By looking at a recipe, you see that all of the possible things you could use to make a cake (flour, whisky, another cake) have been reduced down to ingredients and measurements that will make a good cake. The person who created the recipe out of all possible ingredients is the convolutional network, and the resulting instructions are the output of our pool layer. Now you make the cake and it’s ready to eat. You’re the softmax layer, and the finished product is our class prediction.
+I’ve made the code to explore these methods available on GitHub. I’ll pull out a couple interesting bits here:
+In order to turn our discrete predictions or features into a sequence, we loop through each frame in chronological order, add it to a queue of size N, and pop off the first frame we previously added. Here’s the gist:
+N represents the length of our sequence that we’ll pass to the RNN. We could choose any length for N, but I settled on 40. At 10fps, which is the framerate of our video, that gives us 4 seconds of video to process at a time. This seems like a good balance of memory usage and information.
+The architecture of the network is a single LSTM layer with 256 nodes. This is followed by a dropout of 0.2 to help prevent over-fitting and a fully-connected softmax layer to generate our predictions. I also experimented with wider and deeper networks, but neither performed as well as this one. It’s likely that with a larger training set, a deeper network would perform best.
+Note: I’m using the incredible TFLearn library, a higher-level API for TensorFlow, to construct our network, which saves us from having to write a lot of code.
+Once we have our sequence of features and our network, training with TFLearn is a breeze.
+Evaluating is even easier.
+Now, let’s evaluate each of the methods we outlined above for adding an RNN to our CNN.
+Intuitively, if one frame is an ad and the next is a football game, it’s essentially impossible that the next will be an ad again. (I wish commercials were only 1/10th of a second long!)
+This is why it could be interesting to examine the temporal dependencies of the probabilities of each label before we look at the more raw output of the pool layer. We convert our individual predictions into sequences using the code above, and then feed the sequences to our RNN.
+After training the RNN on our first batch of data, we then evaluate the predictions on both the batch we used for training and a holdout set that the RNN has never seen. No surprise, evaluating the same data we used to train gives us an accuracy of 99.55%! Good sanity check that we’re on the right path.
+Now the fun part. We run the holdout set through the same network and get... 95.4%! Better than our 93.3% we got without the LSTM, and not a bad result, given we’re using the full output of the CNN, and thus not giving the RNN much responsibility. Let’s change that.
+Here we’ll go a little deeper. (See what I did there?) Instead of letting the CNN do all the hard work, we’ll give more responsibility to the RNN by using output of the CNN’s pool layer, which gives us the feature representation (not a prediction) of our images. We again build sequences with this data to feed into our RNN.
+Running our training data through the network to make sure we get high accuracy succeeds at 99.89%! Sanity checked.
+How about our holdout set?
+96.58%! That’s an error reduction of 3.28 percentage points (or 49%!) from our CNN-only benchmark. Awesome!
+We have shown that taking both spatial and temporal features into consideration improves our accuracy significantly.
+Next, we’ll want to try this method on a more complex dataset, perhaps using multiple classes of TV programming, and with a whole whackload more data to train on. (Remember, we’re only using 20 minutes of TV here.)
+Once we feel comfortable there, we’ll go ahead and combine the RNN and CNN into one network so we can more easily deploy it in an online system. That’s going to be fun.
+Part 3 is now available: Five video classification methods implemented in Keras and TensorFlow
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story.
+Founder of Coastline Automation, using AI to make every car crash-proof.
+Practical applications of deep learning and research reports from the road.

@@ -1,0 +1,1 @@
+For a more mathematical explanation refer to the original post. Coordinate descent will update each variable in a Round Robin fashion. Despite the learning rate of the gradient descent procedure (which could indeed speed up convergence), the comparison between the two is fair at least in terms of complexity.

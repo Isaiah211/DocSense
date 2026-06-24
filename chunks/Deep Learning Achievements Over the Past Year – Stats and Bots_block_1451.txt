@@ -1,0 +1,1 @@
+Model: LSTM on audio, and CNN + LSTM on video. These two state vectors are fed to the final LSTM, which generates the result (characters). Different types of input data were used during training: audio, video, and audio + video.

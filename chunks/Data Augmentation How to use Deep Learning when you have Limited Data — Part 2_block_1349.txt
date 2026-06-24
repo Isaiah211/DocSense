@@ -1,0 +1,1 @@
+Instead, you would perform transformations on the mini-batches that you would feed to your model. Some machine learning frameworks have support for online augmentation, which can be accelerated on the GPU. In this section, we present some basic but powerful augmentation techniques that are popularly used.

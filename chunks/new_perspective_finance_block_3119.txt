@@ -1,0 +1,5 @@
+We think that the proliferation or failure of e-money depends not only on the
+customer acceptance (though crucial), but also on the firms’ incentives to develop and promote this
+new scheme. Firstly, the issuer of e-money commits to provide specified quantities of goods at any future time,
+which can be either instantaneous or far into the future. As a special type of debt, e-money can be
+used as a source of financing, especially for operation.

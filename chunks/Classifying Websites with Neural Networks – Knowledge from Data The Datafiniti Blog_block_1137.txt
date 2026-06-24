@@ -1,0 +1,1 @@
+We should have an algorithm on our hands that can accurately classify product pages about 90% of the time. Of course, identifying product pages isn’t enough. We also want to pull out the actual structured data!

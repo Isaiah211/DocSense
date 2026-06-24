@@ -1,0 +1,1 @@
+For example, relaxed response time SLAs imposed by clients can be easily met. New algorithms can be deployed in production without the need to put too much effort into performance tuning. This flexibility supports agile innovation.

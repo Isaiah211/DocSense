@@ -1,0 +1,1 @@
+I found concorde but I could not get it to work on my ubuntu machine. So I settled with LKH which uses Lin-Kernighan heuristic for solving TSP and related problems. I wrote scripts for file conversions and for running LKH.

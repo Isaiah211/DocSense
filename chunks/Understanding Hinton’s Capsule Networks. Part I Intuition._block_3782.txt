@@ -1,0 +1,1 @@
+The answer comes from computer graphics. In 3D graphics, relationships between 3D objects can be represented by a so-called pose, which is in essence translation plus rotation. Hinton argues that in order to correctly do classification and object recognition, it is important to preserve hierarchical pose relationships between object parts.

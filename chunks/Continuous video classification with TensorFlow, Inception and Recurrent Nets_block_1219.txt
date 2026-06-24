@@ -1,0 +1,1 @@
+After training the RNN on our first batch of data, we then evaluate the predictions on both the batch we used for training and a holdout set that the RNN has never seen. No surprise, evaluating the same data we used to train gives us an accuracy of 99.55%! Good sanity check that we’re on the right path.

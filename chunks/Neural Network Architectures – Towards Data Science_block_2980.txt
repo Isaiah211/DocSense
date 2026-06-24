@@ -1,0 +1,1 @@
+• apply a learned colorspace transformation of RGB. • use the linear learning rate decay policy. • use a sum of the average and max pooling layers.

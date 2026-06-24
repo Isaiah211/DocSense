@@ -1,0 +1,1 @@
+If you have 3 or 4 GPUs running in the same box, beware of issues with feeding them with data. Also keep in mind the airflow in the case and the space on the motherboard. I have $700 to $900: GTX 1080 Ti is highly recommended.

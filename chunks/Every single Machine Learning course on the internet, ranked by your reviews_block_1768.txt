@@ -1,0 +1,1 @@
+Mining Massive Datasets (Stanford University): Machine learning with a focus on “big data.” Introduces modern distributed file systems and MapReduce. Ten hours per week over seven weeks. Free.

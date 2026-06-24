@@ -1,0 +1,1 @@
+She would also be quite annoying. What would instead help you is if you drew the whole tree of all the possible moves you can make, and the states that those moves would lead to — and then Foma would tell you for the entire tree which states are winning states and which states are losing states. Then you can choose moves which will keep leading you to winning states.

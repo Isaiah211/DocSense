@@ -1,0 +1,1 @@
+People treat blockchain as a “futuristic integrity wand”—wave a blockchain at the problem, and suddenly your data will be valid. For almost anything people want to be valid, blockchain has been proposed as a solution. It’s true that tampering with data stored on a blockchain is hard, but it’s false that blockchain is a good way to create data that has integrity.

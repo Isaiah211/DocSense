@@ -1,0 +1,1 @@
+your most likely next word). The network is then “trained” on millions, or even billions, of data samples and the behavior of the individual neurons is automatically tweaked to achieve the desired overall results. In the last few years, neural network approaches have facilitated great progress on tough problems such as image recognition and speech processing.

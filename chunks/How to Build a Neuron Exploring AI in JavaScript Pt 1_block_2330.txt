@@ -1,0 +1,1 @@
+Self driving cars need to see obstacles and make corrections to avoid them. Drones need to detect collision hazards, wind, and the ground to land on. Room scale VR needs to alert you of the room boundaries so you don’t wander into walls, and AR devices need to detect tables, chairs, and desks, and walls, and allow virtual elements and characters to interact with them.

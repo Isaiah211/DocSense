@@ -1,0 +1,3 @@
+Informational economics paradigms dominate in both the intermediation and microstructure literature. However, in both bodies of literature the fundamental assumption is that information is free and thus
+information asymmetry is a market imperfection. As a special case, price, the most important
+(aggregated) information in markets, is free.

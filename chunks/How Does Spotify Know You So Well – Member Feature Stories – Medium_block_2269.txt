@@ -1,0 +1,1 @@
+How does it seem to nail individual users’ tastes so much more accurately than any of the other services? Spotify doesn’t actually use a single revolutionary recommendation model. Instead, they mix together some of the best strategies used by other services to create their own uniquely powerful discovery engine.

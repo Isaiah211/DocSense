@@ -1,0 +1,1 @@
+As for the “rollout policy”, you do remember from a few paragraphs ago, how Lusha the SL policy network is slow so it can’t integrate well with the MCTS algorithm? And we trained another faster version of Lusha called Jerry who was her younger brother? Well, this refers to Jerry right here.

@@ -1,0 +1,1 @@
+When you Pin an object, you’ll see a recommendation for a related board with that same Pin so you can explore similar objects. Additionally, if you scroll beneath a Pin, you’ll see Pins from other people who’ve also Pinned that original object. At this point, 90% of all Pins have related Pins, and we’ve seen 20% growth in engagement with related Pins in the last six months.

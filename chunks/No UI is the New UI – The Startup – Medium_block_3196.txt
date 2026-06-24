@@ -1,0 +1,2 @@
+To my point, have a look at the following videos:
+The first video showcases project Soli, a small Radar chip created by Google to allow fine gesture recognition. The second one presents Emotiv, a product that can read your brainwaves and understand their meaning through — bear with me — electroencephalography (or EEG for short). While both technologies seem completely magical, they are not.

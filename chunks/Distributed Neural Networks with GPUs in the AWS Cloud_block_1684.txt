@@ -1,0 +1,1 @@
+However, disabling it improved performance between 45% and 65% compared to the cg1 instances. Again, our KernelMulC customized functions are over 70% better, with benchmark times under a second. Thus, switching to G2 with the right configuration allowed us to run our experiments faster, or alternatively larger experiments in the same amount of time.

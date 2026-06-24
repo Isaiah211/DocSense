@@ -1,0 +1,1 @@
+This deserves its own section to explain: see “bottleneck layer” section below. GoogLeNet used a stem without inception modules as initial layers, and an average pooling plus softmax classifier similar to NiN. This classifier is also extremely low number of operations, compared to the ones of AlexNet and VGG.

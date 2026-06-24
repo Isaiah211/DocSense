@@ -1,0 +1,1 @@
+When a is not 0.01 then it is called Randomized ReLU. Therefore the range of the Leaky ReLU is (-infinity to infinity). Both Leaky and Randomized ReLU functions are monotonic in nature.

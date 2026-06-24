@@ -1,0 +1,1 @@
+Some of the most heralded recent success stories of ML have in fact been in areas associated with human-imitative AI — areas such as computer vision, speech recognition, game-playing and robotics. So perhaps we should simply await further progress in domains such as these. There are two points to make here.

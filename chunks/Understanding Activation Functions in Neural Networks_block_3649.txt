@@ -1,0 +1,1 @@
+Then what are the problems with this? If you notice, towards either end of the sigmoid function, the Y values tend to respond very less to changes in X. What does that mean?

@@ -1,0 +1,1 @@
+In either extreme the network simply fails to converge in a reasonable amount of time. In the case of low biases (more positive), the network starts as if the carry gates aren’t present at all. In the case of high biases (more negative), we’re putting more emphasis on carrying and the network can take a long time to overcome that.

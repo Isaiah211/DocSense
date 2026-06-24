@@ -1,0 +1,1 @@
+As such, this task is labor-intensive, infrequent, slow, and costly. As a result, such data are mostly available in developed countries and big cities that have the resources and the vision necessary to collect and curate it. Another motivation for automating the analysis of aerial imagery stems from the urgency of predicting changes in the region of interest.

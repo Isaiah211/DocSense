@@ -1,0 +1,1 @@
+Now, you feed this dataset to your “state-of-the-art” neural network, and you hope to get impressive results once it’s trained. Let’s say it’s done training, and you feed the image above, which is a Brand A car. But your neural network outputs that it’s a Brand B car!

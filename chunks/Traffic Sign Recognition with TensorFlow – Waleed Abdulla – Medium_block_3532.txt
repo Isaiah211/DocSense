@@ -1,0 +1,1 @@
+That’s fine, as long as we know about it beforehand and know what to expect. That’s why understanding your dataset is so important and can save you a lot of pain and confusion later. I’ll leave exploring the other labels to you.

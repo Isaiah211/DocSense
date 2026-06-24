@@ -1,0 +1,1 @@
+Our first attempt to train our Neural Network model took 7 hours. We then ran the same code to train the model in on a EC2’s cg1.4xlarge instance, which has a more powerful Tesla M2050 with 448 cores. However, the training time jumped from 7 to over 20 hours.

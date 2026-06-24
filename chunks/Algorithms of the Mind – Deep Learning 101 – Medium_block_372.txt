@@ -1,0 +1,1 @@
+Language does indeed influence our perception of the world, in the same way that labels in supervised machine learning influence the model’s ability to discriminate among categories. And yet, we also know that labels are not strictly required to discriminate between cues. In Google’s “cat-recognizing brain”, the network eventually discovers the concept of “cat”, “dog”, etc.

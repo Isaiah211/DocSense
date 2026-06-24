@@ -1,0 +1,2 @@
+For now, I’ll just explain this algorithm at enough depth to make sense of this essay. But if you want to learn about it in depth, some smart people have also made excellent videos and blog posts on this:
+1. A short video series from Udacity2.

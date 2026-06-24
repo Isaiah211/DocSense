@@ -1,0 +1,1 @@
+The current documentation around loading a graph with C++ is pretty sparse so I spent some time setting up a barebones example. In the TensorFlow repo there are more involved examples, such as building a graph in C++. However, the C++ API for constructing graphs is not as complete as the Python API.

@@ -1,0 +1,5 @@
+For example, we’d like to find a page like:
+and do the following:
+Both of these are hard things for a computer to do in an automated manner. While it’s easy for you or me to realize that the above web page is selling some jeans, a computer would have a hard time making the distinction from the above page from either of the following web pages:
+Or
+Both of these pages share many similarities to the actual product page, but also have many key differences. The real challenge, though, is that if we look at the entire set of possible web pages, those similarities and differences become somewhat blurred, which means hard and fast rules for classifications will fail often.

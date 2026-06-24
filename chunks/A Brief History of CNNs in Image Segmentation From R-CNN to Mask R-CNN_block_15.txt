@@ -1,0 +1,2 @@
+Let’s now go over its main insights. Fast R-CNN Insight 1: RoI (Region of Interest) Pooling
+For the forward pass of the CNN, Girshick realized that for each image, a lot of proposed regions for the image invariably overlapped causing us to run the same CNN computation again and again (~2000 times!). His insight was simple — Why not run the CNN just once per image and then find a way to share that computation across the ~2000 proposals?

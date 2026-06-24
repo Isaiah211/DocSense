@@ -1,0 +1,1 @@
+In this post, I’ll give a few explanations and guide you to the resources I’ve used, in case you’re interested in doing this yourself. So what is a neural network? Let’s wait with the network part and start off with one single neuron.

@@ -1,0 +1,1 @@
+His “brain” at any given point playing the game is made up of a collection of “neurons” and “synapses”, alternatively titled nodes and connections/links. Essentially, his brain is a directed graph. Above is the second part of this project, a Node.js server that displays the current state of crAIg’s brain, or what he is “thinking”.

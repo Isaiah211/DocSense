@@ -1,0 +1,4 @@
+Next we will discuss possible
+explanations of the network puzzle with this approach. One possible reason is that due to the limitations of technologies, the geographical factor is still
+important and a local monopoly is still possible. Timely data transmission across a large geographical
+region over the internet is still technically difficult giving the uncertain cyber-traffic.

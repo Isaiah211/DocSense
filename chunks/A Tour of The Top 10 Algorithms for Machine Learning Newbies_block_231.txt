@@ -1,0 +1,1 @@
+It is the best starting point for understanding boosting. Modern boosting methods build on AdaBoost, most notably stochastic gradient boosting machines. AdaBoost is used with short decision trees.

@@ -1,0 +1,1 @@
+The simulate method runs the Monte Carlo Tree Search process. Specifically, the agent moves to a leaf node of the tree, evaluates the node with its neural network and then backfills the value of the node up through the tree. The act method repeats the simulation multiple times to understand which move from the current position is most favourable.

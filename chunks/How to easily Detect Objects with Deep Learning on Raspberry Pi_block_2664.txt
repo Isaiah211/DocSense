@@ -1,0 +1,2 @@
+There is some level of black magic associated with this, along with a little bit of theory. This is a great resource for finding the right parameters. Quantize Model (make it smaller to fit on a small device like the Raspberry Pi or Mobile)
+Small devices like Mobile Phones and Rasberry PI have very little memory and computation power.

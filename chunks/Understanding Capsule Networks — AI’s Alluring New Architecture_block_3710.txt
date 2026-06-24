@@ -1,0 +1,2 @@
+0 is green and positive is yellow:
+After we filter the image with all of these kernels, we end up with a fat stack of 256 output images. ReLU (formally known as Rectified Linear Unit) may sound complicated, but it’s actually quite simple. ReLU is an activation function that takes in a value.

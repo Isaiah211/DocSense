@@ -1,0 +1,1 @@
+And now we code our neural network training function to create synaptic weights. Don’t get too excited, this is mostly matrix multiplication — from middle-school math class. We are now ready to build our neural network model, we will save this as a json structure to represent our synaptic weights.

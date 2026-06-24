@@ -1,0 +1,1 @@
+Everything we do is generating data like never before, and lots of data is exactly what machines need in order to learn to learn. Why? Imagine programming a computer to recognize a chair.

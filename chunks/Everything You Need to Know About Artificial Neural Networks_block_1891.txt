@@ -1,0 +1,1 @@
+Though most people drop the artificial for the sake of brevity, the word artificial was prepended to the phrase so that people in computational neurobiology could still use the term neural network to refer to their work. Below is a diagram of actual neurons and synapses in the brain compared to artificial ones. Fear not if the diagram doesn’t come through very clearly.

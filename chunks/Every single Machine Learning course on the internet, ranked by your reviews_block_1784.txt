@@ -1,0 +1,1 @@
+It has a 4.09-star weighted average rating over 11 reviews. Big Data: Statistical Inference and Machine Learning (Queensland University of Technology/FutureLearn): A nice, brief exploratory machine learning course with a focus on big data. Covers a few tools like R, H2O Flow, and WEKA.

@@ -1,0 +1,3 @@
+Gode and Sunder (1999) discuss a specific technical problem in electronic markets: the
+time lag problem for geographically distributed agents. They think that a call market instead of a
+continuous market may solve this problem. A fourth possible reason is the asymmetric information view.

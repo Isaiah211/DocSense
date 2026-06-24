@@ -1,0 +1,1 @@
+Although this blog post has focused mostly on our architecture and model building pipeline, the truth is that much of our time has been spent elsewhere. Our process was very successful for some models, but for others we encountered poor precision-recall. Initially we considered whether we were experiencing a bias or a variance problem, and tried using more data and more features.

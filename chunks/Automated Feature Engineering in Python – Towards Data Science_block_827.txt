@@ -1,0 +1,1 @@
+Although Pandas is a great resource, there’s only so much data manipulation we want to do by hand! (For more on manual feature engineering check out the excellent Python Data Science Handbook). Fortunately, featuretools is exactly the solution we are looking for.

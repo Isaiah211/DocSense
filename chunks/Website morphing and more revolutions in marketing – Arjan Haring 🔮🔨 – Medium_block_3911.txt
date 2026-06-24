@@ -1,0 +1,1 @@
+One challenge is to develop methods that scale well to be data. (2) Machine learning. There are some problems that humans solve better than computers and some problems that computers solve better than humans.

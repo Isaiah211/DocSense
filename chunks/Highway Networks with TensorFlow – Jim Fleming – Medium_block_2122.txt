@@ -1,0 +1,2 @@
+The paper briefly mentions 1000 layers:
+Can we train with 1000 layers on MNIST? Yes, also reaching around 95% accuracy. Try it out with a carry bias around -20.0 for MNIST (from the paper the network will only utilize ~15 layers anyway).

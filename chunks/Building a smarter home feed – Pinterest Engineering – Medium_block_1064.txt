@@ -1,0 +1,1 @@
+In addition, feeds can be trimmed to restrict them to a maximum size. The need for less storage means we can easily increase the availability and reliability of the materialized feed through replication and the use of faster storage hardware. The smart feed service relies on the content generator to provide new Pins.

@@ -1,0 +1,3 @@
+We already know what these are, but we have just been calling them by different names! These are simply the basic operations that we use to form new features:
+New features are created in featuretools using these primitives either by themselves or stacking multiple primitives. Below is a list of some of the feature primitives in featuretools (we can also define custom primitives):
+These primitives can be used by themselves or combined to create features.

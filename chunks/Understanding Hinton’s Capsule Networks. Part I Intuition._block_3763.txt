@@ -1,0 +1,1 @@
+In addition to that, the team published an algorithm, called dynamic routing between capsules, that allows to train such a network. For everyone in the deep learning community, this is huge news, and for several reasons. First of all, Hinton is one of the founders of deep learning and an inventor of numerous models and algorithms that are widely used today.

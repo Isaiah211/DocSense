@@ -1,0 +1,1 @@
+Although this is very impressive, we might point out that the application doesn’t truly understand what is being drawn. It is just picking up on patterns. In fact, this distinction is part of the gap between simple AI techniques and true artificial general intelligence.

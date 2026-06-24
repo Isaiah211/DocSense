@@ -1,0 +1,1 @@
+We can now organize our data structures for documents, classes and words. Notice that each word is stemmed and lower-cased. Stemming helps the machine equate words like “have” and “having”.

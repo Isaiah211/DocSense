@@ -1,0 +1,1 @@
+Then we start the training loop and run the train op repeatedly. While not necessary, it’s useful to run the loss op as well to print its values and monitor the progress of the training. In case you’re wondering, I set the loop to 201 so that the i % 10 condition is satisfied in the last round and prints the last loss value.

@@ -1,0 +1,4 @@
+Gode, D and S Sunder (2001): “Designing electronic markets: on the impossibility of equitable
+continuously-clearing mechanisms with geographically distributed agents”, working paper, Feb. Gu, S, J Stallaert and A Whinston (2001): “Exchange market model for over-the-counter equity
+derivatives trading”, working paper, June. Guo, Z, G Koehler and A Whinston (2001): “ Market-based optimisation algorithms for distributed
+systems”, working paper.

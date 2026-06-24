@@ -1,0 +1,5 @@
+What could be more natural? To do this we used SRI International’s VPA platform, which is almost literally a post-Siri natural-language-interaction platform with which you can have a conversation in context. This is more or less what it looked like in our beta version:
+Search box:
+A conversational UI:
+We launched this, monitored use and quickly realized is that early users split into two groups:
+Discarding the 2nd group (we’re busy people), we learned that people don’t know how to interact naturally with computers, or they have no idea what to ask or expect, so they revert to the most primitive queries.

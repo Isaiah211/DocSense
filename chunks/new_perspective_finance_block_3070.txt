@@ -1,0 +1,6 @@
+Theoretically,
+the internet has made the notion of a single global securities market possible. In reality, however,
+innovations in network technology have led to a boom in the business of developing electronic trading
+systems; see Allen, Hawkins and Sato (this volume) and Fan et al (2001). Various types of electronic
+trading systems, such as electronic communications networks (ECNs) and crossing networks, have
+been developed, competing with well-established exchanges.

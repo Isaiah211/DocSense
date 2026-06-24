@@ -1,0 +1,4 @@
+Fan, M, J Stallaert and A Whinston (1999): “A web-based financial trading system”, IEEE Computer,
+April, pp 64-70. Fan, M, J Stallaert, and A Whinston (2000): “Designing electronic market institutions for bond trading”,
+in Melnick, E (Ed), Creating Value in Financial Services: Strategies, Operations, and Technologies,
+Kluwer Academic Publishers, Boston. Freixas, X and Rochet, J-C (1997): Microeconomics of Banking, MIT Press.

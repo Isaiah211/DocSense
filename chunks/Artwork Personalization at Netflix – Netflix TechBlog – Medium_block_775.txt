@@ -1,0 +1,1 @@
+Much of the Netflix recommendation engine is powered by machine learning algorithms. Traditionally, we collect a batch of data on how our members use the service. Then we run a new machine learning algorithm on this batch of data.

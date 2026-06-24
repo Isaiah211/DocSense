@@ -1,0 +1,1 @@
+24 videos and 88 exercises with an estimated timeline of four hours. Machine Learning with the Experts: School Budgets (DataCamp): A case study from a machine learning competition on DrivenData. Involves building a model to automatically classify items in a school’s budget.

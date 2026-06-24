@@ -1,0 +1,2 @@
+Or be able to keep the computational cost the same, while offering improved performance. He and his team came up with the Inception module:
+which at a first glance is basically the parallel combination of 1×1, 3×3, and 5×5 convolutional filters. But the great insight of the inception module was the use of 1×1 convolutional blocks (NiN) to reduce the number of features before the expensive parallel blocks.

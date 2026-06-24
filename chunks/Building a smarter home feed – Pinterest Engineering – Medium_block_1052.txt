@@ -1,0 +1,1 @@
+Incoming Pins are currently obtained from three separate sources: repins made by followed users, related Pins, and Pins from followed interests. Each is scored by the worker and then inserted into a pool for that particular type of pin. Each pool is a priority queue sorted on score and belongs to a single user.

@@ -1,0 +1,1 @@
+Involves building a model to automatically classify items in a school’s budget. DataCamp’s “Supervised Learning with scikit-learn” is a prerequisite. Fifteen videos and 51 exercises with an estimated timeline of four hours.

@@ -1,0 +1,1 @@
+Both Leaky and Randomized ReLU functions are monotonic in nature. Also, their derivatives also monotonic in nature. I will be posting 2 posts per week so don’t miss the tutorial.

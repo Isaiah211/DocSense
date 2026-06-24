@@ -1,0 +1,1 @@
+You let the old memory goes through, if your forget valve equals 1. Then the second operation the memory flow will go through is this + operator. This operator means piece-wise summation.

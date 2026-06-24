@@ -1,0 +1,1 @@
+They are .batch and .shuffle. Ok, if we shuffle our dataset how can we use it for production? It’s easy, we simply make another dataset without data been shuffled.

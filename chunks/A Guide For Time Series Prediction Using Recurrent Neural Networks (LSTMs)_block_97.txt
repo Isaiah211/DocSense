@@ -1,0 +1,1 @@
+One can show the model data from a year and try to make a prediction for the first day of the next year. Sliding time window methods are very useful in terms of fetching important patterns in the dataset that are highly dependent on the past bulk of observations. Try to make changes to this model as you like and see how the model reacts to those changes.

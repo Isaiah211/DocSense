@@ -1,0 +1,1 @@
+Adding just the right amount of noise can enhance the learning capability. A toned down version of this is the salt and pepper noise, which presents itself as random black and white pixels spread through the image. This is similar to the effect produced by adding Gaussian noise to an image, but may have a lower information distortion level.

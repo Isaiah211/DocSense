@@ -1,0 +1,1 @@
+The catch is, one will not use data augmentation, whereas the other will. You can download the dataset from here link. If you’ve checked out the dataset, you’ll notice that there’s only 50 images per class for both training and testing.

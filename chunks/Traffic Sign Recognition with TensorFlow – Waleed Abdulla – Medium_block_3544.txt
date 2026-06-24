@@ -1,0 +1,2 @@
+You’re probably familiar with its equation:
+I start with a simple model because it’s easy to explain, easy to debug, and fast to train. Once this works end to end, expanding on it is much easier than building something complex from the start. TensorFlow encapsulates the architecture of a neural network in an execution graph.

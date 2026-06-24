@@ -1,0 +1,1 @@
+As you read on, it is worth keeping in mind that our whole infrastructure runs across the public Amazon Web Services cloud. As mentioned above, our algorithmic results can be computed either online in real-time, offline in batch, or nearline in between. Each approach has its advantages and disadvantages, which need to be taken into account for each use case.

@@ -1,0 +1,1 @@
+The re-organization relies on an equation called the “compatibility distance equation”. This equation determines how similar (or different) any two given genomes are. I won’t go into the gritty details of how the equation works, as it is well explain in section 3.3 of the original paper, as well as here in crAIg’s code.

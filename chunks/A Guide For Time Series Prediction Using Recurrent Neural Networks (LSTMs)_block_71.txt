@@ -1,0 +1,2 @@
+3. Output Gate
+This gate controls how much of the internal state is passed to the output and it works in a similar way to the other gates. These three gates described above have independent weights and biases, hence the network will learn how much of the past output to keep, how much of the current input to keep, and how much of the internal state to send out to the output.

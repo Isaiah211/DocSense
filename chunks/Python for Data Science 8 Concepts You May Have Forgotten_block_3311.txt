@@ -1,0 +1,3 @@
+Basically, they let you create a function, without creating a function. The basic syntax of lambda functions is:
+Note that lambda functions can do everything that regular functions can do, as long as there’s just one expression. Check out the simple example below and the upcoming video to get a better feel for the power of lambda functions:
+Once you have a grasp on lambda functions, learning to pair them with the map and filter functions can be a powerful tool.

@@ -1,0 +1,2 @@
+We’ll implement FCN-8, as detailed step-by-step below:
+We first load the pre-trained VGG-16 model into TensorFlow. Taking in the TensorFlow session and the path to the VGG Folder (which is downloadable here), we return the tuple of tensors from VGG model, including the image input, keep_prob (to control dropout rate), layer 3, layer 4, and layer 7. Now we focus on creating the layers for a FCN, using the tensors from the VGG model.

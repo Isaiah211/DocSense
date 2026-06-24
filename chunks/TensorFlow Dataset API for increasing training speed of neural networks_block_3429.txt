@@ -1,0 +1,1 @@
+By contrast, the results on a real-life dataset are much more impressive. Thus Dataset API is very good for increasing your training speed. With no source code changes, just some modifications in the stack, you can save 20–30% off the training time.

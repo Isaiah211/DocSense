@@ -1,0 +1,1 @@
+We said — first, let’s just put a search box in there, allowing the user to type or say whatever they want, and let’s make sure we understand this. Then, let’s leave that box there so they can react to what they see and provide more detail (“refine”) or search for something else in that context (e.g. a restaurant near the resort — we called this “pivot”).

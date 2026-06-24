@@ -1,0 +1,2 @@
+RAG technology brings several benefits to an organization's generative AI efforts. Cost-effective implementation
+Chatbot development typically begins using a foundation model. Foundation models (FMs) are API-accessible LLMs trained on a broad spectrum of generalized and unlabeled data.

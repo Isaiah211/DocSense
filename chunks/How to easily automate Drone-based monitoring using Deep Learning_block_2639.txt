@@ -1,0 +1,1 @@
+This involves searching through multiple models and through a hyperspace of parameters using advanced search algorithms. The hardest objects to detect are the smallest ones, due to their low resolution. Our model training strategy is optimised to detect very small objects such as Geysers and Aprons which have an area of a few pixels.

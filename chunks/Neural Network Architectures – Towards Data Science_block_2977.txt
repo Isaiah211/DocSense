@@ -1,0 +1,1 @@
+As you can see in this figure ENet has the highest accuracy per parameter used of any neural network out there! ENet was designed to use the minimum number of resources possible from the start. As such it achieves such a small footprint that both encoder and decoder network together only occupies 0.7 MB with fp16 precision.

@@ -1,0 +1,1 @@
+So what exactly are we looking for? In the first layer of convolutions we were looking for simple edges and curves. Now we are looking for slightly more complex shapes from the edges we found earlier.

@@ -1,0 +1,1 @@
+Could a GAN be trained to draw alongside a user? It’s not likely. The model wouldn’t be able to turn a text-based description of an image into an actual picture either.

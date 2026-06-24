@@ -1,0 +1,3 @@
+Comparison
+Now that I’ve introduced the two programs, I’ll highlight the strengths and weakness of each across a number of categories. Programming Environment
+As I mentioned, Coursera is the “OG” machine learning course; so, it should come as no surprise that the it’s taught in the “OG” 3D math language and programming environment: Matlab. Due to Matlab’s cost and licensing issues, the machine learning world has mostly moved to Python.

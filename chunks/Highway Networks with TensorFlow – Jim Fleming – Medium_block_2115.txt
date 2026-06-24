@@ -1,0 +1,3 @@
+TL;DR Fully-connected highway repo and convolutional highway repo. For comparison, let’s start with a standard fully-connected (or “dense”) layer. We need a weight matrix and a bias vector then we’ll compute the following for the layer output:
+Here’s what a dense layer looks like as a graph in TensorBoard:
+For the highway layer what we want are two “gates” that control the flow of information.

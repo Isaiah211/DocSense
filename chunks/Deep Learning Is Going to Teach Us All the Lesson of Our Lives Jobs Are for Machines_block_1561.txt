@@ -1,0 +1,1 @@
+But deep neural networks get around that barrier in the same way our own minds do, by learning to estimate what feels like the best move. We do this through observation and practice, and so did AlphaGo, by analyzing millions of professional games and playing itself millions of times. So the answer to when the game of Go would fall to machines wasn’t even close to ten years.

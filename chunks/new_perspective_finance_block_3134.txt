@@ -1,0 +1,8 @@
+4.3 Virtual private networks and service level agreements
+In the business-to-business realm, more and more financial institutions are setting up Virtual Private
+Networks3
+ (VPNs) over the internet to cut costs for intra-organisational transactions. They may choose
+VPNs over leased lines to connect remote offices and users to cut costs significantly. Instead of
+investing in the infrastructure themselves, they can drastically reduce their capital and operational
+costs by outsourcing their network services to service providers who offer a robust VPN service and
+therefore can focus on their core business in financial services.

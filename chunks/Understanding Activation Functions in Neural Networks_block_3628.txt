@@ -1,0 +1,1 @@
+If you are familiar with gradient descent for training, you would notice that for this function, derivative is a constant. A = cx, derivative with respect to x is c. That means, the gradient has no relationship with X.

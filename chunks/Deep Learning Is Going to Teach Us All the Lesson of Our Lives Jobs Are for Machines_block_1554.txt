@@ -1,0 +1,1 @@
+Essentially, our lives are big data filtered through our brains. The power of deep learning is that it’s a way of using massive amounts of data to get machines to operate more like we do without giving them explicit instructions. Instead of describing “chairness” to a computer, we instead just plug it into the Internet and feed it millions of pictures of chairs.

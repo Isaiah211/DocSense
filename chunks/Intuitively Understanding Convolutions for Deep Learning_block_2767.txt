@@ -1,0 +1,1 @@
+Each output node only gets to see a select number of inputs (the ones inside the kernel). There is no interaction with any of the other inputs, as the weights to them are set to 0. It’s useful to see the convolution operation as a hard prior on the weight matrix.

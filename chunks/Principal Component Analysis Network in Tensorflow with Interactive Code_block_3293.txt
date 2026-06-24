@@ -1,0 +1,2 @@
+But I suspected that the network didn’t have enough learning capacity from the start and this was best it could do. However I wanted to see how each PCAP layer transforms the image. Top Left Image → Original InputTop Right Image → After First LayerBottom Left Image → After Second LayerBottom Right Image → After Fourth Layer
+One obvious pattern we can observe is the change of brightens.

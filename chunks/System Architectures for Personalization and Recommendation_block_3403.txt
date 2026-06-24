@@ -1,0 +1,1 @@
+Later we use Hermes as our publish-subscribe mechanism. The goal of our machine learning approach is to come up with personalized recommendations. These recommendation results can be serviced directly from lists that we have previously computed or they can be generated on the fly by online algorithms.

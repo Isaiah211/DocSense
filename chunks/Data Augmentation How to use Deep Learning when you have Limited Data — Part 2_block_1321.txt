@@ -1,0 +1,1 @@
+Chances are, you find a dataset that has around a few hundred images. You recall that most popular datasets have images in the order of tens of thousands (or more). You also recall someone mentioning having a large dataset is crucial for good performance.

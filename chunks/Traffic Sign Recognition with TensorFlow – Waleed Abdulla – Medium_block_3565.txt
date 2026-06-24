@@ -1,0 +1,1 @@
+This post does a great job comparing different gradient descent optimizers. The last node in the graph is the initialization op, which simply sets the values of all variables to zeros (or to random values or whatever the variables are set to initialize to). Notice that the code above doesn’t execute any of the ops yet.

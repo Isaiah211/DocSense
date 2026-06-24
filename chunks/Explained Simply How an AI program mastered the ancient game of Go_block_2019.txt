@@ -1,0 +1,1 @@
+Then, you train Foma for value prediction: determining the probability of you winning. You let the AI practice through playing itself again and again in a simulated environment, observe the end result each time, and learn from its mistakes to get better and better. I won’t go into details of how these networks are trained.

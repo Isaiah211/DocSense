@@ -1,0 +1,1 @@
+You can perform scaling by using the following commands, using scikit-image. Data Augmentation Factor = Arbitrary. Unlike scaling, we just randomly sample a section from the original image.

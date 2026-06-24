@@ -1,0 +1,2 @@
+The neural-net also learns from the 0’s, the non-matching words. A low-probability classification is easily shown by providing a sentence where ‘a’ (common word) is the only match, for example:
+Here you have a fundamental piece of machinery for building a chat-bot, capable of handling a large # of classes (‘intents’) and suitable for classes with limited or extensive training data (‘patterns’). Adding one or more responses to an intent is trivial.

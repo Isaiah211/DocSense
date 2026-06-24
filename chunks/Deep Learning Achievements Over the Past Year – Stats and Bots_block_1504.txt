@@ -1,0 +1,1 @@
+However, it would be preferable that the algorithm learned complex behavior itself by leaning with simple rewards. Researchers managed to achieve this: they taught agents (body emulators) to perform complex actions by constructing a complex environment with obstacles and with a simple reward for progress in movement. You can watch the impressive video with results.

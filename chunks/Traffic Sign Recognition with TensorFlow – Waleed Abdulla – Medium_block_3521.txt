@@ -1,0 +1,1 @@
+The directory names represent the labels, and the images inside each directory are samples of each label. Or, if you prefer to sound more formal: do Exploratory Data Analysis. It’s tempting to skip this part, but I’ve found that the code I write to examine the data ends up being used a lot throughout the project.

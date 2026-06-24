@@ -1,0 +1,1 @@
+Taking a pre-trained model and running inference is very different. One of the magical qualities of Deep Neural Networks is that they tend to cope very well with high levels of noise in their inputs. Why Quantize?

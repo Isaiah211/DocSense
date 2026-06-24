@@ -1,0 +1,1 @@
+Something which should say a “yes” or “no” ( activate or not activate ). A Step function could do that for you! That’s exactly what it does, say a 1 or 0.

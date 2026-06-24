@@ -1,0 +1,1 @@
+Idea: Better initialization of the parameters of the nets. Something to remember: The initialization strategy should be selected according to the activation function used (next). 3.

@@ -1,0 +1,1 @@
+Lusha’s younger brother Jerry? I know I know, enough with these names). After that, once you’ve trained both of the slow and fast policy networks enough using human player data, you can try letting Lusha play against herself on a Go board for a few days, and get more practice.

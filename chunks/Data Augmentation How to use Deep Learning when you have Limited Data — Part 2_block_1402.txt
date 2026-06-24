@@ -1,0 +1,1 @@
+You can replicate this experiment to verify. Let’s create two neural networks to classify data to one among four classes: cat, lion, tiger or a leopard. The catch is, one will not use data augmentation, whereas the other will.

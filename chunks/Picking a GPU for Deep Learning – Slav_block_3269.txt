@@ -1,0 +1,1 @@
+The entry-level card which will get you started but not much more. Still, if you are unsure about getting in Deep Learning, this might be a cheap way to get your feet wet. Titan X Pascal It used to be the best consumer GPU Nvidia had to offer.

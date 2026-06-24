@@ -1,0 +1,1 @@
+It is very important when you do time series to split train and test with respect to a certain date. So, you don’t want your test data to come before your training data. In our experiment, we will define a date, say January 1, 2010, as our split date.

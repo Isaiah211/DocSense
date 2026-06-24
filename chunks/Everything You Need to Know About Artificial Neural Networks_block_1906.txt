@@ -1,0 +1,1 @@
+An artificial neural network is given a multitude of examples and then it tries to get the same answer as the example given. When it is wrong, an error is calculated and the values at each neuron and synapse are propagated backwards through the ANN for the next time. This process takes a LOT of examples.

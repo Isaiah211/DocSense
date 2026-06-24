@@ -1,0 +1,1 @@
+So Foma is not enough. You need to narrow down the list of moves to a few sensible moves that you can roll out into the future. How will your program do that?

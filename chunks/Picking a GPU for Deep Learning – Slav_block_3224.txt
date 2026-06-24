@@ -1,0 +1,1 @@
+DL works by approximating a solution to a problem using neural networks. One of the nice properties of about neural networks is that they find patterns in the data (features) by themselves. This is opposed to having to tell your algorithm what to look for, as in the olde times.

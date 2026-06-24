@@ -1,0 +1,2 @@
+Happy Coding! To access the network with PCAP please click here.To access the network with Max Pooling please click here. Final Words
+I wasn’t expecting much of this network from the start but I expected at least 30 percent accuracy on training / testing images LOL.

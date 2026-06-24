@@ -1,0 +1,1 @@
+Udacity’s projects were extremely well designed. In fact, they constituted some of the best educational materials I’ve ever encountered. Each project covered a subject, such as unsupervised learning, reinforcement learning, linear regression, in which you solve a multi-step machine learning problem and write about your approach and understanding.

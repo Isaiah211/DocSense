@@ -1,0 +1,3 @@
+We really had to bring out the big guns to be able to run these damn programs.”
+Self explanatory. “LOL, our program literally blew the pants off of every other program that came before us”
+This goes back to that “mixing parameter” again. While evaluating positions, giving equal importance to both the value function and the rollouts performed better than just using one of them.

@@ -1,0 +1,1 @@
+Our team exported the scraped stock data from our scraping server as a csv file. The dataset contains n = 41266 minutes of data ranging from April to August 2017 on 500 stocks as well as the total S&P 500 index price. Index and stocks are arranged in wide format.

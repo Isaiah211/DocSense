@@ -1,0 +1,1 @@
+(1) Big data. We know so much more about customers than we ever did before, but this knowledge is often hidden within the volume of data. One challenge is to develop methods that scale well to be data.

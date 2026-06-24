@@ -1,0 +1,2 @@
+I wanted to try and stretch the data as much as possible. Next thing to try is to experiment with parallel network using John’s trainer. Acknowledgements:
+I am very thankful to Udacity for selecting me for the first cohort, this allowed me to connect with many like-minded individuals.

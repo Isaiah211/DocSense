@@ -1,0 +1,1 @@
+if this, then that) we call it an association. Reinforcement learning doesn’t use an existing data set. Instead we create an agent to collect its own data through trial-and-error in an environment where it is reinforced with a reward.

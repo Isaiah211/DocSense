@@ -1,0 +1,2 @@
+Each weight is actually a 16x8 matrix, so each prediction is a matrix multiplication between the capsule vector and this weight matrix:
+As you can see, our prediction is a 16 degree vector. Where does the 16 come from? It’s an arbitrary choice, just like 8 was for our original capsules.

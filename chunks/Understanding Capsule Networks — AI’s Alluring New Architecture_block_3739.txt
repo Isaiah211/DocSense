@@ -1,0 +1,1 @@
+Probably the boat, right? both the rectangle capsule and the triangle capsule agree on what the boat would look like. But they don’t agree on how the house would look, so it’s not very likely that the object is a house.

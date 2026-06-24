@@ -1,0 +1,1 @@
+Covers a few tools like R, H2O Flow, and WEKA. Only three weeks in duration at a recommended two hours per week, but one reviewer noted that six hours per week would be more appropriate. Free and paid options available.

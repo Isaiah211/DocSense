@@ -1,0 +1,1 @@
+Magenta aims to learn how to generate art and music in a way that is indeed generative. It must go past just emulating existing music. This is distinctly different that projects along the line of DeepBach which set out to emulate existing music in a way that wasn’t plagiarizing existing pieces of music.

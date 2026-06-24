@@ -1,0 +1,1 @@
+But that doesn’t matter, as I finally understood how it works. Check the code here. You don’t need to perform this entire exercise yourself, as it requires some knowledge about and cost functions and gradient descent, which you might not have at this point.

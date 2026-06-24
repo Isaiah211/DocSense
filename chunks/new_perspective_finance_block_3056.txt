@@ -1,0 +1,4 @@
+Traditionally, financial institutions have different geographic locations and physical branch networks
+that “naturally” differentiate them from each other. The competition between these firms can be
+characterised by a Hotelling location model. However, the internet is changing the fundamental
+business environment.

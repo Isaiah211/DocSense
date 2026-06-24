@@ -1,0 +1,1 @@
+de Ponteves then walks through implementation with separate videos for both Python and R. As a “bonus,” the course includes Python and R code templates for students to download and use on their own projects. There are quizzes and homework challenges, though these aren’t the strong points of the course.

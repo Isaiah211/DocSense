@@ -1,0 +1,1 @@
+This allows us, for example, to tune, train, and update several models daily for all international regions. Although the Spearmint + Celery system is working, we are currently evaluating more complete and flexible solutions using HTCondor or StarCluster. HTCondor can be used to manage the workflow of any Directed Acyclic Graph (DAG).

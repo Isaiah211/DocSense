@@ -1,0 +1,2 @@
+The reason for this “adjusted fitness” is to discourage species from growing too big. As the population in a species goes up, their “adjusted fitness” goes down, forcing the genetic algorithm to diversify. The proper implementation of this algorithm is relatively intensive, so for crAIg’s implementation we simplified it to the following:
+The important part here is that each genome now has an adjusted fitness value associated with it.

@@ -1,0 +1,1 @@
+If we take notifications and the need for explicit interactions as a proxy for technological friction, then each connected device adds more of it. Unfortunately, this is about to get much worse, since the number of connected devices is increasing exponentially! This year, in 2015, we are officially entering what is called the “Internet of Things” era.

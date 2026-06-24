@@ -1,0 +1,1 @@
+Choosing the optimization algorithm is another decision to make. I usually use the ADAM optimizer because it’s been shown to converge faster than simple gradient descent. This post does a great job comparing different gradient descent optimizers.

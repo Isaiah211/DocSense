@@ -1,0 +1,1 @@
+As of now, none of these work out of the box with OpenCL (CUDA alternative), which runs on AMD GPUs. I hope support for OpenCL comes soon as there are great inexpensive GPUs from AMD on the market. Also, some AMD cards support half-precision computation which doubles their performance and VRAM size.

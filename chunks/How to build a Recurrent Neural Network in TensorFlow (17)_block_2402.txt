@@ -1,0 +1,1 @@
+The different bar plots show different sample series in the current batch. Our algorithm will fairly quickly learn the task. The graph in the top-left corner shows the output of the loss function, but why are there spikes in the curve?

@@ -1,0 +1,1 @@
+Now we focus on creating the layers for a FCN, using the tensors from the VGG model. Given the tensors for VGG layer output and the number of classes to classify, we return the tensor for the last layer of that output. In particular, we apply a 1x1 convolution to the encoder layers, and then add decoder layers to the network with skip connections and upsampling.

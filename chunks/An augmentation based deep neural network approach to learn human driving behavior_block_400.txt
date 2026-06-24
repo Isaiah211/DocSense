@@ -1,0 +1,2 @@
+The main idea being the left camera has to move right to get to center, and right camera has to move left. Horizontal and vertical shifts
+We will shift the camera images horizontally to simulate the effect of car being at different positions on the road, and add an offset corresponding to the shift to the steering angle. We added 0.004 steering angle units per pixel shift to the right, and subtracted 0.004 steering angle units per pixel shift to the left.

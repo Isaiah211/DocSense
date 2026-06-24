@@ -1,0 +1,2 @@
+We argue here that Capsules have to be extended with a few additional features:
+Continuous learning — this is important because neural networks need to continue to learn new data-points continuously for their life. Current neural networks are not able to learn new data without being re-trained from scratch at every instance. Neural networks need to be able to self-assess the need of new training and the fact that they do know something.

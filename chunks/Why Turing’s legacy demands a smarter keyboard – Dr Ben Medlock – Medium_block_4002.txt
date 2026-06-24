@@ -1,0 +1,1 @@
+Applying neural networks to real world problems is part of a wider technology movement that’s changing the face of consumer electronics for good. Devices are getting smarter, more useful and more personal. My goal is that SwiftKey contributes to this revolution.

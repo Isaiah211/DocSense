@@ -1,0 +1,1 @@
+For the past for few months, I’ve been submerging myself in all things capsules. I think it’s time we all try to get a deeper understanding of how capsules actually work. In order to make it easier to follow along, I have built a visualization tool that allows you to see what is happening at each layer.

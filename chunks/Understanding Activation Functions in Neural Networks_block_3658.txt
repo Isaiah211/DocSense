@@ -1,0 +1,1 @@
+Deciding between the sigmoid or tanh will depend on your requirement of gradient strength. Like sigmoid, tanh also has the vanishing gradient problem. Tanh is also a very popular and widely used activation function.

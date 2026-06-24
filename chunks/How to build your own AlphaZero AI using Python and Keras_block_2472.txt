@@ -1,0 +1,2 @@
+To view individual convolutional filters and densely connected layers in the neural network, run the following inside the the run.ipynb notebook:
+This contains the Node, Edge and MCTS classes, that constitute a Monte Carlo Search Tree. The MCTS class contains the moveToLeaf and backFill methods previously mentioned, and instances of the Edge class store the statistics about each potential move. This is where you set the key parameters that influence the algorithm.

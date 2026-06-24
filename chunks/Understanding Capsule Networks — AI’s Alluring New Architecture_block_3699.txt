@@ -1,0 +1,2 @@
+We could do this by looping through every pixel in the image:
+But this isn’t very efficient. We can instead use something called a “convolution.” Technically speaking, it’s a “cross-correlation,” but everyone likes to call them convolutions. A convolution is essentially doing the same thing as our loop, but it takes advantage of matrix math.

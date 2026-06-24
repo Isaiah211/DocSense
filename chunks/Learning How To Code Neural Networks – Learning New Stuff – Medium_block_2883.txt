@@ -1,0 +1,1 @@
+The course is fairly mathematical, and its based around Octave, while I prefer Python. Because of this, I did not do the programming exercises. Instead, I used the videos to help me understand what I needed to learn.

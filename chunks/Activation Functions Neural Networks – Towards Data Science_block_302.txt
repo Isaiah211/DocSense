@@ -1,0 +1,5 @@
+Nonlinearity helps to makes the graph look something like this
+It makes it easy for the model to generalize or adapt with variety of data and to differentiate between the output. The main terminologies needed to understand for nonlinear functions are:
+The Nonlinear Activation Functions are mainly divided on the basis of their range or curves-
+1. Sigmoid or Logistic Activation Function
+The Sigmoid Function curve looks like a S-shape.

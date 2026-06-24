@@ -1,0 +1,1 @@
+Such a perspective gives computer-generated music more substance, and helps it to become less of a gimmick. One of the projects the magenta team has developed is called NSynth. The idea behind NSynth is to be able to create new sounds that have never been heard before, but beyond that, to reimagine how music synthesis can be done.

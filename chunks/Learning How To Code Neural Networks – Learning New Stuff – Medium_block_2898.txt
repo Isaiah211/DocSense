@@ -1,0 +1,1 @@
+It contains an extraordinary amount of compressed knowledge and concepts in just 11 lines. After you’ve coded along with this example, you should do as the article states at the bottom, which is to implement it once again without looking at the tutorial. This forces you to really understand the concepts, and will likely reveal holes in your knowledge, which isn’t fun.

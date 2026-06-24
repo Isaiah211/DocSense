@@ -1,0 +1,2 @@
+Keras generator for subsampling
+As there was limited data and we are generating thousands of training examples from the same image, it is not possible to store all the images apriori into memory. We will utilize kera’s generator function to sample images such that images with lower angles have lower probability of getting represented in the data set. This alleviates any problems we may ecounter due to model having a bias towards driving straight.

@@ -1,0 +1,1 @@
+Keras generator is set up such that in the initial phases of learning, the model drops data with lower steering angles with higher probability. This removes any potential for bias towards driving at zero angle. After setting up the image augmentation pipeline, we can proceed to train the model.

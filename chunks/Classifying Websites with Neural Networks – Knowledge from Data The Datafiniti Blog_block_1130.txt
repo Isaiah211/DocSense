@@ -1,0 +1,1 @@
+Here’s a quick primer on neural networks. Let’s say we want to know whether any particular mushroom is poisonous or not. We’re not entirely sure what determines this, but we do have a record of mushrooms with their diameters and heights, along with which of these mushrooms were poisonous to eat, for sure.

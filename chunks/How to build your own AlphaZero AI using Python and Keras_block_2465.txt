@@ -1,0 +1,1 @@
+The current_player then retrains its neural network on these memories and is then pitched against the best_player. If it wins, the neural network inside the best_player is switched for the neural network inside the current_player, and the loop starts again. This contains the Agent class (a player in the game).

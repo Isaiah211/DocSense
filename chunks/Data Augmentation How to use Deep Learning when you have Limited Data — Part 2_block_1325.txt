@@ -1,0 +1,1 @@
+Naturally, if you have a lot of parameters, you would need to show your machine learning model a proportional amount of examples, to get good performance. Also, the number of parameters you need is proportional to the complexity of the task your model has to perform. You don’t need to hunt for novel new images that can be added to your dataset.

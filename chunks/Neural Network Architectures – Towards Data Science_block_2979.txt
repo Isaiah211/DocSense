@@ -1,0 +1,2 @@
+A systematic evaluation of CNN modules has been presented. The found out that is advantageous to use:
+• use ELU non-linearity without batchnorm or ReLU with it. • apply a learned colorspace transformation of RGB.

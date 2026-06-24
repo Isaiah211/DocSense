@@ -1,0 +1,1 @@
+Better than our 93.3% we got without the LSTM, and not a bad result, given we’re using the full output of the CNN, and thus not giving the RNN much responsibility. Let’s change that. Here we’ll go a little deeper.

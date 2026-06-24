@@ -1,0 +1,1 @@
+We’ll process these sequences by harnessing the magic of recurrent neural networks (RNNs). To restate the problem we outlined in our previous post: We’re attempting to continually classify video as it’s streamed, in an online system. Specifically, we’re classifying whether what’s streaming on a TV is a football game or an advertisement.

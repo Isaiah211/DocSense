@@ -1,0 +1,1 @@
+Notice the concatenation on line 6, what we actually want to do is calculate the sum of two affine transforms current_input * Wa + current_state * Wb in the figure below. By concatenating those two tensors you will only use one matrix multiplication. The addition of the bias b is broadcasted on all samples in the batch.

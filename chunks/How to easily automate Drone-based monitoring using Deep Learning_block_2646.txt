@@ -1,0 +1,1 @@
+NanoNets is a web service that makes it easy to use Deep Learning. You can build a model with your own data to achieve high accuracy & use our APIs to integrate the same in your application. Pragmatic Master is a South African robotics as a service company that provides camera-mounted drones to acquire images of construction, farming and mining sites.

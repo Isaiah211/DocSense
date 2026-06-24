@@ -1,0 +1,1 @@
+The result of the computation is c = 9. With placeholders set up, the graph can be executed with any integer value for a and b. Of course, the former problem is just a toy example.

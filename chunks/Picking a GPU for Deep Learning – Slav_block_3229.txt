@@ -1,0 +1,1 @@
+E.g., multiplying matrices of tens or hundreds thousand numbers. Behind the scenes, DL is mostly comprised of operations like matrix multiplication. Amusingly, 3D computer games rely on these same operations to render that beautiful landscape you see in Rise of the Tomb Raider.

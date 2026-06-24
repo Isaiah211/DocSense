@@ -1,0 +1,1 @@
+In the Part II, more technical part, I will walk you through the CapsNet’s internal workings step by step. You can follow me on Twitter. Let’s also connect on LinkedIn.

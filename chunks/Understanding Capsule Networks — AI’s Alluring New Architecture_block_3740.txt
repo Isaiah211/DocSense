@@ -1,0 +1,1 @@
+But they don’t agree on how the house would look, so it’s not very likely that the object is a house. With routing by agreement, we only pass on the useful information and throw away the data that would just add noise to the results. This gives us a much smarter selection than just choosing the largest number, like in max pooling.

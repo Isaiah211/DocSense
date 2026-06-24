@@ -1,0 +1,1 @@
+So we need to resize all the images to the same size. But since the images have different aspect ratios, then some of them will be stretched vertically or horizontally. Is that a problem?

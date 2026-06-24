@@ -1,0 +1,2 @@
+To ensure I truly understand it, I had to build it from scratch without using a neural network library. Thanks to an excellent blog post by Andrew Trask I achieved my goal. Here it is in just 9 lines of code:
+In this blog post, I’ll explain how I did it, so you can build your own.

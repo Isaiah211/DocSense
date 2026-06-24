@@ -1,0 +1,1 @@
+Once the model is trained as above, we use it to rank the images for each context. The model predicts the probability of play for a given image in a given a member context. We sort a candidate set of images by these probabilities and pick the one with the highest probability.

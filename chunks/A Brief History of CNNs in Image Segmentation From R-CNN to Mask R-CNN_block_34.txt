@@ -1,0 +1,2 @@
+Mask R-CNN does this by adding a branch to Faster R-CNN that outputs a binary mask that says whether or not a given pixel is part of an object. The branch (in white in the above image), as before, is just a Fully Convolutional Network on top of a CNN based feature map. Here are its inputs and outputs:
+But the Mask R-CNN authors had to make one small adjustment to make this pipeline work as expected.

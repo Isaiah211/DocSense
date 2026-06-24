@@ -1,0 +1,1 @@
+Stemming helps the machine equate words like “have” and “having”. We don’t care about case. Our training data is transformed into “bag of words” for each sentence.

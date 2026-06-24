@@ -1,0 +1,1 @@
+Continuing the theme of keeping it simple, I started with the simplest possible model: A one layer network that consists of one neuron per label. This network has 62 neurons and each neuron takes the RGB values of all pixels as input. Effectively, each neuron receives 32*32*3=3072 inputs.

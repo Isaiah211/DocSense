@@ -1,0 +1,2 @@
+My own criteria is that if a person can recognize the images when they’re stretched then the model should be able to do so as well. What are the sizes of the images anyway? Let’s print a few examples:
+The sizes seem to hover around 128x128.

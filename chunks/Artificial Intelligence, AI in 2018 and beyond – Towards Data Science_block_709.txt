@@ -1,0 +1,1 @@
+Instead humans learn from just a handful of examples, and can self-correct and learn more complex data in a continuous fashion. We have talked about unsupervised learning extensively here. Predictive neural networks — A major limitation of current neural networks is that they do not possess one of the most important features of human brains: their predictive power.

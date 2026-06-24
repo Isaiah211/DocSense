@@ -1,0 +1,1 @@
+Before we addressed distribution problem though, we had to make sure the GPU-based parallel training was efficient. We approached this by first getting a proof-of-concept to work on our own development machines and then addressing the issue of how to scale and use the cloud as a second stage. We started by using a Lenovo S20 workstation with a Nvidia Quadro 600 GPU.

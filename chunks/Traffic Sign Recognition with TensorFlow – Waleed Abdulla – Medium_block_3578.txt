@@ -1,0 +1,1 @@
+This is the relevant part of the code that calculates the accuracy. The accuracy I get in each run ranges between 0.40 and 0.70 depending on whether the model lands on a local minimum or a global minimum. This is expected when running a simple model like this one.

@@ -1,0 +1,1 @@
+The program can recognize simple objects such as cats and apples based on common aspects of the many pictures it was given before. Although the program will not get every picture right each time it is used, it continues to learn from the similarities in the picture drawn and the hundreds of pictures before it. The science behind Quick, Draw!

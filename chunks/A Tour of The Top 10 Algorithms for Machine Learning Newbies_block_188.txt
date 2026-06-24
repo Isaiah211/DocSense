@@ -1,0 +1,2 @@
+For example: y = B0 + B1 * x
+We will predict y given the input x and the goal of the linear regression learning algorithm is to find the values for the coefficients B0 and B1. Different techniques can be used to learn the linear regression model from data, such as a linear algebra solution for ordinary least squares and gradient descent optimization. Linear regression has been around for more than 200 years and has been extensively studied.

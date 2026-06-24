@@ -1,0 +1,1 @@
+human take-over and a minimalistic AI. In case you were recently starting with bots, I can recommend you this service. Motion provides SMS, Email, web-chat, Facebook Messenger and Slack.

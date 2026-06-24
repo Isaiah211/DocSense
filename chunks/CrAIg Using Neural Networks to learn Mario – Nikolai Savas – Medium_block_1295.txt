@@ -1,0 +1,1 @@
+The second step is to determine how many children should be born in the species. This is also proportional to the adjusted fitness of the species. By the end of these two functions, the species will have a certain number of genomes left as well as a “baby quota” — the difference between the number of genomes and the populationSize.

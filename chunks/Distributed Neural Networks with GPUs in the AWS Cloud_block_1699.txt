@@ -1,0 +1,2 @@
+Figure below illustrates the generalized setup using Spearmint plus Celery, Condor, or StarCluster:
+Implementing bleeding edge solutions such as using GPUs to train large-scale Neural Networks can be a daunting endeavour. If you need to do it in your own custom infrastructure, the cost and the complexity might be overwhelming. Levering the public AWS cloud can have obvious benefits, provided care is taken in the customization and use of the instance resources.

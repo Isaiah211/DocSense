@@ -1,0 +1,1 @@
+The GAN is powerful, but can’t do quite as much as we would like. For example, the generator in the model described above will continue to create images closer and closer to the images given to the discriminator that it isn’t producing original art. Could a GAN be trained to draw alongside a user?

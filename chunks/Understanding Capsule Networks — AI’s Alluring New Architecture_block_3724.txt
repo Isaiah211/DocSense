@@ -1,0 +1,1 @@
+But what other kinds of information would we want to store? When looking at the shape below, what can you tell me about it? If you had to tell someone else how to redraw it, and they couldn’t look at it, what would you say?

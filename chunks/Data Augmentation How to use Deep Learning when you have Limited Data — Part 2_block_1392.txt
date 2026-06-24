@@ -1,0 +1,1 @@
+The image pixel values are reflected along the image boundary. This method is useful for continuous or natural backgrounds containing trees, mountains etc. This method is similar to reflect, except for the fact that, at the boundary of reflection, a copy of the edge pixels are made.

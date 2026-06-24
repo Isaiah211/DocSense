@@ -1,0 +1,2 @@
+It generates something like this:
+The visualization shows that the model is working , but doesn’t quantify how accurate it is. And you might’ve noticed that it’s classifying the training images, so we don’t know yet if the model generalizes to images that it hasn’t seen before. Next, we calculate a better evaluation metric.

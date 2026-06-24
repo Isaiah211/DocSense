@@ -1,0 +1,1 @@
+They correspond to the two blue circles on the left of the image above. Afterwards, the mathematical addition is defined via tf.add(). The result of the computation is c = 9.

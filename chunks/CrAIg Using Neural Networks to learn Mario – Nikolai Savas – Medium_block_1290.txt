@@ -1,0 +1,2 @@
+After running through the level, we determine the “fitness” of the genome by this function:
+Once the fitness of every genome has been calculated, we can move on to the next portion of the algorithm. This part of the algorithm is probably the least intuitive. The reason for this “adjusted fitness” is to discourage species from growing too big.

@@ -1,0 +1,1 @@
+Other network architectures, such as recurrent neural networks, also allow data flowing “backwards” in the network. The cost function of the network is used to generate a measure of deviation between the network’s predictions and the actual observed training targets. For regression problems, the mean squared error (MSE) function is commonly used.

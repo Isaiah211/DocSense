@@ -1,0 +1,1 @@
+Unsupervised Learning in R (DataCamp): Provides a basic introduction to clustering and dimensionality reduction in R. Sixteen videos and 49 exercises with an estimated timeline of four hours. Machine Learning Toolbox (DataCamp): Teaches the “big ideas” in machine learning.

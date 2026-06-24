@@ -1,0 +1,1 @@
+Using this architecture, they were able to train a model 6.5 times larger in a few days using only 3 machines. In another study, Schwenk et al. showed that training these models on GPUs can improve performance dramatically, even when comparing to high-end multicore CPUs.

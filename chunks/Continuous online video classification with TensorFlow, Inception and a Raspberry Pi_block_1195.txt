@@ -1,0 +1,1 @@
+In all, our naive method worked remarkably well at continuous online video classification for this particular use case. But we know that we’re only considering part of the information provided to us inherently in video, and so there must be room for improvement, especially as our datasets become more complex. For that, we’ll have to dive deeper.

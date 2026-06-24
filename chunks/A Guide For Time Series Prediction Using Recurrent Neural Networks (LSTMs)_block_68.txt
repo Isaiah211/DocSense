@@ -1,0 +1,2 @@
+2. Input Gate
+The input gate takes the previous output and the new input and passes them through another sigmoid layer. This gate returns a value between 0 and 1.

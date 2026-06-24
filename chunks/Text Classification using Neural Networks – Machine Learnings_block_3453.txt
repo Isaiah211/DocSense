@@ -1,0 +1,1 @@
+Experiment with other sentences and different probabilities, you can then add training data and improve/expand the model. Notice the solid predictions with scant training data. Some sentences will produce multiple predictions (above a threshold).

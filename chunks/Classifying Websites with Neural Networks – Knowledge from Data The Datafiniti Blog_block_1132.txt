@@ -1,0 +1,3 @@
+Neural networks provide a structure for using the output of one set of input data to adjust A and B to the most likely best values for the next set of input data. By constantly adjusting A and B this way, we can quickly get to the best possible values for them. In order to introduce more complex relationships in our data, we can introduce “hidden” layers in this model, which would end up looking something like:
+For a more detailed explanation of neural networks, you can check out the following links:
+In our product page classifier algorithm, we setup a neural network with 1 input layer with 27 nodes, 1 hidden layer with 25 nodes, and 1 output layer with 3 output nodes.

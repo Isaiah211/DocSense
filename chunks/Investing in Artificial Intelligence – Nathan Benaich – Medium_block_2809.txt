@@ -1,0 +1,1 @@
+This means we’re creating new data assets that never existed before (user behavior, preferences, interests, knowledge, connections). The costs of compute and storage are both plummeting by orders of magnitude, while the computational capacity of today’s processors is growing. We’ve seen improvements in learning methods, architectures and software infrastructure.

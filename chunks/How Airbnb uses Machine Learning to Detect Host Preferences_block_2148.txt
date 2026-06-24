@@ -1,0 +1,1 @@
+In other words, we could personalize our search results, but not in the way you might expect. Typically personalized search results promote results that would fit the unique preferences of the searcher — the guest. At a two-sided marketplace like Airbnb, we also wanted to personalize search by the preference of the hosts whose listings would appear in the search results.

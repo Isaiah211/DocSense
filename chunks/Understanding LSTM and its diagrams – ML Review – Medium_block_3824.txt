@@ -1,0 +1,1 @@
+Exactly how much new memory should come in is controlled by the second valve. On the LSTM diagram, the top “pipe” is the memory pipe. The input is the old memory (a vector).

@@ -1,0 +1,1 @@
+While scaling outward, the final image size will be larger than the original image size. Most image frameworks cut out a section from the new image, with size equal to the original image. We’ll deal with scaling inward in the next section, as it reduces the image size, forcing us to make assumptions about what lies beyond the boundary.

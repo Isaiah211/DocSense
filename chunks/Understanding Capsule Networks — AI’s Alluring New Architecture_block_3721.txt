@@ -1,0 +1,5 @@
+We can call this deck a “capsule layer.”
+Each capsule layer has 36 “capsules.”
+If you’re keeping up (and are a math wiz), that means each capsule has an array of 8 values. This is what we can call a “vector.”
+Here’s what I’m talking about:
+These “capsules” are our new pixel. With a single pixel, we could only store the confidence of whether or not we found an edge in that spot.

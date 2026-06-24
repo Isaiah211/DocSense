@@ -1,0 +1,2 @@
+4. Model Architecture and training
+I implemented the model architecture above for training the data. The first layer is 3 1X1 filters, this has the effect of transforming the color space of the images.

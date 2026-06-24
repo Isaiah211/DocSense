@@ -1,0 +1,1 @@
+Andrew Ng and his team addressed this issue in follow up work . Their implementation used GPUs as a powerful yet cheap alternative to large clusters of CPUs. Using this architecture, they were able to train a model 6.5 times larger in a few days using only 3 machines.

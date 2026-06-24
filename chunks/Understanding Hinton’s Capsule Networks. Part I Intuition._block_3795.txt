@@ -1,0 +1,1 @@
+Hinton and his team proposed a way to train such a network made up of capsules and successfully trained it on a simple data set, achieving state-of-the-art performance. This is very encouraging. Nonetheless, there are challenges.

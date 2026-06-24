@@ -1,0 +1,1 @@
+Scripted attacks are often associated with a noticeable increase in some measurable metric over a short period of time. For example, a sudden 1000% increase in reservations in a particular city could be a result of excellent marketing, or fraud. Fraudulent actors often exhibit repetitive patterns.

@@ -1,0 +1,3 @@
+Each iteration of the training process consists of the following steps:
+The sequential graph below illustrates the process. As we’ve seen in the sequential graph above, feedforward is just simple calculus and for a basic 2-layer neural network, the output of the Neural Network is:
+Let’s add a feedforward function in our python code to do exactly that. Note that for simplicity, we have assumed the biases to be 0.

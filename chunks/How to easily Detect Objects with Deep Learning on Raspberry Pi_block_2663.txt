@@ -1,0 +1,5 @@
+To start training the model you can run:
+The docker image has a run.sh script that can be called with the following parameters
+You can find more details at:
+To train a model you need to select the right hyper parameters. Finding the right parameters
+The art of “Deep Learning” involves a little bit of hit and try to figure out which are the best parameters to get the highest accuracy for your model. There is some level of black magic associated with this, along with a little bit of theory.

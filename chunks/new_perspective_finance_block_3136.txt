@@ -1,0 +1,5 @@
+The most important technologies for the security component of a VPN include access
+control to ensure the security of network connections, encryption to protect the privacy of data and
+authentication to verify the user’s identity as well as the integrity of the data. Another component critical in implementing a VPN is traffic management to guarantee reliability,
+quality of service and high-speed performance. The internet backbone is congested, and critical
+business applications running on the internet have to be prioritised and reliably delivered.

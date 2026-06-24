@@ -1,0 +1,1 @@
+Python for Data Science and Machine Learning Bootcamp (Jose Portilla/Udemy): Has large chunks of machine learning content, but covers the whole data science process. More of a very detailed intro to Python. Amazing course, though not ideal for the scope of this guide.

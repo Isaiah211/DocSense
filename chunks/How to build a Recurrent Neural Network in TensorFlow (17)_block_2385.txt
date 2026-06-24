@@ -1,0 +1,1 @@
+In our example below batch_size = 3, truncated_backprop_length = 3, and total_series_length = 36. Note that these numbers are just for visualization purposes, the values are different in the code. The series order index is shown as numbers in a few of the data-points.

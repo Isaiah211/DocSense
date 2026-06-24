@@ -1,0 +1,3 @@
+2. Epoch vs Batch Size vs Iterations
+3. Train Inception with Custom Images on CPU
+4.

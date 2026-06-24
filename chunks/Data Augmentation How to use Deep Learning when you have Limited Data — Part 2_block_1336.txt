@@ -1,0 +1,1 @@
+Likewise, all cars of brand B are aligned exactly like the picture in the right (i.e. Facing right) . Now, you feed this dataset to your “state-of-the-art” neural network, and you hope to get impressive results once it’s trained.

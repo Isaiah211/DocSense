@@ -1,0 +1,4 @@
+Focus on the colors to the left and right of the point we are looking at:
+You might notice that they have a larger difference if the point is an edge:
+What if we went through each pixel in the image and replaced its value with the value of the difference of the pixels to the left and right of it? In theory, the image should become all black except for the edges. We could do this by looping through every pixel in the image:
+But this isn’t very efficient.

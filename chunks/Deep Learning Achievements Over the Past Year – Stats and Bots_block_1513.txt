@@ -1,0 +1,1 @@
+To make the process effective, it was necessary to adapt the learning strategy with a huge batch (8192 elements): gradient averaging, warm-up phase, special learning rate, etc. As a result, it was possible to achieve an efficiency of 90% when scaling from 8 to 256 GPU. Now researchers from Facebook can experiment even faster, unlike mere mortals without such a cluster.

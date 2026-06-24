@@ -1,0 +1,1 @@
+Future feed views will produce chunks as large as, or larger than, the last so that eventually the user will see new Pins. By moving to smart feed, we achieved the goals of a highly flexible architecture and better control over the composition of home feeds. The home feed is now powered by three separate services, each with a well-defined role in its production and distribution.

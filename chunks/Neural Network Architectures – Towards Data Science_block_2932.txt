@@ -1,0 +1,1 @@
+The success of AlexNet started a small revolution. Convolutional neural network were now the workhorse of Deep Learning, which became the new name for “large neural networks that can now solve useful tasks”. In December 2013 the NYU lab from Yann LeCun came up with Overfeat, which is a derivative of AlexNet.

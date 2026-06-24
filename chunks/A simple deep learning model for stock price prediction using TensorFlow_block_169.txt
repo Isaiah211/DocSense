@@ -1,0 +1,1 @@
+However, this is not the scope of this introductory post. The release of TensorFlow was a landmark event in deep learning research. Its flexibility and performance allows researchers to develop all kinds of sophisticated neural network architectures as well as other ML algorithms.

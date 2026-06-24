@@ -1,0 +1,1 @@
+Around Christmas time, our team decided to take stock of the recent achievements in deep learning over the past year (and a bit longer). We translated the article by a data scientist, Ed Tyantov, to tell you about the most significant developments that can affect our future. Almost a year ago, Google announced the launch of a new model for Google Translate.

@@ -1,0 +1,1 @@
+What does that mean? The gradient at that region is going to be small. It gives rise to a problem of “vanishing gradients”.

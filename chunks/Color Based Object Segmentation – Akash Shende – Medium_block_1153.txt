@@ -1,0 +1,1 @@
+Now the inRange method able to mask only t-shirt. Following function converts a pixel at X, Y location into its corresponding normalized rgb pixel. Let R,G,B are pixel values, then normalized pixel g(x,y) is calculated as,divide the individual color component by sum of all color components and multiply by 255.

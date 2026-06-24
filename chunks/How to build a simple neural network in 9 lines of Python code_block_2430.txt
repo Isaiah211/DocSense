@@ -1,0 +1,1 @@
+Once I’ve given it to you, I’ll conclude with some final thoughts. I have added comments to my source code to explain everything, line by line. Note that in each iteration we process the entire training set simultaneously.

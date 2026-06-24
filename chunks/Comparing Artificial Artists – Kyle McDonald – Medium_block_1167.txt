@@ -1,0 +1,5 @@
+Using a literal translation of equation 3 in the paper, you would write in Python, with numpy:
+It turns out that the original description is computed more efficiently than this literal translation. For example, Kai writes in Lua, with Torch:
+Satoshi computes it for all the layers simultaneously in Python with Chainer:
+Or again in Python, with numpy and Caffe layers:
+From a quick cheer to a standing ovation, clap to show how much you enjoyed this story. Artist working with code.

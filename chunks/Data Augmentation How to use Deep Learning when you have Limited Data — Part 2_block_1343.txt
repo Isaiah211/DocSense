@@ -1,0 +1,1 @@
+For our car model classifier above, a simple solution would be to add pictures of cars of both classes, facing the other direction to our original dataset. Better yet, you can just flip the images in the existing dataset horizontally such that they face the other side! Now, on training the neural network on this new dataset, you get the performance that you intended to get.

@@ -1,0 +1,4 @@
+First we take the weighted sum of the neuron’s inputs, which is:
+Next we normalise this, so the result is between 0 and 1. For this, we use a mathematically convenient function, called the Sigmoid function:
+If plotted on a graph, the Sigmoid function draws an S shaped curve. So by substituting the first equation into the second, the final formula for the output of the neuron is:
+You might have noticed that we’re not using a minimum firing threshold, to keep things simple.

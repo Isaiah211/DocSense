@@ -1,0 +1,1 @@
+And it’s not just public transport. The same model and data can be used to predict queues in post offices, by taking into account hyperlocal factors such as when the welfare checks are being paid, the bank holidays, the proximity of other post offices and the staff strikes. This is shown below, where the blue curve is the real load, and the orange one is the predicted load.

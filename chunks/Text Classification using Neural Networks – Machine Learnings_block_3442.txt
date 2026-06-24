@@ -1,0 +1,4 @@
+is stemmed:
+then transformed to input: a 1 for each word in the bag (the ? is ignored)
+and output: the first class
+Note that a sentence could be given multiple classes, or none. Make sure the above makes sense and play with the code until you grok it.

@@ -1,0 +1,2 @@
+The proper implementation of this algorithm is relatively intensive, so for crAIg’s implementation we simplified it to the following:
+The important part here is that each genome now has an adjusted fitness value associated with it. Here’s where the natural selection part comes in! The “Survival of the fittest” portion is all about determining how many genomes survive another generation, as well as how many offspring will be born in the species.

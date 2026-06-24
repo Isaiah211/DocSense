@@ -1,0 +1,2 @@
+That is, each value in the index must appear in the table only once. The index in the clients dataframe is the client_idbecause each client has only one row in this dataframe. We add an entity with an existing index to an entityset using the following syntax:
+The loans dataframe also has a unique index, loan_id and the syntax to add this to the entityset is the same as for clients.

@@ -1,0 +1,5 @@
+BIS Papers No 7 15
+This information-based game-theoretic paradigm was first introduced in Glosten and Milgrom (1985)
+and Kyle (1985), and further developed by Easley and O’Hara (1987), Holden and Subrahmanyam
+(1992) and many others. In the Glosten and Milgrom (1985) model, there are two types of traders, informed and uninformed. Ignoring inventory and order processing costs, a rational market maker will quote bid and ask prices
+that are ex post regret-free.

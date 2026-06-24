@@ -1,0 +1,4 @@
+It’s a way to look at data. Let me give you an example, let’s say I tell you I want you to drive a line that separates the blue circles from the green triangles for this plot:
+So, if you want to use a line this is what the author says:
+This is impossible if we remember the concept of a line:
+So is the case lost? Actually no.

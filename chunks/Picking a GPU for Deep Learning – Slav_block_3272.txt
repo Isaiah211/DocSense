@@ -1,0 +1,1 @@
+In my previous article, I did some benchmarks on GTX 1080 Ti vs. K40. The 1080 performed five times faster than the Tesla card and 2.5x faster than K80.

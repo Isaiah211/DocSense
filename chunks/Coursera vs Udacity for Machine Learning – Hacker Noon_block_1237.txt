@@ -1,0 +1,1 @@
+It is structured better than any in person college course I ever attended. The material isn’t easy, but that’s a good thing. You come away from the course with the satisfaction of genuinely understanding machine learning, enough so that you could even build your own machine learning framework from scratch.

@@ -1,0 +1,1 @@
+That’s what these are. The training data here was in the form of random pairs of board positions, and the labels were the actions chosen by humans when they were in those positions. Just regular supervised learning.

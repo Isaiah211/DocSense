@@ -1,0 +1,1 @@
+There are some problems that humans solve better than computers and some problems that computers solve better than humans. Morphing, identifying simple decision rules, and studying consumer foresight are all possible with the advent of good machine-learning methods. But we have only scratched the surface.

@@ -1,0 +1,1 @@
+Many risks can be mitigated through user-facing changes to the product that require additional verification from the user. For example, requiring email confirmation, or implementing 2FA to combat account takeovers, as many banks have done. Scripted attacks are often associated with a noticeable increase in some measurable metric over a short period of time.

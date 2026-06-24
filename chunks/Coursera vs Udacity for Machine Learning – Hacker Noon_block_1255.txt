@@ -1,0 +1,1 @@
+Each project covered a subject, such as unsupervised learning, reinforcement learning, linear regression, in which you solve a multi-step machine learning problem and write about your approach and understanding. When you feel that you have completed a project, you submit it to be graded by a HUMAN. The quality of the feedback that I got was incredible.

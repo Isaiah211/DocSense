@@ -1,0 +1,1 @@
+First let’s set some constants we’ll need, what they mean will become clear in a moment. Now generate the training data, the input is basically a random binary vector. The output will be the “echo” of the input, shifted echo_step steps to the right.

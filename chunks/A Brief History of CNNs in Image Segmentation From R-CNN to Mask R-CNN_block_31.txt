@@ -1,0 +1,2 @@
+With these anchor boxes in mind, let’s take a look at the inputs and outputs to this Region Proposal Network:
+We then pass each such bounding box that is likely to be an object into Fast R-CNN to generate a classification and tightened bounding boxes. So far, we’ve seen how we’ve been able to use CNN features in many interesting ways to effectively locate different objects in an image with bounding boxes. Can we extend such techniques to go one step further and locate exact pixels of each object instead of just bounding boxes?

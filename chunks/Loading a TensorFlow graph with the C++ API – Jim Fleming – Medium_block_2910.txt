@@ -1,0 +1,1 @@
+Be aware, there are some caveats to this approach that I’ll cover at the end. Let’s start by creating a minimal TensorFlow graph and write it out as a protobuf file. Make sure to assign names to your inputs and operations so they’re easier to assign when we execute the graph later.

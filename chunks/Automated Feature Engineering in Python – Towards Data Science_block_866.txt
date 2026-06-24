@@ -1,0 +1,1 @@
+For more information on featuretools, including advanced usage, check out the online documentation. To see how featuretools is used in practice, read about the work of Feature Labs, the company behind the open-source library. As always, I welcome feedback and constructive criticism and can be reached on Twitter @koehrsen_will.

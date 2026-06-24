@@ -1,0 +1,2 @@
+This involves running the same function on each genome so that NEAT knows how successful each one is. For crAIg, this means running through a Mario level using a particular genome, or “brain”. After running through the level, we determine the “fitness” of the genome by this function:
+Once the fitness of every genome has been calculated, we can move on to the next portion of the algorithm.

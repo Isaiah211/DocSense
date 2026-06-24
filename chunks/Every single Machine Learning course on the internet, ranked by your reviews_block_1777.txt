@@ -1,0 +1,1 @@
+Machine Learning Specialization (University of Washington/Coursera): Great courses, but last two classes (including the capstone project) were canceled. Reviewers note that this series is more digestable (read: easier for those without strong technical backgrounds) than other top machine learning courses (e.g. Stanford’s or Caltech’s).

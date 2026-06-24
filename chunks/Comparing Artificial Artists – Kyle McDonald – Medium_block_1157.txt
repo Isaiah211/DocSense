@@ -1,0 +1,1 @@
+On Sunday, Kai Sheng Tai posted the first public implementation. I immediately stopped working on my implementation and started playing with his. Unfortunately, his results don’t quite match the paper, and it’s unclear why.

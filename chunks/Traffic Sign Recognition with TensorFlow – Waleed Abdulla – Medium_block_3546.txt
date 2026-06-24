@@ -1,0 +1,2 @@
+These ops perform actions on data in tensors (multidimensional arrays). I’ll go through the code to build the graph step by step below, but here is the full code if you prefer to scan it first:
+First, I create the Graph object. TensorFlow has a default global graph, but I don’t recommend using it.

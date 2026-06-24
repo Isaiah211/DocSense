@@ -1,0 +1,1 @@
+This is our second year in a row attending, and for the second time we managed to place in the top 8! Our project, named “crAIg”, is a self-teaching algorithm that learns to play Super Mario Bros. for the Nintendo Entertainment System (NES).

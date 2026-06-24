@@ -1,0 +1,1 @@
+Thank you, Google, Pete, TensorFlow and all the folks who have developed CNNs over the years for your incredible work and contributions. Great, so now we have our CNN trained and we know that we can classify each frame of our video with relatively high accuracy. How does it do on live TV, with always changing context?

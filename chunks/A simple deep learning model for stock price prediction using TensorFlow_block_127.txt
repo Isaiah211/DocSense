@@ -1,0 +1,1 @@
+Actually, a, b and c can be considered as placeholders. Any numbers that are fed into a and b get added and are stored into c. This is exactly how TensorFlow works.

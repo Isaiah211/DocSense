@@ -1,0 +1,5 @@
+Can you think of a set of weights that we can multiply these pixels by so that their sum adds up to the value we are looking for? Spoilers below! We can do something like this:
+With these weights, our kernel will look like this:
+However, kernels are generally square — so we can pad it with more zeros to look like this:
+Here’s a nice gif to see a convolution in action:
+Note: The dimension of the output is reduced by the size of the kernel plus 1.

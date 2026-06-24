@@ -1,0 +1,1 @@
+This is a small dataset so I’m loading everything into RAM to keep it simple. For larger datasets, you’d want to load the data in batches. After loading the images into Numpy arrays, I display a sample image of each label.

@@ -1,0 +1,1 @@
+The input into CapsNet is the actual image supplied to the neural net. In this example the input image is 28 pixels high and 28 pixels wide. But images are actually 3 dimensions, and the 3rd dimension contains the color channels.

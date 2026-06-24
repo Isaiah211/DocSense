@@ -1,0 +1,3 @@
+Beside’s Kai’s, I’ve seen one more implementation from a PhD student named Satoshi: a brief example in Python with Chainer. I haven’t spent as much time with it, as I had to adapt it to run on my CPU due to lack of memory. But I did notice:
+After running Tübingen in the style of The Starry Night with a 1:10e3 ratio and 100 iterations, it seems to converge on something matching the general structure but lacking the overall palette:
+I’d like to understand this algorithm well enough to generalize it to other media (mainly thinking about sound right now), so if you have an insights or other implementations please share them in the comments!

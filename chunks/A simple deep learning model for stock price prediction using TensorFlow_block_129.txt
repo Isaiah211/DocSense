@@ -1,0 +1,2 @@
+Afterwards, the placeholders get "filled" with real data and the actual computations take place. The following code implements the toy example from above in TensorFlow:
+After having imported the TensorFlow library, two placeholders are defined using tf.placeholder(). They correspond to the two blue circles on the left of the image above.

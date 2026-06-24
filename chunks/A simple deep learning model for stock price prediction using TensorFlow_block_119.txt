@@ -1,0 +1,1 @@
+A common mistake is to scale the whole dataset before training and test split are being applied. Why is this a mistake? Because scaling invokes the calculation of statistics e.g.

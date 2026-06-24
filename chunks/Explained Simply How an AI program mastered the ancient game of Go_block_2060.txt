@@ -1,0 +1,1 @@
+You can’t use all 50 moves from the game and add them to the dataset. The training data set had to be chosen carefully to avoid overfitting. Each move in the game is very similar to the next one, because you only move once and that gives you a new position, right?

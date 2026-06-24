@@ -1,0 +1,5 @@
+So we argue that information asymmetry is not a market imperfection, but a competitive
+advantage in production. As an example of information free riding, electronic crossing systems make
+profit by being a parasite of real exchanges such as NYSE, that is, they use the prices on these
+exchanges for free. As another example, on POSIT and Instinet, traders engage in off-market
+negotiation, using market price as a reference.

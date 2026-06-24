@@ -1,0 +1,1 @@
+which apps people want most) that can be found, but that gives us no reason to believe the parameters for the first two are exactly the same as the parameters for the latter two. The four could’ve been in any (consistent) order and still be valid! Pixels however, always appear in a consistent order, and nearby pixels influence a pixel e.g.

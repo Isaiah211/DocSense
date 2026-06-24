@@ -1,0 +1,1 @@
+UPDATE: Since publishing this piece in November 2015 the Poncho Weather Messenger bot launched on stage at the Facebook conference and is now the most popular bot on Facebook. If you are new to bots this is a great place to start. Try it out, here.

@@ -1,0 +1,2 @@
+The clients and the loans table are linked via the client_id variable and loans and payments are linked with the loan_id. The syntax for creating a relationship and adding it to the entityset are shown below:
+The entityset now contains the three entities (tables) and the relationships that link these entities together. After adding entities and formalizing relationships, our entityset is complete and we are ready to make features.

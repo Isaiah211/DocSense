@@ -1,0 +1,1 @@
+The Python code I’ve created is not optimized for efficiency but understandability. The dataset I’ve used can be downloaded from here (40MB). Our team exported the scraped stock data from our scraping server as a csv file.

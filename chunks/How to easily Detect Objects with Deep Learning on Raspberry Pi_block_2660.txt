@@ -1,0 +1,1 @@
+You will typically need a few people who will be working on annotating your images. This is a fairly intensive and time consuming task. You can read more about this at medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab.

@@ -1,0 +1,1 @@
+So how do you fix this? Well, every time you fine-tune a neural network, it becomes a slightly different kind of player. So you can save this version of the neural network in a list of “players”, who all behave slightly differently right?

@@ -1,0 +1,1 @@
+How do we prevent this happening? We have to reduce the amount of irrelevant features in the dataset. For our car model classifier above, a simple solution would be to add pictures of cars of both classes, facing the other direction to our original dataset.

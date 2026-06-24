@@ -1,0 +1,1 @@
+He was right. In 2014, a chatbot named Eugene Goostman successfully impersonated a wise-ass 14-year old programmer during lengthy text-based chats with unsuspecting humans. Turing, however hadn’t necessarily considered voice-based systems and, for obvious reasons, talking computers are somewhat less adept at fooling humans.

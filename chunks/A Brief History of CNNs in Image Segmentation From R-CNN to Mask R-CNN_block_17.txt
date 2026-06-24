@@ -1,0 +1,1 @@
+At its core, RoIPool shares the forward pass of a CNN for an image across its subregions. In the image above, notice how the CNN features for each region are obtained by selecting a corresponding region from the CNN’s feature map. Then, the features in each region are pooled (usually using max pooling).

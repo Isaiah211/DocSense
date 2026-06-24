@@ -1,0 +1,1 @@
+But in practice, it suffers from two problems: vanishing gradient and exploding gradient, which make it unusable. Then later, LSTM (long short term memory) was invented to solve this issue by explicitly introducing a memory unit, called the cell into the network. This is the diagram of a LSTM building block.

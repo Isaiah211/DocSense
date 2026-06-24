@@ -1,0 +1,1 @@
+In any case, the capsule network is a very interesting and already working model which will definitely get more developed over time and contribute to further expansion of deep learning application domain. This concludes part one of the series on capsule networks. In the Part II, more technical part, I will walk you through the CapsNet’s internal workings step by step.

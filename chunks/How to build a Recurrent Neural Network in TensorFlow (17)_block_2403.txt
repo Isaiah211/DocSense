@@ -1,0 +1,1 @@
+The graph in the top-left corner shows the output of the loss function, but why are there spikes in the curve? Think of it for a moment, answer is below. The reason for the spikes is that we are starting on a new epoch, and generating new data.

@@ -1,0 +1,3 @@
+Figure 1: Feedback loop between machine intelligence and human curation
+In contrast with conventional methods of generating such data, which rely primarily on machine learning and data mining techniques, our system relies heavily on human curation. The ultimate goal is to build a system that’s both machine and human powered, creating a feedback mechanism by which human curated data helps drive improvements in our machine algorithms, and vice versa. Figure 2: System components
+Raw input to the system includes existing data about Pins, boards, Pinners, and search queries, as well as explicit human curation signals about interests.

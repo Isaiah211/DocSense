@@ -1,0 +1,1 @@
+Since these features are generalizable throughout the city, we can make predictions even in places where there was never a car accident! For example here, we can see that our model correctly detects Trafalgar square as being dangerous, even though nowhere did we explicitly say so. It discovered it automatically from the data itself.

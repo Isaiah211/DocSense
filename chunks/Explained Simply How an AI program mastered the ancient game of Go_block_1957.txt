@@ -1,0 +1,1 @@
+And it would keep exploring move after move for a while, forming a kind of HUGE decision tree of thousands of moves. And then it would come back along that tree, observing which moves seemed most likely to bring a good result. But, what do we mean by “good result”?

@@ -1,0 +1,1 @@
+location, type) that adapt to the subject matter (so if the type is “hotel” you’re prompted for dates), and a free text field that allows you to ask for whatever else you want. We iterated a lot over the auto-complete and auto-suggest features. The first thing is to realize they are different.

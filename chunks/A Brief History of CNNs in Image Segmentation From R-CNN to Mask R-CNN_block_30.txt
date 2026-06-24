@@ -1,0 +1,2 @@
+In such a way, we create k such common aspect ratios we call anchor boxes. For each such anchor box, we output one bounding box and score per position in the image. With these anchor boxes in mind, let’s take a look at the inputs and outputs to this Region Proposal Network:
+We then pass each such bounding box that is likely to be an object into Fast R-CNN to generate a classification and tightened bounding boxes.

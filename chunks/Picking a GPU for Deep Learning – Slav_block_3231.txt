@@ -1,0 +1,1 @@
+Also, they have a large memory bandwidth to deal with the data for these computations. This makes them the ideal commodity hardware to do DL on. Or at least, until ASICs for Machine Learning like Google’s TPU make their way to market.

@@ -1,0 +1,2 @@
+It’s not very obvious, but this is just a larger version of our edge detector that is more robust and only finds edges that go from bright to dark. Note: I’ve rounded the values because they are quite large, for example 0.01783941
+Luckily, we don’t have to hand-pick this collection of kernels. That is what training does.

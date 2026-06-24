@@ -1,0 +1,1 @@
+Finally, it would border on hubris to ignore the physical aspect of computers in this context. In the words of Mike Acton: “software is not the platform, hardware is the platform”. Software people would be wise to study at least a little computer architecture and electrical engineering.

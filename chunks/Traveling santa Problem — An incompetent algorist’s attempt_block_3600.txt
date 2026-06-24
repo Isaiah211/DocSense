@@ -1,0 +1,1 @@
+I removed the zig-zag lines for a further improvement. I scored 6,744,291 which was my best score.Another idea was to make end point of one square and the beginning point of next square as near as possible but I couldn’t implement the idea before deadline.My score was around 200,000 points away from the first place which was 6,526,972. Not bad!
