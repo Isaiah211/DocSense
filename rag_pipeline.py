@@ -1,9 +1,9 @@
 import argparse
 import os
-from typing import Optional
+from typing import Any, Dict, List, Optional
 
 from langchain_core.documents import Document
-from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_ollama import ChatOllama
@@ -22,17 +22,14 @@ Rules:
 - If the context does not contain the answer, reply exactly: I don't know.
 - Do not invent facts, do not use outside knowledge, and do not guess.
 - Prefer concise answers with direct support from the retrieved evidence.
-- If you cite evidence, mention the source document or chunk filename.
+- If you cite evidence, mention the citation IDs shown in the context.
 """
 
 
-DOCUMENT_PROMPT = PromptTemplate.from_template(
-    "Source document: {source_document}\n"
-    "Chunk file: {chunk_name}\n"
-    "Query labels: {query_labels}\n"
-    "Similarity score: {boosted_percentage:.2f}%\n"
-    "Retrieved text:\n{page_content}"
-)
+LOW_CONFIDENCE_DISCLAIMER = "Note: retrieval similarity was low, so this answer may be incomplete."
+
+SIMILARITY_THRESHOLD = 0.45
+SIMILARITY_MARGIN_THRESHOLD = 0.05
 
 
 QA_PROMPT = ChatPromptTemplate.from_messages(
@@ -55,6 +52,7 @@ def _format_documents(documents: list[Document]) -> str:
     formatted_blocks = []
     for index, document in enumerate(documents, 1):
         metadata = document.metadata or {}
+        citation_id = metadata.get("citation_id", f"[{index}]")
         source_document = metadata.get("source_document", "unknown")
         chunk_name = metadata.get("chunk_name", "unknown")
         query_labels = metadata.get("query_labels", "None")
@@ -65,7 +63,7 @@ def _format_documents(documents: list[Document]) -> str:
         boosted_text = f"{boosted_percentage:.2f}%" if isinstance(boosted_percentage, (int, float)) else "unknown"
 
         formatted_blocks.append(
-            f"Context chunk {index}\n"
+            f"Citation {citation_id}\n"
             f"Source document: {source_document}\n"
             f"Chunk file: {chunk_name}\n"
             f"Query labels: {query_labels}\n"
@@ -77,6 +75,101 @@ def _format_documents(documents: list[Document]) -> str:
     return "\n\n---\n\n".join(formatted_blocks)
 
 
+def _determine_confidence(documents: List[Document]) -> Dict[str, Any]:
+    if not documents:
+        return {
+            "level": "low",
+            "top_similarity": 0.0,
+            "similarity_margin": 0.0,
+            "is_low_confidence": True,
+        }
+
+    similarities = [float((doc.metadata or {}).get("similarity_score", 0.0) or 0.0) for doc in documents]
+    top_similarity = similarities[0] if similarities else 0.0
+    second_similarity = similarities[1] if len(similarities) > 1 else 0.0
+    similarity_margin = top_similarity - second_similarity
+
+    if top_similarity < SIMILARITY_THRESHOLD or similarity_margin < SIMILARITY_MARGIN_THRESHOLD:
+        level = "low"
+    elif top_similarity < SIMILARITY_THRESHOLD + 0.12:
+        level = "medium"
+    else:
+        level = "high"
+
+    return {
+        "level": level,
+        "top_similarity": top_similarity,
+        "similarity_margin": similarity_margin,
+        "is_low_confidence": level == "low",
+    }
+
+
+def _build_citations(documents: List[Document]) -> List[Dict[str, Any]]:
+    citations: List[Dict[str, Any]] = []
+    for index, document in enumerate(documents, 1):
+        metadata = document.metadata or {}
+        citations.append(
+            {
+                "citation_id": metadata.get("citation_id", f"[{index}]"),
+                "source_document": metadata.get("source_document", "unknown"),
+                "chunk_name": metadata.get("chunk_name", "unknown"),
+                "chunk_path": metadata.get("chunk_path", ""),
+                "similarity_score": metadata.get("similarity_score", 0.0),
+                "boosted_percentage": metadata.get("boosted_percentage", 0.0),
+                "query_labels": metadata.get("query_labels", "None"),
+            }
+        )
+    return citations
+
+
+def _build_response_payload(question: str, documents: List[Document], answer_text: str) -> Dict[str, Any]:
+    confidence = _determine_confidence(documents)
+    citations = _build_citations(documents)
+    retrieval = [
+        {
+            "citation_id": (doc.metadata or {}).get("citation_id", f"[{index}]"),
+            "source_document": (doc.metadata or {}).get("source_document", "unknown"),
+            "chunk_name": (doc.metadata or {}).get("chunk_name", "unknown"),
+            "chunk_path": (doc.metadata or {}).get("chunk_path", ""),
+            "similarity_score": (doc.metadata or {}).get("similarity_score", 0.0),
+            "boosted_percentage": (doc.metadata or {}).get("boosted_percentage", 0.0),
+            "query_labels": (doc.metadata or {}).get("query_labels", "None"),
+            "text": doc.page_content,
+        }
+        for index, doc in enumerate(documents, 1)
+    ]
+
+    return {
+        "query": question,
+        "answer": _append_low_confidence_disclaimer(answer_text, confidence["is_low_confidence"]),
+        "citations": citations,
+        "confidence": {
+            **confidence,
+            "thresholds": {
+                "top_similarity": SIMILARITY_THRESHOLD,
+                "similarity_margin": SIMILARITY_MARGIN_THRESHOLD,
+            },
+        },
+        "fallback": LOW_CONFIDENCE_DISCLAIMER if confidence["is_low_confidence"] else "",
+        "retrieval": retrieval,
+    }
+
+
+def _append_low_confidence_disclaimer(answer_text: str, is_low_confidence: bool) -> str:
+    normalized_answer = answer_text.strip() if answer_text else ""
+    if not is_low_confidence:
+        return normalized_answer
+
+    if not normalized_answer:
+        normalized_answer = "I don't know."
+
+    if LOW_CONFIDENCE_DISCLAIMER.lower() in normalized_answer.lower():
+        return normalized_answer
+
+    separator = " " if normalized_answer.endswith(('.', '!', '?')) else "."
+    return f"{normalized_answer}{separator} {LOW_CONFIDENCE_DISCLAIMER}"
+
+
 def build_rag_chain(model_name: str = "mistral", top_k: int = 3, base_url: Optional[str] = None):
     retriever = SemanticSearchRetriever(top_k=top_k)
     llm = ChatOllama(
@@ -85,14 +178,24 @@ def build_rag_chain(model_name: str = "mistral", top_k: int = 3, base_url: Optio
         temperature=0.0,
     )
 
-    return (
+    answer_chain = (
         {
-            "context": retriever | RunnableLambda(_format_documents),
-            "input": RunnablePassthrough(),
+            "context": RunnableLambda(lambda payload: _format_documents(payload["documents"])),
+            "input": RunnableLambda(lambda payload: payload["input"]),
         }
         | QA_PROMPT
         | llm
         | StrOutputParser()
+    )
+
+    response_builder = RunnableLambda(
+        lambda payload: _build_response_payload(payload["input"], payload["documents"], payload["answer"])
+    )
+
+    return (
+        RunnablePassthrough.assign(documents=RunnableLambda(lambda payload: retriever.invoke(payload["input"])))
+        .assign(answer=answer_chain)
+        | response_builder
     )
 
 
@@ -118,9 +221,16 @@ def main() -> None:
             break
 
         try:
-            response = rag_chain.invoke(question)
+            response = rag_chain.invoke({"input": question})
             print("\nAnswer:\n")
-            print(response)
+            print(response["answer"])
+            if response.get("citations"):
+                print("\nCitations:")
+                for citation in response["citations"]:
+                    print(
+                        f"{citation['citation_id']} {citation['source_document']} | {citation['chunk_name']} | "
+                        f"score={citation['similarity_score']:.4f}"
+                    )
             print("\n" + "=" * 72 + "\n")
         except Exception as exc:
             print("\nRAG request failed.")

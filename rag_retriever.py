@@ -23,6 +23,7 @@ class SemanticSearchRetriever(BaseRetriever):
             metadata.update(
                 {
                     "rank": result.get("rank"),
+                    "citation_id": f"[{result.get('rank')}]",
                     "chunk_name": result.get("chunk_name"),
                     "chunk_path": result.get("chunk_path"),
                     "similarity_score": result.get("similarity_score"),
