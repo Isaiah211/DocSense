@@ -1,0 +1,28 @@
+// Single icon source of truth. The whole app imports icons from here so we
+// never mix icon families or weights — everything is lucide-react.
+export {
+  Sparkles,
+  FileText,
+  UploadCloud,
+  PanelLeftClose,
+  PanelRightClose,
+  PanelLeftOpen,
+  PanelRightOpen,
+  Send,
+  AlertTriangle,
+  RotateCw,
+  Copy,
+  Check,
+  X,
+  MoreVertical,
+  Pencil,
+  Trash2,
+  Quote,
+  ArrowDown,
+  Layers,
+  Search,
+  Scale,
+  Receipt,
+  Tag,
+  Gauge,
+} from "lucide-react"

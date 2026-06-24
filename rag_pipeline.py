@@ -26,7 +26,7 @@ Rules:
 """
 
 
-LOW_CONFIDENCE_DISCLAIMER = "Note: retrieval similarity was low, so this answer may be incomplete."
+LOW_CONFIDENCE_DISCLAIMER = "\n Note: retrieval similarity was low, so this answer may be incomplete."
 
 SIMILARITY_THRESHOLD = 0.45
 SIMILARITY_MARGIN_THRESHOLD = 0.05

@@ -21,6 +21,23 @@ Quick start (prototype)
 3. Run ingestion to build the vector index: `python scripts/ingest.py --dir data/docs --index-path data/index`.
 4. Run the API server: `uvicorn app.main:app --reload` and query the `/search` endpoint.
 
+To run:
+-----------------------
+1. In a terminal
+    From the DocSense directory:
+    ```bash
+    conda activate "environment name"
+    uvicorn app.main:app --reload
+    ```
+2. In another seperate terminal
+    From the DocSense directory:
+    ```bash
+    cd frontend
+    pnpm dev
+    ```
+3. You can now access localhost:3000 to use the program.
+
+
 Files in this folder
 --------------------
 - `scripts/ingest.py` — minimal ingestion and vector index builder (txt files only in prototype).

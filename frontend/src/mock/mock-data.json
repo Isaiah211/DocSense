@@ -1,0 +1,95 @@
+{
+  "highConfidence": {
+    "query": "How did Mask R-CNN improve on Faster R-CNN?",
+    "model": "mistral",
+    "top_k": 3,
+    "answer": "Mask R-CNN extends Faster R-CNN by adding a parallel branch that predicts a pixel-level segmentation mask for each detected object [1]. It also replaces the coarse RoIPool operation with RoIAlign, which removes harsh quantization and preserves precise spatial alignment between the features and the input [2]. Together these changes let the network do instance segmentation while keeping the strong detection accuracy of Faster R-CNN [1].",
+    "citations": [
+      {
+        "citation_id": "[1]",
+        "source_document": "A Brief History of CNNs in Image Segmentation.txt",
+        "chunk_name": "cnn_history_block_42.txt",
+        "chunk_path": "chunks/cnn_history_block_42.txt",
+        "similarity_score": 0.72,
+        "boosted_percentage": 91.0,
+        "query_labels": "AI"
+      },
+      {
+        "citation_id": "[2]",
+        "source_document": "A Brief History of CNNs in Image Segmentation.txt",
+        "chunk_name": "cnn_history_block_47.txt",
+        "chunk_path": "chunks/cnn_history_block_47.txt",
+        "similarity_score": 0.66,
+        "boosted_percentage": 84.0,
+        "query_labels": "AI"
+      }
+    ],
+    "confidence": {
+      "level": "high",
+      "top_similarity": 0.72,
+      "similarity_margin": 0.12,
+      "is_low_confidence": false,
+      "thresholds": { "top_similarity": 0.45, "similarity_margin": 0.05 }
+    },
+    "fallback": "",
+    "retrieval": [
+      {
+        "citation_id": "[1]",
+        "source_document": "A Brief History of CNNs in Image Segmentation.txt",
+        "chunk_name": "cnn_history_block_42.txt",
+        "chunk_path": "chunks/cnn_history_block_42.txt",
+        "similarity_score": 0.72,
+        "boosted_percentage": 91.0,
+        "query_labels": "AI",
+        "text": "Mask R-CNN builds directly on Faster R-CNN. Where Faster R-CNN outputs a class label and a bounding box for each candidate object, Mask R-CNN adds a third, parallel output branch: a small fully-convolutional network that predicts a binary segmentation mask for every region of interest. Crucially, the mask branch is decoupled from class prediction, so masks are generated per class without competition between classes."
+      },
+      {
+        "citation_id": "[2]",
+        "source_document": "A Brief History of CNNs in Image Segmentation.txt",
+        "chunk_name": "cnn_history_block_47.txt",
+        "chunk_path": "chunks/cnn_history_block_47.txt",
+        "similarity_score": 0.66,
+        "boosted_percentage": 84.0,
+        "query_labels": "AI",
+        "text": "A key technical contribution is RoIAlign, which replaces RoIPool. RoIPool quantizes a floating-number region of interest to the discrete granularity of the feature map, introducing misalignments between the RoI and the extracted features. RoIAlign removes this harsh quantization by using bilinear interpolation to compute the exact values of the input features at four regularly sampled locations in each RoI bin, dramatically improving mask accuracy."
+      }
+    ]
+  },
+  "lowConfidence": {
+    "query": "What were the company's Q3 travel expenses?",
+    "model": "mistral",
+    "top_k": 3,
+    "answer": "I could not find a strong match for travel expenses in the indexed documents. The closest passages discuss general budgeting concepts rather than a specific Q3 travel figure, so this answer may be incomplete or inaccurate.",
+    "citations": [
+      {
+        "citation_id": "[1]",
+        "source_document": "budgeting-notes.txt",
+        "chunk_name": "budgeting_notes_block_3.txt",
+        "chunk_path": "chunks/budgeting_notes_block_3.txt",
+        "similarity_score": 0.31,
+        "boosted_percentage": 38.0,
+        "query_labels": "Finance"
+      }
+    ],
+    "confidence": {
+      "level": "low",
+      "top_similarity": 0.31,
+      "similarity_margin": 0.02,
+      "is_low_confidence": true,
+      "thresholds": { "top_similarity": 0.45, "similarity_margin": 0.05 }
+    },
+    "fallback": "Confidence is low: no indexed passage strongly matches this question. Treat this answer with caution and consider adding the relevant source document.",
+    "retrieval": [
+      {
+        "citation_id": "[1]",
+        "source_document": "budgeting-notes.txt",
+        "chunk_name": "budgeting_notes_block_3.txt",
+        "chunk_path": "chunks/budgeting_notes_block_3.txt",
+        "similarity_score": 0.31,
+        "boosted_percentage": 38.0,
+        "query_labels": "Finance",
+        "text": "When planning a quarterly budget, separate fixed recurring costs from variable discretionary spend. Discretionary categories — such as travel, equipment, and software — should be reviewed monthly so that overspend in one area can be offset before the quarter closes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Tailwind config usage notes
+  ---------------------------
+  - darkMode: "class" — the <html> element carries `dark`. All colors use the
+    `surface.*` (deep blue) and `glow.*` (neon indigo) tokens from
+    tailwind.config.js. Avoid raw text-white / text-black; use slate tokens.
+  - Custom animations: `animate-fade-in`, `animate-flash-highlight`,
+    `animate-typing-bounce`. All are GPU-friendly (opacity / transform).
+  - Custom shadows: `shadow-glow`, `shadow-glow-sm` for the neon indigo aura.
+*/
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-surface-950 text-slate-200 antialiased;
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+
+  /* Consistent, visible keyboard focus across all interactive elements. */
+  :focus-visible {
+    @apply outline-none ring-2 ring-glow-500 ring-offset-2 ring-offset-surface-950;
+  }
+
+  /* Slim, themed scrollbars for the panels. */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(99, 102, 241, 0.4) transparent;
+  }
+  *::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  *::-webkit-scrollbar-thumb {
+    background-color: rgba(99, 102, 241, 0.35);
+    border-radius: 9999px;
+  }
+}
+
+@layer components {
+  /* Ambient neon-indigo glow used behind the landing input and headers.
+     CSS-only radial gradients — no images, no heavy JS. */
+  .ambient-glow {
+    background-image:
+      radial-gradient(40rem 24rem at 50% -10%, rgba(99, 102, 241, 0.18), transparent 70%),
+      radial-gradient(28rem 18rem at 85% 10%, rgba(129, 140, 248, 0.12), transparent 70%);
+  }
+
+  /* Respect users who prefer reduced motion. */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+}
