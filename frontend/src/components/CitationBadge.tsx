@@ -5,6 +5,8 @@ interface CitationBadgeProps {
   citationId: string
   /** Disable interaction when there is no retrieval evidence to open. */
   disabled?: boolean
+  /** The parent message ID to link to. */
+  messageId?: string
 }
 
 /**
@@ -12,13 +14,17 @@ interface CitationBadgeProps {
  * Clicking (or pressing Enter/Space) opens the Source Inspector and asks it to
  * scroll to + flash the matching chunk.
  */
-export default function CitationBadge({ citationId, disabled = false }: CitationBadgeProps) {
+export default function CitationBadge({ citationId, disabled = false, messageId }: CitationBadgeProps) {
   const setRightOpen = useRagStore((s) => s.setRightOpen)
   const highlightCitation = useRagStore((s) => s.highlightCitation)
+  const selectMessage = useRagStore((s) => s.selectMessage)
 
   const activate = () => {
     if (disabled) return
     setRightOpen(true)
+    if (messageId) {
+      selectMessage(messageId)
+    }
     // Re-trigger highlight even if it's the same id: clear then set on next frame.
     highlightCitation(null)
     requestAnimationFrame(() => highlightCitation(citationId))

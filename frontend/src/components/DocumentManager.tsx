@@ -36,9 +36,15 @@ export default function DocumentManager() {
 
   const handleFiles = (fileList: FileList | null) => {
     if (!fileList || fileList.length === 0) return
-    // Prototype ingests plain-text files only.
+    // Only accept plain-text files
     const txtFiles = Array.from(fileList).filter((f) => f.name.endsWith(".txt"))
-    if (txtFiles.length > 0) addDocuments(txtFiles)
+    const rejected = fileList.length - txtFiles.length
+    if (rejected > 0) {
+      useRagStore.getState().pushToast({
+        message: `${rejected} file(s) skipped — only .txt files are supported.`,
+      })
+    }
+    if (txtFiles.length > 0) void addDocuments(txtFiles)
   }
 
   return (
@@ -197,7 +203,7 @@ function DocumentRow({
             icon={<RotateCw className="h-3.5 w-3.5" aria-hidden="true" />}
             label="Re-ingest"
             onClick={() => {
-              reingestDocument(doc.id)
+              void reingestDocument(doc.id)
               setMenuOpen(false)
             }}
           />
@@ -214,7 +220,7 @@ function DocumentRow({
             label="Remove"
             destructive
             onClick={() => {
-              removeDocument(doc.id)
+              void removeDocument(doc.id)
               setMenuOpen(false)
             }}
           />

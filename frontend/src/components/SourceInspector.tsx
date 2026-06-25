@@ -6,18 +6,31 @@ import { Search, Quote, Copy, Check, Tag } from "./icons"
 export default function SourceInspector() {
   const retrieval = useRagStore((s) => s.currentRetrieval)
   const highlightedCitationId = useRagStore((s) => s.highlightedCitationId)
+  const chatHistory = useRagStore((s) => s.chatHistory)
+  const selectedMessageId = useRagStore((s) => s.selectedMessageId)
 
   const isEmpty = retrieval.length === 0
 
+  // Find the selected message and its corresponding user query.
+  const selectedMessage = chatHistory.find((m) => m.id === selectedMessageId)
+  const sourceQuestion = selectedMessage?.sourceQuestion
+
   return (
     <div className="flex h-full flex-col">
-      <header className="flex items-center gap-2 border-b border-surface-800 px-4 py-3">
-        <Search className="h-4 w-4 text-glow-400" aria-hidden="true" />
-        <h2 className="text-sm font-semibold text-slate-100">Source Inspector</h2>
-        {!isEmpty && (
-          <span className="ml-auto rounded-full bg-surface-800 px-2 py-0.5 text-xs text-slate-400">
-            {retrieval.length} chunks
-          </span>
+      <header className="flex flex-col gap-1 border-b border-surface-800 px-4 py-3">
+        <div className="flex items-center gap-2">
+          <Search className="h-4 w-4 text-glow-400" aria-hidden="true" />
+          <h2 className="text-sm font-semibold text-slate-100">Source Inspector</h2>
+          {!isEmpty && (
+            <span className="ml-auto rounded-full bg-surface-800 px-2 py-0.5 text-xs text-slate-400">
+              {retrieval.length} chunks
+            </span>
+          )}
+        </div>
+        {sourceQuestion && (
+          <p className="mt-0.5 truncate text-[11px] text-slate-400 font-normal">
+            For: <span className="italic text-slate-300">"{sourceQuestion}"</span>
+          </p>
         )}
       </header>
 

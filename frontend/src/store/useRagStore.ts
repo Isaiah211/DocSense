@@ -4,7 +4,14 @@ import type {
   DocItem,
   RagRetrievalItem,
 } from "../types/rag"
-import { queryRag, ApiError } from "../api/apiClient"
+import {
+  queryRag,
+  ApiError,
+  fetchDocuments,
+  uploadDocument,
+  deleteDocument as deleteDocumentApi,
+  reingestDocumentApi,
+} from "../api/apiClient"
 
 // Why Zustand?
 // The state here is small, cross-cutting, and read by sibling panels that are
@@ -37,15 +44,18 @@ interface RagState {
   isQuerying: boolean
   model: string
   topK: number
+  selectedMessageId: string | null
 
   // Actions
   setLeftOpen: (open: boolean) => void
   setRightOpen: (open: boolean) => void
   selectDocument: (id: string | null) => void
-  addDocuments: (files: File[]) => void
-  removeDocument: (id: string) => void
+  selectMessage: (id: string | null) => void
+  loadDocuments: () => Promise<void>
+  addDocuments: (files: File[]) => Promise<void>
+  removeDocument: (id: string) => Promise<void>
   renameDocument: (id: string, filename: string) => void
-  reingestDocument: (id: string) => void
+  reingestDocument: (id: string) => Promise<void>
 
   highlightCitation: (citationId: string | null) => void
   pushToast: (toast: Omit<ToastState, "id">) => void
@@ -54,20 +64,15 @@ interface RagState {
   submitQuestion: (question: string, topKOverride?: number) => Promise<void>
 }
 
-const SEED_DOCS: DocItem[] = [
-  { id: "doc-1", filename: "A Brief History of CNNs in Image Segmentation.txt", status: "Ready" },
-  { id: "doc-2", filename: "Attention Is All You Need.txt", status: "Ready" },
-  { id: "doc-3", filename: "budgeting-notes.txt", status: "Chunked" },
-]
-
 const uid = () => Math.random().toString(36).slice(2, 10)
 
 export const useRagStore = create<RagState>((set, get) => ({
-  documents: SEED_DOCS,
+  documents: [],
   chatHistory: [],
   currentRetrieval: [],
   highlightedCitationId: null,
   toasts: [],
+  selectedMessageId: null,
 
   leftOpen: true,
   rightOpen: false,
@@ -79,54 +84,115 @@ export const useRagStore = create<RagState>((set, get) => ({
   setLeftOpen: (open) => set({ leftOpen: open }),
   setRightOpen: (open) => set({ rightOpen: open }),
   selectDocument: (id) => set({ selectedDocId: id }),
+  selectMessage: (id) => {
+    const msg = get().chatHistory.find((m) => m.id === id)
+    set({
+      selectedMessageId: id,
+      currentRetrieval: msg?.retrieval ?? [],
+    })
+  },
 
-  // Optimistic upload: files appear immediately as "Processing", then settle.
-  addDocuments: (files) => {
-    const newDocs: DocItem[] = files.map((f) => ({
+  /** Fetch the real document list from the server. Called once on app mount. */
+  loadDocuments: async () => {
+    try {
+      const serverDocs = await fetchDocuments()
+      const docs: DocItem[] = serverDocs.map((d) => ({
+        id: uid(),
+        filename: d.filename,
+        status: d.status === "ready" ? "Ready" : "Chunked",
+      }))
+      set({ documents: docs })
+    } catch {
+      // Silently fall back to empty — a toast would be noisy on first load
+    }
+  },
+
+  /** Upload files to the server; each file is chunked + embedded before moving to Ready. */
+  addDocuments: async (files) => {
+    // Optimistically add each file as "Processing"
+    const optimistic: DocItem[] = files.map((f) => ({
       id: uid(),
       filename: f.name,
       status: "Processing",
     }))
-    set((s) => ({ documents: [...newDocs, ...s.documents] }))
-    // Simulate the backend chunking pipeline completing.
-    newDocs.forEach((doc) => {
-      window.setTimeout(() => {
-        set((s) => ({
-          documents: s.documents.map((d) =>
-            d.id === doc.id ? { ...d, status: "Ready" } : d,
-          ),
-        }))
-      }, 1600)
-    })
-    get().pushToast({ message: `Added ${files.length} document(s) for processing.` })
+    set((s) => ({ documents: [...optimistic, ...s.documents] }))
+
+    await Promise.all(
+      files.map(async (file, i) => {
+        const tempId = optimistic[i].id
+        try {
+          await uploadDocument(file)
+          set((s) => ({
+            documents: s.documents.map((d) =>
+              d.id === tempId ? { ...d, status: "Ready" } : d,
+            ),
+          }))
+        } catch (err) {
+          const msg = err instanceof ApiError ? err.message : `Failed to upload ${file.name}.`
+          // Remove the optimistic entry and surface an error toast
+          set((s) => ({
+            documents: s.documents.filter((d) => d.id !== tempId),
+          }))
+          get().pushToast({ message: msg })
+        }
+      }),
+    )
   },
 
-  removeDocument: (id) =>
+  /** Delete a document from the server, then remove it from local state. */
+  removeDocument: async (id) => {
+    const doc = get().documents.find((d) => d.id === id)
+    if (!doc) return
+
+    // Optimistically remove from UI
     set((s) => ({
       documents: s.documents.filter((d) => d.id !== id),
       selectedDocId: s.selectedDocId === id ? null : s.selectedDocId,
-    })),
+    }))
+
+    try {
+      await deleteDocumentApi(doc.filename)
+    } catch (err) {
+      const msg = err instanceof ApiError ? err.message : `Failed to remove ${doc.filename}.`
+      // Restore the document in UI and show error
+      set((s) => ({ documents: [doc, ...s.documents] }))
+      get().pushToast({ message: msg })
+    }
+  },
 
   renameDocument: (id, filename) =>
     set((s) => ({
       documents: s.documents.map((d) => (d.id === id ? { ...d, filename } : d)),
     })),
 
-  // Optimistic re-ingestion: flip to "Processing" then back to "Ready".
-  reingestDocument: (id) => {
+  /** Re-chunk and re-embed an existing document via the server API. */
+  reingestDocument: async (id) => {
+    const doc = get().documents.find((d) => d.id === id)
+    if (!doc) return
+
     set((s) => ({
       documents: s.documents.map((d) =>
         d.id === id ? { ...d, status: "Processing" } : d,
       ),
     }))
-    window.setTimeout(() => {
+
+    try {
+      await reingestDocumentApi(doc.filename)
       set((s) => ({
         documents: s.documents.map((d) =>
           d.id === id ? { ...d, status: "Ready" } : d,
         ),
       }))
-      get().pushToast({ message: "Re-ingestion complete." })
-    }, 1800)
+      get().pushToast({ message: `Re-ingestion of "${doc.filename}" complete.` })
+    } catch (err) {
+      const msg = err instanceof ApiError ? err.message : `Re-ingest failed for ${doc.filename}.`
+      set((s) => ({
+        documents: s.documents.map((d) =>
+          d.id === id ? { ...d, status: "Ready" } : d,
+        ),
+      }))
+      get().pushToast({ message: msg })
+    }
   },
 
   highlightCitation: (citationId) => set({ highlightedCitationId: citationId }),
@@ -171,6 +237,7 @@ export const useRagStore = create<RagState>((set, get) => ({
       set((s) => ({
         isQuerying: false,
         currentRetrieval: res.retrieval,
+        selectedMessageId: assistantId,
         // Open inspector automatically when we have evidence to show.
         rightOpen: res.retrieval.length > 0 ? true : s.rightOpen,
         chatHistory: s.chatHistory.map((m) =>
@@ -182,6 +249,7 @@ export const useRagStore = create<RagState>((set, get) => ({
               citations: res.citations,
               confidence: res.confidence,
               fallback: res.fallback,
+              retrieval: res.retrieval,
             }
             : m,
         ),

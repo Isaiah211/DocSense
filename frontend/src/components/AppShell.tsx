@@ -23,6 +23,12 @@ export default function AppShell() {
   const rightOpen = useRagStore((s) => s.rightOpen)
   const setLeftOpen = useRagStore((s) => s.setLeftOpen)
   const setRightOpen = useRagStore((s) => s.setRightOpen)
+  const loadDocuments = useRagStore((s) => s.loadDocuments)
+
+  // Fetch the real document list once on mount.
+  useEffect(() => {
+    loadDocuments()
+  }, [loadDocuments])
 
   // Close drawers on Escape (mobile usability + accessibility).
   useEffect(() => {

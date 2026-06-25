@@ -128,7 +128,7 @@ export default function ChatMain() {
               onFocus={() => setFocused(true)}
               onBlur={() => setFocused(false)}
               placeholder="Ask anything about your documents…  (Enter to send, Shift+Enter for newline)"
-              className="max-h-40 flex-1 resize-none bg-transparent px-2 py-1.5 text-sm leading-relaxed text-slate-100 placeholder:text-slate-500 focus:outline-none"
+              className="max-h-40 flex-1 resize-none bg-transparent px-2 py-1.5 text-sm leading-relaxed text-slate-100 placeholder:text-slate-500 focus:outline-none focus-visible:ring-0 focus-visible:ring-offset-0 focus-visible:outline-none"
             />
             <button
               type="button"

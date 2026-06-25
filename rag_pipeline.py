@@ -89,11 +89,16 @@ def _determine_confidence(documents: List[Document]) -> Dict[str, Any]:
     second_similarity = similarities[1] if len(similarities) > 1 else 0.0
     similarity_margin = top_similarity - second_similarity
 
-    if top_similarity < SIMILARITY_THRESHOLD or similarity_margin < SIMILARITY_MARGIN_THRESHOLD:
+    if top_similarity < SIMILARITY_THRESHOLD:
         level = "low"
     elif top_similarity < SIMILARITY_THRESHOLD + 0.12:
-        level = "medium"
+        # Borderline top similarity: require a good margin to be medium, otherwise low
+        if similarity_margin < SIMILARITY_MARGIN_THRESHOLD:
+            level = "low"
+        else:
+            level = "medium"
     else:
+        # High similarity: if similarity margin is small, it's fine, we still have a very strong top match.
         level = "high"
 
     return {

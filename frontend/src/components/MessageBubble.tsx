@@ -12,12 +12,12 @@ interface MessageBubbleProps {
 const CITATION_RE = /(\[\d+\])/g
 
 /** Render assistant text, converting [n] tokens into clickable CitationBadges. */
-function renderWithCitations(text: string, hasEvidence: boolean) {
+function renderWithCitations(text: string, hasEvidence: boolean, messageId?: string) {
   return text.split(CITATION_RE).map((part, i) => {
     if (CITATION_RE.test(part)) {
       // Reset lastIndex because the regex is global and reused via .test().
       CITATION_RE.lastIndex = 0
-      return <CitationBadge key={i} citationId={part} disabled={!hasEvidence} />
+      return <CitationBadge key={i} citationId={part} disabled={!hasEvidence} messageId={messageId} />
     }
     return <span key={i}>{part}</span>
   })
@@ -39,9 +39,13 @@ function TypingIndicator() {
 
 export default function MessageBubble({ message }: MessageBubbleProps) {
   const submitQuestion = useRagStore((s) => s.submitQuestion)
+  const selectMessage = useRagStore((s) => s.selectMessage)
+  const selectedMessageId = useRagStore((s) => s.selectedMessageId)
+
   const isUser = message.role === "user"
   const isLowConfidence = message.confidence?.is_low_confidence === true
   const hasEvidence = (message.citations?.length ?? 0) > 0
+  const isSelected = selectedMessageId === message.id
 
   if (isUser) {
     return (
@@ -54,18 +58,31 @@ export default function MessageBubble({ message }: MessageBubbleProps) {
   }
 
   // Assistant message (pending or complete).
-  const retryWithMoreContext = () =>
+  const retryWithMoreContext = (e: React.MouseEvent) => {
+    e.stopPropagation()
     submitQuestion(message.sourceQuestion ?? "", (message.topK ?? 3) + 3)
+  }
 
   return (
     <article className="flex animate-fade-in justify-start" aria-label="DocSense answer">
       <div
         className={[
-          "max-w-[85%] rounded-2xl rounded-bl-sm border px-4 py-3 text-sm leading-relaxed",
-          isLowConfidence
+          "max-w-[85%] rounded-2xl rounded-bl-sm border px-4 py-3 text-sm leading-relaxed transition-all duration-200",
+          hasEvidence && !message.pending
+            ? "cursor-pointer hover:border-glow-500/40 hover:shadow-glow-sm"
+            : "",
+          isSelected
+            ? "border-glow-500 bg-glow-500/10 shadow-glow ring-2 ring-glow-500/20 text-slate-200"
+            : isLowConfidence
             ? "border-amber-500/40 bg-amber-500/5 text-slate-200"
             : "border-surface-700 bg-surface-850 text-slate-200",
         ].join(" ")}
+        onClick={() => {
+          if (hasEvidence && !message.pending) {
+            selectMessage(message.id)
+            useRagStore.getState().setRightOpen(true)
+          }
+        }}
       >
         {message.pending ? (
           <div className="flex flex-col gap-2 py-1" aria-label="DocSense is thinking">
@@ -85,7 +102,7 @@ export default function MessageBubble({ message }: MessageBubbleProps) {
             )}
 
             <div className="whitespace-pre-wrap">
-              {renderWithCitations(message.content, hasEvidence)}
+              {renderWithCitations(message.content, hasEvidence, message.id)}
             </div>
 
             {isLowConfidence && message.fallback && (

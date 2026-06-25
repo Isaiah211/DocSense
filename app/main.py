@@ -1,11 +1,15 @@
+import os
 from functools import lru_cache
 from typing import Any, Dict, List, Optional
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
 from rag_pipeline import build_rag_chain
+from .ingest import ingest_files, list_documents, remove_document
+
+RAW_DIR = "data"
 
 
 class RagQueryRequest(BaseModel):
@@ -86,3 +90,85 @@ def query_rag(request: RagQueryRequest) -> RagQueryResponse:
         fallback=response.get("fallback", ""),
         retrieval=response["retrieval"],
     )
+
+
+# ---------------------------------------------------------------------------
+# Document management endpoints
+# ---------------------------------------------------------------------------
+
+@app.get("/api/documents")
+def get_documents() -> List[Dict[str, Any]]:
+    """List all .txt source documents and their index status."""
+    return list_documents()
+
+
+@app.post("/api/documents/upload", status_code=201)
+async def upload_document(file: UploadFile = File(...)) -> Dict[str, Any]:
+    """Upload a .txt file, chunk and embed it, then reload the search index."""
+    if not file.filename or not file.filename.endswith(".txt"):
+        raise HTTPException(status_code=400, detail="Only .txt files are supported.")
+
+    dest = os.path.join(RAW_DIR, file.filename)
+    if os.path.exists(dest):
+        raise HTTPException(
+            status_code=409,
+            detail=f"A document named '{file.filename}' already exists. Remove it first or rename the file.",
+        )
+
+    os.makedirs(RAW_DIR, exist_ok=True)
+    content = await file.read()
+    with open(dest, "wb") as out_f:
+        out_f.write(content)
+
+    try:
+        result = ingest_files([file.filename])
+    except Exception as exc:
+        # If ingestion fails, clean up the saved file
+        if os.path.exists(dest):
+            os.remove(dest)
+        raise HTTPException(status_code=500, detail=f"Ingestion failed: {exc}") from exc
+
+    return {
+        "filename": file.filename,
+        "status": "ready",
+        "processed": result["processed"],
+        "skipped": result["skipped"],
+    }
+
+
+@app.delete("/api/documents/{filename}", status_code=200)
+def delete_document(filename: str) -> Dict[str, Any]:
+    """Remove a document, delete its chunks, and rebuild the search index."""
+    try:
+        removed = remove_document(filename)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Removal failed: {exc}") from exc
+
+    if not removed:
+        raise HTTPException(status_code=404, detail=f"Document '{filename}' not found.")
+
+    return {"filename": filename, "status": "removed"}
+
+
+@app.post("/api/documents/{filename}/reingest", status_code=200)
+def reingest_document(filename: str) -> Dict[str, Any]:
+    """Force re-chunk and re-embed an existing document (e.g. after manual edits)."""
+    file_path = os.path.join(RAW_DIR, filename)
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail=f"Document '{filename}' not found.")
+
+    # Touch the file so the mtime check in ingest_files forces reprocessing.
+    import time
+    os.utime(file_path, (time.time(), time.time()))
+
+    try:
+        result = ingest_files([filename])
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Re-ingestion failed: {exc}") from exc
+
+    return {
+        "filename": filename,
+        "status": "ready",
+        "processed": result["processed"],
+        "skipped": result["skipped"],
+    }

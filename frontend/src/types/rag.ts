@@ -78,4 +78,6 @@ export interface ChatMessage {
   sourceQuestion?: string
   /** top_k used to produce this message (for retry escalation). */
   topK?: number
+  /** Retrieved source chunks for this message. */
+  retrieval?: RagRetrievalItem[]
 }

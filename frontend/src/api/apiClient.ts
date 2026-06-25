@@ -114,3 +114,73 @@ export async function queryRag(
     ? new ApiError(lastError.message)
     : new ApiError("Unknown error contacting the DocSense backend.")
 }
+
+// ---------------------------------------------------------------------------
+// Document management API
+// ---------------------------------------------------------------------------
+
+export interface DocServerItem {
+  filename: string
+  size_bytes: number
+  status: "ready" | "unindexed"
+}
+
+export interface UploadResult {
+  filename: string
+  status: string
+  processed: string[]
+  skipped: string[]
+}
+
+/** Fetch the list of all indexed documents from the server. */
+export async function fetchDocuments(): Promise<DocServerItem[]> {
+  if (USE_MOCK) return []
+  const res = await fetch(`${API_BASE}/api/documents`)
+  if (!res.ok) throw new ApiError(`Failed to load documents (${res.status})`, res.status)
+  return res.json()
+}
+
+/** Upload a .txt file to the server; waits for chunking + embedding to complete. */
+export async function uploadDocument(file: File): Promise<UploadResult> {
+  if (USE_MOCK) {
+    await new Promise((r) => setTimeout(r, 900))
+    return { filename: file.name, status: "ready", processed: [file.name], skipped: [] }
+  }
+  const form = new FormData()
+  form.append("file", file)
+  const res = await fetch(`${API_BASE}/api/documents/upload`, { method: "POST", body: form })
+  if (!res.ok) {
+    const data = (await res.json().catch(() => ({}))) as { detail?: string }
+    throw new ApiError(data.detail ?? `Upload failed (${res.status})`, res.status)
+  }
+  return res.json()
+}
+
+/** Permanently delete a document and its chunks from the server. */
+export async function deleteDocument(filename: string): Promise<void> {
+  if (USE_MOCK) return
+  const res = await fetch(`${API_BASE}/api/documents/${encodeURIComponent(filename)}`, {
+    method: "DELETE",
+  })
+  if (!res.ok) {
+    const data = (await res.json().catch(() => ({}))) as { detail?: string }
+    throw new ApiError(data.detail ?? `Delete failed (${res.status})`, res.status)
+  }
+}
+
+/** Re-chunk and re-embed an existing document (e.g. after manual edits on disk). */
+export async function reingestDocumentApi(filename: string): Promise<UploadResult> {
+  if (USE_MOCK) {
+    await new Promise((r) => setTimeout(r, 900))
+    return { filename, status: "ready", processed: [filename], skipped: [] }
+  }
+  const res = await fetch(
+    `${API_BASE}/api/documents/${encodeURIComponent(filename)}/reingest`,
+    { method: "POST" },
+  )
+  if (!res.ok) {
+    const data = (await res.json().catch(() => ({}))) as { detail?: string }
+    throw new ApiError(data.detail ?? `Re-ingest failed (${res.status})`, res.status)
+  }
+  return res.json()
+}
