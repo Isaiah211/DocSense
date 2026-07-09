@@ -182,9 +182,6 @@ def ingest_files(filenames: Optional[list[str]] = None) -> dict:
     _save_metadata(new_meta)
     _rebuild_embeddings(new_meta, embedder)
 
-    # Invalidate the LRU caches so the next search query loads fresh data
-    _invalidate_search_cache()
-
     return {"processed": processed, "skipped": skipped}
 
 
@@ -216,7 +213,6 @@ def remove_document(filename: str) -> bool:
     embedder = SentenceTransformer(EMBEDDER_NAME, device=device)
     _rebuild_embeddings(new_meta, embedder)
 
-    _invalidate_search_cache()
     return True
 
 
@@ -244,16 +240,4 @@ def list_documents() -> list[dict]:
     return docs
 
 
-def _invalidate_search_cache() -> None:
-    """Clear the LRU caches in semantic_search_utils so fresh data is loaded."""
-    try:
-        from semantic_search_utils import (  # noqa: PLC0415
-            load_metadata,
-            load_doc_embeddings,
-            load_chunk_documents,
-        )
-        load_metadata.cache_clear()
-        load_doc_embeddings.cache_clear()
-        load_chunk_documents.cache_clear()
-    except Exception:
-        pass  # If import fails (e.g. first boot), silently continue
+

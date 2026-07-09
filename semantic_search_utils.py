@@ -29,18 +29,15 @@ def load_config() -> Dict[str, Any]:
         return json.load(config_file)
 
 
-@lru_cache(maxsize=1)
 def load_metadata() -> Dict[str, Dict[str, Any]]:
     with open(METADATA_FILE, "r", encoding="utf-8") as metadata_file:
         return json.load(metadata_file)
 
 
-@lru_cache(maxsize=1)
 def load_doc_embeddings() -> np.ndarray:
     return np.load(EMBEDDINGS_FILE)
 
 
-@lru_cache(maxsize=1)
 def load_chunk_documents() -> Tuple[List[str], List[str]]:
     metadata = load_metadata()
     chunks_text: List[str] = []

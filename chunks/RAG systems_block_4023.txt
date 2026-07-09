@@ -1,0 +1,1 @@
+RAG stands for Retrieval Augmented Generation. It combines retrieval systems with generative AI models.
