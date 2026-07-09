@@ -334,7 +334,7 @@ A: Yes, the API returns structured JSON suitable for export and integration.
 
 ## Authors
 
-- **Isaiah Mathew** — RAG pipeline, ML, LLM integration, Frontend & integration
+- **Isaiah Mathew** — RAG pipeline, ML, LLM integration, Citations, Confidence ratings, Frontend & integration
 - **Anthony Mirabal** — Semantic Search, Classifier, Parser/Chunker, Data collection
 
 ---
